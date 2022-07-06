@@ -1,0 +1,731 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+fbiville	neo4j	1531937978041393152	quoted	2022-06-01 09:57:30+00:00	1	0	0	1	Twitter Web App
+westonnelson	neo4j	1531935365937782785	replied_to	2022-06-01 09:47:07+00:00	0	0	0	0	Twitter for Android
+mehulgupta7991	neo4j	1531926113731022848	mentioned	2022-06-01 09:10:21+00:00	2	0	4	0	Twitter for Android
+seismicfootstep	neo4j	1531921206311526400	mentioned	2022-06-01 08:50:51+00:00	0	1	0	0	Twitter Web App
+lucifer_x007	neo4j	1531888668218077185	mentioned	2022-06-01 06:41:34+00:00	0	0	5	0	Twitter Web App
+lucifer_x007	Neo4jCommunityQ	1531888668218077185	mentioned	2022-06-01 06:41:34+00:00	0	0	5	0	Twitter Web App
+aaronholtN4j	neo4j	1531884522714849280	mentioned	2022-06-01 06:25:05+00:00	0	0	0	0	Oktopost
+MrSaviourIsong	JMHReif	1531884506571067392	mentioned	2022-06-01 06:25:02+00:00	3	0	1	0	Oktopost
+MrSaviourIsong	neo4j	1531884506571067392	mentioned	2022-06-01 06:25:02+00:00	3	0	1	0	Oktopost
+danudwary	neo4j	1531884301062742016	mentioned	2022-06-01 06:24:13+00:00	0	0	0	0	Oktopost
+fyr11002	neo4j	1531884278857998342	mentioned	2022-06-01 06:24:07+00:00	0	0	1	0	Oktopost
+ChasingMicrobes	neo4j	1531884001006428161	mentioned	2022-06-01 06:23:01+00:00	0	0	0	0	Oktopost
+nsmith_piano	DuneAnalytics	1531853324802064384	replied_to	2022-06-01 04:21:07+00:00	0	0	0	0	Twitter Web App
+nsmith_piano	neo4j	1531853324802064384	replied_to	2022-06-01 04:21:07+00:00	0	0	0	0	Twitter Web App
+LukasMacner	neo4j	1531774162913701890	replied_to	2022-05-31 23:06:34+00:00	0	0	2	0	Twitter for Android
+Graphable1	ChasingMicrobes	1531749801640898560	replied_to	2022-05-31 21:29:45+00:00	0	0	1	0	Twitter Web App
+Graphable1	neo4j	1531749801640898560	replied_to	2022-05-31 21:29:45+00:00	0	0	1	0	Twitter Web App
+nirobrider1	neo4j	1531746662854668288	replied_to	2022-05-31 21:17:17+00:00	0	0	0	0	Twitter for Android
+Sabeen0713	neo4j	1531731420691021824	mentioned	2022-05-31 20:16:43+00:00	0	1	2	0	Twitter Web App
+LOOM_es	neo4j	1531678368567001088	mentioned	2022-05-31 16:45:54+00:00	3	0	6	0	Twitter Web App
+RafiqBD2000	amrith	1531668449168171009	replied_to	2022-05-31 16:06:29+00:00	0	0	0	0	Twitter for Android
+RafiqBD2000	neo4j	1531668449168171009	replied_to	2022-05-31 16:06:29+00:00	0	0	0	0	Twitter for Android
+OChukwuemekah	neo4j	1531617980357951488	mentioned	2022-05-31 12:45:57+00:00	2	0	5	0	Twitter Web App
+OChukwuemekah	GraphConnect	1531617980357951488	mentioned	2022-05-31 12:45:57+00:00	2	0	5	0	Twitter Web App
+OChukwuemekah	DataDayTexas	1531617980357951488	mentioned	2022-05-31 12:45:57+00:00	2	0	5	0	Twitter Web App
+GeeSamLee1	neo4j	1531610689495781376	mentioned	2022-05-31 12:16:58+00:00	0	0	0	0	Twitter Web App
+OurTrips1	GhlenNagels	1531556211816124416	mentioned	2022-05-31 08:40:30+00:00	5	0	5	1	Twitter Web App
+OurTrips1	neo4j	1531556211816124416	mentioned	2022-05-31 08:40:30+00:00	5	0	5	1	Twitter Web App
+teslim_oyebode	neo4j	1531330693980037120	replied_to	2022-05-30 17:44:22+00:00	0	0	0	0	Twitter for Android
+BenMarkVictor1	neo4j	1531320481290145792	mentioned	2022-05-30 17:03:47+00:00	0	0	6	0	Twitter for Android
+aiatkings	neo4j	1531262724239400961	replied_to	2022-05-30 13:14:17+00:00	0	0	0	0	Twitter Web App
+samueldwizz	neo4j	1531233021822648320	mentioned	2022-05-30 11:16:15+00:00	0	0	0	0	Metricool
+danielcfng	neo4j	1531232779911933957	replied_to	2022-05-30 11:15:18+00:00	0	0	0	0	Twitter for Android
+craigmullins	neo4j	1531007967830675462	mentioned	2022-05-29 20:21:58+00:00	0	0	0	0	Twitter Web App
+DataMacas	RemindMe_OfThis	1530944987956920322	mentioned	2022-05-29 16:11:43+00:00	0	1	1	1	Twitter for Android
+DataMacas	neo4j	1530944987956920322	mentioned	2022-05-29 16:11:43+00:00	0	1	1	1	Twitter for Android
+IDCInd	neo4j	1530924692155998220	replied_to	2022-05-29 14:51:04+00:00	0	0	0	0	Twitter Web App
+kaynairv	neo4j	1530751407812378625	replied_to	2022-05-29 03:22:30+00:00	0	0	0	0	Twitter for Android
+vbaexpress	neo4j	1530678153156370432	replied_to	2022-05-28 22:31:24+00:00	0	0	0	0	Twitter for Android
+Richard71303435	neo4j	1530674948129398786	replied_to	2022-05-28 22:18:40+00:00	0	0	0	0	Twitter for Android
+maruthiprithivi	neo4j	1530672874528251906	replied_to	2022-05-28 22:10:26+00:00	0	0	0	0	Twitter Web App
+OlingaAbdul	jimwebber	1530519263756230656	mentioned	2022-05-28 12:00:02+00:00	5	0	4	0	TweetDeck
+OlingaAbdul	neo4j	1530519263756230656	mentioned	2022-05-28 12:00:02+00:00	5	0	4	0	TweetDeck
+avizyt	neo4j	1530502425618046976	replied_to	2022-05-28 10:53:08+00:00	0	1	0	0	Twitter for Android
+avizyt	RemindMe_OfThis	1530502425618046976	replied_to	2022-05-28 10:53:08+00:00	0	1	0	0	Twitter for Android
+ishhas001	neo4j	1530404743670951936	mentioned	2022-05-28 04:24:59+00:00	0	0	1	0	Twitter for iPhone
+simondotsh	OracleDatabase	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	SQLServer	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	Db2zLabNews	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	MySQL	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	PostgreSQL	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	MongoDB	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	Teradata	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	FileMakerToday	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	Redisinc	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	neo4j	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	cassandra	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	SAPInMemory	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	couchbase	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	HBase	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	dynamodb	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	MarkLogic	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	fauna	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	DataStax	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	SingleStoreDB	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	aerospikedb	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	InfluxDB	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	arangodb	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	mariadb	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+simondotsh	SnowflakeDB	1530217011351011329	mentioned	2022-05-27 15:59:00+00:00	0	0	4	0	Twitter Web App
+_wald0	neo4j	1530164203968921602	mentioned	2022-05-27 12:29:09+00:00	0	0	0	0	Oktopost
+CryptoFido	sharathsmurthy	1530140858200489985	mentioned	2022-05-27 10:56:23+00:00	0	0	1	0	Twitter Web App
+CryptoFido	neo4j	1530140858200489985	mentioned	2022-05-27 10:56:23+00:00	0	0	1	0	Twitter Web App
+siddhartha__12	neo4j	1530107571348045824	mentioned	2022-05-27 08:44:07+00:00	0	0	0	0	Oktopost
+mquinsland	SecurityGarden	1530058571223863297	mentioned	2022-05-27 05:29:25+00:00	0	0	0	0	Paper.li
+mquinsland	neo4j	1530058571223863297	mentioned	2022-05-27 05:29:25+00:00	0	0	0	0	Paper.li
+mquinsland	WBuzzer	1530058571223863297	mentioned	2022-05-27 05:29:25+00:00	0	0	0	0	Paper.li
+Glorious10011	neo4j	1529982268663648271	replied_to	2022-05-27 00:26:13+00:00	0	0	0	0	Twitter for Android
+MdJahidDewan	neo4j	1529963371071692803	mentioned	2022-05-26 23:11:07+00:00	0	0	0	0	Oktopost
+graph_aware	neo4j	1529962869911085064	mentioned	2022-05-26 23:09:08+00:00	0	0	1	0	Oktopost
+vincent_vialard	JMHReif	1529936434559434759	mentioned	2022-05-26 21:24:05+00:00	0	0	0	0	Oktopost
+vincent_vialard	neo4j	1529936434559434759	mentioned	2022-05-26 21:24:05+00:00	0	0	0	0	Oktopost
+binos_official	neo4j	1529936203923046402	mentioned	2022-05-26 21:23:10+00:00	0	0	0	0	Oktopost
+Roones8	neo4j	1529936199770677248	mentioned	2022-05-26 21:23:09+00:00	0	0	0	0	Oktopost
+luannem	neo4j	1529916747838590976	replied_to	2022-05-26 20:05:51+00:00	0	0	1	0	Twitter Web App
+SagieSec	neo4j	1529907151489347584	mentioned	2022-05-26 19:27:43+00:00	0	0	2	0	Twitter Web App
+rbskalai	neo4j	1529887599388766217	replied_to	2022-05-26 18:10:02+00:00	0	0	0	0	Twitter Web App
+ICIJorg	_wald0	1529863525165936643	replied_to	2022-05-26 16:34:22+00:00	0	0	1	0	Twitter for iPhone
+ICIJorg	neo4j	1529863525165936643	replied_to	2022-05-26 16:34:22+00:00	0	0	1	0	Twitter for iPhone
+MDAlami54029965	neo4j	1529858122805698571	quoted	2022-05-26 16:12:54+00:00	9	1	17	0	Twitter Web App
+Marcelo2Santos	FrugalRules	1529696183496613888	mentioned	2022-05-26 05:29:25+00:00	0	0	0	0	Paper.li
+Marcelo2Santos	neo4j	1529696183496613888	mentioned	2022-05-26 05:29:25+00:00	0	0	0	0	Paper.li
+this0499154500	JMHReif	1529649542735462401	mentioned	2022-05-26 02:24:05+00:00	1	0	1	0	Oktopost
+this0499154500	neo4j	1529649542735462401	mentioned	2022-05-26 02:24:05+00:00	1	0	1	0	Oktopost
+forked_franz	neo4j	1529597740602253321	replied_to	2022-05-25 22:58:14+00:00	0	0	1	0	Twitter for iPhone
+forked_franz	RemindMe_OfThis	1529597740602253321	replied_to	2022-05-25 22:58:14+00:00	0	0	1	0	Twitter for iPhone
+ademoor	neo4j	1529583347298709507	mentioned	2022-05-25 22:01:02+00:00	0	0	1	0	Oktopost
+graphqlweekly	neo4j	1529559051033518081	replied_to	2022-05-25 20:24:30+00:00	0	0	0	0	Twitter for Android
+OGConferences	neo4j	1529551307710898178	replied_to	2022-05-25 19:53:44+00:00	0	0	0	0	Twitter for Android
+PharmaTecSeries	neo4j	1529537125263495168	replied_to	2022-05-25 18:57:22+00:00	0	0	0	0	Twitter Web App
+graphlytic	danmcgary	1529519869942718465	replied_to	2022-05-25 17:48:48+00:00	0	0	0	0	Twitter for Android
+graphlytic	neo4j	1529519869942718465	replied_to	2022-05-25 17:48:48+00:00	0	0	0	0	Twitter for Android
+joaocorreia	neo4j	1529504141785055233	replied_to	2022-05-25 16:46:18+00:00	0	0	2	0	Twitter for iPhone
+joaocorreia	RemindMe_OfThis	1529504141785055233	replied_to	2022-05-25 16:46:18+00:00	0	0	2	0	Twitter for iPhone
+durigadkpaddenq	neo4j	1529466223590637569	replied_to	2022-05-25 14:15:38+00:00	0	0	0	0	Twitter Web App
+danmcgary	neo4j	1529459703272689665	mentioned	2022-05-25 13:49:43+00:00	1	0	1	0	HubSpot
+DevStartupJobs	ICIJorg	1529455356065218564	replied_to	2022-05-25 13:32:27+00:00	0	0	1	0	Twitter Web App
+DevStartupJobs	neo4j	1529455356065218564	replied_to	2022-05-25 13:32:27+00:00	0	0	1	0	Twitter Web App
+DevStartupJobs	derivo	1529455356065218564	replied_to	2022-05-25 13:32:27+00:00	0	0	1	0	Twitter Web App
+DevStartupJobs	ICIJorg	1529455356065218564	replied_to	2022-05-25 13:32:27+00:00	0	0	1	0	Twitter Web App
+davehorton	doriafloraqn	1529399973405765632	quoted	2022-05-25 09:52:23+00:00	0	0	0	0	Twitter Web App
+davehorton	neo4j	1529399973405765632	quoted	2022-05-25 09:52:23+00:00	0	0	0	0	Twitter Web App
+FaidatToriola	sipleawdurso4i	1529399919693422592	quoted	2022-05-25 09:52:10+00:00	0	0	0	0	Twitter Web App
+FaidatToriola	neo4j	1529399919693422592	quoted	2022-05-25 09:52:10+00:00	0	0	0	0	Twitter Web App
+jmsuhy	neo4j	1529399881441464320	quoted	2022-05-25 09:52:01+00:00	0	0	0	0	Twitter Web App
+adamcowley	neo4j	1529383406068543496	replied_to	2022-05-25 08:46:33+00:00	0	0	0	0	Twitter Web App
+ntschutta	neo4j	1529383343200010240	mentioned	2022-05-25 08:46:18+00:00	8	0	16	0	TweetDeck
+riazraz16778017	lkarlslund	1529359575060725761	mentioned	2022-05-25 07:11:51+00:00	0	0	1	0	Twitter Web App
+riazraz16778017	neo4j	1529359575060725761	mentioned	2022-05-25 07:11:51+00:00	0	0	1	0	Twitter Web App
+adeleke5140	neo4j	1529349424111132672	mentioned	2022-05-25 06:31:31+00:00	0	0	1	0	Twitter for iPhone
+Er_Manipathak	neo4j	1528722477467443200	replied_to	2022-05-23 13:00:15+00:00	0	0	0	0	Twitter Web App
+mesirii	moueza	1528716208291426304	replied_to	2022-05-23 12:35:20+00:00	0	0	1	0	Tweetbot for iΟS
+mesirii	neo4j	1528716208291426304	replied_to	2022-05-23 12:35:20+00:00	0	0	1	0	Tweetbot for iΟS
+GalileoXAI	GalileoXAI	1528705521217331201	mentioned	2022-05-23 11:52:52+00:00	2	0	3	0	Twitter Web App
+GalileoXAI	neo4j	1528705521217331201	mentioned	2022-05-23 11:52:52+00:00	2	0	3	0	Twitter Web App
+moueza	neo4j	1528560672681906177	mentioned	2022-05-23 02:17:18+00:00	0	1	0	0	Twitter Web App
+teslim_oyebode	neo4j	1528479979968811009	replied_to	2022-05-22 20:56:39+00:00	0	0	0	0	Twitter for Android
+TheMellyBee	neo4j	1528479232892059651	replied_to	2022-05-22 20:53:41+00:00	0	0	0	0	Twitter for Android
+humzum234	Silkjaer	1528454998450790400	replied_to	2022-05-22 19:17:23+00:00	0	0	0	0	Twitter for iPhone
+humzum234	neo4j	1528454998450790400	replied_to	2022-05-22 19:17:23+00:00	0	0	0	0	Twitter for iPhone
+sss66625067395	neo4j	1528356051673915405	replied_to	2022-05-22 12:44:12+00:00	0	0	0	0	Twitter Web App
+nyasha_annatoth	CityAlpaca	1528242912336564224	replied_to	2022-05-22 05:14:38+00:00	0	0	0	0	Twitter Web App
+nyasha_annatoth	jeny33272020	1528242912336564224	replied_to	2022-05-22 05:14:38+00:00	0	0	0	0	Twitter Web App
+nyasha_annatoth	cryptoJ911	1528242912336564224	replied_to	2022-05-22 05:14:38+00:00	0	0	0	0	Twitter Web App
+nyasha_annatoth	3wC25juSW6WWinP	1528242912336564224	replied_to	2022-05-22 05:14:38+00:00	0	0	0	0	Twitter Web App
+nyasha_annatoth	neo4j	1528242912336564224	replied_to	2022-05-22 05:14:38+00:00	0	0	0	0	Twitter Web App
+DonaldH74226856	neo4j	1528187925262962688	replied_to	2022-05-22 01:36:08+00:00	0	1	0	0	Twitter for Android
+DonaldH74226856	RemindMe_OfThis	1528187925262962688	replied_to	2022-05-22 01:36:08+00:00	0	1	0	0	Twitter for Android
+itsabayomi	ponadams	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	ariirvan15	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	BilalAh01475821	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	NnachetaNnaeto	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	BenjToshi	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	JankaDesu	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	javiercha	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	SNUnow	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+itsabayomi	neo4j	1528128425894068230	replied_to	2022-05-21 21:39:42+00:00	0	1	0	0	Twitter Web App
+vbaexpress	neo4j	1527976606341509121	replied_to	2022-05-21 11:36:26+00:00	0	2	1	1	Twitter for Android
+vbaexpress	RemindMe_OfThis	1527976606341509121	replied_to	2022-05-21 11:36:26+00:00	0	2	1	1	Twitter for Android
+neo4j	tggleeson	1527884244080640000	mentioned	2022-05-21 05:29:25+00:00	0	0	0	0	Paper.li
+neo4j	AnnieNic21	1527884244080640000	mentioned	2022-05-21 05:29:25+00:00	0	0	0	0	Paper.li
+neo4j	neo4j	1527884244080640000	mentioned	2022-05-21 05:29:25+00:00	0	0	0	0	Paper.li
+tekknolagi	neo4j	1527859994338676736	mentioned	2022-05-21 03:53:03+00:00	0	0	2	0	Oktopost
+tekknolagi	ARNnet	1527859994338676736	mentioned	2022-05-21 03:53:03+00:00	0	0	2	0	Oktopost
+jmzaborowski	neo4j	1527842905041571841	mentioned	2022-05-21 02:45:09+00:00	0	0	0	0	Twitter for Android
+hellosemy	stolinski	1527792912532127744	mentioned	2022-05-20 23:26:30+00:00	0	1	1	0	Twitter for Android
+hellosemy	neo4j	1527792912532127744	mentioned	2022-05-20 23:26:30+00:00	0	1	1	0	Twitter for Android
+rvanbruggen	neo4j	1527747952407724033	mentioned	2022-05-20 20:27:50+00:00	10	1	30	0	Twitter Web App
+craigmullins	neo4j	1527695460328169475	mentioned	2022-05-20 16:59:15+00:00	0	0	12	0	Twitter for Android
+digitalstain	OracleDatabase	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	SQLServer	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	Db2zLabNews	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	MySQL	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	PostgreSQL	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	MongoDB	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	Teradata	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	FileMakerToday	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	Redisinc	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	neo4j	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	cassandra	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	SAPInMemory	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	couchbase	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	HBase	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	dynamodb	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	MarkLogic	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	fauna	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	DataStax	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	SingleStoreDB	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	aerospikedb	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	InfluxDB	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	arangodb	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	mariadb	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+digitalstain	SnowflakeDB	1527680297050861568	mentioned	2022-05-20 15:59:00+00:00	0	0	1	0	Twitter Web App
+SasPeuk	neo4j	1527665757064142848	mentioned	2022-05-20 15:01:13+00:00	6	0	15	1	TweetDeck
+nastriy_	GergelyOrosz	1527625944990633985	replied_to	2022-05-20 12:23:01+00:00	0	0	1	0	Twitter for Android
+nastriy_	neo4j	1527625944990633985	replied_to	2022-05-20 12:23:01+00:00	0	0	1	0	Twitter for Android
+NiestrojRobert	rotnroll666	1527611769585377282	replied_to	2022-05-20 11:26:42+00:00	0	0	1	0	Twitter for iPhone
+NiestrojRobert	neo4j	1527611769585377282	replied_to	2022-05-20 11:26:42+00:00	0	0	1	0	Twitter for iPhone
+rotnroll666	rotnroll666	1527581639743774723	replied_to	2022-05-20 09:26:58+00:00	0	0	1	0	Twitter Web App
+rotnroll666	neo4j	1527581639743774723	replied_to	2022-05-20 09:26:58+00:00	0	0	1	0	Twitter Web App
+adamcowley	adamcowley	1527580997771984897	replied_to	2022-05-20 09:24:25+00:00	0	0	0	0	Twitter for iPhone
+adamcowley	neo4j	1527580997771984897	replied_to	2022-05-20 09:24:25+00:00	0	0	0	0	Twitter for iPhone
+aaronholtN4j	rotnroll666	1527580296996171778	replied_to	2022-05-20 09:21:38+00:00	0	1	1	0	Twitter Web App
+aaronholtN4j	neo4j	1527580296996171778	replied_to	2022-05-20 09:21:38+00:00	0	1	1	0	Twitter Web App
+amorgner	mesirii	1527579153658257408	mentioned	2022-05-20 09:17:05+00:00	0	0	0	0	Oktopost
+amorgner	neo4j	1527579153658257408	mentioned	2022-05-20 09:17:05+00:00	0	0	0	0	Oktopost
+cptblaubaer	cptblaubaer	1527578781568876546	replied_to	2022-05-20 09:15:37+00:00	0	0	0	0	Twitter for iPhone
+cptblaubaer	neo4j	1527578781568876546	replied_to	2022-05-20 09:15:37+00:00	0	0	0	0	Twitter for iPhone
+cptblaubaer	StreetScooter_	1527578781568876546	replied_to	2022-05-20 09:15:37+00:00	0	0	0	0	Twitter for iPhone
+cptblaubaer	RedHat	1527578781568876546	replied_to	2022-05-20 09:15:37+00:00	0	0	0	0	Twitter for iPhone
+AJarasch	amorgner	1527578524273590272	replied_to	2022-05-20 09:14:35+00:00	0	0	1	0	Twitter for iPhone
+AJarasch	neo4j	1527578524273590272	replied_to	2022-05-20 09:14:35+00:00	0	0	1	0	Twitter for iPhone
+techwraith	rotnroll666	1527577879793614848	replied_to	2022-05-20 09:12:02+00:00	0	1	2	0	Twitter Web App
+techwraith	neo4j	1527577879793614848	replied_to	2022-05-20 09:12:02+00:00	0	1	2	0	Twitter Web App
+techwraith	neo4j	1527577879793614848	replied_to	2022-05-20 09:12:02+00:00	0	1	2	0	Twitter Web App
+lnordwall	rotnroll666	1527575631873069056	replied_to	2022-05-20 09:03:06+00:00	0	1	2	0	Twitter Web App
+lnordwall	neo4j	1527575631873069056	replied_to	2022-05-20 09:03:06+00:00	0	1	2	0	Twitter Web App
+lnordwall	StreetScooter_	1527575631873069056	replied_to	2022-05-20 09:03:06+00:00	0	1	2	0	Twitter Web App
+GARETH_TheCat	neo4j	1527574153204744192	mentioned	2022-05-20 08:57:13+00:00	1	6	16	0	Twitter for iPhone
+evelynminac81	lnordwall	1527552775525113866	replied_to	2022-05-20 07:32:16+00:00	0	0	0	0	Twitter for Android
+evelynminac81	pfizer	1527552775525113866	replied_to	2022-05-20 07:32:16+00:00	0	0	0	0	Twitter for Android
+evelynminac81	MIT	1527552775525113866	replied_to	2022-05-20 07:32:16+00:00	0	0	0	0	Twitter for Android
+evelynminac81	Adobe	1527552775525113866	replied_to	2022-05-20 07:32:16+00:00	0	0	0	0	Twitter for Android
+evelynminac81	Google	1527552775525113866	replied_to	2022-05-20 07:32:16+00:00	0	0	0	0	Twitter for Android
+evelynminac81	neo4j	1527552775525113866	replied_to	2022-05-20 07:32:16+00:00	0	0	0	0	Twitter for Android
+ampledata	RoamResearch	1527551347049963521	mentioned	2022-05-20 07:26:36+00:00	0	1	2	0	Twitter Web App
+ampledata	logseq	1527551347049963521	mentioned	2022-05-20 07:26:36+00:00	0	1	2	0	Twitter Web App
+ampledata	obsdmd	1527551347049963521	mentioned	2022-05-20 07:26:36+00:00	0	1	2	0	Twitter Web App
+ampledata	neo4j	1527551347049963521	mentioned	2022-05-20 07:26:36+00:00	0	1	2	0	Twitter Web App
+dpmURBh3UoP4mth	pfizer	1527478236040527883	mentioned	2022-05-20 02:36:05+00:00	3	1	7	0	Twitter for iPhone
+dpmURBh3UoP4mth	MIT	1527478236040527883	mentioned	2022-05-20 02:36:05+00:00	3	1	7	0	Twitter for iPhone
+dpmURBh3UoP4mth	Adobe	1527478236040527883	mentioned	2022-05-20 02:36:05+00:00	3	1	7	0	Twitter for iPhone
+dpmURBh3UoP4mth	Google	1527478236040527883	mentioned	2022-05-20 02:36:05+00:00	3	1	7	0	Twitter for iPhone
+dpmURBh3UoP4mth	neo4j	1527478236040527883	mentioned	2022-05-20 02:36:05+00:00	3	1	7	0	Twitter for iPhone
+aminul24hr	neo4j	1527470607654600704	mentioned	2022-05-20 02:05:46+00:00	0	0	1	0	Twitter for Android
+lyricalabk4	neo4j	1527455780609306625	replied_to	2022-05-20 01:06:51+00:00	0	0	0	0	Twitter Web App
+paolod77	VincePankoke	1527449811636498433	mentioned	2022-05-20 00:43:08+00:00	0	0	3	1	Twitter Web App
+paolod77	coldcasediary	1527449811636498433	mentioned	2022-05-20 00:43:08+00:00	0	0	3	1	Twitter Web App
+paolod77	neo4j	1527449811636498433	mentioned	2022-05-20 00:43:08+00:00	0	0	3	1	Twitter Web App
+paolod77	emileifrem	1527449811636498433	mentioned	2022-05-20 00:43:08+00:00	0	0	3	1	Twitter Web App
+lyonwj	neo4j	1527424532466012161	replied_to	2022-05-19 23:02:41+00:00	0	0	1	0	Twitter Web App
+lyonwj	nodejs	1527424532466012161	replied_to	2022-05-19 23:02:41+00:00	0	0	1	0	Twitter Web App
+designsourcing2	neo4j	1527378693571899392	replied_to	2022-05-19 20:00:32+00:00	0	0	0	0	Twitter Web App
+JessicaLKeating	neo4j	1527377918091206657	replied_to	2022-05-19 19:57:27+00:00	0	0	1	0	Twitter Web App
+JessicaLKeating	nodejs	1527377918091206657	replied_to	2022-05-19 19:57:27+00:00	0	0	1	0	Twitter Web App
+mloughlin	neo4j	1527375912895156224	replied_to	2022-05-19 19:49:29+00:00	0	0	0	0	Twitter Web App
+OurTrips1	neo4j	1527370766550872076	replied_to	2022-05-19 19:29:02+00:00	0	0	0	0	Twitter Web App
+meherab_sumon	neo4j	1527363340770902016	replied_to	2022-05-19 18:59:32+00:00	0	0	0	0	Twitter Web App
+debrickedab	mesirii	1527348381840216066	mentioned	2022-05-19 18:00:05+00:00	0	0	0	0	Oktopost
+debrickedab	neo4j	1527348381840216066	mentioned	2022-05-19 18:00:05+00:00	0	0	0	0	Oktopost
+ETRetail	ICIJorg	1527333176074330117	mentioned	2022-05-19 16:59:40+00:00	4	0	11	0	Twitter Web App
+ETRetail	neo4j	1527333176074330117	mentioned	2022-05-19 16:59:40+00:00	4	0	11	0	Twitter Web App
+DaschnerS	neo4j	1527317188264468481	replied_to	2022-05-19 15:56:08+00:00	0	0	0	0	Twitter Web App
+KadekSintya19	KingsCollegeLon	1527305374662987779	replied_to	2022-05-19 15:09:11+00:00	0	0	1	0	Twitter Web App
+KadekSintya19	jimwebber	1527305374662987779	replied_to	2022-05-19 15:09:11+00:00	0	0	1	0	Twitter Web App
+KadekSintya19	neo4j	1527305374662987779	replied_to	2022-05-19 15:09:11+00:00	0	0	1	0	Twitter Web App
+Orian1924	arara0123	1527303456997924864	mentioned	2022-05-19 15:01:34+00:00	0	0	0	0	Paper.li
+Orian1924	AlsFastball	1527303456997924864	mentioned	2022-05-19 15:01:34+00:00	0	0	0	0	Paper.li
+Orian1924	neo4j	1527303456997924864	mentioned	2022-05-19 15:01:34+00:00	0	0	0	0	Paper.li
+neomatmix	neo4j	1527288568934432768	replied_to	2022-05-19 14:02:25+00:00	0	0	0	0	Twitter Web App
+era_electronics	neo4j	1527271682209386497	replied_to	2022-05-19 12:55:19+00:00	0	0	0	0	Twitter Web App
+HRTechSeries	neo4j	1527261770712326144	mentioned	2022-05-19 12:15:55+00:00	3	0	1	0	Twitter Web App
+TobinSnigdha	neo4j	1527261269941944320	mentioned	2022-05-19 12:13:56+00:00	0	0	0	0	Twitter Web App
+mdhosne	neo4j	1527258016906715139	mentioned	2022-05-19 12:01:00+00:00	2	0	8	0	Buffer
+OnlineTruth2	neo4j	1527250250510893056	replied_to	2022-05-19 11:30:09+00:00	0	0	0	0	Twitter Web App
+realeynlococox1	googlecloud	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	ShiprocketIndia	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	salesforce	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	neo4j	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	ETRetail	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	SnowflakeDB	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	web_engage	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+realeynlococox1	vconfex	1527248479323815936	mentioned	2022-05-19 11:23:07+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	googlecloud	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	ShiprocketIndia	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	salesforce	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	neo4j	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	ETRetail	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	SnowflakeDB	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	web_engage	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+sloterngfarnerq	vconfex	1527248275589693440	mentioned	2022-05-19 11:22:18+00:00	0	0	0	0	Twitter for Android
+WhyNoCode	neo4j	1527240570451955713	mentioned	2022-05-19 10:51:41+00:00	0	0	0	0	Twitter Web App
+padolsey	neo4j	1527208550548017153	mentioned	2022-05-19 08:44:27+00:00	0	0	1	0	Twitter Web App
+padolsey	ICIJorg	1527208550548017153	mentioned	2022-05-19 08:44:27+00:00	0	0	1	0	Twitter Web App
+PuraPaper	neo4j	1527178370932428800	mentioned	2022-05-19 06:44:31+00:00	0	0	0	0	Hootsuite Inc.
+SHIVAMS03076275	neo4j	1527154389432950784	replied_to	2022-05-19 05:09:14+00:00	0	0	0	0	Twitter Web App
+SHIVAMS03076275	ICIJorg	1527154389432950784	replied_to	2022-05-19 05:09:14+00:00	0	0	0	0	Twitter Web App
+pirhoo	neo4j	1527107887063257090	replied_to	2022-05-19 02:04:27+00:00	0	0	0	0	Twitter for Android
+ICIJorg	neo4j	1527103299589226496	replied_to	2022-05-19 01:46:13+00:00	0	0	0	0	Twitter Web App
+Linkurious	neo4j	1527073128794701824	replied_to	2022-05-18 23:46:20+00:00	0	0	0	0	Twitter Web App
+BunchZuru	neo4j	1527060895444398080	replied_to	2022-05-18 22:57:43+00:00	0	0	1	0	Twitter Web App
+alexandererdl	nTaskManager	1527043751721549825	mentioned	2022-05-18 21:49:36+00:00	0	0	2	1	Paper.li
+alexandererdl	neo4j	1527043751721549825	mentioned	2022-05-18 21:49:36+00:00	0	0	2	1	Paper.li
+alexandererdl	TechGYO	1527043751721549825	mentioned	2022-05-18 21:49:36+00:00	0	0	2	1	Paper.li
+salmanthuraab	neo4j	1526983923150262272	replied_to	2022-05-18 17:51:51+00:00	0	0	0	0	Twitter Web App
+Biorelate	abooklikefoo	1526961947530473473	replied_to	2022-05-18 16:24:32+00:00	0	0	0	0	Twitter Web App
+Biorelate	render	1526961947530473473	replied_to	2022-05-18 16:24:32+00:00	0	0	0	0	Twitter Web App
+Biorelate	neo4j	1526961947530473473	replied_to	2022-05-18 16:24:32+00:00	0	0	0	0	Twitter Web App
+KirkDBorne	abooklikefoo	1526960725666693125	mentioned	2022-05-18 16:19:41+00:00	0	1	4	2	Twitter Web App
+KirkDBorne	render	1526960725666693125	mentioned	2022-05-18 16:19:41+00:00	0	1	4	2	Twitter Web App
+KirkDBorne	neo4j	1526960725666693125	mentioned	2022-05-18 16:19:41+00:00	0	1	4	2	Twitter Web App
+zohabd1	neo4j	1526939307935555584	replied_to	2022-05-18 14:54:34+00:00	2	0	1	0	Twitter Web App
+zohabd1	ICIJorg	1526939307935555584	replied_to	2022-05-18 14:54:34+00:00	2	0	1	0	Twitter Web App
+DSAnewsportal	Microsoft	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+DSAnewsportal	IBM	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+DSAnewsportal	awscloud	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+DSAnewsportal	Oracle	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+DSAnewsportal	neo4j	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+DSAnewsportal	TigerGraphDB	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+DSAnewsportal	DataStax	1526937591211524096	mentioned	2022-05-18 14:47:45+00:00	0	0	0	0	Twitter Web App
+MDAlami54029965	neo4j	1526918088263929856	replied_to	2022-05-18 13:30:15+00:00	4	1	5	0	Twitter Web App
+almoslmi	ICIJorg	1526918062250893312	mentioned	2022-05-18 13:30:09+00:00	9	1	15	0	Twitter Web App
+almoslmi	neo4j	1526918062250893312	mentioned	2022-05-18 13:30:09+00:00	9	1	15	0	Twitter Web App
+danielcfng	neo4j	1526911466577731585	mentioned	2022-05-18 13:03:56+00:00	5	1	12	0	Twitter Web App
+nawafmnswr4	ICIJorg	1526910974229454850	mentioned	2022-05-18 13:01:59+00:00	12	0	25	0	HubSpot
+nawafmnswr4	neo4j	1526910974229454850	mentioned	2022-05-18 13:01:59+00:00	12	0	25	0	HubSpot
+Saif39887396	neo4j	1526889871570501632	replied_to	2022-05-18 11:38:08+00:00	0	0	0	0	Twitter Web App
+tb_tomaz	Biorelate	1526872089315229696	replied_to	2022-05-18 10:27:28+00:00	0	0	0	0	TweetDeck
+tb_tomaz	neo4j	1526872089315229696	replied_to	2022-05-18 10:27:28+00:00	0	0	0	0	TweetDeck
+tb_tomaz	jimwebber	1526872089315229696	replied_to	2022-05-18 10:27:28+00:00	0	0	0	0	TweetDeck
+YoJulito	neo4j	1526870588999933952	replied_to	2022-05-18 10:21:30+00:00	0	2	1	1	Twitter for iPad
+YoJulito	RemindMe_OfThis	1526870588999933952	replied_to	2022-05-18 10:21:30+00:00	0	2	1	1	Twitter for iPad
+Mozak_bez_jaja	swapnilp2205	1526869296160178176	replied_to	2022-05-18 10:16:22+00:00	0	0	0	0	Twitter for iPad
+Mozak_bez_jaja	neo4j	1526869296160178176	replied_to	2022-05-18 10:16:22+00:00	0	0	0	0	Twitter for iPad
+philipvollet	neo4j	1526865493092667394	mentioned	2022-05-18 10:01:15+00:00	1	1	7	0	Twitter Web App
+spacy_io	neo4j	1526786538897649664	mentioned	2022-05-18 04:47:31+00:00	15	0	41	0	Twitter for iPhone
+spacy_io	amyhodler	1526786538897649664	mentioned	2022-05-18 04:47:31+00:00	15	0	41	0	Twitter for iPhone
+spacy_io	markhneedham	1526786538897649664	mentioned	2022-05-18 04:47:31+00:00	15	0	41	0	Twitter for iPhone
+MunihFlorjan	neo4j	1526785186306101248	replied_to	2022-05-18 04:42:09+00:00	0	0	0	0	Twitter Web App
+nj_colmenares	neo4j	1526559384469442561	replied_to	2022-05-17 13:44:54+00:00	0	0	0	0	Twitter Web App
+nj_colmenares	guardian	1526559384469442561	replied_to	2022-05-17 13:44:54+00:00	0	0	0	0	Twitter Web App
+maruthiprithivi	mesirii	1526515147384168449	mentioned	2022-05-17 10:49:07+00:00	0	0	0	0	Oktopost
+maruthiprithivi	neo4j	1526515147384168449	mentioned	2022-05-17 10:49:07+00:00	0	0	0	0	Oktopost
+fbiville	neo4j	1526515136332193792	mentioned	2022-05-17 10:49:04+00:00	0	0	0	0	Oktopost
+SnigdhaTobin	GhlenNagels	1526506500751036418	quoted	2022-05-17 10:14:45+00:00	2	0	3	0	Twitter Web App
+SnigdhaTobin	neo4j	1526506500751036418	quoted	2022-05-17 10:14:45+00:00	2	0	3	0	Twitter Web App
+vbaexpress	neo4j	1526475325127139328	replied_to	2022-05-17 08:10:52+00:00	0	0	0	0	Twitter Web App
+vbaexpress	nodejs	1526475325127139328	replied_to	2022-05-17 08:10:52+00:00	0	0	0	0	Twitter Web App
+theRealAbhinavJ	neo4j	1526473480749076480	replied_to	2022-05-17 08:03:32+00:00	0	0	0	0	Twitter Web App
+mathewakinyele	dmgerbino	1526434692978954240	mentioned	2022-05-17 05:29:25+00:00	0	0	0	0	Paper.li
+mathewakinyele	neo4j	1526434692978954240	mentioned	2022-05-17 05:29:25+00:00	0	0	0	0	Paper.li
+mathewakinyele	ExcelYourself	1526434692978954240	mentioned	2022-05-17 05:29:25+00:00	0	0	0	0	Paper.li
+fujitsulabs	elonmusk	1526426381621465088	mentioned	2022-05-17 04:56:23+00:00	0	0	0	0	Twitter for iPhone
+fujitsulabs	neo4j	1526426381621465088	mentioned	2022-05-17 04:56:23+00:00	0	0	0	0	Twitter for iPhone
+fujitsulabs	Twitter	1526426381621465088	mentioned	2022-05-17 04:56:23+00:00	0	0	0	0	Twitter for iPhone
+lisade4k7	neo4j	1526408220541177856	replied_to	2022-05-17 03:44:13+00:00	0	0	0	0	Twitter Web App
+Louisepsyc_ist	AgileLARUS	1526401439362297857	replied_to	2022-05-17 03:17:16+00:00	0	0	3	0	Twitter Web App
+Louisepsyc_ist	neo4j	1526401439362297857	replied_to	2022-05-17 03:17:16+00:00	0	0	3	0	Twitter Web App
+evelynminac81	neo4j	1526401301604487171	replied_to	2022-05-17 03:16:44+00:00	0	0	0	0	Twitter Web App
+Jonnytrickz	neo4j	1526393091497684992	replied_to	2022-05-17 02:44:06+00:00	0	0	0	0	Twitter Web App
+mrazikggagilar1	neo4j	1526392223868538880	replied_to	2022-05-17 02:40:39+00:00	0	0	1	0	Twitter Web App
+sloterngfarnerq	mrazikggagilar1	1526366626958004224	replied_to	2022-05-17 00:58:57+00:00	0	0	0	0	Twitter for iPhone
+sloterngfarnerq	neo4j	1526366626958004224	replied_to	2022-05-17 00:58:57+00:00	0	0	0	0	Twitter for iPhone
+sodan3000	neo4j	1526366088451063808	replied_to	2022-05-17 00:56:48+00:00	1	1	1	0	Twitter Web App
+neo4j	neo4j	1526347969729302529	replied_to	2022-05-16 23:44:48+00:00	1	0	2	0	Twitter Web App
+neo4j	ICIJorg	1526347969729302529	replied_to	2022-05-16 23:44:48+00:00	1	0	2	0	Twitter Web App
+Linkurious	neo4j	1526342474867740672	mentioned	2022-05-16 23:22:58+00:00	0	0	1	0	Twitter for iPhone
+OurTrips1	neo4j	1526252919787769856	replied_to	2022-05-16 17:27:07+00:00	0	0	0	0	Twitter Web App
+OurTrips1	nodejs	1526252919787769856	replied_to	2022-05-16 17:27:07+00:00	0	0	0	0	Twitter Web App
+InnoSai02831617	neo4j	1526225215482732550	mentioned	2022-05-16 15:37:01+00:00	0	0	1	0	Oktopost
+InnoSai02831617	SvD	1526225215482732550	mentioned	2022-05-16 15:37:01+00:00	0	0	1	0	Oktopost
+danielcfng	neo4j	1526200826749911046	mentioned	2022-05-16 14:00:07+00:00	2	0	3	0	HubSpot
+alexandererdl	neo4j	1526174803417178112	replied_to	2022-05-16 12:16:42+00:00	0	0	0	0	Twitter Web App
+ThanhtuPlats	neo4j	1526149833333121024	replied_to	2022-05-16 10:37:29+00:00	0	0	0	0	Twitter for Android
+JeskieRoshia	swiggy_in	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	LazadaSG	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	LazadaPH	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	LazadaMY	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	ZALORA	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	ShopeeSG	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	ShopeeMY	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	ShopeePH	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	Carousell	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	neo4j	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+JeskieRoshia	Enterprise_Talk	1526104947477352449	mentioned	2022-05-16 07:39:07+00:00	0	0	2	0	Twitter for iPhone
+ApryBhondet	Ifeanyidiaye	1526097869748461568	replied_to	2022-05-16 07:11:00+00:00	0	0	1	0	Twitter Web App
+ApryBhondet	neo4j	1526097869748461568	replied_to	2022-05-16 07:11:00+00:00	0	0	1	0	Twitter Web App
+ebonys0gsbertha	neo4j	1526065878227308545	replied_to	2022-05-16 05:03:52+00:00	0	0	0	0	Twitter Web App
+Nini2Mounir	Silkjaer	1526038153299398656	replied_to	2022-05-16 03:13:42+00:00	0	0	0	0	Twitter Web App
+Nini2Mounir	neo4j	1526038153299398656	replied_to	2022-05-16 03:13:42+00:00	0	0	0	0	Twitter Web App
+BesignificantS	neo4j	1526035375520894976	replied_to	2022-05-16 03:02:40+00:00	1	0	1	0	Twitter Web App
+baikuntho1	neo4j	1526024980810432513	replied_to	2022-05-16 02:21:22+00:00	0	0	0	0	Twitter Web App
+Hundlee_1253	neo4j	1526005554589896706	replied_to	2022-05-16 01:04:10+00:00	1	0	1	0	Twitter Web App
+h_thoreson	neo4j	1525978568966041602	replied_to	2022-05-15 23:16:56+00:00	0	0	1	0	Twitter Web App
+DaschnerS	neo4j	1525941751126495232	replied_to	2022-05-15 20:50:38+00:00	1	0	1	0	Twitter Web App
+back4app	neo4j	1525925030747443201	replied_to	2022-05-15 19:44:12+00:00	0	0	1	0	Twitter Web App
+GnrookCrescint	neo4j	1525892286399369216	replied_to	2022-05-15 17:34:05+00:00	0	0	0	0	Twitter Web App
+jeannielynymz	ThaProsaPoetica	1525874783736549379	mentioned	2022-05-15 16:24:32+00:00	0	0	0	0	Paper.li
+jeannielynymz	neo4j	1525874783736549379	mentioned	2022-05-15 16:24:32+00:00	0	0	0	0	Paper.li
+oropesaGenerBic	neo4j	1525855053529370624	replied_to	2022-05-15 15:06:08+00:00	0	0	0	0	Twitter Web App
+oropesaGenerBic	neo4j	1525855053529370624	replied_to	2022-05-15 15:06:08+00:00	0	0	0	0	Twitter Web App
+realeynlococox1	Silkjaer	1525853192537313281	replied_to	2022-05-15 14:58:44+00:00	0	0	0	0	Twitter Web App
+realeynlococox1	neo4j	1525853192537313281	replied_to	2022-05-15 14:58:44+00:00	0	0	0	0	Twitter Web App
+slomanrepps6	neo4j	1525851066730000387	replied_to	2022-05-15 14:50:17+00:00	0	0	0	0	Twitter Web App
+Jonotabot	neo4j	1525836905165819905	mentioned	2022-05-15 13:54:01+00:00	3	0	7	0	Buffer
+durigadkpaddenq	neo4j	1525814657130561536	replied_to	2022-05-15 12:25:37+00:00	0	0	0	0	Twitter Web App
+durigadkpaddenq	InformationWeek	1525814657130561536	replied_to	2022-05-15 12:25:37+00:00	0	0	0	0	Twitter Web App
+GeekPieter	Silkjaer	1525730006168895488	replied_to	2022-05-15 06:49:14+00:00	0	0	0	0	Twitter Web App
+GeekPieter	neo4j	1525730006168895488	replied_to	2022-05-15 06:49:14+00:00	0	0	0	0	Twitter Web App
+TreitnerS	neo4j	1525620330726731777	replied_to	2022-05-14 23:33:26+00:00	0	0	0	0	Twitter Web App
+juliaojlela	neo4j	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	EP_President	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	EUCouncil	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	EURightsAgency	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	eucopresident	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	URGthinktank	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	FVillegasARG	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	UN_HRC	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	UNHumanRights	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	CIDH	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	Almagro_OEA2015	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+juliaojlela	PauloAbrao	1525609444532436992	replied_to	2022-05-14 22:50:10+00:00	0	0	0	0	Twitter Web App
+zaoc11	neo4j	1525603788987707392	replied_to	2022-05-14 22:27:42+00:00	0	0	1	0	Twitter Web App
+Md_Tanvir55	neo4j	1525591980549410816	replied_to	2022-05-14 21:40:46+00:00	0	0	0	0	Twitter Web App
+NEPV1234	neo4j	1525590860892901376	replied_to	2022-05-14 21:36:20+00:00	1	0	2	0	Twitter Web App
+SadProcessor	neo4j	1525569127292747779	replied_to	2022-05-14 20:09:58+00:00	0	0	0	0	Twitter Web App
+rottable	neo4j	1525557819893768192	mentioned	2022-05-14 19:25:02+00:00	0	1	4	0	Oktopost
+rottable	InformationWeek	1525557819893768192	mentioned	2022-05-14 19:25:02+00:00	0	1	4	0	Oktopost
+_mohemiv	neo4j	1525557074780110848	replied_to	2022-05-14 19:22:04+00:00	0	0	1	0	Twitter Web App
+nirobrider1	neo4j	1525550534614188033	mentioned	2022-05-14 18:56:05+00:00	0	0	0	0	Twitter Web App
+nirobrider1	googlecloud	1525550534614188033	mentioned	2022-05-14 18:56:05+00:00	0	0	0	0	Twitter Web App
+Sialovesdata	neo4j	1525535550362492929	replied_to	2022-05-14 17:56:32+00:00	0	0	0	0	Twitter Web App
+Sialovesdata	Amgen	1525535550362492929	replied_to	2022-05-14 17:56:32+00:00	0	0	0	0	Twitter Web App
+_wald0	neo4j	1525509322859769857	replied_to	2022-05-14 16:12:19+00:00	1	0	1	0	Twitter Web App
+craigmullins	neo4j	1525497152373686272	replied_to	2022-05-14 15:23:58+00:00	0	0	0	0	Twitter Web App
+p_brunenberg	neo4j	1525326229410222080	replied_to	2022-05-14 04:04:46+00:00	0	0	1	0	Twitter Web App
+codewithlua	neo4j	1525280472779362304	replied_to	2022-05-14 01:02:57+00:00	0	0	1	0	Twitter Web App
+ambrosys	neo4j	1525270390225793024	replied_to	2022-05-14 00:22:53+00:00	1	0	1	0	Twitter Web App
+ETRetail	neo4j	1525250051240517633	replied_to	2022-05-13 23:02:04+00:00	0	0	0	0	Twitter Web App
+olalekanpaul120	neo4j	1525247492400435201	replied_to	2022-05-13 22:51:54+00:00	0	0	0	0	Twitter Web App
+FlefGraph	neo4j	1525221787289673728	replied_to	2022-05-13 21:09:45+00:00	0	0	0	0	Twitter for Android
+Ifeanyidiaye	_wald0	1525209264263946241	replied_to	2022-05-13 20:20:00+00:00	0	0	1	0	Twitter Web App
+Ifeanyidiaye	neo4j	1525209264263946241	replied_to	2022-05-13 20:20:00+00:00	0	0	1	0	Twitter Web App
+odbmsorg	neo4j	1525200064607559681	replied_to	2022-05-13 19:43:26+00:00	0	1	0	1	Twitter for Android
+odbmsorg	RemindMe_OfThis	1525200064607559681	replied_to	2022-05-13 19:43:26+00:00	0	1	0	1	Twitter for Android
+aaronholtN4j	_wald0	1525193027639201794	replied_to	2022-05-13 19:15:29+00:00	0	0	1	0	Twitter Web App
+aaronholtN4j	neo4j	1525193027639201794	replied_to	2022-05-13 19:15:29+00:00	0	0	1	0	Twitter Web App
+crypProphet	neo4j	1525170655246708736	replied_to	2022-05-13 17:46:35+00:00	0	0	0	0	Twitter for Android
+crypProphet	AexJack001	1525170655246708736	replied_to	2022-05-13 17:46:35+00:00	0	0	0	0	Twitter for Android
+rotnroll666	neo4j	1525164997264941057	replied_to	2022-05-13 17:24:06+00:00	0	1	0	0	Twitter for iPhone
+rotnroll666	RemindMe_OfThis	1525164997264941057	replied_to	2022-05-13 17:24:06+00:00	0	1	0	0	Twitter for iPhone
+Sirchuks_	neo4j	1525155838343557120	mentioned	2022-05-13 16:47:42+00:00	1	2	11	0	Twitter Web App
+SIRJay042	OracleDatabase	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	SQLServer	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	Db2zLabNews	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	MySQL	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	PostgreSQL	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	MongoDB	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	Teradata	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	FileMakerToday	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	Redisinc	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	neo4j	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	cassandra	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	SAPInMemory	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	couchbase	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	HBase	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	dynamodb	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	MarkLogic	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	fauna	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	DataStax	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	SingleStoreDB	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	aerospikedb	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	InfluxDB	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	arangodb	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	mariadb	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+SIRJay042	SnowflakeDB	1525143581601648640	mentioned	2022-05-13 15:59:00+00:00	0	0	3	0	Twitter Web App
+BenFerrum	neo4j	1525136034840952832	mentioned	2022-05-13 15:29:01+00:00	0	0	0	0	Buffer
+gijn	neo4j	1525134460936769537	mentioned	2022-05-13 15:22:45+00:00	0	0	3	0	Twitter for Android
+jibonray2016	databricks	1525128399601147906	mentioned	2022-05-13 14:58:40+00:00	0	0	0	0	Twitter Web App
+jibonray2016	neo4j	1525128399601147906	mentioned	2022-05-13 14:58:40+00:00	0	0	0	0	Twitter Web App
+jibonray2016	MongoDB	1525128399601147906	mentioned	2022-05-13 14:58:40+00:00	0	0	0	0	Twitter Web App
+jibonray2016	gitlab	1525128399601147906	mentioned	2022-05-13 14:58:40+00:00	0	0	0	0	Twitter Web App
+TalkCMO	neo4j	1525127743188369409	mentioned	2022-05-13 14:56:04+00:00	0	0	0	0	Oktopost
+TalkCMO	IT_SupplyChain	1525127743188369409	mentioned	2022-05-13 14:56:04+00:00	0	0	0	0	Oktopost
+fanny8gmartin	neo4j	1525102908823416833	mentioned	2022-05-13 13:17:23+00:00	1	0	1	0	Twitter Web App
+digitalhealthxx	neo4j	1525093636681105411	replied_to	2022-05-13 12:40:32+00:00	0	0	0	0	Twitter Web App
+ExpComputer	neo4j	1525087968729366528	quoted	2022-05-13 12:18:01+00:00	0	0	1	0	Twitter Web App
+OloyedeAbdussa1	neo4j	1525087576318791681	mentioned	2022-05-13 12:16:27+00:00	0	1	1	0	Twitter Web App
+AdekanyeGboyega	neo4j	1525075560070008832	mentioned	2022-05-13 11:28:42+00:00	3	2	6	0	Twitter for Android
+Adeniranmayow19	neo4j	1525053964081037312	mentioned	2022-05-13 10:02:53+00:00	0	0	1	1	Twitter Web App
+Adeniranmayow19	digitalstain	1525053964081037312	mentioned	2022-05-13 10:02:53+00:00	0	0	1	1	Twitter Web App
+BenparchuBenxon	neo4j	1525044212152033280	mentioned	2022-05-13 09:24:08+00:00	0	0	0	0	Oktopost
+opatola_taiwo	p_brunenberg	1525010637172219904	replied_to	2022-05-13 07:10:43+00:00	0	0	0	0	Twitter for Android
+opatola_taiwo	neo4j	1525010637172219904	replied_to	2022-05-13 07:10:43+00:00	0	0	0	0	Twitter for Android
+JyothiAntao	digitalstain	1524984728822157325	mentioned	2022-05-13 05:27:46+00:00	1	0	5	0	Twitter for iPhone
+JyothiAntao	neo4j	1524984728822157325	mentioned	2022-05-13 05:27:46+00:00	1	0	5	0	Twitter for iPhone
+LeighGe308	neo4j	1524923568508764162	replied_to	2022-05-13 01:24:45+00:00	0	0	0	0	Twitter for Android
+360MarTech	neo4j	1524920200012890119	replied_to	2022-05-13 01:11:21+00:00	0	0	0	0	Twitter Web App
+360MarTech	ICIJorg	1524920200012890119	replied_to	2022-05-13 01:11:21+00:00	0	0	0	0	Twitter Web App
+YaccConstructor	elonmusk	1524905850472906752	replied_to	2022-05-13 00:14:20+00:00	0	1	0	0	Twitter Web App
+YaccConstructor	mmbronstein	1524905850472906752	replied_to	2022-05-13 00:14:20+00:00	0	1	0	0	Twitter Web App
+YaccConstructor	neo4j	1524905850472906752	replied_to	2022-05-13 00:14:20+00:00	0	1	0	0	Twitter Web App
+YaccConstructor	Graphistry	1524905850472906752	replied_to	2022-05-13 00:14:20+00:00	0	1	0	0	Twitter Web App
+DubJug	elonmusk	1524905176913805313	replied_to	2022-05-13 00:11:40+00:00	0	1	0	0	Twitter Web App
+DubJug	mmbronstein	1524905176913805313	replied_to	2022-05-13 00:11:40+00:00	0	1	0	0	Twitter Web App
+DubJug	neo4j	1524905176913805313	replied_to	2022-05-13 00:11:40+00:00	0	1	0	0	Twitter Web App
+MarTechSeries	neo4j	1524339851448967168	mentioned	2022-05-11 10:45:16+00:00	0	0	0	0	Hootsuite Inc.
+IDCInd	neo4j	1524281064147283968	mentioned	2022-05-11 06:51:40+00:00	0	0	1	0	Twitter Web App
+42opinionz	neo4j	1524269583418466309	replied_to	2022-05-11 06:06:02+00:00	0	0	0	0	Twitter for iPhone
+ThanhtuPlats	neo4j	1524231785474772992	replied_to	2022-05-11 03:35:51+00:00	1	0	1	0	Twitter Web App
+janemindykx	neo4j	1524201311126036481	replied_to	2022-05-11 01:34:45+00:00	0	0	2	0	Twitter Web App
+zezeribet	neo4j	1524191213947334656	replied_to	2022-05-11 00:54:38+00:00	1	0	1	0	Twitter Web App
+lancewalter	neo4j	1524189611425079297	mentioned	2022-05-11 00:48:16+00:00	0	0	0	0	Twitter Web App
+Leog27476673	neo4j	1524177462896209922	replied_to	2022-05-10 23:59:59+00:00	1	0	1	0	Twitter Web App
+RrNansy	neo4j	1524157842432921602	replied_to	2022-05-10 22:42:01+00:00	0	0	2	0	Twitter for Android
+this0499154500	jmhodges	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	OracleExadata	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	neo4j	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	debrickedab	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	opensource_orgs	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	NebulaGraph	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	Olaf_Kopp	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	TigerGraphDB	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	uCloudifyAI	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+this0499154500	web3graph	1524153954380177410	mentioned	2022-05-10 22:26:34+00:00	2	0	1	0	Twitter for Android
+excelsoft	neo4j	1524071972635746304	replied_to	2022-05-10 17:00:48+00:00	0	0	0	0	Twitter Web App
+ArtiztNft	neo4j	1524061150870134788	mentioned	2022-05-10 16:17:48+00:00	0	1	1	0	Twitter Web App
+IreneMichlin	neo4j	1524054249172262912	mentioned	2022-05-10 15:50:23+00:00	0	0	1	0	Twitter Web App
+lisade4k7	neo4j	1524031338009219072	replied_to	2022-05-10 14:19:20+00:00	0	0	0	0	Twitter Web App
+mdavidallen	42opinionz	1524021486918512640	replied_to	2022-05-10 13:40:12+00:00	0	0	1	0	Twitter Web App
+mdavidallen	neo4j	1524021486918512640	replied_to	2022-05-10 13:40:12+00:00	0	0	1	0	Twitter Web App
+wewegomb	neo4j	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	KirkDBorne	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	craigmullins	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	dcameron	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	TDataScience	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	AMULETAnalytics	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	Fabriciosx	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	_OliviaBot	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	hubofml	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+wewegomb	mesirii	1524000216185245696	mentioned	2022-05-10 12:15:40+00:00	1	0	1	0	Twitter for Android
+vardikar	mdavidallen	1523994204333957120	replied_to	2022-05-10 11:51:47+00:00	0	0	1	0	Twitter Web App
+vardikar	neo4j	1523994204333957120	replied_to	2022-05-10 11:51:47+00:00	0	0	1	0	Twitter Web App
+p_brunenberg	neo4j	1523987331803680769	replied_to	2022-05-10 11:24:28+00:00	0	0	0	0	Twitter Web App
+sam_kirubakar	neo4j	1523986749751701504	replied_to	2022-05-10 11:22:10+00:00	0	0	0	0	Twitter Web App
+Wen_Best	wewegomb	1523980497864511491	replied_to	2022-05-10 10:57:19+00:00	0	1	0	0	Twitter Web App
+Wen_Best	neo4j	1523980497864511491	replied_to	2022-05-10 10:57:19+00:00	0	1	0	0	Twitter Web App
+steeleee8557	neo4j	1523958024544657408	mentioned	2022-05-10 09:28:01+00:00	0	0	1	0	Buffer
+jvantill	neo4j	1523931794717949952	mentioned	2022-05-10 07:43:47+00:00	1	2	17	0	Twitter Web App
+subZero_saj	neo4j	1523892010482286592	replied_to	2022-05-10 05:05:42+00:00	0	0	0	0	Twitter Web App
+Aktaruz15665191	mdavidallen	1523880737887244290	replied_to	2022-05-10 04:20:54+00:00	0	1	1	0	Twitter Web App
+Aktaruz15665191	neo4j	1523880737887244290	replied_to	2022-05-10 04:20:54+00:00	0	1	1	0	Twitter Web App
+fbiville	neo4j	1523796356531617793	mentioned	2022-05-09 22:45:36+00:00	4	0	18	0	Twitter for iPhone
+Ruudronn	neo4j	1523783420475699200	replied_to	2022-05-09 21:54:12+00:00	0	0	2	0	Twitter Web App
+MostWantEDcj	neo4j	1523755726207782912	replied_to	2022-05-09 20:04:09+00:00	0	0	0	0	Twitter Web App
+MostWantEDcj	Billbrowder	1523755726207782912	replied_to	2022-05-09 20:04:09+00:00	0	0	0	0	Twitter Web App
+neo4j	juansequeda	1523748665893945350	replied_to	2022-05-09 19:36:06+00:00	1	0	2	0	Twitter Web App
+neo4j	katsi111	1523748665893945350	replied_to	2022-05-09 19:36:06+00:00	1	0	2	0	Twitter Web App
+neo4j	neo4j	1523748665893945350	replied_to	2022-05-09 19:36:06+00:00	1	0	2	0	Twitter Web App
+neo4j	HonestNoBSData	1523748665893945350	replied_to	2022-05-09 19:36:06+00:00	1	0	2	0	Twitter Web App
+amrajacivil	neo4j	1523738732767358976	replied_to	2022-05-09 18:56:38+00:00	0	0	0	0	Twitter Web App
+SMMServiceProv1	wewegomb	1523735762898124800	replied_to	2022-05-09 18:44:50+00:00	0	1	0	0	Twitter Web App
+SMMServiceProv1	neo4j	1523735762898124800	replied_to	2022-05-09 18:44:50+00:00	0	1	0	0	Twitter Web App
+joedepeau	neo4j	1523699522060562432	replied_to	2022-05-09 16:20:49+00:00	0	0	0	0	Twitter Web App
+thecoffeehog	neo4j	1523698054091575296	replied_to	2022-05-09 16:14:59+00:00	0	1	1	0	Twitter for Android
+FANTASIA4UE	neo4j	1523693535635345409	replied_to	2022-05-09 15:57:02+00:00	0	0	0	0	Twitter for Android
+writerlyai_bot	neo4j	1523679355981144064	replied_to	2022-05-09 15:00:41+00:00	0	0	0	0	Twitter Web App
+ctot845365761	neo4j	1523658049101123586	mentioned	2022-05-09 13:36:01+00:00	1	0	1	0	Oktopost
+ctot845365761	digitaleweltmag	1523658049101123586	mentioned	2022-05-09 13:36:01+00:00	1	0	1	0	Oktopost
+_aileenrose	neo4j	1523636051050319872	replied_to	2022-05-09 12:08:37+00:00	0	0	1	0	Twitter for iPad
+_aileenrose	RemindMe_OfThis	1523636051050319872	replied_to	2022-05-09 12:08:37+00:00	0	0	1	0	Twitter for iPad
+startbwdainemq	neo4j	1523630568696475649	replied_to	2022-05-09 11:46:49+00:00	0	0	0	0	Twitter Web App
+JamieRodrigo4	neo4j	1523611776121970688	mentioned	2022-05-09 10:32:09+00:00	1	0	5	0	Twitter for iPhone
+LayZeeDK	neo4j	1523594580351889408	mentioned	2022-05-09 09:23:49+00:00	2	0	1	1	Twitter Web App
+Sulaimanjubril3	neo4j	1523570334318096384	replied_to	2022-05-09 07:47:28+00:00	0	0	1	0	Twitter Web App
+Sulaimanjubril3	neo4j	1523570334318096384	replied_to	2022-05-09 07:47:28+00:00	0	0	1	0	Twitter Web App
+joaopiquer	neo4j	1523564427483938818	mentioned	2022-05-09 07:24:00+00:00	1	0	0	0	Twitter Web App
+joaopiquer	UnrealEngine	1523564427483938818	mentioned	2022-05-09 07:24:00+00:00	1	0	0	0	Twitter Web App
+zaoc11	neo4j	1523559011982872576	replied_to	2022-05-09 07:02:29+00:00	0	0	0	0	Writerly Explainer Bot
+Vilna2402	neo4j	1523478983085461505	replied_to	2022-05-09 01:44:29+00:00	1	0	1	0	Twitter Web App
+leddykrnucej8h	prathle	1523473725093339137	mentioned	2022-05-09 01:23:35+00:00	0	0	6	0	Twitter for iPhone
+leddykrnucej8h	neo4j	1523473725093339137	mentioned	2022-05-09 01:23:35+00:00	0	0	6	0	Twitter for iPhone
+Mohitkar942842	neo4j	1523465287592722432	replied_to	2022-05-09 00:50:03+00:00	1	0	1	0	Twitter Web App
+evay112	neo4j	1523370314905767936	replied_to	2022-05-08 18:32:40+00:00	0	0	0	0	Twitter Web App
+evay112	karmabearnft	1523370314905767936	replied_to	2022-05-08 18:32:40+00:00	0	0	0	0	Twitter Web App
+mesirii	neo4j	1523361110480482306	quoted	2022-05-08 17:56:06+00:00	0	1	6	0	Twitter Web App
+davidgreco	neo4j	1523326736485683201	replied_to	2022-05-08 15:39:30+00:00	0	0	0	0	Twitter Web App
+davidgreco	benomran81	1523326736485683201	replied_to	2022-05-08 15:39:30+00:00	0	0	0	0	Twitter Web App
+bimapra45543616	neo4j	1523244632318308352	replied_to	2022-05-08 10:13:15+00:00	0	0	0	0	Twitter for Android
+raphael91983947	neo4j	1523187564932263936	replied_to	2022-05-08 06:26:29+00:00	0	0	0	0	Twitter Web App
+rjurney	neo4j	1523128067450941440	replied_to	2022-05-08 02:30:04+00:00	0	0	0	0	Twitter Web App
+karneswcmahmud3	neo4j	1523068943430086657	replied_to	2022-05-07 22:35:08+00:00	0	0	0	0	Twitter Web App
+activeeagle	neo4j	1523044783010181120	replied_to	2022-05-07 20:59:07+00:00	0	0	0	0	Twitter Web App
+jeannielynymz	neo4j	1523043496663601152	replied_to	2022-05-07 20:54:01+00:00	0	0	1	0	Twitter Web App
+tb_tomaz	neo4j	1522989620639805443	quoted	2022-05-07 17:19:55+00:00	0	0	0	0	Twitter Web App
+fphinacci	neo4j	1522986899622690816	replied_to	2022-05-07 17:09:07+00:00	0	0	0	0	Twitter Web App
+fphinacci	nodejs	1522986899622690816	replied_to	2022-05-07 17:09:07+00:00	0	0	0	0	Twitter Web App
+slomanrepps6	neo4j	1522962819624599553	replied_to	2022-05-07 15:33:26+00:00	0	0	1	0	Twitter Web App
+3Vikings1	neo4j	1522902185574793216	replied_to	2022-05-07 11:32:29+00:00	0	0	0	0	Twitter Web App
+alzapress	neo4j	1522902116066816002	replied_to	2022-05-07 11:32:13+00:00	0	0	0	0	Twitter Web App
+MarquettaNapier	neo4j	1522881201651929089	replied_to	2022-05-07 10:09:06+00:00	1	0	1	0	Twitter Web App
+digitalhealthxx	rjurney	1522849811543871488	replied_to	2022-05-07 08:04:22+00:00	0	0	0	0	Tweetbot for iΟS
+digitalhealthxx	neo4j	1522849811543871488	replied_to	2022-05-07 08:04:22+00:00	0	0	0	0	Tweetbot for iΟS
+digitalhealthxx	awscloud	1522849811543871488	replied_to	2022-05-07 08:04:22+00:00	0	0	0	0	Tweetbot for iΟS
+digitalhealthxx	bechbd	1522849811543871488	replied_to	2022-05-07 08:04:22+00:00	0	0	0	0	Tweetbot for iΟS
+DeveloperZolon	activeeagle	1522849289566892034	replied_to	2022-05-07 08:02:18+00:00	0	0	0	0	Tweetbot for iΟS
+DeveloperZolon	neo4j	1522849289566892034	replied_to	2022-05-07 08:02:18+00:00	0	0	0	0	Tweetbot for iΟS
+kineviz	rjurney	1522811561810796544	replied_to	2022-05-07 05:32:23+00:00	0	0	0	0	Twitter for iPad
+kineviz	neo4j	1522811561810796544	replied_to	2022-05-07 05:32:23+00:00	0	0	0	0	Twitter for iPad
+kineviz	awscloud	1522811561810796544	replied_to	2022-05-07 05:32:23+00:00	0	0	0	0	Twitter for iPad
+danieldeluca	neo4j	1522783677771526144	replied_to	2022-05-07 03:41:35+00:00	1	0	1	0	Twitter Web App
+craigmullins	neo4j	1522759417057345536	replied_to	2022-05-07 02:05:11+00:00	1	0	1	0	Twitter Web App
+literalclub	neo4j	1522756940262428672	replied_to	2022-05-07 01:55:20+00:00	1	0	2	0	Twitter Web App
+Muhamma48181080	neo4j	1522749606999691265	replied_to	2022-05-07 01:26:12+00:00	0	0	0	0	Twitter Web App
+DISummit2030	neo4j	1522725655875518465	replied_to	2022-05-06 23:51:01+00:00	1	0	1	0	Twitter Web App
+Devv2_4	neo4j	1522719486025084930	replied_to	2022-05-06 23:26:30+00:00	0	0	0	0	Twitter Web App
+zaoc11	neo4j	1522358081900146688	replied_to	2022-05-05 23:30:25+00:00	0	0	0	0	Twitter Web App
+seobrien	thezachw	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	JockDaRock	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	mediatechvent	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	fleetctl	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	gitlab	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	goteleport	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	elastic	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	HashiCorp	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	MongoDB	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	neo4j	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	DataStax	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	sytses	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	marlonjm	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+seobrien	john_zozzaro	1522349218324795392	replied_to	2022-05-05 22:55:12+00:00	0	0	1	0	Twitter for Android
+thezachw	seobrien	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	JockDaRock	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	mediatechvent	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	fleetctl	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	gitlab	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	goteleport	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	elastic	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	HashiCorp	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	MongoDB	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	neo4j	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	DataStax	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+thezachw	sytses	1522318080768020480	replied_to	2022-05-05 20:51:28+00:00	0	1	4	0	Twitter Web App
+leddykrnucej8h	neo4j	1522284675443568640	replied_to	2022-05-05 18:38:43+00:00	0	0	0	0	Twitter Web App
+jotatx	neo4j	1522283437125689344	replied_to	2022-05-05 18:33:48+00:00	0	0	0	0	Twitter Web App
+ctot845365761	neo4j	1522271490472742914	replied_to	2022-05-05 17:46:20+00:00	0	0	0	0	Twitter Web App
+NetfrixP	AnalysisParal	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+NetfrixP	neo4j	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+NetfrixP	EndorSoftware	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+NetfrixP	50stuck	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+NetfrixP	StarLinksONA	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+NetfrixP	ScanLab1	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+NetfrixP	baruchbarzel	1522257985887686656	replied_to	2022-05-05 16:52:40+00:00	2	0	4	0	Twitter Web App
+sun_ife	neo4j	1522253850337550337	replied_to	2022-05-05 16:36:14+00:00	0	0	0	0	Twitter for Android
+prolay2881	neo4j	1522253320294834187	replied_to	2022-05-05 16:34:08+00:00	0	0	0	0	Twitter Web App
+AlessandroNegro	giuseppe_futia	1522222900010442752	mentioned	2022-05-05 14:33:15+00:00	7	0	18	0	Twitter for iPhone
+AlessandroNegro	KGConference	1522222900010442752	mentioned	2022-05-05 14:33:15+00:00	7	0	18	0	Twitter for iPhone
+AlessandroNegro	graph_aware	1522222900010442752	mentioned	2022-05-05 14:33:15+00:00	7	0	18	0	Twitter for iPhone
+AlessandroNegro	neo4j	1522222900010442752	mentioned	2022-05-05 14:33:15+00:00	7	0	18	0	Twitter for iPhone
+AlessandroNegro	TryHume	1522222900010442752	mentioned	2022-05-05 14:33:15+00:00	7	0	18	0	Twitter for iPhone
+cvam0000	Akintola_steve	1522182035913150464	replied_to	2022-05-05 11:50:52+00:00	0	0	0	0	Twitter Web App
+cvam0000	neo4j	1522182035913150464	replied_to	2022-05-05 11:50:52+00:00	0	0	0	0	Twitter Web App
+DaschnerS	neo4j	1522173514526216198	mentioned	2022-05-05 11:17:01+00:00	4	0	4	0	Buffer
+DaschnerS	intellijidea	1522173514526216198	mentioned	2022-05-05 11:17:01+00:00	4	0	4	0	Buffer
+Devv2_4	neo4j	1522143123773992960	replied_to	2022-05-05 09:16:15+00:00	0	0	1	0	Twitter Web App
+rotnroll666	QuarkusIO	1522141033957572608	mentioned	2022-05-05 09:07:57+00:00	0	0	5	0	Twitter Web App
+rotnroll666	neo4j	1522141033957572608	mentioned	2022-05-05 09:07:57+00:00	0	0	5	0	Twitter Web App
+fbiville	neo4j	1522139497588264962	quoted	2022-05-05 09:01:50+00:00	0	0	1	0	Twitter Web App
+digitalstain	neo4j	1522101098584096768	mentioned	2022-05-05 06:29:15+00:00	2	1	14	0	Twitter Web App
+mrgunn	tomcritchlow	1522066402995175424	replied_to	2022-05-05 04:11:23+00:00	0	0	1	0	Twitter for Android
+mrgunn	RobertHaisfield	1522066402995175424	replied_to	2022-05-05 04:11:23+00:00	0	0	1	0	Twitter for Android
+mrgunn	neo4j	1522066402995175424	replied_to	2022-05-05 04:11:23+00:00	0	0	1	0	Twitter for Android
+ArmstrongAuctio	mesirii	1522007184304791552	replied_to	2022-05-05 00:16:04+00:00	0	0	0	0	Twitter Web App
+ArmstrongAuctio	4doss	1522007184304791552	replied_to	2022-05-05 00:16:04+00:00	0	0	0	0	Twitter Web App
+ArmstrongAuctio	neo4j	1522007184304791552	replied_to	2022-05-05 00:16:04+00:00	0	0	0	0	Twitter Web App
+yodaism	neo4j	1522002971063570432	replied_to	2022-05-04 23:59:20+00:00	0	0	0	0	Twitter Web App
+YoJulito	neo4j	1521988161374666752	replied_to	2022-05-04 23:00:29+00:00	1	0	0	0	Yodaism
+KGConference	neo4j	1521928893615296515	mentioned	2022-05-04 19:04:58+00:00	0	0	0	0	Paper.li
+KGConference	burtonlee	1521928893615296515	mentioned	2022-05-04 19:04:58+00:00	0	0	0	0	Paper.li
+KGConference	DeepSouthMedia	1521928893615296515	mentioned	2022-05-04 19:04:58+00:00	0	0	0	0	Paper.li
+aaronoriginator	AliciaFrame1	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	neo4j	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	jiebingyu	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	TigerGraphDB	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	souritw	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	Oracle	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	giuseppe_futia	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	graph_aware	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+aaronoriginator	KGConference	1521928467310391297	mentioned	2022-05-04 19:03:17+00:00	1	0	5	0	SocialBee.io v2
+Hassan_Abedi	neo4j	1521915484735692800	replied_to	2022-05-04 18:11:42+00:00	0	0	0	0	Twitter Web App
+Trustegic1	neo4j	1521901287901908992	replied_to	2022-05-04 17:15:17+00:00	0	0	0	0	Twitter Web App
+anettcomtech	neo4j	1521885136396210176	mentioned	2022-05-04 16:11:06+00:00	2	0	16	0	Twitter for Android
+IdaFrancoise	mesirii	1521877987360133120	replied_to	2022-05-04 15:42:41+00:00	0	0	0	0	Twitter for Android
+IdaFrancoise	Jfokus	1521877987360133120	replied_to	2022-05-04 15:42:41+00:00	0	0	0	0	Twitter for Android
+IdaFrancoise	GraphQL	1521877987360133120	replied_to	2022-05-04 15:42:41+00:00	0	0	0	0	Twitter for Android
+IdaFrancoise	neo4j	1521877987360133120	replied_to	2022-05-04 15:42:41+00:00	0	0	0	0	Twitter for Android
+giuseppe_futia	neo4j	1521875758142140417	replied_to	2022-05-04 15:33:50+00:00	0	0	0	0	Twitter Web App
+digitalhealthxx	neo4j	1521869602778906624	replied_to	2022-05-04 15:09:22+00:00	0	0	0	0	Twitter Web App
+vbaexpress	neo4j	1521867116294594562	replied_to	2022-05-04 14:59:30+00:00	0	0	0	0	Twitter Web App
+sveissid	BarrasaDV	1521862479495798785	mentioned	2022-05-04 14:41:04+00:00	4	0	23	0	Twitter for Android
+sveissid	KGConference	1521862479495798785	mentioned	2022-05-04 14:41:04+00:00	4	0	23	0	Twitter for Android
+sveissid	neo4j	1521862479495798785	mentioned	2022-05-04 14:41:04+00:00	4	0	23	0	Twitter for Android
+afekemor	GhlenNagels	1521827243760173057	quoted	2022-05-04 12:21:03+00:00	0	0	0	0	Twitter Web App
+afekemor	neo4j	1521827243760173057	quoted	2022-05-04 12:21:03+00:00	0	0	0	0	Twitter Web App
+hoanghiephui	neo4j	1521772893264400385	replied_to	2022-05-04 08:45:05+00:00	0	0	0	0	Twitter for iPhone
+hoanghiephui	tb_tomaz	1521772893264400385	replied_to	2022-05-04 08:45:05+00:00	0	0	0	0	Twitter for iPhone
+hoanghiephui	neo4j	1521772893264400385	replied_to	2022-05-04 08:45:05+00:00	0	0	0	0	Twitter for iPhone
+hoanghiephui	JohnSnowLabs	1521772893264400385	replied_to	2022-05-04 08:45:05+00:00	0	0	0	0	Twitter for iPhone
+hoanghiephui	tb_tomaz	1521772893264400385	replied_to	2022-05-04 08:45:05+00:00	0	0	0	0	Twitter for iPhone
+Lucas_1Chaves	jenstirrup	1521723637308571653	mentioned	2022-05-04 05:29:22+00:00	0	0	0	0	Paper.li
+Lucas_1Chaves	neo4j	1521723637308571653	mentioned	2022-05-04 05:29:22+00:00	0	0	0	0	Paper.li
+Lucas_1Chaves	geofumadas	1521723637308571653	mentioned	2022-05-04 05:29:22+00:00	0	0	0	0	Paper.li
+ian_j_stewart	neo4j	1521680611639021568	replied_to	2022-05-04 02:38:23+00:00	0	0	0	0	Twitter Web App
+OpenSourceNorth	neo4j	1521680225280663554	replied_to	2022-05-04 02:36:51+00:00	0	1	0	0	Twitter Web App
+lancewalter	neo4j	1521667220992147457	replied_to	2022-05-04 01:45:11+00:00	0	0	0	0	Twitter Web App
+PatrickMaina	neo4j	1521665746866085888	replied_to	2022-05-04 01:39:19+00:00	0	0	0	1	Twitter Web App
+PatrickMaina	opensea	1521665746866085888	replied_to	2022-05-04 01:39:19+00:00	0	0	0	1	Twitter Web App
+PatrickMaina	WalletConnect	1521665746866085888	replied_to	2022-05-04 01:39:19+00:00	0	0	0	1	Twitter Web App
+LogicalAtomist	sseraphini	1521639767615717377	replied_to	2022-05-03 23:56:05+00:00	0	0	1	0	Twitter for Android
+LogicalAtomist	neo4j	1521639767615717377	replied_to	2022-05-03 23:56:05+00:00	0	0	1	0	Twitter for Android
+SMARTKIKI01	neo4j	1521567191107358725	mentioned	2022-05-03 19:07:42+00:00	0	0	1	0	Twitter Web App
+Graphable1	neo4j	1521554966451679234	replied_to	2022-05-03 18:19:07+00:00	0	0	0	0	Twitter Web App
+Graphable1	nodejs	1521554966451679234	replied_to	2022-05-03 18:19:07+00:00	0	0	0	0	Twitter Web App
+Analyticsindiam	neo4j	1521546551688151042	mentioned	2022-05-03 17:45:41+00:00	0	0	0	0	Twitter Web App
+know_bi	neo4j	1521541818793402369	mentioned	2022-05-03 17:26:53+00:00	1	0	6	0	Twitter Web App
+slomanrepps6	neo4j	1521489915393069058	replied_to	2022-05-03 14:00:38+00:00	0	2	0	1	Twitter Web App
+slomanrepps6	RemindMe_OfThis	1521489915393069058	replied_to	2022-05-03 14:00:38+00:00	0	2	0	1	Twitter Web App
+angelV167	mesirii	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	thePMrewrite	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	neo4j	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	MacResColls	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	theBSHP	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	GraphConnect	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	GraphConnect	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+angelV167	neo4j	1521484739709968386	replied_to	2022-05-03 13:40:04+00:00	0	0	0	0	Twitter for Android
+Piwai	neo4j	1521479935491248128	replied_to	2022-05-03 13:20:59+00:00	0	0	0	0	Twitter for Android
+debrickedab	sean_k_robinson	1521450440914870275	mentioned	2022-05-03 11:23:46+00:00	1	0	1	0	Twitter Web App
+debrickedab	neo4j	1521450440914870275	mentioned	2022-05-03 11:23:46+00:00	1	0	1	0	Twitter Web App
+debrickedab	AliciaFrame1	1521450440914870275	mentioned	2022-05-03 11:23:46+00:00	1	0	1	0	Twitter Web App
+nsmith_piano	neo4j	1521441108487680001	replied_to	2022-05-03 10:46:41+00:00	0	0	0	0	Twitter Web App
+Neo4jFr	neo4j	1521424579096236032	mentioned	2022-05-03 09:41:01+00:00	2	0	0	0	Twitter for iPhone
+Neo4jFr	coursera	1521424579096236032	mentioned	2022-05-03 09:41:01+00:00	2	0	0	0	Twitter for iPhone
+Neo4jFr	TigerGraphDB	1521424579096236032	mentioned	2022-05-03 09:41:01+00:00	2	0	0	0	Twitter for iPhone
+Neo4jFr	udemy	1521424579096236032	mentioned	2022-05-03 09:41:01+00:00	2	0	0	0	Twitter for iPhone
+oracle369	neo4j	1521418036967886848	mentioned	2022-05-03 09:15:01+00:00	3	0	9	0	HubSpot
+oracle369	ApacheHop	1521418036967886848	mentioned	2022-05-03 09:15:01+00:00	3	0	9	0	HubSpot
+Whityou20	neo4j	1521381597559226373	replied_to	2022-05-03 06:50:13+00:00	0	0	0	0	Twitter Web App
+Syafa07637141	neo4j	1521291618753683456	replied_to	2022-05-03 00:52:40+00:00	0	0	0	0	Twitter for Android
+Syafa07637141	AngelsClub666	1521291618753683456	replied_to	2022-05-03 00:52:40+00:00	0	0	0	0	Twitter for Android
+janemindykx	neo4j	1521282353829621760	replied_to	2022-05-03 00:15:51+00:00	1	0	1	0	Twitter Web App

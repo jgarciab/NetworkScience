@@ -1,0 +1,668 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+WarrenCntrPenn	WarrenCntrPenn	1531658015618777091	mentioned	2022-05-31 15:25:02+00:00	0	0	1	0	Hootsuite Inc.
+WarrenCntrPenn	vijay_r_kumar	1531658015618777091	mentioned	2022-05-31 15:25:02+00:00	0	0	1	0	Hootsuite Inc.
+WarrenCntrPenn	ieee_ras_icra	1531658015618777091	mentioned	2022-05-31 15:25:02+00:00	0	0	1	0	Hootsuite Inc.
+WarrenCntrPenn	PennEngineers	1531658015618777091	mentioned	2022-05-31 15:25:02+00:00	0	0	1	0	Hootsuite Inc.
+AffiliateNet24	WarrenCntrPenn	1530190873069240321	mentioned	2022-05-27 14:15:08+00:00	1	0	2	0	Hootsuite Inc.
+AffiliateNet24	iyengar_raghu	1530190873069240321	mentioned	2022-05-27 14:15:08+00:00	1	0	2	0	Hootsuite Inc.
+AffiliateNet24	WhartonAlumni	1530190873069240321	mentioned	2022-05-27 14:15:08+00:00	1	0	2	0	Hootsuite Inc.
+neuro_rish	WarrenCntrPenn	1529535679985659905	mentioned	2022-05-25 18:51:38+00:00	1	0	4	0	Twitter Web App
+pennbioeng	sociologica_	1528824311552827392	mentioned	2022-05-23 19:44:54+00:00	0	0	2	0	Twitter Web App
+pennbioeng	WarrenCntrPenn	1528824311552827392	mentioned	2022-05-23 19:44:54+00:00	0	0	2	0	Twitter Web App
+pennbioeng	duncanjwatts	1528824311552827392	mentioned	2022-05-23 19:44:54+00:00	0	0	2	0	Twitter Web App
+falklab	WarrenCntrPenn	1527334774976946176	mentioned	2022-05-19 17:06:01+00:00	1	0	1	0	Twitter Web App
+UCLAStressLab	WarrenCntrPenn	1526645989485862912	mentioned	2022-05-17 19:29:02+00:00	0	0	1	0	Twitter Web App
+UCLAStressLab	g_allon	1526645989485862912	mentioned	2022-05-17 19:29:02+00:00	0	0	1	0	Twitter Web App
+UCLAStressLab	Inc	1526645989485862912	mentioned	2022-05-17 19:29:02+00:00	0	0	1	0	Twitter Web App
+pdakean	WarrenCntrPenn	1524398004794392576	mentioned	2022-05-11 14:36:20+00:00	0	0	0	0	Twitter Web App
+pdakean	g_allon	1524398004794392576	mentioned	2022-05-11 14:36:20+00:00	0	0	0	0	Twitter Web App
+pdakean	BusinessInsider	1524398004794392576	mentioned	2022-05-11 14:36:20+00:00	0	0	0	0	Twitter Web App
+SovrumanoBrat	WarrenCntrPenn	1522272420362600448	mentioned	2022-05-05 17:50:02+00:00	0	0	0	0	Hootsuite Inc.
+SovrumanoBrat	g_allon	1522272420362600448	mentioned	2022-05-05 17:50:02+00:00	0	0	0	0	Hootsuite Inc.
+dylanggee	WarrenCntrPenn	1521511157223378947	mentioned	2022-05-03 15:25:02+00:00	1	0	3	0	Hootsuite Inc.
+dylanggee	ccb	1521511157223378947	mentioned	2022-05-03 15:25:02+00:00	1	0	3	0	Hootsuite Inc.
+ellenpetersjdm	WarrenCntrPenn	1521206671103647744	mentioned	2022-05-02 19:15:07+00:00	1	0	1	0	Twitter Web App
+ellenpetersjdm	DamonCentola	1521206671103647744	mentioned	2022-05-02 19:15:07+00:00	1	0	1	0	Twitter Web App
+ellenpetersjdm	litequity	1521206671103647744	mentioned	2022-05-02 19:15:07+00:00	1	0	1	0	Twitter Web App
+NeilLewisJr	WarrenCntrPenn	1520051549803892738	mentioned	2022-04-29 14:45:05+00:00	0	0	0	0	Hootsuite Inc.
+NeilLewisJr	PennEngineers	1520051549803892738	mentioned	2022-04-29 14:45:05+00:00	0	0	0	0	Hootsuite Inc.
+NeilLewisJr	vijay_r_kumar	1520051549803892738	mentioned	2022-04-29 14:45:05+00:00	0	0	0	0	Hootsuite Inc.
+jayvanbavel	WarrenCntrPenn	1519316682006704128	mentioned	2022-04-27 14:04:59+00:00	2	0	2	0	Twitter Web App
+jayvanbavel	DaniSBassett	1519316682006704128	mentioned	2022-04-27 14:04:59+00:00	2	0	2	0	Twitter Web App
+jayvanbavel	Penn_Today	1519316682006704128	mentioned	2022-04-27 14:04:59+00:00	2	0	2	0	Twitter Web App
+kimberlyquinn	WarrenCntrPenn	1518652727886295041	mentioned	2022-04-25 18:06:40+00:00	0	0	1	0	Twitter Web App
+kimberlyquinn	duncanjwatts	1518652727886295041	mentioned	2022-04-25 18:06:40+00:00	0	0	1	0	Twitter Web App
+drhunger	WarrenCntrPenn	1517143632792330240	mentioned	2022-04-21 14:10:03+00:00	1	0	3	0	Hootsuite Inc.
+drhunger	falklab	1517143632792330240	mentioned	2022-04-21 14:10:03+00:00	1	0	3	0	Hootsuite Inc.
+NicoleCRust	thehill	1516417601450221568	mentioned	2022-04-19 14:05:04+00:00	0	0	0	0	Hootsuite Inc.
+NicoleCRust	WarrenCntrPenn	1516417601450221568	mentioned	2022-04-19 14:05:04+00:00	0	0	0	0	Hootsuite Inc.
+wboscoho	WarrenCntrPenn	1515020813270925323	mentioned	2022-04-15 17:34:44+00:00	0	0	0	0	Twitter Web App
+wboscoho	kwerb	1515020813270925323	mentioned	2022-04-15 17:34:44+00:00	0	0	0	0	Twitter Web App
+PennCW	WarrenCntrPenn	1514330189903196163	mentioned	2022-04-13 19:50:26+00:00	0	0	1	0	Twitter Web App
+PennCW	zgives	1514330189903196163	mentioned	2022-04-13 19:50:26+00:00	0	0	1	0	Twitter Web App
+weijie444	WarrenCntrPenn	1513592702604136448	mentioned	2022-04-11 18:59:56+00:00	1	0	0	0	Twitter Web App
+weijie444	pennprof	1513592702604136448	mentioned	2022-04-11 18:59:56+00:00	1	0	0	0	Twitter Web App
+weijie444	hastingscenter	1513592702604136448	mentioned	2022-04-11 18:59:56+00:00	1	0	0	0	Twitter Web App
+Aaroth	WarrenCntrPenn	1512103923192107012	mentioned	2022-04-07 16:24:03+00:00	1	0	2	0	Twitter Web App
+mkearnsupenn	WarrenCntrPenn	1511356741849653261	mentioned	2022-04-05 14:55:01+00:00	0	0	0	0	Hootsuite Inc.
+mkearnsupenn	iyengar_raghu	1511356741849653261	mentioned	2022-04-05 14:55:01+00:00	0	0	0	0	Hootsuite Inc.
+peaceplease1571	WarrenCntrPenn	1509889388637007878	mentioned	2022-04-01 13:44:17+00:00	0	0	1	0	Twitter Web App
+peaceplease1571	faderp	1509889388637007878	mentioned	2022-04-01 13:44:17+00:00	0	0	1	0	Twitter Web App
+tdubynin	WarrenCntrPenn	1509242098507124737	mentioned	2022-03-30 18:52:11+00:00	0	0	0	0	Twitter Web App
+tdubynin	kwerb	1509242098507124737	mentioned	2022-03-30 18:52:11+00:00	0	0	0	0	Twitter Web App
+tdubynin	WhartonBizDaily	1509242098507124737	mentioned	2022-03-30 18:52:11+00:00	0	0	0	0	Twitter Web App
+akaur0	WarrenCntrPenn	1508453897811156993	mentioned	2022-03-28 14:40:09+00:00	0	0	0	0	Twitter Web App
+akaur0	g_allon	1508453897811156993	mentioned	2022-03-28 14:40:09+00:00	0	0	0	0	Twitter Web App
+akaur0	MarketWatch	1508453897811156993	mentioned	2022-03-28 14:40:09+00:00	0	0	0	0	Twitter Web App
+vijay_r_kumar	WarrenCntrPenn	1507271119832821763	mentioned	2022-03-25 08:20:13+00:00	0	0	0	0	Paper.li
+vijay_r_kumar	partnerize	1507271119832821763	mentioned	2022-03-25 08:20:13+00:00	0	0	0	0	Paper.li
+MiszyToombs	WarrenCntrPenn	1507179184283877379	replied_to	2022-03-25 02:14:54+00:00	0	0	1	0	Twitter for Mac
+MiszyToombs	KordingLab	1507179184283877379	replied_to	2022-03-25 02:14:54+00:00	0	0	1	0	Twitter for Mac
+WarrenCntrPenn	WarrenCntrPenn	1452699775414018055	mentioned	2021-10-25 18:13:10+00:00	2	0	2	0	Twitter Web App
+WarrenCntrPenn	DamonCentola	1452699775414018055	mentioned	2021-10-25 18:13:10+00:00	2	0	2	0	Twitter Web App
+WarrenCntrPenn	BottomLine_Inc	1452699775414018055	mentioned	2021-10-25 18:13:10+00:00	2	0	2	0	Twitter Web App
+MDelaCG	upennlib	1451286536268419076	mentioned	2021-10-21 20:37:28+00:00	3	1	10	0	Twitter Web App
+MDelaCG	WarrenCntrPenn	1451286536268419076	mentioned	2021-10-21 20:37:28+00:00	3	1	10	0	Twitter Web App
+MDelaCG	PennEngineers	1451286536268419076	mentioned	2021-10-21 20:37:28+00:00	3	1	10	0	Twitter Web App
+MDelaCG	pennbioeng	1451286536268419076	mentioned	2021-10-21 20:37:28+00:00	3	1	10	0	Twitter Web App
+MDelaCG	PennMedEVDCSO	1451286536268419076	mentioned	2021-10-21 20:37:28+00:00	3	1	10	0	Twitter Web App
+pennlawctic	pennlawctic	1451249448454082564	mentioned	2021-10-21 18:10:06+00:00	0	0	1	0	Hootsuite Inc.
+pennlawctic	WarrenCntrPenn	1451249448454082564	mentioned	2021-10-21 18:10:06+00:00	0	0	1	0	Hootsuite Inc.
+pennlaw	WarrenCntrPenn	1451191080444051459	mentioned	2021-10-21 14:18:10+00:00	2	0	5	0	Twitter Web App
+akaur0	WarrenCntrPenn	1450463026742714379	mentioned	2021-10-19 14:05:08+00:00	1	0	10	0	Hootsuite Inc.
+akaur0	DaniSBassett	1450463026742714379	mentioned	2021-10-19 14:05:08+00:00	1	0	10	0	Hootsuite Inc.
+PennLDI	WarrenCntrPenn	1450461742623035398	mentioned	2021-10-19 14:00:02+00:00	2	0	3	0	Twitter Web App
+mojito_papi	pennlawctic	1450175601848033282	mentioned	2021-10-18 19:03:01+00:00	1	0	2	0	Sprout Social
+mojito_papi	WarrenCntrPenn	1450175601848033282	mentioned	2021-10-18 19:03:01+00:00	1	0	2	0	Sprout Social
+mojito_papi	WarrenCntrPenn	1450175601848033282	mentioned	2021-10-18 19:03:01+00:00	1	0	2	0	Sprout Social
+Drhumbertomtz	WarrenCntrPenn	1449009676507652097	mentioned	2021-10-15 13:50:02+00:00	1	0	4	0	Hootsuite Inc.
+Drhumbertomtz	PennSP2	1449009676507652097	mentioned	2021-10-15 13:50:02+00:00	1	0	4	0	Hootsuite Inc.
+Drhumbertomtz	EDixonRoman	1449009676507652097	mentioned	2021-10-15 13:50:02+00:00	1	0	4	0	Hootsuite Inc.
+true_wisdom24	pennlawctic	1448653823518466062	mentioned	2021-10-14 14:16:00+00:00	1	0	1	0	Sprout Social
+true_wisdom24	WarrenCntrPenn	1448653823518466062	mentioned	2021-10-14 14:16:00+00:00	1	0	1	0	Sprout Social
+Aaroth	WarrenCntrPenn	1448350349371351054	mentioned	2021-10-13 18:10:06+00:00	6	0	10	1	Hootsuite Inc.
+Aaroth	robertghrist	1448350349371351054	mentioned	2021-10-13 18:10:06+00:00	6	0	10	1	Hootsuite Inc.
+Aaroth	_jakobhansen	1448350349371351054	mentioned	2021-10-13 18:10:06+00:00	6	0	10	1	Hootsuite Inc.
+RettewCreative	WarrenCntrPenn	1447638317089046542	mentioned	2021-10-11 19:00:45+00:00	1	0	3	0	Twitter Web App
+AmazonScience	WarrenCntrPenn	1447604936687161344	mentioned	2021-10-11 16:48:06+00:00	5	0	8	0	Twitter Web App
+d01117342504	WarrenCntrPenn	1447568934761377796	mentioned	2021-10-11 14:25:03+00:00	0	0	1	0	Hootsuite Inc.
+d01117342504	vijay_r_kumar	1447568934761377796	mentioned	2021-10-11 14:25:03+00:00	0	0	1	0	Hootsuite Inc.
+vijay_r_kumar	PennEngineers	1445021989152907271	mentioned	2021-10-04 13:44:24+00:00	0	0	2	0	Twitter Web App
+vijay_r_kumar	WarrenCntrPenn	1445021989152907271	mentioned	2021-10-04 13:44:24+00:00	0	0	2	0	Twitter Web App
+vijay_r_kumar	PennNETS	1445021989152907271	mentioned	2021-10-04 13:44:24+00:00	0	0	2	0	Twitter Web App
+cohammah	WarrenCntrPenn	1443943813924499458	mentioned	2021-10-01 14:20:07+00:00	0	0	2	0	Hootsuite Inc.
+cohammah	g_allon	1443943813924499458	mentioned	2021-10-01 14:20:07+00:00	0	0	2	0	Hootsuite Inc.
+cohammah	thehill	1443943813924499458	mentioned	2021-10-01 14:20:07+00:00	0	0	2	0	Hootsuite Inc.
+MyAlzheimers	WarrenCntrPenn	1443278184666083333	mentioned	2021-09-29 18:15:08+00:00	0	0	2	0	Hootsuite Inc.
+MyAlzheimers	duncanjwatts	1443278184666083333	mentioned	2021-09-29 18:15:08+00:00	0	0	2	0	Hootsuite Inc.
+PennPORES	WarrenCntrPenn	1442483554806554624	mentioned	2021-09-27 13:37:34+00:00	0	0	0	0	Twitter Web App
+PennPORES	vijay_r_kumar	1442483554806554624	mentioned	2021-09-27 13:37:34+00:00	0	0	0	0	Twitter Web App
+PennPORES	PennEngineers	1442483554806554624	mentioned	2021-09-27 13:37:34+00:00	0	0	0	0	Twitter Web App
+falklab	WarrenCntrPenn	1441034251294724101	mentioned	2021-09-23 13:38:33+00:00	2	0	2	0	Twitter Web App
+falklab	DamonCentola	1441034251294724101	mentioned	2021-09-23 13:38:33+00:00	2	0	2	0	Twitter Web App
+falklab	nytimes	1441034251294724101	mentioned	2021-09-23 13:38:33+00:00	2	0	2	0	Twitter Web App
+WarrenCntrPenn	techreview	1367857470673215501	mentioned	2021-03-05 15:20:09+00:00	6	0	9	0	Hootsuite Inc.
+WarrenCntrPenn	ruchowdh	1367857470673215501	mentioned	2021-03-05 15:20:09+00:00	6	0	9	0	Hootsuite Inc.
+WarrenCntrPenn	WarrenCntrPenn	1367857470673215501	mentioned	2021-03-05 15:20:09+00:00	6	0	9	0	Hootsuite Inc.
+WarrenCntrPenn	KLdivergence	1367857470673215501	mentioned	2021-03-05 15:20:09+00:00	6	0	9	0	Hootsuite Inc.
+WarrenCntrPenn	Penn	1367857470673215501	mentioned	2021-03-05 15:20:09+00:00	6	0	9	0	Hootsuite Inc.
+PennMindCORE	JessieSunPsych	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	Wharton	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	whartonbrain	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	UPennGAPSA	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	PennNGG	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	pennbgs	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	PennCURF	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+PennMindCORE	WarrenCntrPenn	1367856868975083530	quoted	2021-03-05 15:17:45+00:00	2	0	8	0	Twitter Web App
+WolfHumanities	WarrenCntrPenn	1367184305328435202	mentioned	2021-03-03 18:45:14+00:00	0	0	1	0	Hootsuite Inc.
+WolfHumanities	Lawprofaallen	1367184305328435202	mentioned	2021-03-03 18:45:14+00:00	0	0	1	0	Hootsuite Inc.
+WolfHumanities	Penn	1367184305328435202	mentioned	2021-03-03 18:45:14+00:00	0	0	1	0	Hootsuite Inc.
+WolfHumanities	Penn_Today	1367184305328435202	mentioned	2021-03-03 18:45:14+00:00	0	0	1	0	Hootsuite Inc.
+MichaelRFerrari	WarrenCntrPenn	1366425356740268034	mentioned	2021-03-01 16:29:26+00:00	1	0	0	0	Twitter Web App
+MichaelRFerrari	TheCharacterLab	1366425356740268034	mentioned	2021-03-01 16:29:26+00:00	1	0	0	0	Twitter Web App
+MichaelRFerrari	falklab	1366425356740268034	mentioned	2021-03-01 16:29:26+00:00	1	0	0	0	Twitter Web App
+MichaelRFerrari	Penn	1366425356740268034	mentioned	2021-03-01 16:29:26+00:00	1	0	0	0	Twitter Web App
+AmitEcon	mkearnsupenn	1364984519468732422	mentioned	2021-02-25 17:04:04+00:00	3	0	4	0	Twitter Web App
+AmitEcon	WarrenCntrPenn	1364984519468732422	mentioned	2021-02-25 17:04:04+00:00	3	0	4	0	Twitter Web App
+AmitEcon	PennEngineers	1364984519468732422	mentioned	2021-02-25 17:04:04+00:00	3	0	4	0	Twitter Web App
+AmazonScience	WarrenCntrPenn	1364289276020744192	mentioned	2021-02-23 19:01:25+00:00	3	0	3	0	Twitter Web App
+AmazonScience	g_allon	1364289276020744192	mentioned	2021-02-23 19:01:25+00:00	3	0	3	0	Twitter Web App
+AmazonScience	Penn	1364289276020744192	mentioned	2021-02-23 19:01:25+00:00	3	0	3	0	Twitter Web App
+heather_hear	WarrenCntrPenn	1362117149863661572	mentioned	2021-02-17 19:10:10+00:00	0	0	3	0	Hootsuite Inc.
+heather_hear	Penn	1362117149863661572	mentioned	2021-02-17 19:10:10+00:00	0	0	3	0	Hootsuite Inc.
+heather_hear	PennEngineers	1362117149863661572	mentioned	2021-02-17 19:10:10+00:00	0	0	3	0	Hootsuite Inc.
+heather_hear	Games_Seminar	1362117149863661572	mentioned	2021-02-17 19:10:10+00:00	0	0	3	0	Hootsuite Inc.
+moorejh	WarrenCntrPenn	1359901292232142861	mentioned	2021-02-11 16:25:08+00:00	2	0	3	0	Hootsuite Inc.
+moorejh	KordingLab	1359901292232142861	mentioned	2021-02-11 16:25:08+00:00	2	0	3	0	Hootsuite Inc.
+moorejh	PennEngineers	1359901292232142861	mentioned	2021-02-11 16:25:08+00:00	2	0	3	0	Hootsuite Inc.
+moorejh	Penn	1359901292232142861	mentioned	2021-02-11 16:25:08+00:00	2	0	3	0	Hootsuite Inc.
+pramodh	mkearnsupenn	1359629750835302400	mentioned	2021-02-10 22:26:07+00:00	0	0	1	0	Twitter for iPhone
+pramodh	WarrenCntrPenn	1359629750835302400	mentioned	2021-02-10 22:26:07+00:00	0	0	1	0	Twitter for iPhone
+williamstome	WarrenCntrPenn	1359618568351055874	replied_to	2021-02-10 21:41:41+00:00	0	0	0	0	Twitter Web App
+williamstome	mkearnsupenn	1359618568351055874	replied_to	2021-02-10 21:41:41+00:00	0	0	0	0	Twitter Web App
+williamstome	WolfHumanities	1359618568351055874	replied_to	2021-02-10 21:41:41+00:00	0	0	0	0	Twitter Web App
+williamstome	Penn	1359618568351055874	replied_to	2021-02-10 21:41:41+00:00	0	0	0	0	Twitter Web App
+williamstome	PennEngineers	1359618568351055874	replied_to	2021-02-10 21:41:41+00:00	0	0	0	0	Twitter Web App
+vijay_r_kumar	WarrenCntrPenn	1359157679055339534	mentioned	2021-02-09 15:10:17+00:00	4	1	8	0	Hootsuite Inc.
+vijay_r_kumar	mkearnsupenn	1359157679055339534	mentioned	2021-02-09 15:10:17+00:00	4	1	8	0	Hootsuite Inc.
+vijay_r_kumar	WolfHumanities	1359157679055339534	mentioned	2021-02-09 15:10:17+00:00	4	1	8	0	Hootsuite Inc.
+vijay_r_kumar	Penn	1359157679055339534	mentioned	2021-02-09 15:10:17+00:00	4	1	8	0	Hootsuite Inc.
+vijay_r_kumar	PennEngineers	1359157679055339534	mentioned	2021-02-09 15:10:17+00:00	4	1	8	0	Hootsuite Inc.
+pennlawctic	WarrenCntrPenn	1357043720508616704	mentioned	2021-02-03 19:10:10+00:00	1	0	0	0	Hootsuite Inc.
+Bernard_TOLLEC	WarrenCntrPenn	1356257305533284354	mentioned	2021-02-01 15:05:14+00:00	0	0	0	0	Hootsuite Inc.
+staceyfig	moorejh	1356249770025746433	replied_to	2021-02-01 14:35:17+00:00	0	0	2	0	Twitter Web App
+staceyfig	WarrenCntrPenn	1356249770025746433	replied_to	2021-02-01 14:35:17+00:00	0	0	2	0	Twitter Web App
+CAGolembeski	Humphreville_	1355229698075357190	replied_to	2021-01-29 19:01:53+00:00	0	0	2	0	Twitter for iPhone
+CAGolembeski	AmericanPublish	1355229698075357190	replied_to	2021-01-29 19:01:53+00:00	0	0	2	0	Twitter for iPhone
+CAGolembeski	mkearnsupenn	1355229698075357190	replied_to	2021-01-29 19:01:53+00:00	0	0	2	0	Twitter for iPhone
+CAGolembeski	Aaroth	1355229698075357190	replied_to	2021-01-29 19:01:53+00:00	0	0	2	0	Twitter for iPhone
+CAGolembeski	OUPAcademic	1355229698075357190	replied_to	2021-01-29 19:01:53+00:00	0	0	2	0	Twitter for iPhone
+CAGolembeski	WarrenCntrPenn	1355229698075357190	replied_to	2021-01-29 19:01:53+00:00	0	0	2	0	Twitter for iPhone
+bougieprofessor	DamonCentola	1352833106168844289	quoted	2021-01-23 04:18:41+00:00	0	0	1	0	Twitter Web App
+bougieprofessor	WarrenCntrPenn	1352833106168844289	quoted	2021-01-23 04:18:41+00:00	0	0	1	0	Twitter Web App
+gyaroslavtsev	WarrenCntrPenn	1346590338937462785	mentioned	2021-01-05 22:52:09+00:00	0	0	0	0	Twitter Web App
+gyaroslavtsev	mkearnsupenn	1346590338937462785	mentioned	2021-01-05 22:52:09+00:00	0	0	0	0	Twitter Web App
+Clarkbar1978	WarrenCntrPenn	1341028902966321152	quoted	2020-12-21 14:33:00+00:00	0	0	1	0	TweetDeck
+EdgarDobriban	WarrenCntrPenn	1336187708738318337	mentioned	2020-12-08 05:55:49+00:00	0	0	0	0	Paper.li
+sethvneel	vijay_r_kumar	1330583586983043072	quoted	2020-11-22 18:47:02+00:00	0	0	0	0	Twitter Web App
+sethvneel	Ken_Goldberg	1330583586983043072	quoted	2020-11-22 18:47:02+00:00	0	0	0	0	Twitter Web App
+sethvneel	GRASPlab	1330583586983043072	quoted	2020-11-22 18:47:02+00:00	0	0	0	0	Twitter Web App
+sethvneel	WarrenCntrPenn	1330583586983043072	quoted	2020-11-22 18:47:02+00:00	0	0	0	0	Twitter Web App
+palebluemi	GRASPlab	1330549710734700551	mentioned	2020-11-22 16:32:26+00:00	8	1	59	1	Twitter Web App
+palebluemi	WarrenCntrPenn	1330549710734700551	mentioned	2020-11-22 16:32:26+00:00	8	1	59	1	Twitter Web App
+robertghrist	pennlawctic	1326938427498123265	mentioned	2020-11-12 17:22:29+00:00	2	0	4	1	Twitter Web App
+robertghrist	WarrenCntrPenn	1326938427498123265	mentioned	2020-11-12 17:22:29+00:00	2	0	4	1	Twitter Web App
+SvenEsser	WarrenCntrPenn	1321898659215233024	mentioned	2020-10-29 19:36:14+00:00	0	0	0	0	Paper.li
+SvenEsser	caesar_on20	1321898659215233024	mentioned	2020-10-29 19:36:14+00:00	0	0	0	0	Paper.li
+mZargham	knightfdn	1316789303566098432	mentioned	2020-10-15 17:13:29+00:00	1	0	1	0	Twitter Web App
+mZargham	pennlawctic	1316789303566098432	mentioned	2020-10-15 17:13:29+00:00	1	0	1	0	Twitter Web App
+mZargham	WarrenCntrPenn	1316789303566098432	mentioned	2020-10-15 17:13:29+00:00	1	0	1	0	Twitter Web App
+maria__cuellar	WarrenCntrPenn	1316786354290864129	mentioned	2020-10-15 17:01:46+00:00	2	0	2	0	Twitter Web App
+maria__cuellar	knightfdn	1316786354290864129	mentioned	2020-10-15 17:01:46+00:00	2	0	2	0	Twitter Web App
+baxterkb	WarrenCntrPenn	1315761937502830593	mentioned	2020-10-12 21:11:06+00:00	2	0	2	0	Twitter Web App
+wsisaac	Wycliffe_UofT	1314770324366462976	mentioned	2020-10-10 03:30:47+00:00	0	0	0	0	Paper.li
+wsisaac	WarrenCntrPenn	1314770324366462976	mentioned	2020-10-10 03:30:47+00:00	0	0	0	0	Paper.li
+JunhyongKim	pennlawctic	1314229656791457793	mentioned	2020-10-08 15:42:22+00:00	3	0	2	0	Twitter Web App
+JunhyongKim	WarrenCntrPenn	1314229656791457793	mentioned	2020-10-08 15:42:22+00:00	3	0	2	0	Twitter Web App
+KLdivergence	tyler_prochnow	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	PrincetonUPress	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	medical_policy	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	PennNudgeUnit	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	PennMEHP	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	Penn	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	WarrenCntrPenn	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+KLdivergence	NDGannenberg	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+weijie444	heathbrown	1312015572431974406	mentioned	2020-10-02 13:04:23+00:00	0	0	0	0	Paper.li
+weijie444	WarrenCntrPenn	1312015572431974406	mentioned	2020-10-02 13:04:23+00:00	0	0	0	0	Paper.li
+weijie444	rthwaites	1312015572431974406	mentioned	2020-10-02 13:04:23+00:00	0	0	0	0	Paper.li
+akaur0	pennlawctic	1311777279983398913	mentioned	2020-10-01 21:17:29+00:00	4	0	2	0	Twitter Web App
+akaur0	WarrenCntrPenn	1311777279983398913	mentioned	2020-10-01 21:17:29+00:00	4	0	2	0	Twitter Web App
+UPennIBI	AlexGRosati	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	AlisonGopnik	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	MichaelTomase18	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	nick_chater	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	Penn	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	NGGoffice	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	PennNGG	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	PennBiology	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	PennEngineers	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	WarrenCntrPenn	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+UPennIBI	SBSI_UPenn	1311444551379361793	replied_to	2020-09-30 23:15:21+00:00	0	0	0	0	Twitter Web App
+timnitGebru	pennlawctic	1310998278880755713	mentioned	2020-09-29 17:42:01+00:00	2	0	2	0	Twitter Web App
+timnitGebru	WarrenCntrPenn	1310998278880755713	mentioned	2020-09-29 17:42:01+00:00	2	0	2	0	Twitter Web App
+data_reporter	EdgarDobriban	1310596056401412096	replied_to	2020-09-28 15:03:44+00:00	0	0	1	0	Twitter Web App
+data_reporter	WarrenCntrPenn	1310596056401412096	replied_to	2020-09-28 15:03:44+00:00	0	0	1	0	Twitter Web App
+data_reporter	NeurIPSConf	1310596056401412096	replied_to	2020-09-28 15:03:44+00:00	0	0	1	0	Twitter Web App
+TheRegReview	WarrenCntrPenn	1305504436450623490	mentioned	2020-09-14 13:51:27+00:00	2	0	1	0	Paper.li
+pennbioeng	WarrenCntrPenn	1300445372393893891	replied_to	2020-08-31 14:48:32+00:00	0	0	1	0	Twitter for Android
+pennbioeng	Penn	1300445372393893891	replied_to	2020-08-31 14:48:32+00:00	0	0	1	0	Twitter for Android
+pennbioeng	KostasPenn	1300445372393893891	replied_to	2020-08-31 14:48:32+00:00	0	0	1	0	Twitter for Android
+Hpc_Ai_Meetup	WarrenCntrPenn	1280552814381498368	replied_to	2020-07-07 17:22:37+00:00	0	0	1	0	Twitter for iPhone
+Hpc_Ai_Meetup	Wharton	1280552814381498368	replied_to	2020-07-07 17:22:37+00:00	0	0	1	0	Twitter for iPhone
+Hpc_Ai_Meetup	HarvardHBS	1280552814381498368	replied_to	2020-07-07 17:22:37+00:00	0	0	1	0	Twitter for iPhone
+Hpc_Ai_Meetup	LISHarvard	1280552814381498368	replied_to	2020-07-07 17:22:37+00:00	0	0	1	0	Twitter for iPhone
+WeAreTimbi	robertghrist	1273168199920607233	replied_to	2020-06-17 08:18:47+00:00	0	0	1	0	Twitter Web App
+WeAreTimbi	WarrenCntrPenn	1273168199920607233	replied_to	2020-06-17 08:18:47+00:00	0	0	1	0	Twitter Web App
+WeAreTimbi	duncanjwatts	1273168199920607233	replied_to	2020-06-17 08:18:47+00:00	0	0	1	0	Twitter Web App
+lilithlela	WarrenCntrPenn	1272954287585472516	replied_to	2020-06-16 18:08:47+00:00	2	2	7	1	Twitter Web App
+lilithlela	duncanjwatts	1272954287585472516	replied_to	2020-06-16 18:08:47+00:00	2	2	7	1	Twitter Web App
+sureshone	WarrenCntrPenn	1272533062300172288	mentioned	2020-06-15 14:14:59+00:00	0	0	0	0	Paper.li
+sureshone	lofberg	1272533062300172288	mentioned	2020-06-15 14:14:59+00:00	0	0	0	0	Paper.li
+feedkoko	papa_raw	1267541813952253953	replied_to	2020-06-01 19:41:32+00:00	2	0	8	0	Twitter Web App
+feedkoko	WarrenCntrPenn	1267541813952253953	replied_to	2020-06-01 19:41:32+00:00	2	0	8	0	Twitter Web App
+feedkoko	loukerner	1267541813952253953	replied_to	2020-06-01 19:41:32+00:00	2	0	8	0	Twitter Web App
+DaniSBassett	WarrenCntrPenn	1266073203576799232	replied_to	2020-05-28 18:25:48+00:00	0	0	2	0	Twitter for iPhone
+DaniSBassett	KLdivergence	1266073203576799232	replied_to	2020-05-28 18:25:48+00:00	0	0	2	0	Twitter for iPhone
+jboerckel	WarrenCntrPenn	1265773072776179712	replied_to	2020-05-27 22:33:12+00:00	0	0	2	0	Twitter Web App
+jboerckel	KLdivergence	1265773072776179712	replied_to	2020-05-27 22:33:12+00:00	0	0	2	0	Twitter Web App
+JoecoopeJoe	WarrenCntrPenn	1265722599222411264	replied_to	2020-05-27 19:12:38+00:00	0	0	2	0	Twitter for iPhone
+JoecoopeJoe	KLdivergence	1265722599222411264	replied_to	2020-05-27 19:12:38+00:00	0	0	2	0	Twitter for iPhone
+falklab	Aaroth	1250113633381765121	replied_to	2020-04-14 17:28:10+00:00	0	0	3	0	Twitter for Android
+falklab	WarrenCntrPenn	1250113633381765121	replied_to	2020-04-14 17:28:10+00:00	0	0	3	0	Twitter for Android
+TheDannielleJay	vijay_r_kumar	1234993062406868992	replied_to	2020-03-04 00:04:25+00:00	0	0	0	0	Twitter Web App
+TheDannielleJay	Penn	1234993062406868992	replied_to	2020-03-04 00:04:25+00:00	0	0	0	0	Twitter Web App
+TheDannielleJay	PennCIS	1234993062406868992	replied_to	2020-03-04 00:04:25+00:00	0	0	0	0	Twitter Web App
+TheDannielleJay	WarrenCntrPenn	1234993062406868992	replied_to	2020-03-04 00:04:25+00:00	0	0	0	0	Twitter Web App
+TheDannielleJay	PennEngineers	1234993062406868992	replied_to	2020-03-04 00:04:25+00:00	0	0	0	0	Twitter Web App
+yoursosteam	KLdivergence	1234986986550640640	replied_to	2020-03-03 23:40:17+00:00	0	1	5	0	Twitter for iPhone
+yoursosteam	Penn	1234986986550640640	replied_to	2020-03-03 23:40:17+00:00	0	1	5	0	Twitter for iPhone
+yoursosteam	PennCIS	1234986986550640640	replied_to	2020-03-03 23:40:17+00:00	0	1	5	0	Twitter for iPhone
+yoursosteam	WarrenCntrPenn	1234986986550640640	replied_to	2020-03-03 23:40:17+00:00	0	1	5	0	Twitter for iPhone
+yoursosteam	PennEngineers	1234986986550640640	replied_to	2020-03-03 23:40:17+00:00	0	1	5	0	Twitter for iPhone
+EricBrewe	WarrenCntrPenn	1229789587339243520	replied_to	2020-02-18 15:27:40+00:00	0	0	2	0	Twitter Web App
+sborgen	PennEngineers	1220775634915356672	mentioned	2020-01-24 18:29:26+00:00	2	0	2	0	Twitter Web App
+sborgen	UPennSinghNano	1220775634915356672	mentioned	2020-01-24 18:29:26+00:00	2	0	2	0	Twitter Web App
+sborgen	WarrenCntrPenn	1220775634915356672	mentioned	2020-01-24 18:29:26+00:00	2	0	2	0	Twitter Web App
+kooswilt	moorejh	1220729033819938816	mentioned	2020-01-24 15:24:16+00:00	0	0	2	0	TweetDeck
+kooswilt	WarrenCntrPenn	1220729033819938816	mentioned	2020-01-24 15:24:16+00:00	0	0	2	0	TweetDeck
+boknilev	WarrenCntrPenn	1220727191085944833	mentioned	2020-01-24 15:16:57+00:00	1	1	1	0	TweetDeck
+YouEconomist	WarrenCntrPenn	1220407226793222144	replied_to	2020-01-23 18:05:31+00:00	0	0	1	0	Twitter Web App
+YouEconomist	GoogleAI	1220407226793222144	replied_to	2020-01-23 18:05:31+00:00	0	0	1	0	Twitter Web App
+YouEconomist	Wharton	1220407226793222144	replied_to	2020-01-23 18:05:31+00:00	0	0	1	0	Twitter Web App
+YouEconomist	fatconference	1220407226793222144	replied_to	2020-01-23 18:05:31+00:00	0	0	1	0	Twitter Web App
+LydiaManiatis	ebukstel	1218542928215400449	mentioned	2020-01-18 14:37:28+00:00	0	0	0	0	Paper.li
+LydiaManiatis	EnterpriseAI_	1218542928215400449	mentioned	2020-01-18 14:37:28+00:00	0	0	0	0	Paper.li
+LydiaManiatis	WarrenCntrPenn	1218542928215400449	mentioned	2020-01-18 14:37:28+00:00	0	0	0	0	Paper.li
+AadityaRail	Penn	1216732473435910144	quoted	2020-01-13 14:43:22+00:00	1	0	5	0	Twitter Web App
+AadityaRail	pennlawctic	1216732473435910144	quoted	2020-01-13 14:43:22+00:00	1	0	5	0	Twitter Web App
+AadityaRail	WarrenCntrPenn	1216732473435910144	quoted	2020-01-13 14:43:22+00:00	1	0	5	0	Twitter Web App
+Aaroth	WarrenCntrPenn	1214771255879979008	mentioned	2020-01-08 04:50:11+00:00	5	0	11	0	Twitter Web Client
+Aaroth	Aaroth	1214771255879979008	mentioned	2020-01-08 04:50:11+00:00	5	0	11	0	Twitter Web Client
+Aaroth	PennEngineers	1214771255879979008	mentioned	2020-01-08 04:50:11+00:00	5	0	11	0	Twitter Web Client
+Aaroth	mkearnsupenn	1214771255879979008	mentioned	2020-01-08 04:50:11+00:00	5	0	11	0	Twitter Web Client
+Aaroth	bopinion	1214771255879979008	mentioned	2020-01-08 04:50:11+00:00	5	0	11	0	Twitter Web Client
+MagButter	Aaroth	1212784367656931329	replied_to	2020-01-02 17:15:00+00:00	0	0	1	0	Twitter for iPhone
+MagButter	PennCIS	1212784367656931329	replied_to	2020-01-02 17:15:00+00:00	0	0	1	0	Twitter for iPhone
+MagButter	PennEngineers	1212784367656931329	replied_to	2020-01-02 17:15:00+00:00	0	0	1	0	Twitter for iPhone
+MagButter	WarrenCntrPenn	1212784367656931329	replied_to	2020-01-02 17:15:00+00:00	0	0	1	0	Twitter for iPhone
+DhammaKimpara	WarrenCntrPenn	1205228250512818176	replied_to	2019-12-12 20:49:41+00:00	0	0	1	0	Twitter Web App
+DhammaKimpara	DFMeaneyLab	1205228250512818176	replied_to	2019-12-12 20:49:41+00:00	0	0	1	0	Twitter Web App
+DhammaKimpara	PennEngineers	1205228250512818176	replied_to	2019-12-12 20:49:41+00:00	0	0	1	0	Twitter Web App
+PennNETS	jeroendossche	1199567956906250241	mentioned	2019-11-27 05:57:42+00:00	0	0	0	0	Paper.li
+PennNETS	trmcdonald	1199567956906250241	mentioned	2019-11-27 05:57:42+00:00	0	0	0	0	Paper.li
+PennNETS	WarrenCntrPenn	1199567956906250241	mentioned	2019-11-27 05:57:42+00:00	0	0	0	0	Paper.li
+ben_golub	WarrenCntrPenn	1196524410011889664	mentioned	2019-11-18 20:23:44+00:00	1	0	5	0	Twitter Web App
+ben_golub	ProsciaInc	1196524410011889664	mentioned	2019-11-18 20:23:44+00:00	1	0	5	0	Twitter Web App
+AffiliateNet24	pennlawctic	1194714817266733056	mentioned	2019-11-13 20:33:03+00:00	1	0	2	0	Twitter Web App
+AffiliateNet24	PennSAS	1194714817266733056	mentioned	2019-11-13 20:33:03+00:00	1	0	2	0	Twitter Web App
+AffiliateNet24	WarrenCntrPenn	1194714817266733056	mentioned	2019-11-13 20:33:03+00:00	1	0	2	0	Twitter Web App
+AffiliateNet24	knightfdn	1194714817266733056	mentioned	2019-11-13 20:33:03+00:00	1	0	2	0	Twitter Web App
+NewZco	whartonknows	1190629905358315521	mentioned	2019-11-02 14:01:04+00:00	0	0	0	0	Hootsuite Inc.
+NewZco	WarrenCntrPenn	1190629905358315521	mentioned	2019-11-02 14:01:04+00:00	0	0	0	0	Hootsuite Inc.
+UPennSinghNano	WarrenCntrPenn	1189553841500512256	mentioned	2019-10-30 14:45:11+00:00	0	0	0	0	Paper.li
+UPennSinghNano	cylanceinc	1189553841500512256	mentioned	2019-10-30 14:45:11+00:00	0	0	0	0	Paper.li
+UPennSinghNano	LatinRisk	1189553841500512256	mentioned	2019-10-30 14:45:11+00:00	0	0	0	0	Paper.li
+TheAshenLight	wrahool	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+TheAshenLight	Aaroth	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+TheAshenLight	WarrenCntrPenn	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+TheAshenLight	PennEngineers	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+TheAshenLight	sgonzalezbailon	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+TheAshenLight	falklab	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+TheAshenLight	msalganik	1052617566311596032	replied_to	2018-10-17 17:49:19+00:00	0	1	1	0	Twitter for Android
+wrahool	WarrenCntrPenn	1052608833330253824	mentioned	2018-10-17 17:14:37+00:00	2	2	6	0	Twitter for Android
+wrahool	PennEngineers	1052608833330253824	mentioned	2018-10-17 17:14:37+00:00	2	2	6	0	Twitter for Android
+wrahool	sgonzalezbailon	1052608833330253824	mentioned	2018-10-17 17:14:37+00:00	2	2	6	0	Twitter for Android
+wrahool	falklab	1052608833330253824	mentioned	2018-10-17 17:14:37+00:00	2	2	6	0	Twitter for Android
+wrahool	msalganik	1052608833330253824	mentioned	2018-10-17 17:14:37+00:00	2	2	6	0	Twitter for Android
+FFCWS	WarrenCntrPenn	1052583658157211649	mentioned	2018-10-17 15:34:34+00:00	0	1	0	0	Twitter Web Client
+msalganik	msalganik	1052576252723437569	mentioned	2018-10-17 15:05:09+00:00	1	0	0	0	Hootsuite Inc.
+msalganik	WarrenCntrPenn	1052576252723437569	mentioned	2018-10-17 15:05:09+00:00	1	0	0	0	Hootsuite Inc.
+msalganik	PennEngineers	1052576252723437569	mentioned	2018-10-17 15:05:09+00:00	1	0	0	0	Hootsuite Inc.
+zstevenwu	Penn	1052569130849787904	mentioned	2018-10-17 14:36:51+00:00	3	0	8	0	Twitter Web Client
+zstevenwu	WarrenCntrPenn	1052569130849787904	mentioned	2018-10-17 14:36:51+00:00	3	0	8	0	Twitter Web Client
+alexpmil	Aaroth	1052232511630307331	replied_to	2018-10-16 16:19:14+00:00	0	0	1	0	Twitter Web Client
+alexpmil	WarrenCntrPenn	1052232511630307331	replied_to	2018-10-16 16:19:14+00:00	0	0	1	0	Twitter Web Client
+alexpmil	msalganik	1052232511630307331	replied_to	2018-10-16 16:19:14+00:00	0	0	1	0	Twitter Web Client
+Aaroth	Aaroth	1052197236803817479	replied_to	2018-10-16 13:59:04+00:00	0	0	1	0	Twitter Web Client
+Aaroth	WarrenCntrPenn	1052197236803817479	replied_to	2018-10-16 13:59:04+00:00	0	0	1	0	Twitter Web Client
+Aaroth	msalganik	1052197236803817479	replied_to	2018-10-16 13:59:04+00:00	0	0	1	0	Twitter Web Client
+feedkoko	WarrenCntrPenn	1052191650942988288	mentioned	2018-10-16 13:36:53+00:00	4	2	11	2	Twitter Web Client
+feedkoko	msalganik	1052191650942988288	mentioned	2018-10-16 13:36:53+00:00	4	2	11	2	Twitter Web Client
+HBorseman	Penn	1049675465831661569	mentioned	2018-10-09 14:58:27+00:00	5	0	0	0	Twitter for Android
+HBorseman	PennCIS	1049675465831661569	mentioned	2018-10-09 14:58:27+00:00	5	0	0	0	Twitter for Android
+HBorseman	Wharton	1049675465831661569	mentioned	2018-10-09 14:58:27+00:00	5	0	0	0	Twitter for Android
+HBorseman	LyleUngar	1049675465831661569	mentioned	2018-10-09 14:58:27+00:00	5	0	0	0	Twitter for Android
+HBorseman	WarrenCntrPenn	1049675465831661569	mentioned	2018-10-09 14:58:27+00:00	5	0	0	0	Twitter for Android
+mZargham	Penn	1047887154154680320	mentioned	2018-10-04 16:32:21+00:00	2	0	1	0	Twitter Web Client
+mZargham	LyleUngar	1047887154154680320	mentioned	2018-10-04 16:32:21+00:00	2	0	1	0	Twitter Web Client
+mZargham	WarrenCntrPenn	1047887154154680320	mentioned	2018-10-04 16:32:21+00:00	2	0	1	0	Twitter Web Client
+Sys_innovation	WarrenCntrPenn	1047080007724601346	replied_to	2018-10-02 11:05:02+00:00	0	1	0	0	Twitter Web Client
+Sys_innovation	hseas	1047080007724601346	replied_to	2018-10-02 11:05:02+00:00	0	1	0	0	Twitter Web Client
+PennMindCORE	necsi	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	LetsWorkHappy	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	DisruptDesignNY	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	unschools	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	MITSloanSusty	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	WarrenCntrPenn	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	mitidss	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	sfiscience	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	BKCHarvard	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+PennMindCORE	ComplexExplorer	1045998679146950656	replied_to	2018-09-29 11:28:13+00:00	0	0	1	0	Twitter Web Client
+AffiliateNet24	mZargham	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	necsi	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	LetsWorkHappy	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	DisruptDesignNY	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	unschools	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	MITSloanSusty	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	WarrenCntrPenn	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	mitidss	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	sfiscience	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	BKCHarvard	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+AffiliateNet24	ComplexExplorer	1045994478148956160	replied_to	2018-09-29 11:11:31+00:00	0	1	1	0	Twitter Web Client
+danilobzdok	PennCNS	1042431729942835200	mentioned	2018-09-19 15:14:26+00:00	1	0	3	0	Twitter Web Client
+danilobzdok	whartonbrain	1042431729942835200	mentioned	2018-09-19 15:14:26+00:00	1	0	3	0	Twitter Web Client
+danilobzdok	WarrenCntrPenn	1042431729942835200	mentioned	2018-09-19 15:14:26+00:00	1	0	3	0	Twitter Web Client
+sethvneel	WarrenCntrPenn	1042145946782638081	mentioned	2018-09-18 20:18:50+00:00	0	0	0	0	Paper.li
+sethvneel	messybeautifun	1042145946782638081	mentioned	2018-09-18 20:18:50+00:00	0	0	0	0	Paper.li
+sethvneel	Catherine_Kyrs	1042145946782638081	mentioned	2018-09-18 20:18:50+00:00	0	0	0	0	Paper.li
+BrendaFox	necsi	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	LetsWorkHappy	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	DisruptDesignNY	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	unschools	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	MITSloanSusty	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	WarrenCntrPenn	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	mitidss	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	sfiscience	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+BrendaFox	BKCHarvard	1041069147617026049	replied_to	2018-09-15 21:00:01+00:00	10	2	21	0	Twitter Web Client
+boblautenbach	WarrenCntrPenn	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	DaniSBassett	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	max_bertolero	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	bttyeo	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	mtdespo	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	NatureHumBehav	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	Penn	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+boblautenbach	pennbioeng	1038299348633886721	replied_to	2018-09-08 05:33:50+00:00	0	0	4	0	Twitter Web Client
+KleinmanEnergy	WarrenCntrPenn	1037718775745970176	replied_to	2018-09-06 15:06:50+00:00	1	0	6	1	Twitter Web Client
+KleinmanEnergy	Aaroth	1037718775745970176	replied_to	2018-09-06 15:06:50+00:00	1	0	6	1	Twitter Web Client
+KleinmanEnergy	zstevenwu	1037718775745970176	replied_to	2018-09-06 15:06:50+00:00	1	0	6	1	Twitter Web Client
+vestergaardj	WarrenCntrPenn	1037323016341008387	mentioned	2018-09-05 12:54:14+00:00	0	0	0	0	Paper.li
+vestergaardj	Hire_Ohio	1037323016341008387	mentioned	2018-09-05 12:54:14+00:00	0	0	0	0	Paper.li
+vestergaardj	CouchMalcolm	1037323016341008387	mentioned	2018-09-05 12:54:14+00:00	0	0	0	0	Paper.li
+maria__cuellar	WarrenCntrPenn	1036970812455231489	mentioned	2018-09-04 13:34:42+00:00	0	0	0	0	BumpedN2
+maria__cuellar	moorejh	1036970812455231489	mentioned	2018-09-04 13:34:42+00:00	0	0	0	0	BumpedN2
+somspace	McHargCenter	1036720501199196162	replied_to	2018-09-03 21:00:03+00:00	0	0	1	0	Twitter Web Client
+somspace	PennEngineers	1036720501199196162	replied_to	2018-09-03 21:00:03+00:00	0	0	1	0	Twitter Web Client
+somspace	Wharton	1036720501199196162	replied_to	2018-09-03 21:00:03+00:00	0	0	1	0	Twitter Web Client
+somspace	UPennSinghNano	1036720501199196162	replied_to	2018-09-03 21:00:03+00:00	0	0	1	0	Twitter Web Client
+somspace	WarrenCntrPenn	1036720501199196162	replied_to	2018-09-03 21:00:03+00:00	0	0	1	0	Twitter Web Client
+somspace	PennSAS	1036720501199196162	replied_to	2018-09-03 21:00:03+00:00	0	0	1	0	Twitter Web Client
+luiy	SQLDusty	1035269524990447616	mentioned	2018-08-30 20:54:23+00:00	0	0	0	0	Paper.li
+luiy	WarrenCntrPenn	1035269524990447616	mentioned	2018-08-30 20:54:23+00:00	0	0	0	0	Paper.li
+luiy	Brisebois	1035269524990447616	mentioned	2018-08-30 20:54:23+00:00	0	0	0	0	Paper.li
+mariandragt	WarrenCntrPenn	1035204902832799744	replied_to	2018-08-30 16:37:36+00:00	0	0	2	0	Twitter Web Client
+mariandragt	Aaroth	1035204902832799744	replied_to	2018-08-30 16:37:36+00:00	0	0	2	0	Twitter Web Client
+mariandragt	PennEngineers	1035204902832799744	replied_to	2018-08-30 16:37:36+00:00	0	0	2	0	Twitter Web Client
+insidecostco	mZargham	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	oceanprotocol	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	PennEngineers	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	WarrenCntrPenn	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	PennNETS	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	necsi	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	sfiscience	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+insidecostco	mitidss	1035065531362107392	replied_to	2018-08-30 07:23:47+00:00	0	0	0	0	Twitter for Android
+iyengar_raghu	somspace	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	oceanprotocol	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	PennEngineers	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	WarrenCntrPenn	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	PennNETS	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	necsi	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	sfiscience	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+iyengar_raghu	mitidss	1035065126737465345	replied_to	2018-08-30 07:22:11+00:00	1	1	1	0	Twitter Web Client
+BobSummerwill	mZargham	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	oceanprotocol	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	PennEngineers	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	WarrenCntrPenn	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	PennNETS	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	necsi	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	sfiscience	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+BobSummerwill	mitidss	1035062369251147776	replied_to	2018-08-30 07:11:14+00:00	0	0	0	0	Twitter for Android
+MrSumfing	mZargham	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	oceanprotocol	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	PennEngineers	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	WarrenCntrPenn	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	PennNETS	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	necsi	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	sfiscience	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+MrSumfing	mitidss	1035061795751424000	quoted	2018-08-30 07:08:57+00:00	0	1	1	0	Twitter for Android
+wasetwatch	WarrenCntrPenn	1034123322156613632	mentioned	2018-08-27 16:59:47+00:00	0	0	0	0	Paper.li
+wasetwatch	orgnet	1034123322156613632	mentioned	2018-08-27 16:59:47+00:00	0	0	0	0	Paper.li
+wasetwatch	synthesiastica	1034123322156613632	mentioned	2018-08-27 16:59:47+00:00	0	0	0	0	Paper.li
+AlisonbobEth	oceanprotocol	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+AlisonbobEth	PennEngineers	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+AlisonbobEth	WarrenCntrPenn	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+AlisonbobEth	PennNETS	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+AlisonbobEth	necsi	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+AlisonbobEth	sfiscience	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+AlisonbobEth	mitidss	1033110934829522944	quoted	2018-08-24 21:56:55+00:00	1	2	7	0	Twitter for iPhone
+lrettig	DataDrivenInnov	1032560440092618752	mentioned	2018-08-23 09:29:27+00:00	0	0	0	0	Paper.li
+lrettig	oscar_romero50	1032560440092618752	mentioned	2018-08-23 09:29:27+00:00	0	0	0	0	Paper.li
+lrettig	WarrenCntrPenn	1032560440092618752	mentioned	2018-08-23 09:29:27+00:00	0	0	0	0	Paper.li
+TheRegReview	InfinediaWeb	1030187132797771779	mentioned	2018-08-16 20:18:47+00:00	0	0	0	0	Paper.li
+TheRegReview	WarrenCntrPenn	1030187132797771779	mentioned	2018-08-16 20:18:47+00:00	0	0	0	0	Paper.li
+kwerb	costcocanada	1029458676971696128	mentioned	2018-08-14 20:04:09+00:00	0	0	0	0	Paper.li
+kwerb	WarrenCntrPenn	1029458676971696128	mentioned	2018-08-14 20:04:09+00:00	0	0	0	0	Paper.li
+kwerb	PortlandBizTrib	1029458676971696128	mentioned	2018-08-14 20:04:09+00:00	0	0	0	0	Paper.li
+hrdwrknvrstps	WarrenCntrPenn	1029117707168301056	replied_to	2018-08-13 21:29:16+00:00	0	0	1	0	Twitter for iPhone
+hrdwrknvrstps	WhartonCai	1029117707168301056	replied_to	2018-08-13 21:29:16+00:00	0	0	1	0	Twitter for iPhone
+hrdwrknvrstps	ebradlow	1029117707168301056	replied_to	2018-08-13 21:29:16+00:00	0	0	1	0	Twitter for iPhone
+trentmc0	wasetwatch	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	mZargham	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	necsi	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	djpardis	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	WarrenCntrPenn	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	kwerb	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	trentmc0	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	jbrukh	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	cburniske	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	VladZamfir	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	simondlr	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+trentmc0	edendhaliwal	1024116471029485568	replied_to	2018-07-31 02:16:08+00:00	0	0	2	0	Twitter for Android
+thegbfofficial	mZargham	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	wasetwatch	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	necsi	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	djpardis	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	WarrenCntrPenn	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	kwerb	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	trentmc0	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	jbrukh	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	cburniske	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	VladZamfir	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	simondlr	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	BobSummerwill	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+thegbfofficial	edendhaliwal	1024113496907235328	replied_to	2018-07-31 02:04:19+00:00	0	0	4	0	Twitter for iPhone
+falklab	wasetwatch	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	necsi	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	djpardis	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	WarrenCntrPenn	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	kwerb	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	trentmc0	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	jbrukh	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	cburniske	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	VladZamfir	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	simondlr	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	BobSummerwill	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+falklab	edendhaliwal	1024094556181032960	replied_to	2018-07-31 00:49:03+00:00	0	1	5	0	Twitter Web Client
+nthconsultants	mZargham	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	necsi	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	djpardis	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	WarrenCntrPenn	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	kwerb	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	trentmc0	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	jbrukh	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	cburniske	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	VladZamfir	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	simondlr	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	BobSummerwill	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+nthconsultants	edendhaliwal	1024091048736382977	replied_to	2018-07-31 00:35:07+00:00	1	1	1	0	Twitter for Android
+EddyTwyford	wasetwatch	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	necsi	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	djpardis	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	WarrenCntrPenn	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	kwerb	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	trentmc0	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	jbrukh	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	cburniske	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	VladZamfir	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	simondlr	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	BobSummerwill	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+EddyTwyford	edendhaliwal	1024090588251975680	replied_to	2018-07-31 00:33:17+00:00	0	1	3	0	Twitter Web Client
+ProfPlatt	mZargham	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	necsi	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	djpardis	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	WarrenCntrPenn	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	kwerb	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	trentmc0	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	jbrukh	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	cburniske	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	VladZamfir	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	simondlr	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	BobSummerwill	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+ProfPlatt	edendhaliwal	1024089599952478209	replied_to	2018-07-31 00:29:21+00:00	0	2	3	0	Twitter for Android
+coyotecliffs44	mZargham	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	necsi	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	djpardis	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	WarrenCntrPenn	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	kwerb	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	trentmc0	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	jbrukh	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	cburniske	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	VladZamfir	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	simondlr	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	BobSummerwill	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+coyotecliffs44	edendhaliwal	1023800174601064448	replied_to	2018-07-30 05:19:17+00:00	3	0	4	0	Twitter Web Client
+yuriquintana	mZargham	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	necsi	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	djpardis	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	WarrenCntrPenn	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	kwerb	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	trentmc0	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	jbrukh	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	cburniske	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	VladZamfir	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	simondlr	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	BobSummerwill	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+yuriquintana	edendhaliwal	1023659361149902848	replied_to	2018-07-29 19:59:45+00:00	0	0	5	0	Twitter for iPhone
+Penn	pennlaw	1023501333410865153	mentioned	2018-07-29 09:31:48+00:00	2	0	3	1	Twitter for iPhone
+Penn	PennNewsToday	1023501333410865153	mentioned	2018-07-29 09:31:48+00:00	2	0	3	1	Twitter for iPhone
+Penn	WarrenCntrPenn	1023501333410865153	mentioned	2018-07-29 09:31:48+00:00	2	0	3	1	Twitter for iPhone
+Penn	FelsPolicy	1023501333410865153	mentioned	2018-07-29 09:31:48+00:00	2	0	3	1	Twitter for iPhone
+memento_morr	kwerb	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	necsi	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	djpardis	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	WarrenCntrPenn	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	trentmc0	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	jbrukh	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	cburniske	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	VladZamfir	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	simondlr	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	BobSummerwill	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+memento_morr	edendhaliwal	1023282990921601024	replied_to	2018-07-28 19:04:11+00:00	0	0	3	0	Twitter Web Client
+KordingLab	kwerb	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	necsi	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	djpardis	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	WarrenCntrPenn	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	trentmc0	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	jbrukh	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	cburniske	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	VladZamfir	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	simondlr	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	BobSummerwill	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+KordingLab	edendhaliwal	1023282615510433792	replied_to	2018-07-28 19:02:41+00:00	0	1	6	0	Twitter Web Client
+shashidharkumar	mZargham	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	necsi	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	djpardis	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	WarrenCntrPenn	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	trentmc0	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	jbrukh	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	cburniske	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	VladZamfir	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	simondlr	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	BobSummerwill	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+shashidharkumar	edendhaliwal	1023281787873775619	replied_to	2018-07-28 18:59:24+00:00	0	1	1	0	TweetDeck
+kristenpitcairn	necsi	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	djpardis	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	WarrenCntrPenn	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	kwerb	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	trentmc0	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	jbrukh	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	cburniske	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	VladZamfir	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	simondlr	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	BobSummerwill	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+kristenpitcairn	edendhaliwal	1023277951335321601	replied_to	2018-07-28 18:44:09+00:00	0	1	2	0	Twitter Web Client
+sergeydoestweet	mZargham	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	necsi	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	djpardis	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	WarrenCntrPenn	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	kwerb	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	trentmc0	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	jbrukh	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	cburniske	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	VladZamfir	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	simondlr	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	BobSummerwill	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+sergeydoestweet	edendhaliwal	1023276780478709761	replied_to	2018-07-28 18:39:30+00:00	0	0	2	0	Twitter for Android
+StevenHCollins	mZargham	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	necsi	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	djpardis	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	WarrenCntrPenn	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	kwerb	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	jbrukh	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	cburniske	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	VladZamfir	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	simondlr	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	BobSummerwill	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+StevenHCollins	edendhaliwal	1023275559512616961	replied_to	2018-07-28 18:34:39+00:00	0	0	3	0	Twitter for iPhone
+PennNGG	mZargham	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	necsi	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	djpardis	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	WarrenCntrPenn	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	kwerb	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	trentmc0	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	jbrukh	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	cburniske	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	VladZamfir	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	simondlr	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	BobSummerwill	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+PennNGG	edendhaliwal	1023273305145372672	replied_to	2018-07-28 18:25:42+00:00	0	1	5	0	Twitter for iPhone
+ASCmediarisk	necsi	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	djpardis	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	WarrenCntrPenn	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	kwerb	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	trentmc0	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	jbrukh	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	cburniske	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	VladZamfir	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	simondlr	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	BobSummerwill	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+ASCmediarisk	edendhaliwal	1023263008196255744	mentioned	2018-07-28 17:44:47+00:00	9	7	22	0	Twitter Web Client
+bzelizer	WarrenCntrPenn	1022436593133658113	mentioned	2018-07-26 11:00:54+00:00	3	0	3	0	Twitter for iPhone
+bzelizer	pennlaw	1022436593133658113	mentioned	2018-07-26 11:00:54+00:00	3	0	3	0	Twitter for iPhone
+MJMitchell_Lab	ExcobaWiz	1019792757395804161	mentioned	2018-07-19 03:55:14+00:00	1	0	0	0	Paper.li
+MJMitchell_Lab	WarrenCntrPenn	1019792757395804161	mentioned	2018-07-19 03:55:14+00:00	1	0	0	0	Paper.li
+MJMitchell_Lab	GreenEbonyInc	1019792757395804161	mentioned	2018-07-19 03:55:14+00:00	1	0	0	0	Paper.li
+zzprosper	WarrenCntrPenn	1018953114626543617	mentioned	2018-07-16 20:18:48+00:00	0	0	0	0	Paper.li
+zzprosper	DexteritySolut	1018953114626543617	mentioned	2018-07-16 20:18:48+00:00	0	0	0	0	Paper.li
+vijay_r_kumar	Hopelab	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+vijay_r_kumar	PennMindCORE	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+vijay_r_kumar	WarrenCntrPenn	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+vijay_r_kumar	AnnenbergPenn	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+vijay_r_kumar	whartonbrain	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+vijay_r_kumar	PennCNS	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+vijay_r_kumar	DaniSBassett	1018852729773613057	replied_to	2018-07-16 13:39:54+00:00	0	0	3	0	Twitter Web Client
+DrexelCCI	WarrenCntrPenn	1016960083819974658	mentioned	2018-07-11 08:19:12+00:00	0	0	0	0	Paper.li
+PlanetComplianc	phildaian	1016291045838151680	replied_to	2018-07-09 12:00:41+00:00	0	1	2	0	Twitter Web Client
+PlanetComplianc	VladZamfir	1016291045838151680	replied_to	2018-07-09 12:00:41+00:00	0	1	2	0	Twitter Web Client
+PlanetComplianc	PennEngineers	1016291045838151680	replied_to	2018-07-09 12:00:41+00:00	0	1	2	0	Twitter Web Client
+PlanetComplianc	WarrenCntrPenn	1016291045838151680	replied_to	2018-07-09 12:00:41+00:00	0	1	2	0	Twitter Web Client
+RogerDJones1	cardwell4	1015239573692182528	mentioned	2018-07-06 14:22:31+00:00	0	0	0	0	Paper.li
+RogerDJones1	piyushm58205477	1015239573692182528	mentioned	2018-07-06 14:22:31+00:00	0	0	0	0	Paper.li
+RogerDJones1	WarrenCntrPenn	1015239573692182528	mentioned	2018-07-06 14:22:31+00:00	0	0	0	0	Paper.li
+DrBruceAJohnson	tokengineering	1014551764488597504	mentioned	2018-07-04 16:49:24+00:00	2	0	7	1	Twitter Web Client
+DrBruceAJohnson	block_science	1014551764488597504	mentioned	2018-07-04 16:49:24+00:00	2	0	7	1	Twitter Web Client
+DrBruceAJohnson	WarrenCntrPenn	1014551764488597504	mentioned	2018-07-04 16:49:24+00:00	2	0	7	1	Twitter Web Client
+IntellectLtd	WarrenCntrPenn	1011312262471090179	replied_to	2018-06-25 18:16:47+00:00	0	0	1	0	Twitter for iPhone
+moorejh	WebgainsUK	1008806263898157056	mentioned	2018-06-18 20:18:50+00:00	0	0	0	0	Paper.li
+moorejh	WarrenCntrPenn	1008806263898157056	mentioned	2018-06-18 20:18:50+00:00	0	0	0	0	Paper.li
+AffiliateNet24	TheTopReviewers	926000251261120512	mentioned	2017-11-02 08:17:18+00:00	0	0	0	0	Paper.li
+AffiliateNet24	WarrenCntrPenn	926000251261120512	mentioned	2017-11-02 08:17:18+00:00	0	0	0	0	Paper.li

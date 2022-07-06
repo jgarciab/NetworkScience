@@ -1,0 +1,1812 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+KatieEllenTu	fariba_k	1530422420284362753	replied_to	2022-05-28 05:35:13+00:00	0	0	0	0	Twitter Web App
+KatieEllenTu	aliceschwarze	1530422420284362753	replied_to	2022-05-28 05:35:13+00:00	0	0	0	0	Twitter Web App
+KatieEllenTu	arcos_oliveira	1530422420284362753	replied_to	2022-05-28 05:35:13+00:00	0	0	0	0	Twitter Web App
+KatieEllenTu	MathieuGenois	1530422420284362753	replied_to	2022-05-28 05:35:13+00:00	0	0	0	0	Twitter Web App
+KatieEllenTu	mstrohm	1530422420284362753	replied_to	2022-05-28 05:35:13+00:00	0	0	0	0	Twitter Web App
+arcos_oliveira	fariba_k	1530198339920269318	mentioned	2022-05-27 14:44:48+00:00	7	0	34	0	Twitter Web App
+arcos_oliveira	WanjaSchaible	1530198339920269318	mentioned	2022-05-27 14:44:48+00:00	7	0	34	0	Twitter Web App
+arcos_oliveira	MathieuGenois	1530198339920269318	mentioned	2022-05-27 14:44:48+00:00	7	0	34	0	Twitter Web App
+arcos_oliveira	mstrohm	1530198339920269318	mentioned	2022-05-27 14:44:48+00:00	7	0	34	0	Twitter Web App
+fariba_k	arcos_oliveira	1530190783806070787	mentioned	2022-05-27 14:14:47+00:00	13	4	49	2	Twitter Web App
+fariba_k	MathieuGenois	1530190783806070787	mentioned	2022-05-27 14:14:47+00:00	13	4	49	2	Twitter Web App
+fariba_k	mstrohm	1530190783806070787	mentioned	2022-05-27 14:14:47+00:00	13	4	49	2	Twitter Web App
+IPSDS1	mstrohm	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	MannheimBSchool	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	MZESUniMannheim	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	WUMANetzwerk	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	MaDataScience	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	fraukolos	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	floriankeusch	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+IPSDS1	mzes_ssdl	1529414732838584322	mentioned	2022-05-25 10:51:02+00:00	4	0	3	2	Twitter Web App
+fraukolos	mstrohm	1526905696264101888	mentioned	2022-05-18 12:41:01+00:00	6	0	12	1	Twitter Web App
+fraukolos	floriankeusch	1526905696264101888	mentioned	2022-05-18 12:41:01+00:00	6	0	12	1	Twitter Web App
+fraukolos	IPSDS1	1526905696264101888	mentioned	2022-05-18 12:41:01+00:00	6	0	12	1	Twitter Web App
+fraukolos	MaDataScience	1526905696264101888	mentioned	2022-05-18 12:41:01+00:00	6	0	12	1	Twitter Web App
+fraukolos	BERD_NFDI	1526905696264101888	mentioned	2022-05-18 12:41:01+00:00	6	0	12	1	Twitter Web App
+fraukolos	is_unimannheim	1526905696264101888	mentioned	2022-05-18 12:41:01+00:00	6	0	12	1	Twitter Web App
+pholme	fede7j	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+pholme	mstrohm	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+pholme	dgarcia_eu	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+pholme	tiagopeixoto	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+pholme	alainbarrat	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+pholme	ciro	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+pholme	mstrohm	1526861545870921728	replied_to	2022-05-18 09:45:34+00:00	0	0	2	0	Twitter Web App
+tiagopeixoto	fede7j	1526857512200314880	replied_to	2022-05-18 09:29:33+00:00	0	0	0	0	Twitter Web App
+tiagopeixoto	pholme	1526857512200314880	replied_to	2022-05-18 09:29:33+00:00	0	0	0	0	Twitter Web App
+tiagopeixoto	mstrohm	1526857512200314880	replied_to	2022-05-18 09:29:33+00:00	0	0	0	0	Twitter Web App
+tiagopeixoto	dgarcia_eu	1526857512200314880	replied_to	2022-05-18 09:29:33+00:00	0	0	0	0	Twitter Web App
+tiagopeixoto	alainbarrat	1526857512200314880	replied_to	2022-05-18 09:29:33+00:00	0	0	0	0	Twitter Web App
+tiagopeixoto	ciro	1526857512200314880	replied_to	2022-05-18 09:29:33+00:00	0	0	0	0	Twitter Web App
+fede7j	pholme	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+fede7j	mstrohm	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+fede7j	dgarcia_eu	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+fede7j	tiagopeixoto	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+fede7j	alainbarrat	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+fede7j	ciro	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+fede7j	tiagopeixoto	1526842510915604480	replied_to	2022-05-18 08:29:56+00:00	0	2	0	0	Twitter Web App
+dgarcia_eu	pholme	1526842128059465728	replied_to	2022-05-18 08:28:25+00:00	0	1	0	0	Twitter Web App
+dgarcia_eu	mstrohm	1526842128059465728	replied_to	2022-05-18 08:28:25+00:00	0	1	0	0	Twitter Web App
+dgarcia_eu	dgarcia_eu	1526842128059465728	replied_to	2022-05-18 08:28:25+00:00	0	1	0	0	Twitter Web App
+dgarcia_eu	tiagopeixoto	1526842128059465728	replied_to	2022-05-18 08:28:25+00:00	0	1	0	0	Twitter Web App
+dgarcia_eu	alainbarrat	1526842128059465728	replied_to	2022-05-18 08:28:25+00:00	0	1	0	0	Twitter Web App
+dgarcia_eu	ciro	1526842128059465728	replied_to	2022-05-18 08:28:25+00:00	0	1	0	0	Twitter Web App
+timothyjgraham	fede7j	1526840829456826381	replied_to	2022-05-18 08:23:15+00:00	0	1	0	0	Twitter Web App
+timothyjgraham	mstrohm	1526840829456826381	replied_to	2022-05-18 08:23:15+00:00	0	1	0	0	Twitter Web App
+timothyjgraham	dgarcia_eu	1526840829456826381	replied_to	2022-05-18 08:23:15+00:00	0	1	0	0	Twitter Web App
+timothyjgraham	tiagopeixoto	1526840829456826381	replied_to	2022-05-18 08:23:15+00:00	0	1	0	0	Twitter Web App
+timothyjgraham	alainbarrat	1526840829456826381	replied_to	2022-05-18 08:23:15+00:00	0	1	0	0	Twitter Web App
+timothyjgraham	ciro	1526840829456826381	replied_to	2022-05-18 08:23:15+00:00	0	1	0	0	Twitter Web App
+JurgenPfeffer	mstrohm	1526838329399967760	replied_to	2022-05-18 08:13:19+00:00	0	1	0	0	Twitter Web App
+JurgenPfeffer	dgarcia_eu	1526838329399967760	replied_to	2022-05-18 08:13:19+00:00	0	1	0	0	Twitter Web App
+JurgenPfeffer	tiagopeixoto	1526838329399967760	replied_to	2022-05-18 08:13:19+00:00	0	1	0	0	Twitter Web App
+JurgenPfeffer	alainbarrat	1526838329399967760	replied_to	2022-05-18 08:13:19+00:00	0	1	0	0	Twitter Web App
+JurgenPfeffer	ciro	1526838329399967760	replied_to	2022-05-18 08:13:19+00:00	0	1	0	0	Twitter Web App
+heinrichhartman	timothyjgraham	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	mstrohm	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	heinrichhartman	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	elonmusk	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	Twitter	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	clauwa	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	JurgenPfeffer	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+heinrichhartman	ph_singer	1525789917430927360	replied_to	2022-05-15 10:47:18+00:00	2	0	3	0	Twitter Web App
+SP__init__	JurgenPfeffer	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	mstrohm	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	heinrichhartman	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	elonmusk	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	Twitter	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	clauwa	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	ph_singer	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+SP__init__	dgarcia_eu	1525788674549374976	replied_to	2022-05-15 10:42:22+00:00	0	0	0	0	Twitter for iPhone
+Suvam04352712	mstrohm	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	heinrichhartman	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	elonmusk	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	Twitter	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	clauwa	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	ph_singer	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	timothyjgraham	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+Suvam04352712	dgarcia_eu	1525788388078632961	replied_to	2022-05-15 10:41:14+00:00	0	2	4	0	Twitter Web App
+adrianhon	mstrohm	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	heinrichhartman	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	elonmusk	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	Twitter	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	clauwa	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	JurgenPfeffer	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	ph_singer	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+adrianhon	dgarcia_eu	1525786682192105472	replied_to	2022-05-15 10:34:27+00:00	0	1	2	0	Twitter for iPhone
+NgonadiLilian	mstrohm	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	heinrichhartman	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	elonmusk	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	Twitter	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	clauwa	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	JurgenPfeffer	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	ph_singer	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+NgonadiLilian	timothyjgraham	1525786243375714304	replied_to	2022-05-15 10:32:42+00:00	0	0	2	0	Twitter Web App
+lucie_nlp	mstrohm	1525783817121849344	replied_to	2022-05-15 10:23:04+00:00	0	1	0	0	Twitter Web App
+lucie_nlp	elonmusk	1525783817121849344	replied_to	2022-05-15 10:23:04+00:00	0	1	0	0	Twitter Web App
+lucie_nlp	Twitter	1525783817121849344	replied_to	2022-05-15 10:23:04+00:00	0	1	0	0	Twitter Web App
+lucie_nlp	clauwa	1525783817121849344	replied_to	2022-05-15 10:23:04+00:00	0	1	0	0	Twitter Web App
+lucie_nlp	JurgenPfeffer	1525783817121849344	replied_to	2022-05-15 10:23:04+00:00	0	1	0	0	Twitter Web App
+lucie_nlp	ph_singer	1525783817121849344	replied_to	2022-05-15 10:23:04+00:00	0	1	0	0	Twitter Web App
+BlindDou	mstrohm	1525783177607974913	replied_to	2022-05-15 10:20:31+00:00	0	1	0	0	Twitter Web App
+BlindDou	elonmusk	1525783177607974913	replied_to	2022-05-15 10:20:31+00:00	0	1	0	0	Twitter Web App
+BlindDou	Twitter	1525783177607974913	replied_to	2022-05-15 10:20:31+00:00	0	1	0	0	Twitter Web App
+BlindDou	clauwa	1525783177607974913	replied_to	2022-05-15 10:20:31+00:00	0	1	0	0	Twitter Web App
+BlindDou	JurgenPfeffer	1525783177607974913	replied_to	2022-05-15 10:20:31+00:00	0	1	0	0	Twitter Web App
+BlindDou	ph_singer	1525783177607974913	replied_to	2022-05-15 10:20:31+00:00	0	1	0	0	Twitter Web App
+Papidee7	mstrohm	1525756168530018304	replied_to	2022-05-15 08:33:12+00:00	0	1	0	0	Twitter Web App
+Papidee7	elonmusk	1525756168530018304	replied_to	2022-05-15 08:33:12+00:00	0	1	0	0	Twitter Web App
+Papidee7	Twitter	1525756168530018304	replied_to	2022-05-15 08:33:12+00:00	0	1	0	0	Twitter Web App
+Papidee7	clauwa	1525756168530018304	replied_to	2022-05-15 08:33:12+00:00	0	1	0	0	Twitter Web App
+Papidee7	JurgenPfeffer	1525756168530018304	replied_to	2022-05-15 08:33:12+00:00	0	1	0	0	Twitter Web App
+Papidee7	ph_singer	1525756168530018304	replied_to	2022-05-15 08:33:12+00:00	0	1	0	0	Twitter Web App
+StutiSa66182326	mstrohm	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	elonmusk	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	Twitter	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	clauwa	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	JurgenPfeffer	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	ph_singer	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	mstrohm	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+StutiSa66182326	elonmusk	1525745682543353856	replied_to	2022-05-15 07:51:32+00:00	0	0	0	0	Twitter for Android
+jarolim14	mstrohm	1525728549545590784	replied_to	2022-05-15 06:43:27+00:00	0	1	1	0	Twitter for iPhone
+jarolim14	elonmusk	1525728549545590784	replied_to	2022-05-15 06:43:27+00:00	0	1	1	0	Twitter for iPhone
+jarolim14	Twitter	1525728549545590784	replied_to	2022-05-15 06:43:27+00:00	0	1	1	0	Twitter for iPhone
+jarolim14	clauwa	1525728549545590784	replied_to	2022-05-15 06:43:27+00:00	0	1	1	0	Twitter for iPhone
+jarolim14	JurgenPfeffer	1525728549545590784	replied_to	2022-05-15 06:43:27+00:00	0	1	1	0	Twitter for iPhone
+jarolim14	ph_singer	1525728549545590784	replied_to	2022-05-15 06:43:27+00:00	0	1	1	0	Twitter for iPhone
+enobong	mstrohm	1511033600623321093	replied_to	2022-04-04 17:30:58+00:00	0	0	0	0	Twitter for Android
+enobong	gg42554	1511033600623321093	replied_to	2022-04-04 17:30:58+00:00	0	0	0	0	Twitter for Android
+Chinemerembeni1	lukasmoldon	1510309254716133378	replied_to	2022-04-02 17:32:41+00:00	2	1	4	1	Twitter Web App
+Chinemerembeni1	mstrohm	1510309254716133378	replied_to	2022-04-02 17:32:41+00:00	2	1	4	1	Twitter Web App
+Chinemerembeni1	johannes_wachs	1510309254716133378	replied_to	2022-04-02 17:32:41+00:00	2	1	4	1	Twitter Web App
+Oseborega21	mstrohm	1509249913913319427	replied_to	2022-03-30 19:23:14+00:00	0	0	0	0	Twitter for Android
+MzMairo	mstrohm	1507462890235834371	replied_to	2022-03-25 21:02:14+00:00	0	0	1	0	Twitter Web App
+araharyo	mstrohm	1507382182607613952	replied_to	2022-03-25 15:41:32+00:00	0	0	0	0	Twitter Web App
+jsmovilla	mstrohm	1507312344845721600	replied_to	2022-03-25 11:04:02+00:00	0	0	1	0	Twitter for iPhone
+norakirkizh	mstrohm	1507268419481387012	replied_to	2022-03-25 08:09:29+00:00	0	0	0	0	Twitter Web App
+ingo_S	mstrohm	1507267302353666052	replied_to	2022-03-25 08:05:03+00:00	0	0	0	0	Twitter Web App
+Journey210	mstrohm	1507258655271440412	replied_to	2022-03-25 07:30:41+00:00	0	1	0	0	Twitter for iPhone
+Journey210	ComSocSci	1507258655271440412	replied_to	2022-03-25 07:30:41+00:00	0	1	0	0	Twitter for iPhone
+CSHVienna	mstrohm	1507227915385200641	replied_to	2022-03-25 05:28:32+00:00	0	0	0	0	Twitter for iPhone
+CSHVienna	joceemycin	1507227915385200641	replied_to	2022-03-25 05:28:32+00:00	0	0	0	0	Twitter for iPhone
+MLuczak	mstrohm	1507098510688141329	replied_to	2022-03-24 20:54:20+00:00	1	0	1	0	Twitter for iPhone
+johannes_wachs	mstrohm	1507092328103698446	replied_to	2022-03-24 20:29:46+00:00	0	0	0	0	Twitter for Android
+arnimb	mstrohm	1507090444483715075	replied_to	2022-03-24 20:22:17+00:00	0	0	0	0	Twitter for Android
+arnimb	olumuyiwaayo	1507090444483715075	replied_to	2022-03-24 20:22:17+00:00	0	0	0	0	Twitter for Android
+arnimb	ola_lere	1507090444483715075	replied_to	2022-03-24 20:22:17+00:00	0	0	0	0	Twitter for Android
+phschaer	mstrohm	1507086330760937473	replied_to	2022-03-24 20:05:56+00:00	0	0	0	0	Twitter for Android
+gesis_org	mstrohm	1507074227861602316	replied_to	2022-03-24 19:17:50+00:00	0	0	1	0	Twitter Web App
+GaborBekes	mstrohm	1507031369817460738	replied_to	2022-03-24 16:27:32+00:00	0	0	1	0	Twitter for iPhone
+GaborBekes	lizasivak	1507031369817460738	replied_to	2022-03-24 16:27:32+00:00	0	0	1	0	Twitter for iPhone
+renepickhardt	mstrohm	1507027208287801344	mentioned	2022-03-24 16:11:00+00:00	3	1	8	0	Twitter Web App
+renepickhardt	MannheimBSchool	1507027208287801344	mentioned	2022-03-24 16:11:00+00:00	3	1	8	0	Twitter Web App
+tobgummer	janalasser	1504427795996364802	replied_to	2022-03-17 12:01:52+00:00	0	0	0	0	Twitter for Android
+tobgummer	mstrohm	1504427795996364802	replied_to	2022-03-17 12:01:52+00:00	0	0	0	0	Twitter for Android
+tobgummer	RWTH	1504427795996364802	replied_to	2022-03-17 12:01:52+00:00	0	0	0	0	Twitter for Android
+tobgummer	tugraz	1504427795996364802	replied_to	2022-03-17 12:01:52+00:00	0	0	0	0	Twitter for Android
+computermacgyve	tugraz	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	RWTH	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	dgarcia_eu	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	MedUni_Wien	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	tugraz	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	janalasser	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	mstrohm	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+computermacgyve	robysinatra	1504397892005601280	quoted	2022-03-17 10:03:02+00:00	0	0	6	0	Twitter Web App
+spponzius	SilkeRoth	1498567100180226049	replied_to	2022-03-01 07:53:33+00:00	0	0	1	0	TweetDeck Web App
+spponzius	susanjhalford	1498567100180226049	replied_to	2022-03-01 07:53:33+00:00	0	0	1	0	TweetDeck Web App
+spponzius	Knhannah	1498567100180226049	replied_to	2022-03-01 07:53:33+00:00	0	0	1	0	TweetDeck Web App
+spponzius	mstrohm	1498567100180226049	replied_to	2022-03-01 07:53:33+00:00	0	0	1	0	TweetDeck Web App
+spponzius	clauwa	1498567100180226049	replied_to	2022-03-01 07:53:33+00:00	0	0	1	0	TweetDeck Web App
+Kunkakom	lukasmoldon	1496433566812622848	mentioned	2022-02-23 10:35:39+00:00	2	0	13	0	Twitter Web App
+Kunkakom	mstrohm	1496433566812622848	mentioned	2022-02-23 10:35:39+00:00	2	0	13	0	Twitter Web App
+Kunkakom	gi_seconf	1496433566812622848	mentioned	2022-02-23 10:35:39+00:00	2	0	13	0	Twitter Web App
+marius_saeltzer	mstrohm	1479058284783058946	replied_to	2022-01-06 11:52:29+00:00	0	0	1	0	Twitter Web App
+marius_saeltzer	gesis_org	1479058284783058946	replied_to	2022-01-06 11:52:29+00:00	0	0	1	0	Twitter Web App
+marius_saeltzer	CSHVienna	1479058284783058946	replied_to	2022-01-06 11:52:29+00:00	0	0	1	0	Twitter Web App
+matthias_hagen	mstrohm	1479041519587844099	replied_to	2022-01-06 10:45:52+00:00	0	0	1	0	Twitter Web App
+matthias_hagen	gesis_org	1479041519587844099	replied_to	2022-01-06 10:45:52+00:00	0	0	1	0	Twitter Web App
+matthias_hagen	CSHVienna	1479041519587844099	replied_to	2022-01-06 10:45:52+00:00	0	0	1	0	Twitter Web App
+JensSchubert75	mstrohm	1477948683933167616	replied_to	2022-01-03 10:23:19+00:00	0	0	2	0	Twitter Web App
+JensSchubert75	CSHVienna	1477948683933167616	replied_to	2022-01-03 10:23:19+00:00	0	0	2	0	Twitter Web App
+SebStier	mstrohm	1477652834598461444	replied_to	2022-01-02 14:47:43+00:00	0	0	1	0	Twitter for iPhone
+SebStier	gesis_org	1477652834598461444	replied_to	2022-01-02 14:47:43+00:00	0	0	1	0	Twitter for iPhone
+SebStier	CSHVienna	1477652834598461444	replied_to	2022-01-02 14:47:43+00:00	0	0	1	0	Twitter for iPhone
+SimonHegelich	mstrohm	1477629372060344324	replied_to	2022-01-02 13:14:29+00:00	0	0	1	0	Twitter for Android
+SimonHegelich	gesis_org	1477629372060344324	replied_to	2022-01-02 13:14:29+00:00	0	0	1	0	Twitter for Android
+SimonHegelich	CSHVienna	1477629372060344324	replied_to	2022-01-02 13:14:29+00:00	0	0	1	0	Twitter for Android
+leoferres	mstrohm	1477334086410809344	replied_to	2022-01-01 17:41:08+00:00	0	1	4	0	Twitter for Android
+leoferres	gesis_org	1477334086410809344	replied_to	2022-01-01 17:41:08+00:00	0	1	4	0	Twitter for Android
+leoferres	CSHVienna	1477334086410809344	replied_to	2022-01-01 17:41:08+00:00	0	1	4	0	Twitter for Android
+ststaab	mstrohm	1477332544223907844	replied_to	2022-01-01 17:35:00+00:00	0	0	1	0	Twitter Web App
+ststaab	gesis_org	1477332544223907844	replied_to	2022-01-01 17:35:00+00:00	0	0	1	0	Twitter Web App
+ststaab	CSHVienna	1477332544223907844	replied_to	2022-01-01 17:35:00+00:00	0	0	1	0	Twitter Web App
+ajungherr	mstrohm	1477297949831012360	replied_to	2022-01-01 15:17:32+00:00	0	0	1	0	Twitter for Android
+ajungherr	gesis_org	1477297949831012360	replied_to	2022-01-01 15:17:32+00:00	0	0	1	0	Twitter for Android
+ajungherr	CSHVienna	1477297949831012360	replied_to	2022-01-01 15:17:32+00:00	0	0	1	0	Twitter for Android
+HStuckenschmidt	mstrohm	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	HStuckenschmidt	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	floriankeusch	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	JuttaMata	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	fraukolos	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	heikopaulheim	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	ChrisBizer	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+HStuckenschmidt	NiessenRuenzi	1477295476550602753	replied_to	2022-01-01 15:07:43+00:00	0	0	2	0	Twitter Web App
+ponguru	mstrohm	1477285619818762246	replied_to	2022-01-01 14:28:33+00:00	0	0	1	0	Twitter for Android
+ponguru	gesis_org	1477285619818762246	replied_to	2022-01-01 14:28:33+00:00	0	0	1	0	Twitter for Android
+ponguru	CSHVienna	1477285619818762246	replied_to	2022-01-01 14:28:33+00:00	0	0	1	0	Twitter for Android
+janalasser	mstrohm	1477269855460069377	replied_to	2022-01-01 13:25:54+00:00	0	0	1	0	Twitter for Android
+janalasser	gesis_org	1477269855460069377	replied_to	2022-01-01 13:25:54+00:00	0	0	1	0	Twitter for Android
+janalasser	CSHVienna	1477269855460069377	replied_to	2022-01-01 13:25:54+00:00	0	0	1	0	Twitter for Android
+a_baronca	mstrohm	1477247293774569475	replied_to	2022-01-01 11:56:15+00:00	0	1	1	0	Twitter for Android
+a_baronca	gesis_org	1477247293774569475	replied_to	2022-01-01 11:56:15+00:00	0	1	1	0	Twitter for Android
+a_baronca	CSHVienna	1477247293774569475	replied_to	2022-01-01 11:56:15+00:00	0	1	1	0	Twitter for Android
+nikete	ststaab	1477234993269297152	replied_to	2022-01-01 11:07:22+00:00	0	0	1	0	Twitter for iPhone
+nikete	mstrohm	1477234993269297152	replied_to	2022-01-01 11:07:22+00:00	0	0	1	0	Twitter for iPhone
+nikete	gesis_org	1477234993269297152	replied_to	2022-01-01 11:07:22+00:00	0	0	1	0	Twitter for iPhone
+nikete	CSHVienna	1477234993269297152	replied_to	2022-01-01 11:07:22+00:00	0	0	1	0	Twitter for iPhone
+stimuluspk	mstrohm	1477232577350094848	replied_to	2022-01-01 10:57:46+00:00	0	0	1	0	Twitter Web App
+stimuluspk	gesis_org	1477232577350094848	replied_to	2022-01-01 10:57:46+00:00	0	0	1	0	Twitter Web App
+stimuluspk	CSHVienna	1477232577350094848	replied_to	2022-01-01 10:57:46+00:00	0	0	1	0	Twitter Web App
+leoneuhaeuser	mstrohm	1477232353789501442	replied_to	2022-01-01 10:56:53+00:00	0	0	1	0	Twitter for Android
+leoneuhaeuser	gesis_org	1477232353789501442	replied_to	2022-01-01 10:56:53+00:00	0	0	1	0	Twitter for Android
+leoneuhaeuser	CSHVienna	1477232353789501442	replied_to	2022-01-01 10:56:53+00:00	0	0	1	0	Twitter for Android
+OpenSexism	mstrohm	1477224501414797312	replied_to	2022-01-01 10:25:41+00:00	0	0	1	0	Twitter for Android
+OpenSexism	GESSuniMannheim	1477224501414797312	replied_to	2022-01-01 10:25:41+00:00	0	0	1	0	Twitter for Android
+OpenSexism	BERD_NFDI	1477224501414797312	replied_to	2022-01-01 10:25:41+00:00	0	0	1	0	Twitter for Android
+OpenSexism	MannheimBSchool	1477224501414797312	replied_to	2022-01-01 10:25:41+00:00	0	0	1	0	Twitter for Android
+OpenSexism	MaDataScience	1477224501414797312	replied_to	2022-01-01 10:25:41+00:00	0	0	1	0	Twitter for Android
+OpenSexism	MZESUniMannheim	1477224501414797312	replied_to	2022-01-01 10:25:41+00:00	0	0	1	0	Twitter for Android
+ruptho_	mstrohm	1477221355238178818	replied_to	2022-01-01 10:13:11+00:00	0	1	4	0	Twitter for iPhone
+ruptho_	gesis_org	1477221355238178818	replied_to	2022-01-01 10:13:11+00:00	0	1	4	0	Twitter for iPhone
+ruptho_	CSHVienna	1477221355238178818	replied_to	2022-01-01 10:13:11+00:00	0	1	4	0	Twitter for iPhone
+KBryanov	mstrohm	1477217173701640192	replied_to	2022-01-01 09:56:34+00:00	0	0	1	0	Twitter Web App
+KBryanov	gesis_org	1477217173701640192	replied_to	2022-01-01 09:56:34+00:00	0	0	1	0	Twitter Web App
+KBryanov	CSHVienna	1477217173701640192	replied_to	2022-01-01 09:56:34+00:00	0	0	1	0	Twitter Web App
+followML_	mstrohm	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	floriankeusch	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	JuttaMata	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	fraukolos	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	heikopaulheim	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	spponzius	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	ChrisBizer	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+followML_	NiessenRuenzi	1477217167280066560	replied_to	2022-01-01 09:56:32+00:00	0	0	3	0	Twitter for Android
+sqr_hussain	DrTomEmery	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	CsscUniBo1	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	ruettenauer	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	JaeJaeykim2	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	ibsmirnov	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	dgarcia_eu	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	mstrohm	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	janalasser	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	cbarrie	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	claudiakincaid	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	bjoernross	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	AkinUnver	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	sicss_howard	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	SICSS_Istanbul	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	SICSSUHH	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	suhemparack	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+sqr_hussain	lanukim	1473163617507766273	replied_to	2021-12-21 05:29:11+00:00	2	1	9	0	Twitter Web App
+Tanmoy_Chak	tugraz	1471114905231282176	mentioned	2021-12-15 13:48:20+00:00	5	1	58	1	Twitter Web App
+Tanmoy_Chak	RWTH	1471114905231282176	mentioned	2021-12-15 13:48:20+00:00	5	1	58	1	Twitter Web App
+Tanmoy_Chak	ibsmirnov	1471114905231282176	mentioned	2021-12-15 13:48:20+00:00	5	1	58	1	Twitter Web App
+Tanmoy_Chak	dgarcia_eu	1471114905231282176	mentioned	2021-12-15 13:48:20+00:00	5	1	58	1	Twitter Web App
+Tanmoy_Chak	mstrohm	1471114905231282176	mentioned	2021-12-15 13:48:20+00:00	5	1	58	1	Twitter Web App
+elisab79	mstrohm	1462836028255969287	replied_to	2021-11-22 17:31:01+00:00	0	0	1	0	Twitter Web App
+clauwa	mstrohm	1460953063364120578	replied_to	2021-11-17 12:48:48+00:00	0	0	0	0	Twitter Web App
+clauwa	a_baronca	1460953063364120578	replied_to	2021-11-17 12:48:48+00:00	0	0	0	0	Twitter Web App
+kedwardbear	mehreenss	1458113068580417542	quoted	2021-11-09 16:43:40+00:00	2	0	5	1	Twitter for Android
+kedwardbear	FNFPakistan	1458113068580417542	quoted	2021-11-09 16:43:40+00:00	2	0	5	1	Twitter for Android
+kedwardbear	Siemens	1458113068580417542	quoted	2021-11-09 16:43:40+00:00	2	0	5	1	Twitter for Android
+kedwardbear	mstrohm	1458113068580417542	quoted	2021-11-09 16:43:40+00:00	2	0	5	1	Twitter for Android
+arxivabs	mstrohm	1455878787384717323	quoted	2021-11-03 12:45:26+00:00	8	0	48	0	Twitter Web App
+allisonwilens	WikiResearch	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	cervisiarius	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	f_lemmerich	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	mstrohm	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	dhelic	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	UniGraz	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	EPFL_en	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	RWTH	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	gesis_org	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	Wikipedia	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+allisonwilens	WikiProjectMed	1455603925847982083	replied_to	2021-11-02 18:33:14+00:00	0	0	2	0	Twitter Web App
+WiNS_Society	WikiResearch	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	cervisiarius	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	f_lemmerich	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	mstrohm	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	dhelic	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	UniGraz	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	EPFL_en	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	RWTH	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	gesis_org	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	Wikipedia	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	WikiProjectMed	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+WiNS_Society	SciReports	1455501493071646723	replied_to	2021-11-02 11:46:12+00:00	0	0	1	0	Twitter Web App
+akadsoz	manoelribeiro	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	f_lemmerich	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	mstrohm	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	cervisiarius	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	dhelic	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	Wikipedia	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	SpringerNature	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+akadsoz	SciReports	1455500322848313350	quoted	2021-11-02 11:41:33+00:00	9	0	30	3	Twitter Web App
+lespin	gvwilson	1445914840774610948	quoted	2021-10-07 00:52:16+00:00	0	0	2	0	Twitter for iPhone
+lespin	lukasmoldon	1445914840774610948	quoted	2021-10-07 00:52:16+00:00	0	0	2	0	Twitter for iPhone
+lespin	mstrohm	1445914840774610948	quoted	2021-10-07 00:52:16+00:00	0	0	2	0	Twitter for iPhone
+brunofmr	lespin	1445692385556504580	mentioned	2021-10-06 10:08:19+00:00	8	0	23	0	Twitter Web App
+brunofmr	clauwa	1445692385556504580	mentioned	2021-10-06 10:08:19+00:00	8	0	23	0	Twitter Web App
+brunofmr	mstrohm	1445692385556504580	mentioned	2021-10-06 10:08:19+00:00	8	0	23	0	Twitter Web App
+libkey_io	claesdevreese	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+libkey_io	noshir	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+libkey_io	mstrohm	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+libkey_io	ica_cm	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+libkey_io	poli_com	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+libkey_io	icahdq	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+libkey_io	ICASECAC	1443858882569424898	mentioned	2021-10-01 08:42:37+00:00	5	0	9	1	Twitter Web App
+masscustom	mstrohm	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	clauwa	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	TahaYasseri	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	davidlazer	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	noshir	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	iconf	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	sigchi	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	DameWendyDBE	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+masscustom	Nigel_Shadbolt	1423348179999727625	replied_to	2021-08-05 18:20:25+00:00	0	1	0	0	Twitter for Android
+c_schwemmer	sqr_hussain	1421116300462632965	replied_to	2021-07-30 14:31:43+00:00	0	0	0	0	FollowML
+c_schwemmer	elisab79	1421116300462632965	replied_to	2021-07-30 14:31:43+00:00	0	0	0	0	FollowML
+c_schwemmer	dhelic	1421116300462632965	replied_to	2021-07-30 14:31:43+00:00	0	0	0	0	FollowML
+c_schwemmer	djurazzi	1421116300462632965	replied_to	2021-07-30 14:31:43+00:00	0	0	0	0	FollowML
+c_schwemmer	mstrohm	1421116300462632965	replied_to	2021-07-30 14:31:43+00:00	0	0	0	0	FollowML
+ndiakopoulos	elisab79	1421116026389938176	mentioned	2021-07-30 14:30:38+00:00	5	1	12	0	Twitter Web App
+ndiakopoulos	dhelic	1421116026389938176	mentioned	2021-07-30 14:30:38+00:00	5	1	12	0	Twitter Web App
+ndiakopoulos	djurazzi	1421116026389938176	mentioned	2021-07-30 14:30:38+00:00	5	1	12	0	Twitter Web App
+ndiakopoulos	mstrohm	1421116026389938176	mentioned	2021-07-30 14:30:38+00:00	5	1	12	0	Twitter Web App
+noshir	Nature	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	clauwa	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	mstrohm	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	o_saja	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	emrek	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	tinaeliassi	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	ResearchNU	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	NU_SoC	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	KelloggSchool	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+noshir	NorthwesternEng	1410282022287859715	quoted	2021-06-30 17:00:10+00:00	4	1	45	0	Twitter Web App
+emrek	clauwa	1410281841089777665	replied_to	2021-06-30 16:59:27+00:00	0	0	4	0	Twitter for iPhone
+emrek	mstrohm	1410281841089777665	replied_to	2021-06-30 16:59:27+00:00	0	0	4	0	Twitter for iPhone
+emrek	o_saja	1410281841089777665	replied_to	2021-06-30 16:59:27+00:00	0	0	4	0	Twitter for iPhone
+emrek	noshir	1410281841089777665	replied_to	2021-06-30 16:59:27+00:00	0	0	4	0	Twitter for iPhone
+emrek	tinaeliassi	1410281841089777665	replied_to	2021-06-30 16:59:27+00:00	0	0	4	0	Twitter for iPhone
+tinaeliassi	Nature	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	clauwa	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	mstrohm	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	o_saja	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	emrek	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	noshir	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	KhouryCollege	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	NUnetsi	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+tinaeliassi	Northeastern	1410275223073607689	mentioned	2021-06-30 16:33:09+00:00	48	1	180	5	Twitter Web App
+dgarcia_eu	mstrohm	1409548170124800003	replied_to	2021-06-28 16:24:06+00:00	0	0	2	0	Twitter Web App
+leoferres	mstrohm	1409547487971577856	replied_to	2021-06-28 16:21:23+00:00	0	0	1	0	TweetDeck
+leoferres	dgarcia_eu	1409547487971577856	replied_to	2021-06-28 16:21:23+00:00	0	0	1	0	TweetDeck
+EPronizius	mstrohm	1409547301178204166	replied_to	2021-06-28 16:20:39+00:00	0	0	1	0	TweetDeck
+EPronizius	dgarcia_eu	1409547301178204166	replied_to	2021-06-28 16:20:39+00:00	0	0	1	0	TweetDeck
+miriam_fs	dgarcia_eu	1409545259697192960	replied_to	2021-06-28 16:12:32+00:00	0	1	1	0	TweetDeck
+miriam_fs	mstrohm	1409545259697192960	replied_to	2021-06-28 16:12:32+00:00	0	1	1	0	TweetDeck
+IPSDS1	EPronizius	1409544300153671687	replied_to	2021-06-28 16:08:43+00:00	0	0	3	0	Twitter Web App
+IPSDS1	mstrohm	1409544300153671687	replied_to	2021-06-28 16:08:43+00:00	0	0	3	0	Twitter Web App
+kovarekd	mstrohm	1409543002209632263	replied_to	2021-06-28 16:03:34+00:00	1	1	3	0	Twitter Web App
+kovarekd	dgarcia_eu	1409543002209632263	replied_to	2021-06-28 16:03:34+00:00	1	1	3	0	Twitter Web App
+simonsaysnothin	mstrohm	1409542229274861573	replied_to	2021-06-28 16:00:30+00:00	0	1	2	0	Twitter Web App
+tiagopeixoto	mstrohm	1409541626683342856	replied_to	2021-06-28 15:58:06+00:00	0	0	2	0	Twitter for Android
+tiagopeixoto	dgarcia_eu	1409541626683342856	replied_to	2021-06-28 15:58:06+00:00	0	0	2	0	Twitter for Android
+fede7j	mstrohm	1409538558994571265	replied_to	2021-06-28 15:45:55+00:00	1	1	2	0	Twitter Web App
+koltaijuli	JuttaMata	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	stahlresearch	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	OhioStateComm	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	mstrohm	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	RWTH	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	dgof_gor	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	JPSMumd	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	mzes_ssdl	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	MaDataScience	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+koltaijuli	gesis_org	1403038427621347331	mentioned	2021-06-10 17:16:42+00:00	3	0	9	1	Twitter Web App
+leoneuhaeuser	koltaijuli	1400026947179196418	replied_to	2021-06-02 09:50:10+00:00	0	0	1	0	Twitter Web App
+leoneuhaeuser	fariba_k	1400026947179196418	replied_to	2021-06-02 09:50:10+00:00	0	0	1	0	Twitter Web App
+leoneuhaeuser	mstrohm	1400026947179196418	replied_to	2021-06-02 09:50:10+00:00	0	0	1	0	Twitter Web App
+fariba_k	bkeegan	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	ndiakopoulos	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	mstrohm	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	clauwa	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	kwelle	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	ajungherr	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	clmbirn	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	wahlprognose21	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+fariba_k	zweitstimme_org	1399771568520286210	replied_to	2021-06-01 16:55:23+00:00	0	1	3	0	Tweetbot for iΟS
+CSHVienna	koltaijuli	1399632857207877632	replied_to	2021-06-01 07:44:11+00:00	0	0	1	0	Twitter for Android
+CSHVienna	fariba_k	1399632857207877632	replied_to	2021-06-01 07:44:11+00:00	0	0	1	0	Twitter for Android
+CSHVienna	mstrohm	1399632857207877632	replied_to	2021-06-01 07:44:11+00:00	0	0	1	0	Twitter for Android
+elisab79	koltaijuli	1399625210698010631	replied_to	2021-06-01 07:13:48+00:00	0	0	2	0	Twitter Web App
+elisab79	fariba_k	1399625210698010631	replied_to	2021-06-01 07:13:48+00:00	0	0	2	0	Twitter Web App
+elisab79	mstrohm	1399625210698010631	replied_to	2021-06-01 07:13:48+00:00	0	0	2	0	Twitter Web App
+c_schwemmer	fariba_k	1399498490418503682	quoted	2021-05-31 22:50:16+00:00	3	3	33	0	Twitter for iPhone
+c_schwemmer	mstrohm	1399498490418503682	quoted	2021-05-31 22:50:16+00:00	3	3	33	0	Twitter for iPhone
+johannes_wachs	ingo_S	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	austinbenson	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	mstrohm	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	KristinaLerman	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	fede7j	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	BenFMaier	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	_giuliacencetti	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	iacopoiacopini	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	antoneri	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	GuiFdeArruda	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	HZinnbrooks	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+johannes_wachs	PhilChodrow	1399276907338907651	replied_to	2021-05-31 08:09:46+00:00	3	1	9	0	Twitter Web App
+manoelribeiro	elisab79	1397971673677287425	replied_to	2021-05-27 17:43:14+00:00	0	0	1	0	Twitter for iPad
+manoelribeiro	WWTF	1397971673677287425	replied_to	2021-05-27 17:43:14+00:00	0	0	1	0	Twitter for iPad
+manoelribeiro	mstrohm	1397971673677287425	replied_to	2021-05-27 17:43:14+00:00	0	0	1	0	Twitter for iPad
+manoelribeiro	koltaijuli	1397971673677287425	replied_to	2021-05-27 17:43:14+00:00	0	0	1	0	Twitter for iPad
+adrianhon	WWTF	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+adrianhon	fariba_k	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+adrianhon	mstrohm	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+adrianhon	RWTH	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+adrianhon	koltaijuli	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+adrianhon	ELTE_TATK	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+adrianhon	dnds_ceu	1397921567888216074	quoted	2021-05-27 14:24:08+00:00	2	1	11	0	Twitter Web App
+elaragon	fariba_k	1397907163930980353	replied_to	2021-05-27 13:26:54+00:00	0	1	0	0	Twitter Web App
+elaragon	WWTF	1397907163930980353	replied_to	2021-05-27 13:26:54+00:00	0	1	0	0	Twitter Web App
+elaragon	mstrohm	1397907163930980353	replied_to	2021-05-27 13:26:54+00:00	0	1	0	0	Twitter Web App
+elaragon	koltaijuli	1397907163930980353	replied_to	2021-05-27 13:26:54+00:00	0	1	0	0	Twitter Web App
+elaragon	fariba_k	1397907163930980353	replied_to	2021-05-27 13:26:54+00:00	0	1	0	0	Twitter Web App
+ponguru	WWTF	1397884496989626370	quoted	2021-05-27 11:56:50+00:00	0	1	13	0	Twitter Web App
+ponguru	mstrohm	1397884496989626370	quoted	2021-05-27 11:56:50+00:00	0	1	13	0	Twitter Web App
+ponguru	koltaijuli	1397884496989626370	quoted	2021-05-27 11:56:50+00:00	0	1	13	0	Twitter Web App
+lorenterveen	johannes_wachs	1397124798661210113	replied_to	2021-05-25 09:38:03+00:00	0	0	3	0	Twitter Web App
+lorenterveen	lukasmoldon	1397124798661210113	replied_to	2021-05-25 09:38:03+00:00	0	0	3	0	Twitter Web App
+lorenterveen	mstrohm	1397124798661210113	replied_to	2021-05-25 09:38:03+00:00	0	0	3	0	Twitter Web App
+tugraz_csbme	lukasmoldon	1397112520121458695	mentioned	2021-05-25 08:49:16+00:00	1	1	6	0	Twitter Web App
+tugraz_csbme	mstrohm	1397112520121458695	mentioned	2021-05-25 08:49:16+00:00	1	1	6	0	Twitter Web App
+ruptho_	krisgligoric	1391049900637499393	replied_to	2021-05-08 15:18:35+00:00	14	0	33	1	Twitter Web App
+ruptho_	peyrardMax	1391049900637499393	replied_to	2021-05-08 15:18:35+00:00	14	0	33	1	Twitter Web App
+ruptho_	f_lemmerich	1391049900637499393	replied_to	2021-05-08 15:18:35+00:00	14	0	33	1	Twitter Web App
+ruptho_	mstrohm	1391049900637499393	replied_to	2021-05-08 15:18:35+00:00	14	0	33	1	Twitter Web App
+ruptho_	cervisiarius	1391049900637499393	replied_to	2021-05-08 15:18:35+00:00	14	0	33	1	Twitter Web App
+MartinvanDalen1	johannes_wachs	1389285216829722629	replied_to	2021-05-03 18:26:22+00:00	0	0	0	0	Tweetbot for Mac
+MartinvanDalen1	lukasmoldon	1389285216829722629	replied_to	2021-05-03 18:26:22+00:00	0	0	0	0	Tweetbot for Mac
+MartinvanDalen1	mstrohm	1389285216829722629	replied_to	2021-05-03 18:26:22+00:00	0	0	0	0	Tweetbot for Mac
+MartinvanDalen1	ICSEconf	1389285216829722629	replied_to	2021-05-03 18:26:22+00:00	0	0	0	0	Tweetbot for Mac
+cervisiarius	adrianhon	1389284841628315650	replied_to	2021-05-03 18:24:52+00:00	0	1	2	0	Twitter Web App
+cervisiarius	lukasmoldon	1389284841628315650	replied_to	2021-05-03 18:24:52+00:00	0	1	2	0	Twitter Web App
+cervisiarius	mstrohm	1389284841628315650	replied_to	2021-05-03 18:24:52+00:00	0	1	2	0	Twitter Web App
+cervisiarius	ICSEconf	1389284841628315650	replied_to	2021-05-03 18:24:52+00:00	0	1	2	0	Twitter Web App
+cervisiarius	lukasmoldon	1389284841628315650	replied_to	2021-05-03 18:24:52+00:00	0	1	2	0	Twitter Web App
+docassar	Wikipedia	1382340264778424329	mentioned	2021-04-14 14:29:36+00:00	6	0	3	0	Twitter Web App
+docassar	f_lemmerich	1382340264778424329	mentioned	2021-04-14 14:29:36+00:00	6	0	3	0	Twitter Web App
+docassar	mstrohm	1382340264778424329	mentioned	2021-04-14 14:29:36+00:00	6	0	3	0	Twitter Web App
+YupingWang90	mstrohm	1372218772447105028	mentioned	2021-03-17 16:10:24+00:00	1	1	11	0	Twitter Web App
+YupingWang90	clauwa	1372218772447105028	mentioned	2021-03-17 16:10:24+00:00	1	1	11	0	Twitter Web App
+ICepfl	ph_singer	1367155596387110913	mentioned	2021-03-03 16:51:09+00:00	2	0	12	1	Twitter Web App
+ICepfl	f_lemmerich	1367155596387110913	mentioned	2021-03-03 16:51:09+00:00	2	0	12	1	Twitter Web App
+ICepfl	mstrohm	1367155596387110913	mentioned	2021-03-03 16:51:09+00:00	2	0	12	1	Twitter Web App
+ICepfl	jure	1367155596387110913	mentioned	2021-03-03 16:51:09+00:00	2	0	12	1	Twitter Web App
+StephenDarori	ruptho_	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+StephenDarori	dhelic	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+StephenDarori	stokel	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+StephenDarori	manoelribeiro	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+StephenDarori	f_lemmerich	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+StephenDarori	mstrohm	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+StephenDarori	cervisiarius	1366493480873308161	replied_to	2021-03-01 21:00:08+00:00	0	0	0	0	Twitter for iPhone
+anna_wegmann	stokel	1366420908861231114	mentioned	2021-03-01 16:11:46+00:00	6	1	24	0	Twitter Web App
+anna_wegmann	manoelribeiro	1366420908861231114	mentioned	2021-03-01 16:11:46+00:00	6	1	24	0	Twitter Web App
+anna_wegmann	f_lemmerich	1366420908861231114	mentioned	2021-03-01 16:11:46+00:00	6	1	24	0	Twitter Web App
+anna_wegmann	mstrohm	1366420908861231114	mentioned	2021-03-01 16:11:46+00:00	6	1	24	0	Twitter Web App
+anna_wegmann	cervisiarius	1366420908861231114	mentioned	2021-03-01 16:11:46+00:00	6	1	24	0	Twitter Web App
+anna_wegmann	dhelic	1366420908861231114	mentioned	2021-03-01 16:11:46+00:00	6	1	24	0	Twitter Web App
+pernischova	ruptho_	1364209595267362816	mentioned	2021-02-23 13:44:47+00:00	19	1	45	3	Twitter Web App
+pernischova	f_lemmerich	1364209595267362816	mentioned	2021-02-23 13:44:47+00:00	19	1	45	3	Twitter Web App
+pernischova	mstrohm	1364209595267362816	mentioned	2021-02-23 13:44:47+00:00	19	1	45	3	Twitter Web App
+pernischova	cervisiarius	1364209595267362816	mentioned	2021-02-23 13:44:47+00:00	19	1	45	3	Twitter Web App
+pernischova	dhelic	1364209595267362816	mentioned	2021-02-23 13:44:47+00:00	19	1	45	3	Twitter Web App
+chris_papst	WikiResearch	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	Pyb75	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	cervisiarius	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	f_lemmerich	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	mstrohm	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	dhelic	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	UniGraz	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	EPFL_en	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	RWTH	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	gesis_org	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	Wikipedia	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+chris_papst	WikiProjectMed	1363930377388187653	replied_to	2021-02-22 19:15:17+00:00	0	0	4	0	Twitter for Android
+PFCdgayo	ruptho_	1363926191745470466	quoted	2021-02-22 18:58:39+00:00	7	0	17	0	Twitter for iPhone
+PFCdgayo	manoelribeiro	1363926191745470466	quoted	2021-02-22 18:58:39+00:00	7	0	17	0	Twitter for iPhone
+PFCdgayo	f_lemmerich	1363926191745470466	quoted	2021-02-22 18:58:39+00:00	7	0	17	0	Twitter for iPhone
+PFCdgayo	mstrohm	1363926191745470466	quoted	2021-02-22 18:58:39+00:00	7	0	17	0	Twitter for iPhone
+PFCdgayo	dhelic	1363926191745470466	quoted	2021-02-22 18:58:39+00:00	7	0	17	0	Twitter for iPhone
+sinanaral	icwsm	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	manoelribeiro	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	feedkoko	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	ponguru	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	_kenny_joseph	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	cikm2020	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	YupingWang90	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	docassar	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	mstrohm	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+sinanaral	dgarcia_eu	1346871132805332994	mentioned	2021-01-06 17:27:56+00:00	0	0	7	0	Twitter Web App
+HelenMargetts	icwsm	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	manoelribeiro	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	feedkoko	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	ponguru	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	_kenny_joseph	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	cikm2020	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	YupingWang90	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	docassar	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	mstrohm	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+HelenMargetts	dgarcia_eu	1346384451492864001	mentioned	2021-01-05 09:14:02+00:00	0	0	6	0	Twitter Web App
+smr_foundation	elaragon	1343159349246644224	replied_to	2020-12-27 11:38:38+00:00	0	0	3	0	Twitter Web App
+smr_foundation	ecozzo	1343159349246644224	replied_to	2020-12-27 11:38:38+00:00	0	0	3	0	Twitter Web App
+smr_foundation	guersole	1343159349246644224	replied_to	2020-12-27 11:38:38+00:00	0	0	3	0	Twitter Web App
+smr_foundation	victorianoi	1343159349246644224	replied_to	2020-12-27 11:38:38+00:00	0	0	3	0	Twitter Web App
+smr_foundation	clauwa	1343159349246644224	replied_to	2020-12-27 11:38:38+00:00	0	0	3	0	Twitter Web App
+smr_foundation	mstrohm	1343159349246644224	replied_to	2020-12-27 11:38:38+00:00	0	0	3	0	Twitter Web App
+giaruffo	dgarcia_eu	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	ecozzo	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	guersole	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	victorianoi	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	clauwa	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	mstrohm	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	clauwa	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+giaruffo	mstrohm	1343158688907980800	replied_to	2020-12-27 11:36:00+00:00	0	1	4	0	Twitter for Android
+ph_singer	elaragon	1343151744163983360	replied_to	2020-12-27 11:08:25+00:00	0	1	4	0	Twitter Web App
+ph_singer	ecozzo	1343151744163983360	replied_to	2020-12-27 11:08:25+00:00	0	1	4	0	Twitter Web App
+ph_singer	guersole	1343151744163983360	replied_to	2020-12-27 11:08:25+00:00	0	1	4	0	Twitter Web App
+ph_singer	victorianoi	1343151744163983360	replied_to	2020-12-27 11:08:25+00:00	0	1	4	0	Twitter Web App
+ph_singer	clauwa	1343151744163983360	replied_to	2020-12-27 11:08:25+00:00	0	1	4	0	Twitter Web App
+ph_singer	mstrohm	1343151744163983360	replied_to	2020-12-27 11:08:25+00:00	0	1	4	0	Twitter Web App
+Susan_Athey	mstrohm	1338865940868415490	mentioned	2020-12-15 15:18:09+00:00	9	0	36	0	Twitter Web App
+Susan_Athey	lukasmoldon	1338865940868415490	mentioned	2020-12-15 15:18:09+00:00	9	0	36	0	Twitter Web App
+Susan_Athey	ICSEconf	1338865940868415490	mentioned	2020-12-15 15:18:09+00:00	9	0	36	0	Twitter Web App
+psmaldino	lukasmoldon	1331293920148467712	replied_to	2020-11-24 17:49:39+00:00	2	2	7	0	Twitter Web App
+psmaldino	mstrohm	1331293920148467712	replied_to	2020-11-24 17:49:39+00:00	2	2	7	0	Twitter Web App
+psmaldino	johannes_wachs	1331293920148467712	replied_to	2020-11-24 17:49:39+00:00	2	2	7	0	Twitter Web App
+gesis_org	bearloga	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	krisgligoric	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	peyrardMax	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	cervisiarius	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	ICepfl	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	f_lemmerich	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	mstrohm	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+gesis_org	RWTH	1328508440113795078	replied_to	2020-11-17 01:21:09+00:00	0	0	5	0	Twitter Web App
+msalganik	YupingWang90	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	krisgligoric	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	peyrardMax	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	cervisiarius	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	ICepfl	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	f_lemmerich	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	mstrohm	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+msalganik	RWTH	1328415989491400704	replied_to	2020-11-16 19:13:47+00:00	0	0	0	0	Twitter Web App
+renepickhardt	manoelribeiro	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	krisgligoric	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	peyrardMax	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	cervisiarius	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	ICepfl	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	f_lemmerich	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	mstrohm	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+renepickhardt	RWTH	1328406595966033927	replied_to	2020-11-16 18:36:27+00:00	0	1	1	0	Twitter for iPad
+manlius84	manoelribeiro	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	krisgligoric	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	peyrardMax	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	cervisiarius	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	ICepfl	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	f_lemmerich	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	mstrohm	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+manlius84	RWTH	1328405295899561989	replied_to	2020-11-16 18:31:17+00:00	0	0	1	0	Twitter for Android
+kinggary	YupingWang90	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	krisgligoric	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	peyrardMax	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	cervisiarius	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	ICepfl	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	f_lemmerich	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	mstrohm	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+kinggary	RWTH	1328403649140240385	replied_to	2020-11-16 18:24:45+00:00	0	1	0	0	Twitter Web App
+CFCamerer	manoelribeiro	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	krisgligoric	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	peyrardMax	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	cervisiarius	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	ICepfl	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	f_lemmerich	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	mstrohm	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+CFCamerer	RWTH	1328402725600575488	replied_to	2020-11-16 18:21:04+00:00	0	1	1	0	Twitter Web App
+deaneckles	manoelribeiro	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+deaneckles	krisgligoric	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+deaneckles	peyrardMax	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+deaneckles	cervisiarius	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+deaneckles	f_lemmerich	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+deaneckles	mstrohm	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+deaneckles	RWTH	1328340650169954304	replied_to	2020-11-16 14:14:25+00:00	0	0	3	0	Twitter for Android
+davidlazer	krisgligoric	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+davidlazer	peyrardMax	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+davidlazer	cervisiarius	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+davidlazer	ICepfl	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+davidlazer	f_lemmerich	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+davidlazer	mstrohm	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+davidlazer	RWTH	1328337742703562752	mentioned	2020-11-16 14:02:51+00:00	28	4	96	0	Twitter Web App
+clauwa	davidlazer	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	ScienceMagazine	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	mstrohm	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	HelenMargetts	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	kinggary	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	msalganik	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	alex_pentland	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	duncanjwatts	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	alondra	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	clauwa	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	alexvespi	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	dfreelon	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	sinanaral	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	Susan_Athey	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	noshir	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+clauwa	sgonzalezbailon	1327007437627547649	replied_to	2020-11-12 21:56:42+00:00	0	0	0	0	Twitter for Android
+Design_MIS	pernischova	1324025919925878784	replied_to	2020-11-04 16:29:13+00:00	0	0	1	0	Twitter Web App
+Design_MIS	f_lemmerich	1324025919925878784	replied_to	2020-11-04 16:29:13+00:00	0	0	1	0	Twitter Web App
+Design_MIS	mstrohm	1324025919925878784	replied_to	2020-11-04 16:29:13+00:00	0	0	1	0	Twitter Web App
+Design_MIS	RWTH	1324025919925878784	replied_to	2020-11-04 16:29:13+00:00	0	0	1	0	Twitter Web App
+lkisselburgh	anna_wegmann	1324017058754007040	replied_to	2020-11-04 15:54:00+00:00	0	1	1	0	Twitter Web App
+lkisselburgh	f_lemmerich	1324017058754007040	replied_to	2020-11-04 15:54:00+00:00	0	1	1	0	Twitter Web App
+lkisselburgh	mstrohm	1324017058754007040	replied_to	2020-11-04 15:54:00+00:00	0	1	1	0	Twitter Web App
+lkisselburgh	RWTH	1324017058754007040	replied_to	2020-11-04 15:54:00+00:00	0	1	1	0	Twitter Web App
+BrettButtliere	f_lemmerich	1322108848740749312	mentioned	2020-10-30 09:31:27+00:00	1	1	8	0	Twitter Web App
+BrettButtliere	mstrohm	1322108848740749312	mentioned	2020-10-30 09:31:27+00:00	1	1	8	0	Twitter Web App
+BrettButtliere	RWTH	1322108848740749312	mentioned	2020-10-30 09:31:27+00:00	1	1	8	0	Twitter Web App
+ossimokryn	fariba_k	1318974632763023366	replied_to	2020-10-21 17:57:12+00:00	0	0	1	0	Twitter for iPad
+ossimokryn	mstrohm	1318974632763023366	replied_to	2020-10-21 17:57:12+00:00	0	0	1	0	Twitter for iPad
+ossimokryn	CSHVienna	1318974632763023366	replied_to	2020-10-21 17:57:12+00:00	0	0	1	0	Twitter for iPad
+amAbdolhosseini	The_Rounded_Man	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	cuevalovelle	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	putuko	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	mimiru	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	brenes	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	takis_metaxas	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	enimust	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	bpoblete	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	mstrohm	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	ajungherr	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+amAbdolhosseini	griverorz	1304317568354844672	replied_to	2020-09-11 07:15:16+00:00	0	0	1	0	Twitter for Android
+TahaYasseri	cuevalovelle	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	putuko	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	mimiru	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	brenes	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	takis_metaxas	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	enimust	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	bpoblete	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	mstrohm	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	ajungherr	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+TahaYasseri	griverorz	1304313775873433601	replied_to	2020-09-11 07:00:11+00:00	0	2	6	0	Zlappo.com
+johannes_wachs	mstrohm	1270028929533915143	quoted	2020-06-08 16:24:27+00:00	1	0	6	0	Twitter Web App
+johannes_wachs	lukasmoldon	1270028929533915143	quoted	2020-06-08 16:24:27+00:00	1	0	6	0	Twitter Web App
+johannes_wachs	RWTH	1270028929533915143	quoted	2020-06-08 16:24:27+00:00	1	0	6	0	Twitter Web App
+Ogilvy_Paris	PeppeGanga	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	notjimmykimmel	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	MidoAlhajji	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	SteveMaraboli	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	R_Thaler	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	rogerdooley	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	markbao	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	DrSherryPagoto	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	natematias	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	asociologist	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	davdittrich	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	chrisuggen	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	bgoncalves	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	Ognyanova	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	lusseau	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	LynseyHollywood	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	mstrohm	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	JoachimAllgaier	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	Daniel__Lock	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+Ogilvy_Paris	burtmonroe	1268604190659657729	replied_to	2020-06-04 18:03:03+00:00	0	0	0	0	Twitter Web App
+manoelribeiro	krisgligoric	1263104625822928899	mentioned	2020-05-20 13:49:44+00:00	13	1	29	2	Twitter Web App
+manoelribeiro	peyrardMax	1263104625822928899	mentioned	2020-05-20 13:49:44+00:00	13	1	29	2	Twitter Web App
+manoelribeiro	cervisiarius	1263104625822928899	mentioned	2020-05-20 13:49:44+00:00	13	1	29	2	Twitter Web App
+manoelribeiro	mstrohm	1263104625822928899	mentioned	2020-05-20 13:49:44+00:00	13	1	29	2	Twitter Web App
+manoelribeiro	f_lemmerich	1263104625822928899	mentioned	2020-05-20 13:49:44+00:00	13	1	29	2	Twitter Web App
+andrnmrt	rakanua	1254236353837088771	replied_to	2020-04-26 02:30:23+00:00	0	0	0	0	Twitter for Android
+andrnmrt	arnimb	1254236353837088771	replied_to	2020-04-26 02:30:23+00:00	0	0	0	0	Twitter for Android
+andrnmrt	ffloeck	1254236353837088771	replied_to	2020-04-26 02:30:23+00:00	0	0	0	0	Twitter for Android
+andrnmrt	mstrohm	1254236353837088771	replied_to	2020-04-26 02:30:23+00:00	0	0	0	0	Twitter for Android
+andrnmrt	gesis_org	1254236353837088771	replied_to	2020-04-26 02:30:23+00:00	0	0	0	0	Twitter for Android
+elaragon	clauwa	1252634792375574528	mentioned	2020-04-21 16:26:21+00:00	17	0	23	2	Twitter Web App
+elaragon	dgarcia_eu	1252634792375574528	mentioned	2020-04-21 16:26:21+00:00	17	0	23	2	Twitter Web App
+elaragon	mstrohm	1252634792375574528	mentioned	2020-04-21 16:26:21+00:00	17	0	23	2	Twitter Web App
+elaragon	carnby	1252634792375574528	mentioned	2020-04-21 16:26:21+00:00	17	0	23	2	Twitter Web App
+clarity_uae	mstrohm	1250781399734530049	replied_to	2020-04-16 13:41:38+00:00	0	0	0	0	Twitter Web App
+clarity_uae	marc_smith	1250781399734530049	replied_to	2020-04-16 13:41:38+00:00	0	0	0	0	Twitter Web App
+clarity_uae	benbendc	1250781399734530049	replied_to	2020-04-16 13:41:38+00:00	0	0	0	0	Twitter Web App
+AxelPolleres	johannes_wachs	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+AxelPolleres	wu_vienna	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+AxelPolleres	CSHVienna	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+AxelPolleres	zsoficzeman	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+AxelPolleres	mstrohm	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+AxelPolleres	wu_vienna	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+AxelPolleres	CSHVienna	1240348982867623938	replied_to	2020-03-18 18:46:56+00:00	0	0	2	0	Twitter Web App
+wvdaalst	mstrohm	1240270902455152640	replied_to	2020-03-18 13:36:40+00:00	0	0	0	0	Twitter Web App
+wvdaalst	RWTH	1240270902455152640	replied_to	2020-03-18 13:36:40+00:00	0	0	0	0	Twitter Web App
+wvdaalst	pads_rwth	1240270902455152640	replied_to	2020-03-18 13:36:40+00:00	0	0	0	0	Twitter Web App
+jcorrean	johannes_wachs	1240214275597230080	replied_to	2020-03-18 09:51:40+00:00	0	0	1	0	Twitter for Android
+jcorrean	wu_vienna	1240214275597230080	replied_to	2020-03-18 09:51:40+00:00	0	0	1	0	Twitter for Android
+jcorrean	AxelPolleres	1240214275597230080	replied_to	2020-03-18 09:51:40+00:00	0	0	1	0	Twitter for Android
+jcorrean	CSHVienna	1240214275597230080	replied_to	2020-03-18 09:51:40+00:00	0	0	1	0	Twitter for Android
+jcorrean	zsoficzeman	1240214275597230080	replied_to	2020-03-18 09:51:40+00:00	0	0	1	0	Twitter for Android
+jcorrean	mstrohm	1240214275597230080	replied_to	2020-03-18 09:51:40+00:00	0	0	1	0	Twitter for Android
+sandor_juhasz	johannes_wachs	1240173064484196353	replied_to	2020-03-18 07:07:54+00:00	0	0	1	0	Twitter Web App
+sandor_juhasz	wu_vienna	1240173064484196353	replied_to	2020-03-18 07:07:54+00:00	0	0	1	0	Twitter Web App
+sandor_juhasz	AxelPolleres	1240173064484196353	replied_to	2020-03-18 07:07:54+00:00	0	0	1	0	Twitter Web App
+sandor_juhasz	CSHVienna	1240173064484196353	replied_to	2020-03-18 07:07:54+00:00	0	0	1	0	Twitter Web App
+sandor_juhasz	zsoficzeman	1240173064484196353	replied_to	2020-03-18 07:07:54+00:00	0	0	1	0	Twitter Web App
+sandor_juhasz	mstrohm	1240173064484196353	replied_to	2020-03-18 07:07:54+00:00	0	0	1	0	Twitter Web App
+jermainkaminski	johannes_wachs	1240164730880307200	replied_to	2020-03-18 06:34:47+00:00	0	0	1	0	Twitter for iPhone
+jermainkaminski	wu_vienna	1240164730880307200	replied_to	2020-03-18 06:34:47+00:00	0	0	1	0	Twitter for iPhone
+jermainkaminski	AxelPolleres	1240164730880307200	replied_to	2020-03-18 06:34:47+00:00	0	0	1	0	Twitter for iPhone
+jermainkaminski	CSHVienna	1240164730880307200	replied_to	2020-03-18 06:34:47+00:00	0	0	1	0	Twitter for iPhone
+jermainkaminski	zsoficzeman	1240164730880307200	replied_to	2020-03-18 06:34:47+00:00	0	0	1	0	Twitter for iPhone
+jermainkaminski	mstrohm	1240164730880307200	replied_to	2020-03-18 06:34:47+00:00	0	0	1	0	Twitter for iPhone
+_kenny_joseph	johannes_wachs	1240069869812531200	replied_to	2020-03-18 00:17:51+00:00	0	0	1	0	Twitter Web App
+_kenny_joseph	wu_vienna	1240069869812531200	replied_to	2020-03-18 00:17:51+00:00	0	0	1	0	Twitter Web App
+_kenny_joseph	AxelPolleres	1240069869812531200	replied_to	2020-03-18 00:17:51+00:00	0	0	1	0	Twitter Web App
+_kenny_joseph	CSHVienna	1240069869812531200	replied_to	2020-03-18 00:17:51+00:00	0	0	1	0	Twitter Web App
+_kenny_joseph	zsoficzeman	1240069869812531200	replied_to	2020-03-18 00:17:51+00:00	0	0	1	0	Twitter Web App
+_kenny_joseph	mstrohm	1240069869812531200	replied_to	2020-03-18 00:17:51+00:00	0	0	1	0	Twitter Web App
+silviafierascu	silviafierascu	1240021970663735299	replied_to	2020-03-17 21:07:30+00:00	0	0	0	0	Twitter Web App
+silviafierascu	wu_vienna	1240021970663735299	replied_to	2020-03-17 21:07:30+00:00	0	0	0	0	Twitter Web App
+silviafierascu	AxelPolleres	1240021970663735299	replied_to	2020-03-17 21:07:30+00:00	0	0	0	0	Twitter Web App
+silviafierascu	CSHVienna	1240021970663735299	replied_to	2020-03-17 21:07:30+00:00	0	0	0	0	Twitter Web App
+silviafierascu	zsoficzeman	1240021970663735299	replied_to	2020-03-17 21:07:30+00:00	0	0	0	0	Twitter Web App
+silviafierascu	mstrohm	1240021970663735299	replied_to	2020-03-17 21:07:30+00:00	0	0	0	0	Twitter Web App
+_BinnyM	johannes_wachs	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+_BinnyM	wu_vienna	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+_BinnyM	AxelPolleres	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+_BinnyM	CSHVienna	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+_BinnyM	zsoficzeman	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+_BinnyM	mstrohm	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+_BinnyM	johannes_wachs	1240021400984924161	replied_to	2020-03-17 21:05:15+00:00	0	1	1	0	Twitter for Android
+cnerg	wu_vienna	1240004824378355719	mentioned	2020-03-17 19:59:22+00:00	3	6	50	1	Twitter Web App
+cnerg	AxelPolleres	1240004824378355719	mentioned	2020-03-17 19:59:22+00:00	3	6	50	1	Twitter Web App
+cnerg	CSHVienna	1240004824378355719	mentioned	2020-03-17 19:59:22+00:00	3	6	50	1	Twitter Web App
+cnerg	zsoficzeman	1240004824378355719	mentioned	2020-03-17 19:59:22+00:00	3	6	50	1	Twitter Web App
+cnerg	mstrohm	1240004824378355719	mentioned	2020-03-17 19:59:22+00:00	3	6	50	1	Twitter Web App
+krishnamrith12	krishnamrith12	1216395340779180033	replied_to	2020-01-12 16:23:43+00:00	0	0	0	0	Twitter for Android
+krishnamrith12	TheWebConf	1216395340779180033	replied_to	2020-01-12 16:23:43+00:00	0	0	0	0	Twitter for Android
+krishnamrith12	sikdar_sandip	1216395340779180033	replied_to	2020-01-12 16:23:43+00:00	0	0	0	0	Twitter for Android
+krishnamrith12	f_lemmerich	1216395340779180033	replied_to	2020-01-12 16:23:43+00:00	0	0	0	0	Twitter for Android
+krishnamrith12	mstrohm	1216395340779180033	replied_to	2020-01-12 16:23:43+00:00	0	0	0	0	Twitter for Android
+gender_useit	_BinnyM	1216234315123580929	quoted	2020-01-12 05:43:51+00:00	0	0	9	0	Twitter Web App
+gender_useit	sikdar_sandip	1216234315123580929	quoted	2020-01-12 05:43:51+00:00	0	0	9	0	Twitter Web App
+gender_useit	f_lemmerich	1216234315123580929	quoted	2020-01-12 05:43:51+00:00	0	0	9	0	Twitter Web App
+gender_useit	mstrohm	1216234315123580929	quoted	2020-01-12 05:43:51+00:00	0	0	9	0	Twitter Web App
+gender_useit	cnerg	1216234315123580929	quoted	2020-01-12 05:43:51+00:00	0	0	9	0	Twitter Web App
+gender_useit	TheWebConf	1216234315123580929	quoted	2020-01-12 05:43:51+00:00	0	0	9	0	Twitter Web App
+play2legal	_BinnyM	1216071481706385408	replied_to	2020-01-11 18:56:49+00:00	1	1	0	0	Twitter Web App
+play2legal	TheWebConf	1216071481706385408	replied_to	2020-01-11 18:56:49+00:00	1	1	0	0	Twitter Web App
+play2legal	sikdar_sandip	1216071481706385408	replied_to	2020-01-11 18:56:49+00:00	1	1	0	0	Twitter Web App
+play2legal	f_lemmerich	1216071481706385408	replied_to	2020-01-11 18:56:49+00:00	1	1	0	0	Twitter Web App
+play2legal	mstrohm	1216071481706385408	replied_to	2020-01-11 18:56:49+00:00	1	1	0	0	Twitter Web App
+aoeberst	TheWebConf	1216067827863408641	mentioned	2020-01-11 18:42:18+00:00	1	1	10	2	Twitter Web App
+aoeberst	sikdar_sandip	1216067827863408641	mentioned	2020-01-11 18:42:18+00:00	1	1	10	2	Twitter Web App
+aoeberst	f_lemmerich	1216067827863408641	mentioned	2020-01-11 18:42:18+00:00	1	1	10	2	Twitter Web App
+aoeberst	mstrohm	1216067827863408641	mentioned	2020-01-11 18:42:18+00:00	1	1	10	2	Twitter Web App
+Nicola_Marsden	mstrohm	1210321126930493447	quoted	2019-12-26 22:06:57+00:00	0	0	1	0	Twitter for iPhone
+ComSocSci	fernunihagen	1207945197096775682	mentioned	2019-12-20 08:45:52+00:00	2	0	8	0	TweetDeck
+ComSocSci	aoeberst	1207945197096775682	mentioned	2019-12-20 08:45:52+00:00	2	0	8	0	TweetDeck
+ComSocSci	mstrohm	1207945197096775682	mentioned	2019-12-20 08:45:52+00:00	2	0	8	0	TweetDeck
+ComSocSci	Nicola_Marsden	1207945197096775682	mentioned	2019-12-20 08:45:52+00:00	2	0	8	0	TweetDeck
+clmbirn	Nicola_Marsden	1205439983479394304	replied_to	2019-12-13 10:51:02+00:00	0	0	0	0	Twitter for Android
+clmbirn	femtech_	1205439983479394304	replied_to	2019-12-13 10:51:02+00:00	0	0	0	0	Twitter for Android
+clmbirn	mstrohm	1205439983479394304	replied_to	2019-12-13 10:51:02+00:00	0	0	0	0	Twitter for Android
+clmbirn	RWTH	1205439983479394304	replied_to	2019-12-13 10:51:02+00:00	0	0	0	0	Twitter for Android
+clmbirn	gesis_org	1205439983479394304	replied_to	2019-12-13 10:51:02+00:00	0	0	0	0	Twitter for Android
+clmbirn	fernunihagen	1205439983479394304	replied_to	2019-12-13 10:51:02+00:00	0	0	0	0	Twitter for Android
+mounialalmas	mstrohm	1205399887162101761	replied_to	2019-12-13 08:11:43+00:00	0	0	0	0	Twitter for iPhone
+mounialalmas	Nicola_Marsden	1205399887162101761	replied_to	2019-12-13 08:11:43+00:00	0	0	0	0	Twitter for iPhone
+mounialalmas	fernunihagen	1205399887162101761	replied_to	2019-12-13 08:11:43+00:00	0	0	0	0	Twitter for iPhone
+TLOgg	mstrohm	1205134181048688640	mentioned	2019-12-12 14:35:53+00:00	2	1	9	0	Twitter Web App
+TLOgg	RWTH	1205134181048688640	mentioned	2019-12-12 14:35:53+00:00	2	1	9	0	Twitter Web App
+TLOgg	gesis_org	1205134181048688640	mentioned	2019-12-12 14:35:53+00:00	2	1	9	0	Twitter Web App
+TLOgg	fernunihagen	1205134181048688640	mentioned	2019-12-12 14:35:53+00:00	2	1	9	0	Twitter Web App
+rakanua	aoeberst	1205129382991413249	mentioned	2019-12-12 14:16:49+00:00	0	1	2	0	Twitter Web App
+rakanua	mstrohm	1205129382991413249	mentioned	2019-12-12 14:16:49+00:00	0	1	2	0	Twitter Web App
+rakanua	fernunihagen	1205129382991413249	mentioned	2019-12-12 14:16:49+00:00	0	1	2	0	Twitter Web App
+johndburger	fariba_k	1204352861829844992	mentioned	2019-12-10 10:51:12+00:00	3	0	18	0	Twitter for Android
+johndburger	complex_nets	1204352861829844992	mentioned	2019-12-10 10:51:12+00:00	3	0	18	0	Twitter for Android
+johndburger	gesis_org	1204352861829844992	mentioned	2019-12-10 10:51:12+00:00	3	0	18	0	Twitter for Android
+johndburger	mstrohm	1204352861829844992	mentioned	2019-12-10 10:51:12+00:00	3	0	18	0	Twitter for Android
+johndburger	arcos_oliveira	1204352861829844992	mentioned	2019-12-10 10:51:12+00:00	3	0	18	0	Twitter for Android
+ingo_S	mstrohm	1201226908849131520	replied_to	2019-12-01 19:49:47+00:00	0	0	1	0	Twitter Web App
+ingo_S	mstrohm	1201226908849131520	replied_to	2019-12-01 19:49:47+00:00	0	0	1	0	Twitter Web App
+vclaTUwien	mstrohm	1194894596804874240	mentioned	2019-11-14 08:27:26+00:00	2	0	6	0	Twitter Web App
+vrandezo	mstrohm	1194893096179372032	mentioned	2019-11-14 08:21:28+00:00	0	0	8	0	Twitter Web App
+bezwitschernd	mstrohm	1189624670951301122	replied_to	2019-10-30 19:26:38+00:00	0	1	6	0	Twitter for Android
+bezwitschernd	DeepMindAI	1189624670951301122	replied_to	2019-10-30 19:26:38+00:00	0	1	6	0	Twitter for Android
+opendigilab	johndburger	1189180391887818754	replied_to	2019-10-29 14:01:13+00:00	0	0	2	0	Twitter Web App
+opendigilab	arnimb	1189180391887818754	replied_to	2019-10-29 14:01:13+00:00	0	0	2	0	Twitter Web App
+opendigilab	LechnerClemens	1189180391887818754	replied_to	2019-10-29 14:01:13+00:00	0	0	2	0	Twitter Web App
+opendigilab	ffloeck	1189180391887818754	replied_to	2019-10-29 14:01:13+00:00	0	0	2	0	Twitter Web App
+opendigilab	mstrohm	1189180391887818754	replied_to	2019-10-29 14:01:13+00:00	0	0	2	0	Twitter Web App
+opendigilab	gesis_org	1189180391887818754	replied_to	2019-10-29 14:01:13+00:00	0	0	2	0	Twitter Web App
+OpenGovTV	rakanua	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+OpenGovTV	arnimb	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+OpenGovTV	LechnerClemens	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+OpenGovTV	ffloeck	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+OpenGovTV	mstrohm	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+OpenGovTV	gesis_org	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+OpenGovTV	TurkerNational	1189142609702346753	replied_to	2019-10-29 11:31:06+00:00	0	0	1	0	Twitter for iPhone
+LorenzoTait	rakanua	1189136567702577153	replied_to	2019-10-29 11:07:05+00:00	0	2	1	0	Twitter for iPhone
+LorenzoTait	arnimb	1189136567702577153	replied_to	2019-10-29 11:07:05+00:00	0	2	1	0	Twitter for iPhone
+LorenzoTait	LechnerClemens	1189136567702577153	replied_to	2019-10-29 11:07:05+00:00	0	2	1	0	Twitter for iPhone
+LorenzoTait	ffloeck	1189136567702577153	replied_to	2019-10-29 11:07:05+00:00	0	2	1	0	Twitter for iPhone
+LorenzoTait	mstrohm	1189136567702577153	replied_to	2019-10-29 11:07:05+00:00	0	2	1	0	Twitter for iPhone
+LorenzoTait	gesis_org	1189136567702577153	replied_to	2019-10-29 11:07:05+00:00	0	2	1	0	Twitter for iPhone
+MLuczak	arnimb	1188798087424364544	mentioned	2019-10-28 12:42:05+00:00	10	2	19	1	Twitter Web App
+MLuczak	LechnerClemens	1188798087424364544	mentioned	2019-10-28 12:42:05+00:00	10	2	19	1	Twitter Web App
+MLuczak	ffloeck	1188798087424364544	mentioned	2019-10-28 12:42:05+00:00	10	2	19	1	Twitter Web App
+MLuczak	mstrohm	1188798087424364544	mentioned	2019-10-28 12:42:05+00:00	10	2	19	1	Twitter Web App
+MLuczak	gesis_org	1188798087424364544	mentioned	2019-10-28 12:42:05+00:00	10	2	19	1	Twitter Web App
+tobold	vclaTUwien	1184233751859073024	replied_to	2019-10-15 22:25:03+00:00	0	0	0	0	Twitter for iPhone
+tobold	JurgenPfeffer	1184233751859073024	replied_to	2019-10-15 22:25:03+00:00	0	0	0	0	Twitter for iPhone
+tobold	mstrohm	1184233751859073024	replied_to	2019-10-15 22:25:03+00:00	0	0	0	0	Twitter for iPhone
+ndiakopoulos	JurgenPfeffer	1184181707722887170	replied_to	2019-10-15 18:58:14+00:00	0	1	0	0	Twitter Web App
+ndiakopoulos	ingo_S	1184181707722887170	replied_to	2019-10-15 18:58:14+00:00	0	1	0	0	Twitter Web App
+ndiakopoulos	mstrohm	1184181707722887170	replied_to	2019-10-15 18:58:14+00:00	0	1	0	0	Twitter Web App
+lizasivak	pavel	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	omerbenj	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	esimperl	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	zia_li	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	clauwa	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	ffloeck	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	ysurevetter	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	WeWuWiWo	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	halfak	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	mstrohm	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	bhecht	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	geoplace	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	ReaderMeter	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	makoshark	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	TahaYasseri	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+lizasivak	WikiResearch	1180153924289908741	replied_to	2019-10-04 16:13:16+00:00	0	2	3	0	Twitter for Android
+BrettButtliere	ScheibeKatrin	1174999703995461633	mentioned	2019-09-20 10:52:14+00:00	3	0	10	0	Twitter Web App
+BrettButtliere	mstrohm	1174999703995461633	mentioned	2019-09-20 10:52:14+00:00	3	0	10	0	Twitter Web App
+BrettButtliere	HHU_de	1174999703995461633	mentioned	2019-09-20 10:52:14+00:00	3	0	10	0	Twitter Web App
+sfiscience	mstrohm	1174605707519377408	replied_to	2019-09-19 08:46:38+00:00	0	0	0	0	Twitter Web App
+sfiscience	katecrawford	1174605707519377408	replied_to	2019-09-19 08:46:38+00:00	0	0	0	0	Twitter Web App
+sfiscience	trevorpaglen	1174605707519377408	replied_to	2019-09-19 08:46:38+00:00	0	0	0	0	Twitter Web App
+sgonzalezbailon	mstrohm	1174603533313806336	replied_to	2019-09-19 08:38:00+00:00	0	1	0	0	Twitter Web App
+sgonzalezbailon	katecrawford	1174603533313806336	replied_to	2019-09-19 08:38:00+00:00	0	1	0	0	Twitter Web App
+sgonzalezbailon	trevorpaglen	1174603533313806336	replied_to	2019-09-19 08:38:00+00:00	0	1	0	0	Twitter Web App
+clauwa	mstrohm	1174601405937737731	replied_to	2019-09-19 08:29:32+00:00	0	1	0	0	Twitter Web App
+gagliol	mstrohm	1174598448471007232	mentioned	2019-09-19 08:17:47+00:00	0	1	0	0	Twitter Web App
+IC2S2	mstrohm	1172610043654660097	mentioned	2019-09-13 20:36:35+00:00	0	0	0	0	Paper.li
+IC2S2	MyPlate	1172610043654660097	mentioned	2019-09-13 20:36:35+00:00	0	0	0	0	Paper.li
+IC2S2	jamespmanley	1172610043654660097	mentioned	2019-09-13 20:36:35+00:00	0	0	0	0	Paper.li
+FairyKomal	evaristegal0is	1169911703750041600	replied_to	2019-09-06 09:54:20+00:00	0	0	0	0	Twitter Web App
+FairyKomal	clauwa	1169911703750041600	replied_to	2019-09-06 09:54:20+00:00	0	0	0	0	Twitter Web App
+FairyKomal	mstrohm	1169911703750041600	replied_to	2019-09-06 09:54:20+00:00	0	0	0	0	Twitter Web App
+FairyKomal	gesis_org	1169911703750041600	replied_to	2019-09-06 09:54:20+00:00	0	0	0	0	Twitter Web App
+FairyKomal	unikold	1169911703750041600	replied_to	2019-09-06 09:54:20+00:00	0	0	0	0	Twitter Web App
+Lauren_wbg	mstrohm	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+Lauren_wbg	clauwa	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+Lauren_wbg	clmbirn	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+Lauren_wbg	DynamicsSIAM	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+Lauren_wbg	cxdig	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+Lauren_wbg	ComplexExplorer	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+Lauren_wbg	CompleNet	1166813623857008640	mentioned	2019-08-28 20:43:40+00:00	9	0	4	1	Twitter for Android
+DorotheaBaur	cfchabris	1165633768905936898	replied_to	2019-08-25 14:35:21+00:00	0	0	1	0	Twitter for iPad
+DorotheaBaur	mstrohm	1165633768905936898	replied_to	2019-08-25 14:35:21+00:00	0	0	1	0	Twitter for iPad
+IanMulvany	cfchabris	1165631673628811270	replied_to	2019-08-25 14:27:02+00:00	0	0	1	0	Twitter for iPad
+IanMulvany	mstrohm	1165631673628811270	replied_to	2019-08-25 14:27:02+00:00	0	0	1	0	Twitter for iPad
+leoferres	WWRob	1165577572001943552	replied_to	2019-08-25 10:52:03+00:00	0	0	1	0	Twitter for iPhone
+leoferres	mstrohm	1165577572001943552	replied_to	2019-08-25 10:52:03+00:00	0	0	1	0	Twitter for iPhone
+leoferres	SkotBotCambo	1165577572001943552	replied_to	2019-08-25 10:52:03+00:00	0	0	1	0	Twitter for iPhone
+dimi_z	NatureHumBehav	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+dimi_z	fariba_k	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+dimi_z	Metrohm	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+dimi_z	clauwa	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+dimi_z	socph	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+dimi_z	sfiscience	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+dimi_z	mstrohm	1161552763303669761	replied_to	2019-08-14 08:18:54+00:00	0	0	3	0	Twitter for Android
+trovdimi	sfiscience	1161030559369453570	replied_to	2019-08-12 21:43:50+00:00	0	0	1	0	Twitter for Android
+trovdimi	mstrohm	1161030559369453570	replied_to	2019-08-12 21:43:50+00:00	0	0	1	0	Twitter for Android
+trovdimi	Nature	1161030559369453570	replied_to	2019-08-12 21:43:50+00:00	0	0	1	0	Twitter for Android
+trovdimi	EricTopol	1161030559369453570	replied_to	2019-08-12 21:43:50+00:00	0	0	1	0	Twitter for Android
+ingenieriaUDD_	BrettButtliere	1161016586481872901	replied_to	2019-08-12 20:48:19+00:00	0	1	2	0	Hootsuite Inc.
+ingenieriaUDD_	mstrohm	1161016586481872901	replied_to	2019-08-12 20:48:19+00:00	0	1	2	0	Hootsuite Inc.
+ingenieriaUDD_	Nature	1161016586481872901	replied_to	2019-08-12 20:48:19+00:00	0	1	2	0	Hootsuite Inc.
+ingenieriaUDD_	EricTopol	1161016586481872901	replied_to	2019-08-12 20:48:19+00:00	0	1	2	0	Hootsuite Inc.
+katja_mat	sfiscience	1161007913894367237	replied_to	2019-08-12 20:13:51+00:00	0	1	0	0	Twitter Web Client
+katja_mat	mstrohm	1161007913894367237	replied_to	2019-08-12 20:13:51+00:00	0	1	0	0	Twitter Web Client
+katja_mat	Nature	1161007913894367237	replied_to	2019-08-12 20:13:51+00:00	0	1	0	0	Twitter Web Client
+katja_mat	EricTopol	1161007913894367237	replied_to	2019-08-12 20:13:51+00:00	0	1	0	0	Twitter Web Client
+sof14g1l	clauwa	1152243290319806464	replied_to	2019-07-19 15:46:22+00:00	0	0	6	0	Twitter for Android
+sof14g1l	duncanjwatts	1152243290319806464	replied_to	2019-07-19 15:46:22+00:00	0	0	6	0	Twitter for Android
+sof14g1l	mstrohm	1152243290319806464	replied_to	2019-07-19 15:46:22+00:00	0	0	6	0	Twitter for Android
+sof14g1l	HelenMargetts	1152243290319806464	replied_to	2019-07-19 15:46:22+00:00	0	0	6	0	Twitter for Android
+sof14g1l	mstrohm	1152243290319806464	replied_to	2019-07-19 15:46:22+00:00	0	0	6	0	Twitter for Android
+danielequercia	duncanjwatts	1152201669901541378	mentioned	2019-07-19 13:00:59+00:00	0	1	13	0	Twitter for iPhone
+danielequercia	mstrohm	1152201669901541378	mentioned	2019-07-19 13:00:59+00:00	0	1	13	0	Twitter for iPhone
+danielequercia	sgonzalezbailon	1152201669901541378	mentioned	2019-07-19 13:00:59+00:00	0	1	13	0	Twitter for iPhone
+danielequercia	HelenMargetts	1152201669901541378	mentioned	2019-07-19 13:00:59+00:00	0	1	13	0	Twitter for iPhone
+mblukac	mstrohm	1152201629443284992	mentioned	2019-07-19 13:00:49+00:00	0	0	0	0	Twitter Web App
+SaharnazDi	duncanjwatts	1152198589264867334	mentioned	2019-07-19 12:48:45+00:00	5	0	13	1	Twitter for Android
+SaharnazDi	mstrohm	1152198589264867334	mentioned	2019-07-19 12:48:45+00:00	5	0	13	1	Twitter for Android
+SaharnazDi	sgonzalezbailon	1152198589264867334	mentioned	2019-07-19 12:48:45+00:00	5	0	13	1	Twitter for Android
+SaharnazDi	HelenMargetts	1152198589264867334	mentioned	2019-07-19 12:48:45+00:00	5	0	13	1	Twitter for Android
+kimpulsive93	IC2S2	1152198529189928961	mentioned	2019-07-19 12:48:30+00:00	0	0	3	0	Twitter for Android
+kimpulsive93	HelenMargetts	1152198529189928961	mentioned	2019-07-19 12:48:30+00:00	0	0	3	0	Twitter for Android
+kimpulsive93	duncanjwatts	1152198529189928961	mentioned	2019-07-19 12:48:30+00:00	0	0	3	0	Twitter for Android
+kimpulsive93	sgonzalezbailon	1152198529189928961	mentioned	2019-07-19 12:48:30+00:00	0	0	3	0	Twitter for Android
+kimpulsive93	mstrohm	1152198529189928961	mentioned	2019-07-19 12:48:30+00:00	0	0	3	0	Twitter for Android
+JurgenPfeffer	DorotheaBaur	1150860365519118338	replied_to	2019-07-15 20:11:07+00:00	0	0	1	0	Twitter for iPhone
+JurgenPfeffer	clauwa	1150860365519118338	replied_to	2019-07-15 20:11:07+00:00	0	0	1	0	Twitter for iPhone
+JurgenPfeffer	mstrohm	1150860365519118338	replied_to	2019-07-15 20:11:07+00:00	0	0	1	0	Twitter for iPhone
+JurgenPfeffer	lajello	1150860365519118338	replied_to	2019-07-15 20:11:07+00:00	0	0	1	0	Twitter for iPhone
+JurgenPfeffer	ingmarweber	1150860365519118338	replied_to	2019-07-15 20:11:07+00:00	0	0	1	0	Twitter for iPhone
+JurgenPfeffer	ellahafermalz	1150860365519118338	replied_to	2019-07-15 20:11:07+00:00	0	0	1	0	Twitter for iPhone
+lespin	clauwa	1150740862751690753	mentioned	2019-07-15 12:16:16+00:00	6	1	23	1	Twitter Web App
+lespin	mstrohm	1150740862751690753	mentioned	2019-07-15 12:16:16+00:00	6	1	23	1	Twitter Web App
+lespin	lajello	1150740862751690753	mentioned	2019-07-15 12:16:16+00:00	6	1	23	1	Twitter Web App
+lespin	ingmarweber	1150740862751690753	mentioned	2019-07-15 12:16:16+00:00	6	1	23	1	Twitter Web App
+tweeting_cris	mstrohm	1147088790135222272	replied_to	2019-07-05 10:24:14+00:00	0	0	0	0	Twitter Web App
+tweeting_cris	epj_ds	1147088790135222272	replied_to	2019-07-05 10:24:14+00:00	0	0	0	0	Twitter Web App
+SuperEB	mstrohm	1147080679328534528	quoted	2019-07-05 09:52:00+00:00	1	0	8	0	TweetDeck
+SuperEB	epj_ds	1147080679328534528	quoted	2019-07-05 09:52:00+00:00	1	0	8	0	TweetDeck
+arcos_oliveira	trovdimi	1146339722924560384	replied_to	2019-07-03 08:47:42+00:00	0	1	0	0	Twitter Web Client
+arcos_oliveira	WikiResearch	1146339722924560384	replied_to	2019-07-03 08:47:42+00:00	0	1	0	0	Twitter Web Client
+arcos_oliveira	f_lemmerich	1146339722924560384	replied_to	2019-07-03 08:47:42+00:00	0	1	0	0	Twitter Web Client
+arcos_oliveira	mstrohm	1146339722924560384	replied_to	2019-07-03 08:47:42+00:00	0	1	0	0	Twitter Web Client
+arcos_oliveira	ffloeck	1146339722924560384	replied_to	2019-07-03 08:47:42+00:00	0	1	0	0	Twitter Web Client
+arcos_oliveira	gesis_org	1146339722924560384	replied_to	2019-07-03 08:47:42+00:00	0	1	0	0	Twitter Web Client
+gesis_org	WikiResearch	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+gesis_org	f_lemmerich	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+gesis_org	mstrohm	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+gesis_org	ffloeck	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+gesis_org	dimi_z	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+gesis_org	gesis_org	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+gesis_org	dimi_z	1146311216953987072	replied_to	2019-07-03 06:54:26+00:00	0	1	1	0	Twitter for iPhone
+karinv	gesis_org	1142730417327476737	mentioned	2019-06-23 09:45:37+00:00	2	0	21	0	TweetDeck
+karinv	arcos_oliveira	1142730417327476737	mentioned	2019-06-23 09:45:37+00:00	2	0	21	0	TweetDeck
+karinv	clauwa	1142730417327476737	mentioned	2019-06-23 09:45:37+00:00	2	0	21	0	TweetDeck
+karinv	mstrohm	1142730417327476737	mentioned	2019-06-23 09:45:37+00:00	2	0	21	0	TweetDeck
+svakulenk0	leoferres	1141397330530373634	mentioned	2019-06-19 17:28:24+00:00	2	0	10	1	Twitter Web Client
+svakulenk0	mstrohm	1141397330530373634	mentioned	2019-06-19 17:28:24+00:00	2	0	10	1	Twitter Web Client
+svakulenk0	clauwa	1141397330530373634	mentioned	2019-06-19 17:28:24+00:00	2	0	10	1	Twitter Web Client
+svakulenk0	gesis_org	1141397330530373634	mentioned	2019-06-19 17:28:24+00:00	2	0	10	1	Twitter Web Client
+svakulenk0	gesis_org	1141397330530373634	mentioned	2019-06-19 17:28:24+00:00	2	0	10	1	Twitter Web Client
+fhasibi	gesis_org	1141260924554227712	mentioned	2019-06-19 08:26:22+00:00	2	0	22	0	Twitter for Android
+fhasibi	clauwa	1141260924554227712	mentioned	2019-06-19 08:26:22+00:00	2	0	22	0	Twitter for Android
+fhasibi	mstrohm	1141260924554227712	mentioned	2019-06-19 08:26:22+00:00	2	0	22	0	Twitter for Android
+ArthurCamara	clauwa	1139848398201212928	replied_to	2019-06-15 10:53:30+00:00	0	1	0	0	Twitter for Android
+ArthurCamara	mstrohm	1139848398201212928	replied_to	2019-06-15 10:53:30+00:00	0	1	0	0	Twitter for Android
+Philipp_Mayr	mstrohm	1139794565685055493	quoted	2019-06-15 07:19:35+00:00	0	0	2	0	Twitter for Android
+iFromm	eytanadar	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	ozaiane	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	ladamic	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	cerenbudak	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	DanielMRomero	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	cervisiarius	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	mstrohm	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	clauwa	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+iFromm	lajello	1139513227484848128	mentioned	2019-06-14 12:41:39+00:00	9	0	26	1	Twitter Web Client
+frrncl	mstrohm	1139475248678678534	replied_to	2019-06-14 10:10:44+00:00	0	0	0	0	Twitter Web Client
+frrncl	clauwa	1139475248678678534	replied_to	2019-06-14 10:10:44+00:00	0	0	0	0	Twitter Web Client
+iadh	icwsm	1139442573771231232	mentioned	2019-06-14 08:00:54+00:00	1	0	6	0	Twitter for Android
+iadh	mstrohm	1139442573771231232	mentioned	2019-06-14 08:00:54+00:00	1	0	6	0	Twitter for Android
+maponaso	clauwa	1139441996618194944	replied_to	2019-06-14 07:58:36+00:00	0	1	0	0	Twitter for iPhone
+maponaso	mstrohm	1139441996618194944	replied_to	2019-06-14 07:58:36+00:00	0	1	0	0	Twitter for iPhone
+ArthurCamara	mstrohm	1118055602692022272	mentioned	2019-04-16 07:36:42+00:00	0	0	1	0	Tweetbot for iΟS
+Philipp_Mayr	mstrohm	1118055342242447360	mentioned	2019-04-16 07:35:40+00:00	0	0	1	0	Twitter for iPhone
+Philipp_Mayr	ecir2019	1118055342242447360	mentioned	2019-04-16 07:35:40+00:00	0	0	1	0	Twitter for iPhone
+arkaitz	damiano10	1116625356419584007	mentioned	2019-04-12 08:53:25+00:00	2	0	5	0	Twitter Web Client
+arkaitz	mstrohm	1116625356419584007	mentioned	2019-04-12 08:53:25+00:00	2	0	5	0	Twitter Web Client
+arkaitz	amit_p	1116625356419584007	mentioned	2019-04-12 08:53:25+00:00	2	0	5	0	Twitter Web Client
+ingo_S	pholme	1114160454526545920	replied_to	2019-04-05 13:38:47+00:00	0	0	1	0	Twitter Web Client
+ingo_S	uzh_ifi	1114160454526545920	replied_to	2019-04-05 13:38:47+00:00	0	0	1	0	Twitter Web Client
+ingo_S	UZH_ch	1114160454526545920	replied_to	2019-04-05 13:38:47+00:00	0	0	1	0	Twitter Web Client
+ingo_S	jure	1114160454526545920	replied_to	2019-04-05 13:38:47+00:00	0	0	1	0	Twitter Web Client
+ingo_S	icouzin	1114160454526545920	replied_to	2019-04-05 13:38:47+00:00	0	0	1	0	Twitter Web Client
+ingo_S	mstrohm	1114160454526545920	replied_to	2019-04-05 13:38:47+00:00	0	0	1	0	Twitter Web Client
+pholme	ingo_S	1114134716762845185	replied_to	2019-04-05 11:56:30+00:00	0	1	1	0	Twitter Web App
+pholme	uzh_ifi	1114134716762845185	replied_to	2019-04-05 11:56:30+00:00	0	1	1	0	Twitter Web App
+pholme	UZH_ch	1114134716762845185	replied_to	2019-04-05 11:56:30+00:00	0	1	1	0	Twitter Web App
+pholme	jure	1114134716762845185	replied_to	2019-04-05 11:56:30+00:00	0	1	1	0	Twitter Web App
+pholme	icouzin	1114134716762845185	replied_to	2019-04-05 11:56:30+00:00	0	1	1	0	Twitter Web App
+pholme	mstrohm	1114134716762845185	replied_to	2019-04-05 11:56:30+00:00	0	1	1	0	Twitter Web App
+renepickhardt	uzh_ifi	1114125933655527432	mentioned	2019-04-05 11:21:36+00:00	7	2	11	0	Twitter Web Client
+renepickhardt	UZH_ch	1114125933655527432	mentioned	2019-04-05 11:21:36+00:00	7	2	11	0	Twitter Web Client
+renepickhardt	jure	1114125933655527432	mentioned	2019-04-05 11:21:36+00:00	7	2	11	0	Twitter Web Client
+renepickhardt	icouzin	1114125933655527432	mentioned	2019-04-05 11:21:36+00:00	7	2	11	0	Twitter Web Client
+renepickhardt	mstrohm	1114125933655527432	mentioned	2019-04-05 11:21:36+00:00	7	2	11	0	Twitter Web Client
+JurgenPfeffer	100trillionUSD	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	lschmelzeisen	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	heinrichhartman	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	flyingshapescom	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	stefanwouldgo	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	mstrohm	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	jungly	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	maithi_nk	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	tgottron	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	datasciencelove	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+JurgenPfeffer	yegg	1109687758610665472	replied_to	2019-03-24 05:25:53+00:00	0	0	7	0	Twitter for Android
+unc_our	supermaschine	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+unc_our	icwsm	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+unc_our	TU_Muenchen	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+unc_our	ladamic	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+unc_our	dfreelon	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+unc_our	KristinaLerman	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+unc_our	mstrohm	1105548756605374464	replied_to	2019-03-12 19:18:58+00:00	0	0	0	0	Twitter Web Client
+supermaschine	JurgenPfeffer	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	dfreelon	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	icwsm	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	TU_Muenchen	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	ladamic	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	KristinaLerman	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	mstrohm	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+supermaschine	dfreelon	1105518195908046848	replied_to	2019-03-12 17:17:32+00:00	0	1	1	0	Twitter Web Client
+HSScomms	JurgenPfeffer	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+HSScomms	icwsm	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+HSScomms	TU_Muenchen	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+HSScomms	ladamic	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+HSScomms	dfreelon	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+HSScomms	KristinaLerman	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+HSScomms	mstrohm	1105476906927951873	replied_to	2019-03-12 14:33:28+00:00	0	1	0	0	Twitter for Android
+MarkusTurm	icwsm	1105469745053253633	mentioned	2019-03-12 14:05:00+00:00	15	2	62	2	TweetDeck
+MarkusTurm	TU_Muenchen	1105469745053253633	mentioned	2019-03-12 14:05:00+00:00	15	2	62	2	TweetDeck
+MarkusTurm	ladamic	1105469745053253633	mentioned	2019-03-12 14:05:00+00:00	15	2	62	2	TweetDeck
+MarkusTurm	dfreelon	1105469745053253633	mentioned	2019-03-12 14:05:00+00:00	15	2	62	2	TweetDeck
+MarkusTurm	KristinaLerman	1105469745053253633	mentioned	2019-03-12 14:05:00+00:00	15	2	62	2	TweetDeck
+MarkusTurm	mstrohm	1105469745053253633	mentioned	2019-03-12 14:05:00+00:00	15	2	62	2	TweetDeck
+silviafierascu	informatikradar	1103237293039591424	mentioned	2019-03-06 10:14:02+00:00	1	0	0	1	Twitter Web App
+silviafierascu	mstrohm	1103237293039591424	mentioned	2019-03-06 10:14:02+00:00	1	0	0	1	Twitter Web App
+SRoyLee	ingo_S	1102571587939770369	mentioned	2019-03-04 14:08:46+00:00	7	1	10	0	Twitter Web Client
+SRoyLee	mstrohm	1102571587939770369	mentioned	2019-03-04 14:08:46+00:00	7	1	10	0	Twitter Web Client
+Abdullahrhmoun	mstrohm	1101487220224073729	mentioned	2019-03-01 14:19:52+00:00	0	0	0	0	Twitter Web Client
+johannes_wachs	renepickhardt	1101200946409996288	replied_to	2019-02-28 19:22:19+00:00	0	0	0	0	Twitter for iPhone
+johannes_wachs	maithi_nk	1101200946409996288	replied_to	2019-02-28 19:22:19+00:00	0	0	0	0	Twitter for iPhone
+johannes_wachs	mstrohm	1101200946409996288	replied_to	2019-02-28 19:22:19+00:00	0	0	0	0	Twitter for iPhone
+johannes_wachs	clauwa	1101200946409996288	replied_to	2019-02-28 19:22:19+00:00	0	0	0	0	Twitter for iPhone
+johannes_wachs	renepickhardt	1101200946409996288	replied_to	2019-02-28 19:22:19+00:00	0	0	0	0	Twitter for iPhone
+poli_com	maithi_nk	1101129480184229889	mentioned	2019-02-28 14:38:20+00:00	0	2	6	0	Twitter for Android
+poli_com	mstrohm	1101129480184229889	mentioned	2019-02-28 14:38:20+00:00	0	2	6	0	Twitter for Android
+poli_com	clauwa	1101129480184229889	mentioned	2019-02-28 14:38:20+00:00	0	2	6	0	Twitter for Android
+dgarcia_eu	johannes_wachs	1097021177778880512	replied_to	2019-02-17 06:33:25+00:00	0	0	1	0	Twitter for Android
+dgarcia_eu	mstrohm	1097021177778880512	replied_to	2019-02-17 06:33:25+00:00	0	0	1	0	Twitter for Android
+dgarcia_eu	RWTHHumTec	1097021177778880512	replied_to	2019-02-17 06:33:25+00:00	0	0	1	0	Twitter for Android
+MartaKolcz	johannes_wachs	1096412575569391617	replied_to	2019-02-15 14:15:03+00:00	0	0	0	0	Twitter for Android
+MartaKolcz	mstrohm	1096412575569391617	replied_to	2019-02-15 14:15:03+00:00	0	0	0	0	Twitter for Android
+MartaKolcz	RWTHHumTec	1096412575569391617	replied_to	2019-02-15 14:15:03+00:00	0	0	0	0	Twitter for Android
+ecir2019	johannes_wachs	1096362507114110977	replied_to	2019-02-15 10:56:05+00:00	0	0	1	0	Twitter Web Client
+ecir2019	mstrohm	1096362507114110977	replied_to	2019-02-15 10:56:05+00:00	0	0	1	0	Twitter Web Client
+ecir2019	RWTHHumTec	1096362507114110977	replied_to	2019-02-15 10:56:05+00:00	0	0	1	0	Twitter Web Client
+IC2S2	mstrohm	1096348716594880513	mentioned	2019-02-15 10:01:17+00:00	3	4	60	1	Twitter Web App
+IC2S2	RWTHHumTec	1096348716594880513	mentioned	2019-02-15 10:01:17+00:00	3	4	60	1	Twitter Web App
+Routledge_MandC	SebStier	1094217375270998016	replied_to	2019-02-09 12:52:06+00:00	0	0	0	0	Twitter Web Client
+Routledge_MandC	arnimb	1094217375270998016	replied_to	2019-02-09 12:52:06+00:00	0	0	0	0	Twitter Web Client
+Routledge_MandC	mstrohm	1094217375270998016	replied_to	2019-02-09 12:52:06+00:00	0	0	0	0	Twitter Web Client
+Routledge_MandC	MichaelBossetta	1094217375270998016	replied_to	2019-02-09 12:52:06+00:00	0	0	0	0	Twitter Web Client
+OnervaKorhonen	MartaKolcz	1092390757699338241	replied_to	2019-02-04 11:53:46+00:00	0	0	3	0	Twitter for Android
+OnervaKorhonen	euro_css	1092390757699338241	replied_to	2019-02-04 11:53:46+00:00	0	0	3	0	Twitter for Android
+OnervaKorhonen	ETH_en	1092390757699338241	replied_to	2019-02-04 11:53:46+00:00	0	0	3	0	Twitter for Android
+OnervaKorhonen	kwelle	1092390757699338241	replied_to	2019-02-04 11:53:46+00:00	0	0	3	0	Twitter for Android
+OnervaKorhonen	mstrohm	1092390757699338241	replied_to	2019-02-04 11:53:46+00:00	0	0	3	0	Twitter for Android
+OnervaKorhonen	gesis_org	1092390757699338241	replied_to	2019-02-04 11:53:46+00:00	0	0	3	0	Twitter for Android
+InvasionEcology	euro_css	1092388556453134337	replied_to	2019-02-04 11:45:02+00:00	0	1	4	0	Twitter Web Client
+InvasionEcology	ETH_en	1092388556453134337	replied_to	2019-02-04 11:45:02+00:00	0	1	4	0	Twitter Web Client
+InvasionEcology	dgarcia_eu	1092388556453134337	replied_to	2019-02-04 11:45:02+00:00	0	1	4	0	Twitter Web Client
+InvasionEcology	kwelle	1092388556453134337	replied_to	2019-02-04 11:45:02+00:00	0	1	4	0	Twitter Web Client
+InvasionEcology	mstrohm	1092388556453134337	replied_to	2019-02-04 11:45:02+00:00	0	1	4	0	Twitter Web Client
+InvasionEcology	gesis_org	1092388556453134337	replied_to	2019-02-04 11:45:02+00:00	0	1	4	0	Twitter Web Client
+aminkaveh17	mstrohm	1091241507464663042	mentioned	2019-02-01 07:47:04+00:00	7	0	13	0	TweetDeck
+aminkaveh17	RWTH	1091241507464663042	mentioned	2019-02-01 07:47:04+00:00	7	0	13	0	TweetDeck
+aminkaveh17	gesis_org	1091241507464663042	mentioned	2019-02-01 07:47:04+00:00	7	0	13	0	TweetDeck
+aminkaveh17	ecir2019	1091241507464663042	mentioned	2019-02-01 07:47:04+00:00	7	0	13	0	TweetDeck
+LeonieMueck	sgonzalezbailon	1089927947224518656	mentioned	2019-01-28 16:47:27+00:00	20	0	26	1	Twitter Web Client
+LeonieMueck	HelenMargetts	1089927947224518656	mentioned	2019-01-28 16:47:27+00:00	20	0	26	1	Twitter Web Client
+LeonieMueck	mstrohm	1089927947224518656	mentioned	2019-01-28 16:47:27+00:00	20	0	26	1	Twitter Web Client
+LeonieMueck	duncanjwatts	1089927947224518656	mentioned	2019-01-28 16:47:27+00:00	20	0	26	1	Twitter Web Client
+JeromeMayaud	SebStier	1089810337644326912	mentioned	2019-01-28 09:00:06+00:00	2	0	0	0	Salesforce - Social Studio
+JeromeMayaud	arnimb	1089810337644326912	mentioned	2019-01-28 09:00:06+00:00	2	0	0	0	Salesforce - Social Studio
+JeromeMayaud	mstrohm	1089810337644326912	mentioned	2019-01-28 09:00:06+00:00	2	0	0	0	Salesforce - Social Studio
+lajello	MathieuGenois	1084898175331328001	mentioned	2019-01-14 19:40:56+00:00	0	0	1	0	Twitter Web Client
+lajello	mstrohm	1084898175331328001	mentioned	2019-01-14 19:40:56+00:00	0	0	1	0	Twitter Web Client
+TahaYasseri	alexvespi	1082433226046468096	replied_to	2019-01-08 00:26:06+00:00	0	0	1	0	Twitter for iPad
+TahaYasseri	mstrohm	1082433226046468096	replied_to	2019-01-08 00:26:06+00:00	0	0	1	0	Twitter for iPad
+franzbenjamin	mstrohm	1072915885680136192	mentioned	2018-12-12 18:07:35+00:00	0	0	1	0	Twitter Web App
+leoferres	complex_nets	1072906067942744064	mentioned	2018-12-12 17:28:34+00:00	0	0	2	0	Twitter for Android
+leoferres	mstrohm	1072906067942744064	mentioned	2018-12-12 17:28:34+00:00	0	0	2	0	Twitter for Android
+leoferres	peterdodds	1072906067942744064	mentioned	2018-12-12 17:28:34+00:00	0	0	2	0	Twitter for Android
+vrandezo	mstrohm	1072905106503450625	mentioned	2018-12-12 17:24:45+00:00	0	0	1	0	Twitter for iPhone
+rebekahwegener	mstrohm	1072904301905883138	mentioned	2018-12-12 17:21:33+00:00	6	0	33	1	Twitter for iPhone
+rebekahwegener	complex_nets	1072904301905883138	mentioned	2018-12-12 17:21:33+00:00	6	0	33	1	Twitter for iPhone
+Matt_T_Mayer	mstrohm	1072901576782741504	mentioned	2018-12-12 17:10:44+00:00	2	0	12	0	Twitter for Android
+Tanmoy_Chak	mstrohm	1072899898939461633	mentioned	2018-12-12 17:04:04+00:00	1	0	8	0	Twitter for iPhone
+alanr100	mstrohm	1070600373377867777	mentioned	2018-12-06 08:46:34+00:00	2	0	11	0	Twitter for Android
+alanr100	kwelle	1070600373377867777	mentioned	2018-12-06 08:46:34+00:00	2	0	11	0	Twitter for Android
+datascience_mi	mstrohm	1062469618164350976	replied_to	2018-11-13 22:17:51+00:00	0	0	1	0	Twitter for Android
+c_homuth	mstrohm	1061187725255163905	replied_to	2018-11-10 09:24:04+00:00	0	0	1	0	Twitter for Android
+MLuczak	mstrohm	1061187142305673216	replied_to	2018-11-10 09:21:45+00:00	0	1	1	0	Twitter for Android
+fariba_k	mstrohm	1060998100796563456	replied_to	2018-11-09 20:50:34+00:00	0	0	2	0	erased5434447
+bhuberman	mstrohm	1060942775787708416	replied_to	2018-11-09 17:10:43+00:00	0	1	0	0	Twitter for Android
+OpenGovTV	mstrohm	1060216308455882753	replied_to	2018-11-07 17:04:00+00:00	0	0	0	0	Twitter Web Client
+NextHannaArendt	mstrohm	1060216169733545991	replied_to	2018-11-07 17:03:27+00:00	0	1	0	0	Twitter Web Client
+JustListedBC	mstrohm	1056116188361580545	replied_to	2018-10-27 09:31:35+00:00	0	0	0	0	Twitter for iPhone
+JustListedBC	kylekloster	1056116188361580545	replied_to	2018-10-27 09:31:35+00:00	0	0	0	0	Twitter for iPhone
+JustListedBC	ravenben	1056116188361580545	replied_to	2018-10-27 09:31:35+00:00	0	0	0	0	Twitter for iPhone
+aslitelli	mstrohm	1055158957206052870	mentioned	2018-10-24 18:07:53+00:00	0	0	0	0	Paper.li
+AAlkahwaji	MarcoBrambi	1054027025697177603	mentioned	2018-10-21 15:10:00+00:00	0	0	1	0	Buffer
+AAlkahwaji	MarcoBrambi	1054027025697177603	mentioned	2018-10-21 15:10:00+00:00	0	0	1	0	Buffer
+AAlkahwaji	AntonyHosking	1054027025697177603	mentioned	2018-10-21 15:10:00+00:00	0	0	1	0	Buffer
+AAlkahwaji	LlanosRE	1054027025697177603	mentioned	2018-10-21 15:10:00+00:00	0	0	1	0	Buffer
+AAlkahwaji	mstrohm	1054027025697177603	mentioned	2018-10-21 15:10:00+00:00	0	0	1	0	Buffer
+andrasonea	mstrohm	1047526056075427842	mentioned	2018-10-03 16:37:28+00:00	2	0	6	0	Twitter for Android
+andrasonea	ESA_Sociology	1047526056075427842	mentioned	2018-10-03 16:37:28+00:00	2	0	6	0	Twitter for Android
+BrendaFox	mstrohm	1047518801598861312	mentioned	2018-10-03 16:08:38+00:00	0	0	1	0	Twitter for iPhone
+Tige86Lily	clmbirn	1046873525930229760	mentioned	2018-10-01 21:24:33+00:00	1	0	3	0	Twitter for Android
+Tige86Lily	mstrohm	1046873525930229760	mentioned	2018-10-01 21:24:33+00:00	1	0	3	0	Twitter for Android
+KweonSanghee	lschmelzeisen	1044515721135476736	quoted	2018-09-25 09:15:28+00:00	4	0	6	0	Twitter Web Client
+KweonSanghee	WeST_Ko	1044515721135476736	quoted	2018-09-25 09:15:28+00:00	4	0	6	0	Twitter Web Client
+KweonSanghee	ststaab	1044515721135476736	quoted	2018-09-25 09:15:28+00:00	4	0	6	0	Twitter Web Client
+KweonSanghee	heinrichhartman	1044515721135476736	quoted	2018-09-25 09:15:28+00:00	4	0	6	0	Twitter Web Client
+KweonSanghee	tgottron	1044515721135476736	quoted	2018-09-25 09:15:28+00:00	4	0	6	0	Twitter Web Client
+KweonSanghee	mstrohm	1044515721135476736	quoted	2018-09-25 09:15:28+00:00	4	0	6	0	Twitter Web Client
+smr_foundation	bhuberman	1043399465565081600	replied_to	2018-09-22 07:19:52+00:00	0	0	0	0	Twitter for iPhone
+smr_foundation	clauwa	1043399465565081600	replied_to	2018-09-22 07:19:52+00:00	0	0	0	0	Twitter for iPhone
+smr_foundation	mstrohm	1043399465565081600	replied_to	2018-09-22 07:19:52+00:00	0	0	0	0	Twitter for iPhone
+smr_foundation	MathieuGenois	1043399465565081600	replied_to	2018-09-22 07:19:52+00:00	0	0	0	0	Twitter for iPhone
+smr_foundation	ph_singer	1043399465565081600	replied_to	2018-09-22 07:19:52+00:00	0	0	0	0	Twitter for iPhone
+nodexl	fariba_k	1043364981612265473	replied_to	2018-09-22 05:02:51+00:00	0	2	1	0	Twitter for Android
+nodexl	clauwa	1043364981612265473	replied_to	2018-09-22 05:02:51+00:00	0	2	1	0	Twitter for Android
+nodexl	mstrohm	1043364981612265473	replied_to	2018-09-22 05:02:51+00:00	0	2	1	0	Twitter for Android
+nodexl	MathieuGenois	1043364981612265473	replied_to	2018-09-22 05:02:51+00:00	0	2	1	0	Twitter for Android
+nodexl	ph_singer	1043364981612265473	replied_to	2018-09-22 05:02:51+00:00	0	2	1	0	Twitter for Android
+iammohdfazil	markc	1042330851726553088	mentioned	2018-09-19 08:33:35+00:00	0	0	0	0	Paper.li
+iammohdfazil	AmericanBanking	1042330851726553088	mentioned	2018-09-19 08:33:35+00:00	0	0	0	0	Paper.li
+iammohdfazil	mstrohm	1042330851726553088	mentioned	2018-09-19 08:33:35+00:00	0	0	0	0	Paper.li
+madestro	MikeSav47032563	1042128445797355521	quoted	2018-09-18 19:09:17+00:00	0	0	2	1	Twitter for Android
+madestro	mstrohm	1042128445797355521	quoted	2018-09-18 19:09:17+00:00	0	0	2	1	Twitter for Android
+madestro	AndyTatem	1042128445797355521	quoted	2018-09-18 19:09:17+00:00	0	0	2	1	Twitter for Android
+emilio__ferrara	mstrohm	1037601610883641344	quoted	2018-09-06 07:21:16+00:00	3	1	17	0	Twitter Web Client
+emilio__ferrara	MathieuGenois	1037601610883641344	quoted	2018-09-06 07:21:16+00:00	3	1	17	0	Twitter Web Client
+emilio__ferrara	clauwa	1037601610883641344	quoted	2018-09-06 07:21:16+00:00	3	1	17	0	Twitter Web Client
+emilio__ferrara	ph_singer	1037601610883641344	quoted	2018-09-06 07:21:16+00:00	3	1	17	0	Twitter Web Client
+epj_ds	mstrohm	1037055759232761856	replied_to	2018-09-04 19:12:15+00:00	0	0	0	0	Twitter for Android
+epj_ds	RWTH	1037055759232761856	replied_to	2018-09-04 19:12:15+00:00	0	0	0	0	Twitter for Android
+estebanmoro	EricLykins	1032183994459271168	mentioned	2018-08-22 08:33:35+00:00	0	0	0	0	Paper.li
+estebanmoro	libdemvoice	1032183994459271168	mentioned	2018-08-22 08:33:35+00:00	0	0	0	0	Paper.li
+estebanmoro	mstrohm	1032183994459271168	mentioned	2018-08-22 08:33:35+00:00	0	0	0	0	Paper.li
+alexvespi	mikiszikszai	1030877021021380610	mentioned	2018-08-18 18:00:09+00:00	0	0	0	0	The Tweeted Times
+alexvespi	mstrohm	1030877021021380610	mentioned	2018-08-18 18:00:09+00:00	0	0	0	0	The Tweeted Times
+alexvespi	BrankoMilan	1030877021021380610	mentioned	2018-08-18 18:00:09+00:00	0	0	0	0	The Tweeted Times
+Turdbull	mstrohm	1026389236780593153	mentioned	2018-08-06 08:47:18+00:00	0	0	0	0	Paper.li
+Turdbull	AgnesCallamard	1026389236780593153	mentioned	2018-08-06 08:47:18+00:00	0	0	0	0	Paper.li
+Turdbull	pinardag	1026389236780593153	mentioned	2018-08-06 08:47:18+00:00	0	0	0	0	Paper.li
+alainbarrat	fariba_k	1024235163193094144	quoted	2018-07-31 10:07:46+00:00	0	0	10	0	Twitter Web Client
+alainbarrat	MathieuGenois	1024235163193094144	quoted	2018-07-31 10:07:46+00:00	0	0	10	0	Twitter Web Client
+alainbarrat	clauwa	1024235163193094144	quoted	2018-07-31 10:07:46+00:00	0	0	10	0	Twitter Web Client
+alainbarrat	ph_singer	1024235163193094144	quoted	2018-07-31 10:07:46+00:00	0	0	10	0	Twitter Web Client
+alainbarrat	mstrohm	1024235163193094144	quoted	2018-07-31 10:07:46+00:00	0	0	10	0	Twitter Web Client
+FrancescoBonchi	MarcoBrambi	1023586446366658560	mentioned	2018-07-29 15:10:00+00:00	0	0	0	0	Buffer
+FrancescoBonchi	MarcoBrambi	1023586446366658560	mentioned	2018-07-29 15:10:00+00:00	0	0	0	0	Buffer
+FrancescoBonchi	dsyme	1023586446366658560	mentioned	2018-07-29 15:10:00+00:00	0	0	0	0	Buffer
+FrancescoBonchi	mstrohm	1023586446366658560	mentioned	2018-07-29 15:10:00+00:00	0	0	0	0	Buffer
+FrancescoBonchi	arkaitz	1023586446366658560	mentioned	2018-07-29 15:10:00+00:00	0	0	0	0	Buffer
+robysinatra	alexvespi	1021496772064149504	replied_to	2018-07-23 20:46:23+00:00	0	0	1	0	Twitter Web Client
+robysinatra	clauwa	1021496772064149504	replied_to	2018-07-23 20:46:23+00:00	0	0	1	0	Twitter Web Client
+robysinatra	mstrohm	1021496772064149504	replied_to	2018-07-23 20:46:23+00:00	0	0	1	0	Twitter Web Client
+robysinatra	SciReports	1021496772064149504	replied_to	2018-07-23 20:46:23+00:00	0	0	1	0	Twitter Web Client
+net_science	mstrohm	1020061905963003904	replied_to	2018-07-19 21:44:44+00:00	0	0	0	0	Twitter for iPhone
+net_science	RWTH	1020061905963003904	replied_to	2018-07-19 21:44:44+00:00	0	0	0	0	Twitter for iPhone
+miriam_fs	mstrohm	1019884104886706176	mentioned	2018-07-19 09:58:13+00:00	0	0	2	1	Twitter for iPhone
+PiratePeel	mstrohm	1019566014516875266	mentioned	2018-07-18 12:54:15+00:00	0	0	0	0	Paper.li
+PiratePeel	wretchardthecat	1019566014516875266	mentioned	2018-07-18 12:54:15+00:00	0	0	0	0	Paper.li
+trovdimi	mstrohm	1019511556521058305	replied_to	2018-07-18 09:17:51+00:00	0	0	0	0	Twitter for iPhone
+jemoraz	smr_foundation	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	NICOatNU	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	IC2S2	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	davidlazer	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	mstrohm	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	aaronclauset	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	Kav_Kaushik	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	KelloggSchool	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	DanLarremore	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	KMetzlerSAGE	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+jemoraz	duncanjwatts	1019422918734852098	replied_to	2018-07-18 03:25:38+00:00	0	0	1	0	Twitter for Android
+WanjaSchaible	NICOatNU	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	IC2S2	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	davidlazer	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	mstrohm	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	aaronclauset	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	Kav_Kaushik	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	KelloggSchool	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	DanLarremore	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	KMetzlerSAGE	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+WanjaSchaible	duncanjwatts	1019386413538660352	mentioned	2018-07-18 01:00:34+00:00	0	1	0	0	Twitter Web Client
+elisab79	NICOatNU	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	IC2S2	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	davidlazer	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	mstrohm	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	aaronclauset	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	Kav_Kaushik	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	KelloggSchool	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	DanLarremore	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	KMetzlerSAGE	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+elisab79	duncanjwatts	1019334077038465024	mentioned	2018-07-17 21:32:36+00:00	0	0	0	0	Twitter for iPhone
+t_preis	mstrohm	1019215322216304640	quoted	2018-07-17 13:40:43+00:00	1	0	2	1	Twitter for Android
+ingmarweber	mstrohm	1019211300377899008	replied_to	2018-07-17 13:24:44+00:00	0	1	0	0	Twitter Web Client
+ingmarweber	RWTH	1019211300377899008	replied_to	2018-07-17 13:24:44+00:00	0	1	0	0	Twitter Web Client
+stephaniewojcik	jabawack	1012449584516300801	replied_to	2018-06-28 21:36:06+00:00	0	0	0	0	Twitter for Android
+stephaniewojcik	mstrohm	1012449584516300801	replied_to	2018-06-28 21:36:06+00:00	0	0	0	0	Twitter for Android
+stephaniewojcik	alexvespi	1012449584516300801	replied_to	2018-06-28 21:36:06+00:00	0	0	0	0	Twitter for Android
+stephaniewojcik	epj_ds	1012449584516300801	replied_to	2018-06-28 21:36:06+00:00	0	0	0	0	Twitter for Android
+poli_com	SebStier	955570479863037952	mentioned	2018-01-22 22:38:50+00:00	20	1	33	0	Twitter Web Client
+poli_com	arnimb	955570479863037952	mentioned	2018-01-22 22:38:50+00:00	20	1	33	0	Twitter Web Client
+poli_com	mstrohm	955570479863037952	mentioned	2018-01-22 22:38:50+00:00	20	1	33	0	Twitter Web Client
+poli_com	gesis_org	955570479863037952	mentioned	2018-01-22 22:38:50+00:00	20	1	33	0	Twitter Web Client
+ingo_S	epj_ds	955219901601472512	mentioned	2018-01-21 23:25:46+00:00	0	0	14	0	Twitter Web Client
+ingo_S	mstrohm	955219901601472512	mentioned	2018-01-21 23:25:46+00:00	0	0	14	0	Twitter Web Client
+ingo_S	alexvespi	955219901601472512	mentioned	2018-01-21 23:25:46+00:00	0	0	14	0	Twitter Web Client
+WikiResearch	bearloga	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	geistesblitzer	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	mstrohm	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	loretoff	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	cervisiarius	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	jure	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	f_lemmerich	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	ph_singer	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	physikerwelt	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+WikiResearch	trovdimi	953306703159701504	replied_to	2018-01-16 16:43:24+00:00	2	0	4	0	Twitter Web Client
+MariaPereda_	epj_ds	951944635936661504	replied_to	2018-01-12 22:31:02+00:00	0	0	1	0	Twitter for iPhone
+MariaPereda_	mstrohm	951944635936661504	replied_to	2018-01-12 22:31:02+00:00	0	0	1	0	Twitter for iPhone
+MariaPereda_	SpringerPhysics	951944635936661504	replied_to	2018-01-12 22:31:02+00:00	0	0	1	0	Twitter for iPhone
+MariaPereda_	EPJscience	951944635936661504	replied_to	2018-01-12 22:31:02+00:00	0	0	1	0	Twitter for iPhone
+MariaPereda_	mstrohm	951944635936661504	replied_to	2018-01-12 22:31:02+00:00	0	0	1	0	Twitter for iPhone
+epj_ds	mstrohm	951815393362038785	replied_to	2018-01-12 13:57:28+00:00	5	0	15	0	Twitter Web Client
+epj_ds	SpringerPhysics	951815393362038785	replied_to	2018-01-12 13:57:28+00:00	5	0	15	0	Twitter Web Client
+epj_ds	EPJscience	951815393362038785	replied_to	2018-01-12 13:57:28+00:00	5	0	15	0	Twitter Web Client
+epj_ds	alexvespi	951815393362038785	replied_to	2018-01-12 13:57:28+00:00	5	0	15	0	Twitter Web Client
+OpenGovTV	mstrohm	951815219172511754	mentioned	2018-01-12 13:56:46+00:00	10	2	58	2	Twitter Web Client
+OpenGovTV	SpringerPhysics	951815219172511754	mentioned	2018-01-12 13:56:46+00:00	10	2	58	2	Twitter Web Client
+OpenGovTV	EPJscience	951815219172511754	mentioned	2018-01-12 13:56:46+00:00	10	2	58	2	Twitter Web Client
+wolff_ernst	mstrohm	943761097747820546	mentioned	2017-12-21 08:32:34+00:00	0	0	0	0	Paper.li
+renepickhardt	renepickhardt	940300808633110530	replied_to	2017-12-11 19:22:37+00:00	0	0	0	0	Twitter Web Client
+renepickhardt	ResiduumMuc	940300808633110530	replied_to	2017-12-11 19:22:37+00:00	0	0	0	0	Twitter Web Client
+renepickhardt	saschalobo	940300808633110530	replied_to	2017-12-11 19:22:37+00:00	0	0	0	0	Twitter Web Client
+renepickhardt	mstrohm	940300808633110530	replied_to	2017-12-11 19:22:37+00:00	0	0	0	0	Twitter Web Client
+renepickhardt	clauwa	940300808633110530	replied_to	2017-12-11 19:22:37+00:00	0	0	0	0	Twitter Web Client
+thomashaubner	thomashaubner	938655991847112705	replied_to	2017-12-07 06:26:42+00:00	0	0	0	0	Twitter for Android
+thomashaubner	ResiduumMuc	938655991847112705	replied_to	2017-12-07 06:26:42+00:00	0	0	0	0	Twitter for Android
+thomashaubner	saschalobo	938655991847112705	replied_to	2017-12-07 06:26:42+00:00	0	0	0	0	Twitter for Android
+thomashaubner	mstrohm	938655991847112705	replied_to	2017-12-07 06:26:42+00:00	0	0	0	0	Twitter for Android
+thomashaubner	clauwa	938655991847112705	replied_to	2017-12-07 06:26:42+00:00	0	0	0	0	Twitter for Android
+RWTHHumTec	renepickhardt	938489345752862723	replied_to	2017-12-06 19:24:30+00:00	0	1	0	0	Twitter for Android
+RWTHHumTec	ResiduumMuc	938489345752862723	replied_to	2017-12-06 19:24:30+00:00	0	1	0	0	Twitter for Android
+RWTHHumTec	saschalobo	938489345752862723	replied_to	2017-12-06 19:24:30+00:00	0	1	0	0	Twitter for Android
+RWTHHumTec	mstrohm	938489345752862723	replied_to	2017-12-06 19:24:30+00:00	0	1	0	0	Twitter for Android
+RWTHHumTec	clauwa	938489345752862723	replied_to	2017-12-06 19:24:30+00:00	0	1	0	0	Twitter for Android
+a_baronca	thomashaubner	938487618026790912	replied_to	2017-12-06 19:17:39+00:00	0	1	0	0	Twitter Web Client
+a_baronca	ResiduumMuc	938487618026790912	replied_to	2017-12-06 19:17:39+00:00	0	1	0	0	Twitter Web Client
+a_baronca	saschalobo	938487618026790912	replied_to	2017-12-06 19:17:39+00:00	0	1	0	0	Twitter Web Client
+a_baronca	mstrohm	938487618026790912	replied_to	2017-12-06 19:17:39+00:00	0	1	0	0	Twitter Web Client
+a_baronca	clauwa	938487618026790912	replied_to	2017-12-06 19:17:39+00:00	0	1	0	0	Twitter Web Client
+BrettButtliere	renepickhardt	938486431592349696	replied_to	2017-12-06 19:12:56+00:00	0	1	0	0	Twitter for Android
+BrettButtliere	ResiduumMuc	938486431592349696	replied_to	2017-12-06 19:12:56+00:00	0	1	0	0	Twitter for Android
+BrettButtliere	saschalobo	938486431592349696	replied_to	2017-12-06 19:12:56+00:00	0	1	0	0	Twitter for Android
+BrettButtliere	mstrohm	938486431592349696	replied_to	2017-12-06 19:12:56+00:00	0	1	0	0	Twitter for Android
+BrettButtliere	clauwa	938486431592349696	replied_to	2017-12-06 19:12:56+00:00	0	1	0	0	Twitter for Android
+elisab79	ResiduumMuc	938452012752130048	replied_to	2017-12-06 16:56:10+00:00	0	2	0	0	Twitter Web Client
+elisab79	saschalobo	938452012752130048	replied_to	2017-12-06 16:56:10+00:00	0	2	0	0	Twitter Web Client
+elisab79	saschalobo	938452012752130048	replied_to	2017-12-06 16:56:10+00:00	0	2	0	0	Twitter Web Client
+elisab79	mstrohm	938452012752130048	replied_to	2017-12-06 16:56:10+00:00	0	2	0	0	Twitter Web Client
+elisab79	clauwa	938452012752130048	replied_to	2017-12-06 16:56:10+00:00	0	2	0	0	Twitter Web Client
+lbravoc	RWTHHumTec	936525825016549379	replied_to	2017-12-01 09:22:11+00:00	0	0	1	0	Twitter for iPhone
+lbravoc	mstrohm	936525825016549379	replied_to	2017-12-01 09:22:11+00:00	0	0	1	0	Twitter for iPhone
+marc_smith	RWTHHumTec	936513536938991616	mentioned	2017-12-01 08:33:21+00:00	3	1	3	0	Twitter Web Client
+marc_smith	mstrohm	936513536938991616	mentioned	2017-12-01 08:33:21+00:00	3	1	3	0	Twitter Web Client
+clauwa	mstrohm	933335767568584704	replied_to	2017-11-22 14:06:02+00:00	0	0	0	0	Twitter for iPhone
+clauwa	RWTH	933335767568584704	replied_to	2017-11-22 14:06:02+00:00	0	0	0	0	Twitter for iPhone
+emilio__ferrara	MathieuGenois	930401056768647169	mentioned	2017-11-14 11:44:32+00:00	4	1	2	0	Twitter Web Client
+emilio__ferrara	clauwa	930401056768647169	mentioned	2017-11-14 11:44:32+00:00	4	1	2	0	Twitter Web Client
+emilio__ferrara	mstrohm	930401056768647169	mentioned	2017-11-14 11:44:32+00:00	4	1	2	0	Twitter Web Client
+websciencetrust	RWTHHumTec	926452639637876736	mentioned	2017-11-03 14:14:56+00:00	2	0	3	1	Twitter Web Client
+websciencetrust	elisab79	926452639637876736	mentioned	2017-11-03 14:14:56+00:00	2	0	3	1	Twitter Web Client
+websciencetrust	mstrohm	926452639637876736	mentioned	2017-11-03 14:14:56+00:00	2	0	3	1	Twitter Web Client
+lintool	elisab79	926047865256009728	replied_to	2017-11-02 11:26:30+00:00	0	0	1	0	Twitter Web Client
+lintool	mstrohm	926047865256009728	replied_to	2017-11-02 11:26:30+00:00	0	0	1	0	Twitter Web Client
+InfoAthenagoras	mstrohm	926036694167678976	mentioned	2017-11-02 10:42:07+00:00	0	1	7	0	Twitter for Android
+oiioxford	marc_smith	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	leoferres	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	euro_css	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	lajello	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	kwelle	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	mstrohm	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	NetworkTobi	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	net_science	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	ciro	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	7thmassmedia	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+oiioxford	net_science	924298293496242177	replied_to	2017-10-28 15:34:20+00:00	0	0	6	0	Twitter for Android
+kareem2darwish	euro_css	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	lajello	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	kwelle	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	mstrohm	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	NetworkTobi	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	net_science	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	ciro	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	7thmassmedia	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+kareem2darwish	leoferres	924064342349299712	mentioned	2017-10-28 00:04:42+00:00	3	1	4	0	Twitter Web Client
+elaragon	fariba_k	923845843161157632	mentioned	2017-10-27 09:36:27+00:00	13	0	38	0	Twitter Web Client
+elaragon	mstrohm	923845843161157632	mentioned	2017-10-27 09:36:27+00:00	13	0	38	0	Twitter Web Client
+miriam_fs	clauwa	923392745733083136	mentioned	2017-10-26 03:36:01+00:00	1	0	7	0	Buffer
+miriam_fs	mstrohm	923392745733083136	mentioned	2017-10-26 03:36:01+00:00	1	0	7	0	Buffer
+Walid_Magdy	mstrohm	913680497573687296	mentioned	2017-09-29 08:23:00+00:00	0	0	0	0	TweetDeck
+Walid_Magdy	clauwa	913680497573687296	mentioned	2017-09-29 08:23:00+00:00	0	0	0	0	TweetDeck
+rishabhk_	mstrohm	910876982099021824	replied_to	2017-09-21 14:42:50+00:00	0	0	0	0	Twitter Web Client
+JisunAn	mstrohm	908659792817909760	replied_to	2017-09-15 11:52:31+00:00	0	0	0	0	Twitter Web Client
+TahaYasseri	socinformatics	908367408976539649	mentioned	2017-09-14 16:30:41+00:00	1	0	6	0	Hootsuite
+TahaYasseri	ginasue	908367408976539649	mentioned	2017-09-14 16:30:41+00:00	1	0	6	0	Hootsuite
+TahaYasseri	mstrohm	908367408976539649	mentioned	2017-09-14 16:30:41+00:00	1	0	6	0	Hootsuite
+rene_kaiser	mstrohm	908365255100829696	mentioned	2017-09-14 16:22:08+00:00	5	0	9	0	Twitter for Windows
+phschaer	mstrohm	908360418384629760	mentioned	2017-09-14 16:02:54+00:00	3	0	3	0	Twitter Web Client
+phschaer	Wikipedia	908360418384629760	mentioned	2017-09-14 16:02:54+00:00	3	0	3	0	Twitter Web Client
+euro_css	mstrohm	908355741366587393	mentioned	2017-09-14 15:44:19+00:00	2	0	4	0	Twitter for Android
+euro_css	socinformatics	908355741366587393	mentioned	2017-09-14 15:44:19+00:00	2	0	4	0	Twitter for Android
+matozoid	mstrohm	908354930989260800	mentioned	2017-09-14 15:41:06+00:00	1	0	7	0	Twitter for Android
+datascience_mi	mstrohm	908354326510399488	replied_to	2017-09-14 15:38:42+00:00	0	0	2	0	Twitter for Android
+datascience_mi	socinformatics	908354326510399488	replied_to	2017-09-14 15:38:42+00:00	0	0	2	0	Twitter for Android
+anxosan	mstrohm	908354322408394752	mentioned	2017-09-14 15:38:41+00:00	2	0	7	0	Twitter for iPhone
+ciro	mstrohm	908354140706951169	mentioned	2017-09-14 15:37:58+00:00	5	0	16	0	Twitter for Android
+ciro	danielequercia	908354140706951169	mentioned	2017-09-14 15:37:58+00:00	5	0	16	0	Twitter for Android
+Mohsen_Bahrami_	mstrohm	908354083593080834	mentioned	2017-09-14 15:37:44+00:00	0	1	1	0	Twitter for Android
+Mohsen_Bahrami_	socinformatics	908354083593080834	mentioned	2017-09-14 15:37:44+00:00	0	1	1	0	Twitter for Android
+IC2S2	mstrohm	906237690907156480	replied_to	2017-09-08 19:27:57+00:00	0	0	0	0	Twitter Web Client
+tweeting_cris	mstrohm	906213058258849792	replied_to	2017-09-08 17:50:04+00:00	0	0	2	1	Twitter for iPhone
+simonsaysnothin	dgarcia_eu	900130630419218432	mentioned	2017-08-22 23:00:40+00:00	0	0	2	0	Buffer
+simonsaysnothin	mstrohm	900130630419218432	mentioned	2017-08-22 23:00:40+00:00	0	0	2	0	Buffer
+gesis_org	MarcoBrambi	896010349895352321	replied_to	2017-08-11 14:08:09+00:00	0	0	1	0	Twitter for Android
+gesis_org	drierat	896010349895352321	replied_to	2017-08-11 14:08:09+00:00	0	0	1	0	Twitter for Android
+gesis_org	mstrohm	896010349895352321	replied_to	2017-08-11 14:08:09+00:00	0	0	1	0	Twitter for Android
+lajello	MarcoBrambi	896006543019094016	mentioned	2017-08-11 13:53:01+00:00	0	0	0	1	Buffer
+lajello	MarcoBrambi	896006543019094016	mentioned	2017-08-11 13:53:01+00:00	0	0	0	1	Buffer
+lajello	drierat	896006543019094016	mentioned	2017-08-11 13:53:01+00:00	0	0	0	1	Buffer
+lajello	matozoid	896006543019094016	mentioned	2017-08-11 13:53:01+00:00	0	0	0	1	Buffer
+lajello	mstrohm	896006543019094016	mentioned	2017-08-11 13:53:01+00:00	0	0	0	1	Buffer
+SpringerPhysics	mstrohm	885495083595952128	mentioned	2017-07-13 13:44:14+00:00	5	0	15	0	Twitter for Android
+SpringerPhysics	gesis_org	885495083595952128	mentioned	2017-07-13 13:44:14+00:00	5	0	15	0	Twitter for Android
+SebStier	mstrohm	885082876462714881	mentioned	2017-07-12 10:26:16+00:00	4	0	4	0	Twitter for iPhone
+SebStier	jure	885082876462714881	mentioned	2017-07-12 10:26:16+00:00	4	0	4	0	Twitter for iPhone
+SebStier	cervisiarius	885082876462714881	mentioned	2017-07-12 10:26:16+00:00	4	0	4	0	Twitter for iPhone
+databenz	tweeting_cris	884896175131959296	replied_to	2017-07-11 22:04:23+00:00	0	0	0	0	Twitter Web Client
+databenz	IC2S2	884896175131959296	replied_to	2017-07-11 22:04:23+00:00	0	0	0	0	Twitter Web Client
+databenz	mstrohm	884896175131959296	replied_to	2017-07-11 22:04:23+00:00	0	0	0	0	Twitter Web Client
+icsjournal	IC2S2	884782480276017152	mentioned	2017-07-11 14:32:36+00:00	1	0	0	0	Twitter Web Client
+icsjournal	RWTHHumTec	884782480276017152	mentioned	2017-07-11 14:32:36+00:00	1	0	0	0	Twitter Web Client
+icsjournal	mstrohm	884782480276017152	mentioned	2017-07-11 14:32:36+00:00	1	0	0	0	Twitter Web Client
+codybuntain	mstrohm	884688730199662592	mentioned	2017-07-11 08:20:04+00:00	0	0	1	0	Twitter for Android
+kwelle	IC2S2	884687229360144386	mentioned	2017-07-11 08:14:06+00:00	3	1	9	0	Twitter for Android
+kwelle	mstrohm	884687229360144386	mentioned	2017-07-11 08:14:06+00:00	3	1	9	0	Twitter for Android
+lespin	mstrohm	884509989305544704	mentioned	2017-07-10 20:29:49+00:00	1	0	4	0	Tweetbot for iΟS
+lespin	kenbenoit	884509989305544704	mentioned	2017-07-10 20:29:49+00:00	1	0	4	0	Tweetbot for iΟS
+lespin	sgonzalezbailon	884509989305544704	mentioned	2017-07-10 20:29:49+00:00	1	0	4	0	Tweetbot for iΟS
+ph_singer	lespin	881784749139906560	mentioned	2017-07-03 08:00:41+00:00	0	0	3	0	Hootsuite
+ph_singer	f_lemmerich	881784749139906560	mentioned	2017-07-03 08:00:41+00:00	0	0	3	0	Hootsuite
+ph_singer	mstrohm	881784749139906560	mentioned	2017-07-03 08:00:41+00:00	0	0	3	0	Hootsuite
+ph_singer	ph_singer	881784749139906560	mentioned	2017-07-03 08:00:41+00:00	0	0	3	0	Hootsuite
+m_taddicken	HelenMargetts	879746544060297217	quoted	2017-06-27 17:01:35+00:00	14	0	16	2	Twitter Web Client
+m_taddicken	mstrohm	879746544060297217	quoted	2017-06-27 17:01:35+00:00	14	0	16	2	Twitter Web Client
+m_taddicken	kwelle	879746544060297217	quoted	2017-06-27 17:01:35+00:00	14	0	16	2	Twitter Web Client
+trovdimi	appliednetsci	879667160716541953	quoted	2017-06-27 11:46:09+00:00	2	0	3	0	Twitter Web Client
+trovdimi	lespin	879667160716541953	quoted	2017-06-27 11:46:09+00:00	2	0	3	0	Twitter Web Client
+trovdimi	f_lemmerich	879667160716541953	quoted	2017-06-27 11:46:09+00:00	2	0	3	0	Twitter Web Client
+trovdimi	mstrohm	879667160716541953	quoted	2017-06-27 11:46:09+00:00	2	0	3	0	Twitter Web Client
+trovdimi	ph_singer	879667160716541953	quoted	2017-06-27 11:46:09+00:00	2	0	3	0	Twitter Web Client
+trovdimi	gesis_org	879667160716541953	quoted	2017-06-27 11:46:09+00:00	2	0	3	0	Twitter Web Client
+wikiworkshop	mstrohm	878287887380480000	replied_to	2017-06-23 16:25:24+00:00	0	0	1	0	Twitter Web Client
+wikiworkshop	RWTH	878287887380480000	replied_to	2017-06-23 16:25:24+00:00	0	0	1	0	Twitter Web Client
+wikiworkshop	RWTHHumTec	878287887380480000	replied_to	2017-06-23 16:25:24+00:00	0	0	1	0	Twitter Web Client
+fariba_k	mstrohm	878141233935331328	mentioned	2017-06-23 06:42:39+00:00	4	0	0	0	Twitter Web Client
+pbFeed	mstrohm	873087444945559556	mentioned	2017-06-09 08:00:42+00:00	1	0	3	0	Hootsuite
+pbFeed	rakanua	873087444945559556	mentioned	2017-06-09 08:00:42+00:00	1	0	3	0	Hootsuite
+pbFeed	arnimb	873087444945559556	mentioned	2017-06-09 08:00:42+00:00	1	0	3	0	Hootsuite
+pbFeed	SebStier	873087444945559556	mentioned	2017-06-09 08:00:42+00:00	1	0	3	0	Hootsuite
+lysander07	rakanua	871977660674711553	mentioned	2017-06-06 06:30:49+00:00	29	0	32	5	Twitter Web Client
+lysander07	arnimb	871977660674711553	mentioned	2017-06-06 06:30:49+00:00	29	0	32	5	Twitter Web Client
+lysander07	mstrohm	871977660674711553	mentioned	2017-06-06 06:30:49+00:00	29	0	32	5	Twitter Web Client
+EskenSaskia	mstrohm	870371334274129920	mentioned	2017-06-01 20:07:51+00:00	0	0	2	0	Twitter Web Client
+EskenSaskia	RWTHHumTec	870371334274129920	mentioned	2017-06-01 20:07:51+00:00	0	0	2	0	Twitter Web Client
+EskenSaskia	RWTH	870371334274129920	mentioned	2017-06-01 20:07:51+00:00	0	0	2	0	Twitter Web Client
+PFCdgayo	mstrohm	870360521886887938	replied_to	2017-06-01 19:24:53+00:00	0	1	1	0	Twitter for iPhone
+PFCdgayo	RWTH	870360521886887938	replied_to	2017-06-01 19:24:53+00:00	0	1	1	0	Twitter for iPhone
+PFCdgayo	RWTHHumTec	870360521886887938	replied_to	2017-06-01 19:24:53+00:00	0	1	1	0	Twitter for iPhone
+Mehdi_Moussaid	SebStier	869242129452851201	mentioned	2017-05-29 17:20:48+00:00	7	0	3	3	Twitter for Android
+Mehdi_Moussaid	rakanua	869242129452851201	mentioned	2017-05-29 17:20:48+00:00	7	0	3	3	Twitter for Android
+Mehdi_Moussaid	arnimb	869242129452851201	mentioned	2017-05-29 17:20:48+00:00	7	0	3	3	Twitter for Android
+Mehdi_Moussaid	mstrohm	869242129452851201	mentioned	2017-05-29 17:20:48+00:00	7	0	3	3	Twitter for Android
+JurgenPfeffer	jengolbeck	865274156186775552	mentioned	2017-05-18 18:33:29+00:00	4	0	4	1	Twitter for iPhone
+JurgenPfeffer	danielequercia	865274156186775552	mentioned	2017-05-18 18:33:29+00:00	4	0	4	1	Twitter for iPhone
+JurgenPfeffer	mstrohm	865274156186775552	mentioned	2017-05-18 18:33:29+00:00	4	0	4	1	Twitter for iPhone
+timalthoff	gesis_org	859444700268376064	mentioned	2017-05-02 16:29:18+00:00	34	0	13	1	Twitter Web Client
+timalthoff	mstrohm	859444700268376064	mentioned	2017-05-02 16:29:18+00:00	34	0	13	1	Twitter Web Client
+timalthoff	clauwa	859444700268376064	mentioned	2017-05-02 16:29:18+00:00	34	0	13	1	Twitter Web Client
+soncabral	mstrohm	852944682170683392	mentioned	2017-04-14 18:00:33+00:00	13	0	5	1	Twitter Web Client
+soncabral	danielequercia	852944682170683392	mentioned	2017-04-14 18:00:33+00:00	13	0	5	1	Twitter Web Client
+bjaress	mstrohm	852459922809905153	mentioned	2017-04-13 09:54:18+00:00	6	0	7	0	Twitter Web Client
+bjaress	gesis_org	852459922809905153	mentioned	2017-04-13 09:54:18+00:00	6	0	7	0	Twitter Web Client
+bjaress	liciacapra	852459922809905153	mentioned	2017-04-13 09:54:18+00:00	6	0	7	0	Twitter Web Client
+bjaress	uclcs	852459922809905153	mentioned	2017-04-13 09:54:18+00:00	6	0	7	0	Twitter Web Client
+ReaderMeter	jamespmanley	852258040610947073	mentioned	2017-04-12 20:32:05+00:00	0	0	0	0	Paper.li
+ReaderMeter	mstrohm	852258040610947073	mentioned	2017-04-12 20:32:05+00:00	0	0	0	0	Paper.li
+aslitelli	clauwa	849904458515349505	mentioned	2017-04-06 08:39:48+00:00	1	0	2	0	Twitter for Android
+aslitelli	fariba_k	849904458515349505	mentioned	2017-04-06 08:39:48+00:00	1	0	2	0	Twitter for Android
+aslitelli	ph_singer	849904458515349505	mentioned	2017-04-06 08:39:48+00:00	1	0	2	0	Twitter for Android
+aslitelli	mstrohm	849904458515349505	mentioned	2017-04-06 08:39:48+00:00	1	0	2	0	Twitter for Android
+aslitelli	gesis_org	849904458515349505	mentioned	2017-04-06 08:39:48+00:00	1	0	2	0	Twitter for Android
+hemant_pt	trovdimi	849863110886170624	mentioned	2017-04-06 05:55:29+00:00	1	0	6	0	Twitter for Android
+hemant_pt	ph_singer	849863110886170624	mentioned	2017-04-06 05:55:29+00:00	1	0	6	0	Twitter for Android
+hemant_pt	f_lemmerich	849863110886170624	mentioned	2017-04-06 05:55:29+00:00	1	0	6	0	Twitter for Android
+hemant_pt	mstrohm	849863110886170624	mentioned	2017-04-06 05:55:29+00:00	1	0	6	0	Twitter for Android
+hemant_pt	gesis_org	849863110886170624	mentioned	2017-04-06 05:55:29+00:00	1	0	6	0	Twitter for Android
+hemant_pt	Wikipedia	849863110886170624	mentioned	2017-04-06 05:55:29+00:00	1	0	6	0	Twitter for Android
+marianobegue	m_taddicken	849859060056735744	replied_to	2017-04-06 05:39:24+00:00	0	0	0	0	Twitter Web Client
+marianobegue	trovdimi	849859060056735744	replied_to	2017-04-06 05:39:24+00:00	0	0	0	0	Twitter Web Client
+marianobegue	f_lemmerich	849859060056735744	replied_to	2017-04-06 05:39:24+00:00	0	0	0	0	Twitter Web Client
+marianobegue	mstrohm	849859060056735744	replied_to	2017-04-06 05:39:24+00:00	0	0	0	0	Twitter Web Client
+yvesalexandre	trovdimi	849856383419904000	replied_to	2017-04-06 05:28:46+00:00	0	1	0	0	Twitter for Windows
+yvesalexandre	ph_singer	849856383419904000	replied_to	2017-04-06 05:28:46+00:00	0	1	0	0	Twitter for Windows
+yvesalexandre	ph_singer	849856383419904000	replied_to	2017-04-06 05:28:46+00:00	0	1	0	0	Twitter for Windows
+yvesalexandre	f_lemmerich	849856383419904000	replied_to	2017-04-06 05:28:46+00:00	0	1	0	0	Twitter for Windows
+yvesalexandre	mstrohm	849856383419904000	replied_to	2017-04-06 05:28:46+00:00	0	1	0	0	Twitter for Windows
+AMiner_org	mstrohm	782752947096711169	mentioned	2016-10-03 01:23:40+00:00	0	0	1	0	Twitter Web Client
+AMiner_org	DirkBrockmann	782752947096711169	mentioned	2016-10-03 01:23:40+00:00	0	0	1	0	Twitter Web Client
+AMiner_org	duncanjwatts	782752947096711169	mentioned	2016-10-03 01:23:40+00:00	0	0	1	0	Twitter Web Client
+hpgrahsl	mstrohm	781181169840877568	replied_to	2016-09-28 17:17:59+00:00	0	0	1	0	Twitter for Android
+a_baronca	mstrohm	780411096456986624	mentioned	2016-09-26 14:17:59+00:00	4	0	4	0	Twitter Web Client
+a_baronca	clauwa	780411096456986624	mentioned	2016-09-26 14:17:59+00:00	4	0	4	0	Twitter Web Client
+JukkaSavo	schwartz_j	778476443382738944	replied_to	2016-09-21 06:10:22+00:00	0	0	1	0	Twitter for iPhone
+JukkaSavo	MariaPereda_	778476443382738944	replied_to	2016-09-21 06:10:22+00:00	0	0	1	0	Twitter for iPhone
+JukkaSavo	mstrohm	778476443382738944	replied_to	2016-09-21 06:10:22+00:00	0	0	1	0	Twitter for iPhone
+JukkaSavo	CCS2016_AMS	778476443382738944	replied_to	2016-09-21 06:10:22+00:00	0	0	1	0	Twitter for iPhone
+schwartz_j	schwartz_j	778475915600859136	replied_to	2016-09-21 06:08:16+00:00	0	0	1	0	Twitter for iPhone
+schwartz_j	MariaPereda_	778475915600859136	replied_to	2016-09-21 06:08:16+00:00	0	0	1	0	Twitter for iPhone
+schwartz_j	mstrohm	778475915600859136	replied_to	2016-09-21 06:08:16+00:00	0	0	1	0	Twitter for iPhone
+schwartz_j	CCS2016_AMS	778475915600859136	replied_to	2016-09-21 06:08:16+00:00	0	0	1	0	Twitter for iPhone
+vrandezo	JukkaSavo	778303156832788480	replied_to	2016-09-20 18:41:47+00:00	0	0	3	0	Twitter for iPhone
+vrandezo	MariaPereda_	778303156832788480	replied_to	2016-09-20 18:41:47+00:00	0	0	3	0	Twitter for iPhone
+vrandezo	mstrohm	778303156832788480	replied_to	2016-09-20 18:41:47+00:00	0	0	3	0	Twitter for iPhone
+vrandezo	CCS2016_AMS	778303156832788480	replied_to	2016-09-20 18:41:47+00:00	0	0	3	0	Twitter for iPhone
+MariaPereda_	schwartz_j	778300502685716480	replied_to	2016-09-20 18:31:14+00:00	0	3	4	0	Twitter for iPhone
+MariaPereda_	MariaPereda_	778300502685716480	replied_to	2016-09-20 18:31:14+00:00	0	3	4	0	Twitter for iPhone
+MariaPereda_	mstrohm	778300502685716480	replied_to	2016-09-20 18:31:14+00:00	0	3	4	0	Twitter for iPhone
+MariaPereda_	CCS2016_AMS	778300502685716480	replied_to	2016-09-20 18:31:14+00:00	0	3	4	0	Twitter for iPhone
+_vasily	mstrohm	778238666929876992	replied_to	2016-09-20 14:25:31+00:00	0	1	0	0	Twitter for Android
+elaragon	mstrohm	778175255647051776	mentioned	2016-09-20 10:13:33+00:00	6	0	4	1	Twitter for iPhone
+elaragon	CCS2016_AMS	778175255647051776	mentioned	2016-09-20 10:13:33+00:00	6	0	4	1	Twitter for iPhone
+TahaYasseri	mstrohm	775704818019106816	mentioned	2016-09-13 14:36:55+00:00	0	0	0	0	Paper.li
+TahaYasseri	Devon_Z_Sun	775704818019106816	mentioned	2016-09-13 14:36:55+00:00	0	0	0	0	Paper.li
+TahaYasseri	AxelHohl	775704818019106816	mentioned	2016-09-13 14:36:55+00:00	0	0	0	0	Paper.li
+siobhan_grayson	Reddit	770297607369482240	mentioned	2016-08-29 16:30:35+00:00	0	0	0	1	Twitter Web Client
+siobhan_grayson	mstrohm	770297607369482240	mentioned	2016-08-29 16:30:35+00:00	0	0	0	1	Twitter Web Client
+siobhan_grayson	KristinaLerman	770297607369482240	mentioned	2016-08-29 16:30:35+00:00	0	0	0	1	Twitter Web Client
+siobhan_grayson	ph_singer	770297607369482240	mentioned	2016-08-29 16:30:35+00:00	0	0	0	1	Twitter Web Client
+siobhan_grayson	Farshadkt	770297607369482240	mentioned	2016-08-29 16:30:35+00:00	0	0	0	1	Twitter Web Client
+learnimmunology	mstrohm	768847514636353536	mentioned	2016-08-25 16:28:26+00:00	13	0	7	1	Twitter Web Client
+learnimmunology	kwelle	768847514636353536	mentioned	2016-08-25 16:28:26+00:00	13	0	7	1	Twitter Web Client
+denisparra	gevrapatapich	764563363582058496	replied_to	2016-08-13 20:44:45+00:00	0	0	0	0	Twitter for Android
+denisparra	denisparra	764563363582058496	replied_to	2016-08-13 20:44:45+00:00	0	0	0	0	Twitter for Android
+denisparra	santo_fortunato	764563363582058496	replied_to	2016-08-13 20:44:45+00:00	0	0	0	0	Twitter for Android
+denisparra	mstrohm	764563363582058496	replied_to	2016-08-13 20:44:45+00:00	0	0	0	0	Twitter for Android
+kwelle	mstrohm	761081049380032512	replied_to	2016-08-04 06:07:17+00:00	0	0	0	0	Twitter Web Client
+kwelle	f_lemmerich	761081049380032512	replied_to	2016-08-04 06:07:17+00:00	0	0	0	0	Twitter Web Client
+kwelle	ph_singer	761081049380032512	replied_to	2016-08-04 06:07:17+00:00	0	0	0	0	Twitter Web Client
+dgleich	santo_fortunato	760565880875016193	mentioned	2016-08-02 20:00:11+00:00	2	0	4	1	TweetDeck
+dgleich	mstrohm	760565880875016193	mentioned	2016-08-02 20:00:11+00:00	2	0	4	1	TweetDeck
+TahaTobaili	TahaYasseri	754015992293056513	replied_to	2016-07-15 18:13:16+00:00	0	0	0	0	Twitter Web Client
+TahaTobaili	gesis_org	754015992293056513	replied_to	2016-07-15 18:13:16+00:00	0	0	0	0	Twitter Web Client
+TahaTobaili	mstrohm	754015992293056513	replied_to	2016-07-15 18:13:16+00:00	0	0	0	0	Twitter Web Client
+_Chroma_	gesis_org	753976705501528065	mentioned	2016-07-15 15:37:09+00:00	6	1	4	0	Twitter Web Client
+_Chroma_	mstrohm	753976705501528065	mentioned	2016-07-15 15:37:09+00:00	6	1	4	0	Twitter Web Client
+_Chroma_	kwelle	753976705501528065	mentioned	2016-07-15 15:37:09+00:00	6	1	4	0	Twitter Web Client
+IC2S2	mstrohm	751440195166220288	replied_to	2016-07-08 15:37:58+00:00	0	0	0	0	Twitter Web Client
+NICOatNU	mstrohm	750620074738941953	mentioned	2016-07-06 09:19:06+00:00	0	0	0	0	Twitter for BlackBerry
+petergowen	mstrohm	746734340344713217	replied_to	2016-06-25 15:58:35+00:00	0	0	0	0	Twitter for iPhone
+petergowen	Aelkus	746734340344713217	replied_to	2016-06-25 15:58:35+00:00	0	0	0	0	Twitter for iPhone
+OpenGovTV	Wikipedia	746386687794741248	mentioned	2016-06-24 16:57:08+00:00	1	0	2	0	Twitter Web Client
+OpenGovTV	mstrohm	746386687794741248	mentioned	2016-06-24 16:57:08+00:00	1	0	2	0	Twitter Web Client
+gesis_org	mstrohm	746386473633648640	mentioned	2016-06-24 16:56:17+00:00	1	0	1	0	Twitter Web Client
+aslitelli	mstrohm	746385711725707265	mentioned	2016-06-24 16:53:15+00:00	0	0	0	0	Tweetbot for Mac
+entoutsi	mstrohm	746382537568694272	mentioned	2016-06-24 16:40:38+00:00	7	0	5	2	Twitter Web Client
+entoutsi	Wikipedia	746382537568694272	mentioned	2016-06-24 16:40:38+00:00	7	0	5	2	Twitter Web Client
+GProfiti	rossfinley	742998157584437248	mentioned	2016-06-15 08:32:19+00:00	0	0	0	0	Paper.li
+GProfiti	fredkarger	742998157584437248	mentioned	2016-06-15 08:32:19+00:00	0	0	0	0	Paper.li
+GProfiti	mstrohm	742998157584437248	mentioned	2016-06-15 08:32:19+00:00	0	0	0	0	Paper.li
+a_e_lang	mstrohm	742711367648587780	mentioned	2016-06-14 13:32:43+00:00	1	0	3	0	Twitter Web Client
+a_e_lang	f_lemmerich	742711367648587780	mentioned	2016-06-14 13:32:43+00:00	1	0	3	0	Twitter Web Client
+a_e_lang	ph_singer	742711367648587780	mentioned	2016-06-14 13:32:43+00:00	1	0	3	0	Twitter Web Client
+datascience_mi	mstrohm	739736657390391297	mentioned	2016-06-06 08:32:17+00:00	0	0	0	0	Paper.li
+datascience_mi	masg66	739736657390391297	mentioned	2016-06-06 08:32:17+00:00	0	0	0	0	Paper.li
+dgarcia_eu	mstrohm	738649503276933120	mentioned	2016-06-03 08:32:19+00:00	0	0	0	0	Paper.li
+dgarcia_eu	ruthkennedy	738649503276933120	mentioned	2016-06-03 08:32:19+00:00	0	0	0	0	Paper.li
+dgarcia_eu	MichaelSkolnik	738649503276933120	mentioned	2016-06-03 08:32:19+00:00	0	0	0	0	Paper.li
+todrobbins	bilgeyesil1	737565930704642048	mentioned	2016-05-31 08:46:35+00:00	0	0	0	0	Paper.li
+todrobbins	mstrohm	737565930704642048	mentioned	2016-05-31 08:46:35+00:00	0	0	0	0	Paper.li
+todrobbins	MSenel	737565930704642048	mentioned	2016-05-31 08:46:35+00:00	0	0	0	0	Paper.li
+clauwa	mstrohm	736480076552900608	mentioned	2016-05-28 08:51:48+00:00	0	0	0	0	TweetCaster for Android
+agungw132	mstrohm	736238223073136640	replied_to	2016-05-27 16:50:45+00:00	0	0	0	0	Twitter Web Client
+ReaderMeter	mstrohm	735866021643358208	mentioned	2016-05-26 16:11:45+00:00	0	0	0	0	TweetDeck
+Betrium	mstrohm	735864364532523010	mentioned	2016-05-26 16:05:10+00:00	0	0	0	0	TweetDeck
+srijankedia	MarcoBrambi	735164991528144896	mentioned	2016-05-24 17:46:07+00:00	0	0	0	0	Buffer
+srijankedia	mstrohm	735164991528144896	mentioned	2016-05-24 17:46:07+00:00	0	0	0	0	Buffer
+srijankedia	yy	735164991528144896	mentioned	2016-05-24 17:46:07+00:00	0	0	0	0	Buffer
+ph_singer	mstrohm	735151850496761856	quoted	2016-05-24 16:53:54+00:00	0	0	2	0	Twitter for Android
+reworkAI	mstrohm	734817740704223233	replied_to	2016-05-23 18:46:16+00:00	0	0	1	0	Twitter Web Client
+reworkAI	jurafsky	734817740704223233	replied_to	2016-05-23 18:46:16+00:00	0	0	1	0	Twitter Web Client
+ingmarweber	psykoreactor	734666681688150016	mentioned	2016-05-23 08:46:01+00:00	1	0	0	0	Paper.li
+ingmarweber	Livingstone_S	734666681688150016	mentioned	2016-05-23 08:46:01+00:00	1	0	0	0	Paper.li
+ingmarweber	mstrohm	734666681688150016	mentioned	2016-05-23 08:46:01+00:00	1	0	0	0	Paper.li
+emilio__ferrara	MarcoBrambi	733194491931283456	mentioned	2016-05-19 07:16:03+00:00	1	0	0	0	Buffer
+emilio__ferrara	mstrohm	733194491931283456	mentioned	2016-05-19 07:16:03+00:00	1	0	0	0	Buffer
+laurenzennser	mstrohm	732831842823471106	mentioned	2016-05-18 07:15:01+00:00	3	0	5	0	Twitter for iPhone
+brunofmr	mstrohm	732831012628135939	mentioned	2016-05-18 07:11:43+00:00	2	0	4	0	Twitter for Android
+natematias	mstrohm	732830364020924417	mentioned	2016-05-18 07:09:08+00:00	0	0	2	0	Twitter for Android
+natematias	icwsm	732830364020924417	mentioned	2016-05-18 07:09:08+00:00	0	0	2	0	Twitter for Android
+halani	ReaderMeter	732570043821608961	mentioned	2016-05-17 13:54:43+00:00	0	0	0	0	Node RED 
+halani	geistesblitzer	732570043821608961	mentioned	2016-05-17 13:54:43+00:00	0	0	0	0	Node RED 
+halani	KristinaLerman	732570043821608961	mentioned	2016-05-17 13:54:43+00:00	0	0	0	0	Node RED 
+halani	dhelic	732570043821608961	mentioned	2016-05-17 13:54:43+00:00	0	0	0	0	Node RED 
+halani	mstrohm	732570043821608961	mentioned	2016-05-17 13:54:43+00:00	0	0	0	0	Node RED 
+lespin	geistesblitzer	732568783659753472	quoted	2016-05-17 13:49:43+00:00	9	0	7	0	TweetDeck
+lespin	KristinaLerman	732568783659753472	quoted	2016-05-17 13:49:43+00:00	9	0	7	0	TweetDeck
+lespin	dhelic	732568783659753472	quoted	2016-05-17 13:49:43+00:00	9	0	7	0	TweetDeck
+lespin	mstrohm	732568783659753472	quoted	2016-05-17 13:49:43+00:00	9	0	7	0	TweetDeck
+FrauJG	ph_singer	731008766871621632	replied_to	2016-05-13 06:30:46+00:00	0	0	1	0	Twitter for iPhone
+FrauJG	mstrohm	731008766871621632	replied_to	2016-05-13 06:30:46+00:00	0	0	1	0	Twitter for iPhone
+FrauJG	dhelic	731008766871621632	replied_to	2016-05-13 06:30:46+00:00	0	0	1	0	Twitter for iPhone
+FrauJG	arthur3131	731008766871621632	replied_to	2016-05-13 06:30:46+00:00	0	0	1	0	Twitter for iPhone
+FrauJG	mgbckr	731008766871621632	replied_to	2016-05-13 06:30:46+00:00	0	0	1	0	Twitter for iPhone
+FrauJG	f_lemmerich	731008766871621632	replied_to	2016-05-13 06:30:46+00:00	0	0	1	0	Twitter for iPhone
+TT_JimmyWales	ph_singer	730784585236119555	replied_to	2016-05-12 15:39:57+00:00	0	1	1	0	Twitter for Android
+TT_JimmyWales	mstrohm	730784585236119555	replied_to	2016-05-12 15:39:57+00:00	0	1	1	0	Twitter for Android
+TT_JimmyWales	dhelic	730784585236119555	replied_to	2016-05-12 15:39:57+00:00	0	1	1	0	Twitter for Android
+TT_JimmyWales	arthur3131	730784585236119555	replied_to	2016-05-12 15:39:57+00:00	0	1	1	0	Twitter for Android
+TT_JimmyWales	mgbckr	730784585236119555	replied_to	2016-05-12 15:39:57+00:00	0	1	1	0	Twitter for Android
+TT_JimmyWales	f_lemmerich	730784585236119555	replied_to	2016-05-12 15:39:57+00:00	0	1	1	0	Twitter for Android
+bgoncalves	mstrohm	730730309004754944	mentioned	2016-05-12 12:04:16+00:00	6	2	7	0	Twitter Web Client
+bgoncalves	dhelic	730730309004754944	mentioned	2016-05-12 12:04:16+00:00	6	2	7	0	Twitter Web Client
+bgoncalves	arthur3131	730730309004754944	mentioned	2016-05-12 12:04:16+00:00	6	2	7	0	Twitter Web Client
+bgoncalves	mgbckr	730730309004754944	mentioned	2016-05-12 12:04:16+00:00	6	2	7	0	Twitter Web Client
+bgoncalves	f_lemmerich	730730309004754944	mentioned	2016-05-12 12:04:16+00:00	6	2	7	0	Twitter Web Client
+trovdimi	mstrohm	727793222446100480	mentioned	2016-05-04 09:33:20+00:00	0	0	1	0	Twitter Web Client
+fariba_k	www2016ca	725343136197828608	mentioned	2016-04-27 15:17:34+00:00	16	0	22	0	Twitter Web Client
+fariba_k	mstrohm	725343136197828608	mentioned	2016-04-27 15:17:34+00:00	16	0	22	0	Twitter Web Client
+fariba_k	lajello	725343136197828608	mentioned	2016-04-27 15:17:34+00:00	16	0	22	0	Twitter Web Client
+fariba_k	clauwa	725343136197828608	mentioned	2016-04-27 15:17:34+00:00	16	0	22	0	Twitter Web Client
+CoreyGmaN	gesis_org	725068329979879424	mentioned	2016-04-26 21:05:35+00:00	0	1	4	0	Twitter for iPhone
+CoreyGmaN	clauwa	725068329979879424	mentioned	2016-04-26 21:05:35+00:00	0	1	4	0	Twitter for iPhone
+CoreyGmaN	mstrohm	725068329979879424	mentioned	2016-04-26 21:05:35+00:00	0	1	4	0	Twitter for iPhone
+barrywellman	KristinaLerman	724993793347330049	mentioned	2016-04-26 16:09:24+00:00	10	0	0	0	Twitter for iPhone
+barrywellman	ph_singer	724993793347330049	mentioned	2016-04-26 16:09:24+00:00	10	0	0	0	Twitter for iPhone
+barrywellman	Farshadkt	724993793347330049	mentioned	2016-04-26 16:09:24+00:00	10	0	0	0	Twitter for iPhone
+barrywellman	mstrohm	724993793347330049	mentioned	2016-04-26 16:09:24+00:00	10	0	0	0	Twitter for iPhone
+jermainkaminski	aymeril	724517020327383041	mentioned	2016-04-25 08:34:53+00:00	0	0	0	0	Paper.li
+jermainkaminski	mstrohm	724517020327383041	mentioned	2016-04-25 08:34:53+00:00	0	0	0	0	Paper.li
+gdfm7	mstrohm	724510447655915520	replied_to	2016-04-25 08:08:46+00:00	0	0	0	0	Twitter Web Client
+danielequercia	mstrohm	724509991395311616	replied_to	2016-04-25 08:06:57+00:00	0	1	2	0	Twitter Web Client
+acm_chi	mstrohm	723409936927981568	mentioned	2016-04-22 07:15:43+00:00	4	0	5	0	Twitter Web Client
+QVeraLiao	dgarcia_eu	723230076523794432	quoted	2016-04-21 19:21:01+00:00	0	0	2	0	Twitter Web Client
+QVeraLiao	mstrohm	723230076523794432	quoted	2016-04-21 19:21:01+00:00	0	0	2	0	Twitter Web Client
+SimonHegelich	schock	723164921756676097	replied_to	2016-04-21 15:02:07+00:00	0	0	3	0	Twitter Web Client
+SimonHegelich	mstrohm	723164921756676097	replied_to	2016-04-21 15:02:07+00:00	0	0	3	0	Twitter Web Client
+ingo_S	mstrohm	722868480337313792	replied_to	2016-04-20 19:24:10+00:00	0	0	0	0	Twitter Web Client
+ingo_S	newscientist	722868480337313792	replied_to	2016-04-20 19:24:10+00:00	0	0	0	0	Twitter Web Client
+GefionT	mstrohm	720695875396362240	mentioned	2016-04-14 19:31:01+00:00	4	0	5	0	Twitter for iPhone
+ruthygarcia	dgarcia_eu	720688169205788672	mentioned	2016-04-14 19:00:23+00:00	0	0	1	0	Twitter Web Client
+ruthygarcia	mstrohm	720688169205788672	mentioned	2016-04-14 19:00:23+00:00	0	0	1	0	Twitter Web Client
+ruthygarcia	www2016ca	720688169205788672	mentioned	2016-04-14 19:00:23+00:00	0	0	1	0	Twitter Web Client
+denzil_correa	mstrohm	719954889066024961	mentioned	2016-04-12 18:26:36+00:00	0	0	0	0	Twitter for iPhone
+digprof	mstrohm	719948946181898241	mentioned	2016-04-12 18:02:59+00:00	1	0	2	0	TweetDeck
+UjLaw	mstrohm	719926799971532800	mentioned	2016-04-12 16:34:59+00:00	0	0	0	0	TtwTimes Top News
+UjLaw	jimmy_wales	719926799971532800	mentioned	2016-04-12 16:34:59+00:00	0	0	0	0	TtwTimes Top News
+phschaer	MarcoBrambi	719786130489622528	mentioned	2016-04-12 07:16:01+00:00	0	0	0	0	Buffer
+phschaer	mstrohm	719786130489622528	mentioned	2016-04-12 07:16:01+00:00	0	0	0	0	Buffer
+phschaer	lajello	719786130489622528	mentioned	2016-04-12 07:16:01+00:00	0	0	0	0	Buffer
+phschaer	ING	719786130489622528	mentioned	2016-04-12 07:16:01+00:00	0	0	0	0	Buffer
+Philipp_Mayr	tocunha	719664336508231680	mentioned	2016-04-11 23:12:03+00:00	4	0	6	0	Twitter Web Client
+Philipp_Mayr	clauwa	719664336508231680	mentioned	2016-04-11 23:12:03+00:00	4	0	6	0	Twitter Web Client
+Philipp_Mayr	lajello	719664336508231680	mentioned	2016-04-11 23:12:03+00:00	4	0	6	0	Twitter Web Client
+Philipp_Mayr	mstrohm	719664336508231680	mentioned	2016-04-11 23:12:03+00:00	4	0	6	0	Twitter Web Client
+JurgenPfeffer	mstrohm	719604606653841408	mentioned	2016-04-11 19:14:42+00:00	2	0	3	0	Twitter for iPhone
+lajello	lespin	719604567030149120	mentioned	2016-04-11 19:14:33+00:00	2	0	5	0	Twitter for iPhone
+lajello	f_lemmerich	719604567030149120	mentioned	2016-04-11 19:14:33+00:00	2	0	5	0	Twitter for iPhone
+lajello	ph_singer	719604567030149120	mentioned	2016-04-11 19:14:33+00:00	2	0	5	0	Twitter for iPhone
+lajello	mstrohm	719604567030149120	mentioned	2016-04-11 19:14:33+00:00	2	0	5	0	Twitter for iPhone
+TahaYasseri	mstrohm	671967394919751681	mentioned	2015-12-02 08:21:26+00:00	0	0	2	0	Twitter for Android
+TahaYasseri	gesis_org	671967394919751681	mentioned	2015-12-02 08:21:26+00:00	0	0	2	0	Twitter for Android
+Betrium	mstrohm	671964720891617280	mentioned	2015-12-02 08:10:48+00:00	1	0	1	0	Twitter for iPhone
+jrvosse	mstrohm	671964622287708160	mentioned	2015-12-02 08:10:25+00:00	2	0	1	0	Twitter Web Client
+Philipp_Mayr	gesis_org	671733785734590464	mentioned	2015-12-01 16:53:09+00:00	0	0	1	0	TweetDeck
+Philipp_Mayr	mstrohm	671733785734590464	mentioned	2015-12-01 16:53:09+00:00	0	0	1	0	TweetDeck
+flowolf	mstrohm	660448451872882688	replied_to	2015-10-31 13:29:16+00:00	0	0	0	0	Twitter for Android
+elisab79	geistesblitzer	656770576703426560	mentioned	2015-10-21 09:54:42+00:00	0	0	0	0	Twitter for Mac
+elisab79	dhelic	656770576703426560	mentioned	2015-10-21 09:54:42+00:00	0	0	0	0	Twitter for Mac
+elisab79	mstrohm	656770576703426560	mentioned	2015-10-21 09:54:42+00:00	0	0	0	0	Twitter for Mac
+avandeursen	carlmalamud	648081066641768448	quoted	2015-09-27 10:25:41+00:00	1	0	1	0	Twitter Web Client
+avandeursen	mstrohm	648081066641768448	quoted	2015-09-27 10:25:41+00:00	1	0	1	0	Twitter Web Client
+icwsm	mstrohm	647053121118715904	mentioned	2015-09-24 14:21:00+00:00	1	0	1	0	Buffer
+trovdimi	ph_singer	639385395831160832	mentioned	2015-09-03 10:32:12+00:00	0	0	2	0	Twitter for iPhone
+trovdimi	dhelic	639385395831160832	mentioned	2015-09-03 10:32:12+00:00	0	0	2	0	Twitter for iPhone
+trovdimi	mstrohm	639385395831160832	mentioned	2015-09-03 10:32:12+00:00	0	0	2	0	Twitter for iPhone
+TomFlowers	jabawack	635294433546600448	replied_to	2015-08-23 03:36:10+00:00	0	0	0	0	Twitter Web Client
+TomFlowers	mstrohm	635294433546600448	replied_to	2015-08-23 03:36:10+00:00	0	0	0	0	Twitter Web Client
+lespin	mstrohm	629627891844816896	quoted	2015-08-07 12:19:21+00:00	0	0	0	0	Twitter Web Client
+lespin	ph_singer	629627891844816896	quoted	2015-08-07 12:19:21+00:00	0	0	0	0	Twitter Web Client
+ph_singer	ph_singer	628226711864377344	mentioned	2015-08-03 15:31:34+00:00	4	0	2	0	Twitter Web Client
+ph_singer	dhelic	628226711864377344	mentioned	2015-08-03 15:31:34+00:00	4	0	2	0	Twitter Web Client
+ph_singer	mstrohm	628226711864377344	mentioned	2015-08-03 15:31:34+00:00	4	0	2	0	Twitter Web Client
+mstrohm	bkeegan	627187789466107904	replied_to	2015-07-31 18:43:16+00:00	0	0	1	0	Twitter Web Client
+mstrohm	mstrohm	627187789466107904	replied_to	2015-07-31 18:43:16+00:00	0	0	1	0	Twitter Web Client
+mstrohm	lespin	627187789466107904	replied_to	2015-07-31 18:43:16+00:00	0	0	1	0	Twitter Web Client
+ingmarweber	bkeegan	627185039168638977	mentioned	2015-07-31 18:32:20+00:00	0	1	0	0	Twitter Web Client
+ingmarweber	mstrohm	627185039168638977	mentioned	2015-07-31 18:32:20+00:00	0	1	0	0	Twitter Web Client
+ingmarweber	dhelic	627185039168638977	mentioned	2015-07-31 18:32:20+00:00	0	1	0	0	Twitter Web Client
+ingmarweber	ph_singer	627185039168638977	mentioned	2015-07-31 18:32:20+00:00	0	1	0	0	Twitter Web Client
+emilio__ferrara	mstrohm	624098983875596289	mentioned	2015-07-23 06:09:27+00:00	0	0	4	0	Twitter Web Client
+emilio__ferrara	clauwa	624098983875596289	mentioned	2015-07-23 06:09:27+00:00	0	0	4	0	Twitter Web Client
+emilio__ferrara	gesis_org	624098983875596289	mentioned	2015-07-23 06:09:27+00:00	0	0	4	0	Twitter Web Client
+emilio__ferrara	QatarComputing	624098983875596289	mentioned	2015-07-23 06:09:27+00:00	0	0	4	0	Twitter Web Client
+barrywellman	mstrohm	623179069040017408	mentioned	2015-07-20 17:14:02+00:00	7	0	3	0	Buffer
+silvanamuscella	mstrohm	622862106803707904	quoted	2015-07-19 20:14:33+00:00	0	0	0	0	Twitter Web Client
+DamienHelly	mstrohm	619479718702764033	mentioned	2015-07-10 12:14:08+00:00	0	0	0	0	Twitter Web Client
+anemosrentaboat	mstrohm	617642635138854912	replied_to	2015-07-05 10:34:14+00:00	1	0	0	0	Twitter for Android
+anemosrentaboat	ECDPM	617642635138854912	replied_to	2015-07-05 10:34:14+00:00	1	0	0	0	Twitter for Android
+anemosrentaboat	EUDevNews	617642635138854912	replied_to	2015-07-05 10:34:14+00:00	1	0	0	0	Twitter for Android
+anemosrentaboat	europeaid	617642635138854912	replied_to	2015-07-05 10:34:14+00:00	1	0	0	0	Twitter for Android
+kwelle	DailyNOTTS	616650778481139712	mentioned	2015-07-02 16:52:57+00:00	0	0	0	0	Paper.li
+kwelle	mstrohm	616650778481139712	mentioned	2015-07-02 16:52:57+00:00	0	0	0	0	Paper.li
+AdrianaGWilde	gesis_org	616240094484254721	quoted	2015-07-01 13:41:02+00:00	1	0	2	0	Twitter Web Client
+AdrianaGWilde	clauwa	616240094484254721	quoted	2015-07-01 13:41:02+00:00	1	0	2	0	Twitter Web Client
+AdrianaGWilde	mstrohm	616240094484254721	quoted	2015-07-01 13:41:02+00:00	1	0	2	0	Twitter Web Client
+nodexl	clauwa	616212913968295936	mentioned	2015-07-01 11:53:02+00:00	12	0	10	0	Twitter for Android
+nodexl	ffloeck	616212913968295936	mentioned	2015-07-01 11:53:02+00:00	12	0	10	0	Twitter for Android
+nodexl	mstrohm	616212913968295936	mentioned	2015-07-01 11:53:02+00:00	12	0	10	0	Twitter for Android
+ConnectedAction	sammibmcg	615827901389385728	replied_to	2015-06-30 10:23:07+00:00	0	0	1	0	Twitter Web Client
+ConnectedAction	mstrohm	615827901389385728	replied_to	2015-06-30 10:23:07+00:00	0	0	1	0	Twitter Web Client
+marc_smith	emax	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	lutzid	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	MarieVC	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	kwelle	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	RDBinns	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	lescarr	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	alan_winfield	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	PeterKraker	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	mstrohm	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+marc_smith	sammibmcg	615684863715332096	mentioned	2015-06-30 00:54:45+00:00	0	0	0	0	Facebook
+BrettButtliere	emax	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	lutzid	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	MarieVC	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	kwelle	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	RDBinns	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	lescarr	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	alan_winfield	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	PeterKraker	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	mstrohm	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+BrettButtliere	sammibmcg	615684858065612804	mentioned	2015-06-30 00:54:43+00:00	0	0	0	0	Hootsuite
+gloriakt	emax	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	lutzid	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	MarieVC	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	kwelle	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	RDBinns	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	lescarr	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	alan_winfield	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	PeterKraker	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	mstrohm	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+gloriakt	sammibmcg	615684857801375744	mentioned	2015-06-30 00:54:43+00:00	3	0	3	0	Hootsuite
+PascalWatwat	gloriakt	615655979254968321	replied_to	2015-06-29 22:59:58+00:00	0	1	0	0	Twitter Web Client
+PascalWatwat	mstrohm	615655979254968321	replied_to	2015-06-29 22:59:58+00:00	0	1	0	0	Twitter Web Client
+Nigel_Shadbolt	mstrohm	615538550193410048	quoted	2015-06-29 15:13:21+00:00	1	1	7	0	Twitter for iPhone
+AnnySml	mstrohm	615464909040668672	mentioned	2015-06-29 10:20:43+00:00	0	0	1	0	Twitter for iPhone
+sammibmcg	mstrohm	615445573525762048	mentioned	2015-06-29 09:03:53+00:00	3	0	2	0	Twitter for iPhone
+DameWendyDBE	mstrohm	615444804973936640	mentioned	2015-06-29 09:00:50+00:00	2	0	4	0	Twitter for Android
+k1000k	mstrohm	615443281913217024	mentioned	2015-06-29 08:54:47+00:00	5	1	4	0	Twitter for iPad
+lutzid	mstrohm	615442343840321536	mentioned	2015-06-29 08:51:03+00:00	6	0	7	0	Twitter for iPhone
+PeterKraker	mstrohm	615442234528374784	mentioned	2015-06-29 08:50:37+00:00	0	0	1	0	Twitter for iPhone
+clauwa	mstrohm	615441406434349057	mentioned	2015-06-29 08:47:20+00:00	1	0	3	0	Twitter for Mac
+paulusm	mstrohm	615440887406067712	mentioned	2015-06-29 08:45:16+00:00	0	0	0	0	Twitter for Android
+IgorBrigadir	mstrohm	615440218070630400	mentioned	2015-06-29 08:42:36+00:00	0	0	1	0	Twitter for Mac
+renepickhardt	Wikipedia	615440214597746688	mentioned	2015-06-29 08:42:36+00:00	0	0	0	0	Twitter for iPhone
+renepickhardt	mstrohm	615440214597746688	mentioned	2015-06-29 08:42:36+00:00	0	0	0	0	Twitter for iPhone
+RDBinns	mstrohm	615439391209725952	mentioned	2015-06-29 08:39:19+00:00	2	0	2	0	Twitter for iPhone
+pbFeed	mstrohm	615439275493052416	mentioned	2015-06-29 08:38:52+00:00	0	0	2	0	Twitter for Android
+j2bryson	mstrohm	615437617979633664	mentioned	2015-06-29 08:32:17+00:00	8	0	8	0	Twitter for iPhone
+jnkka	mstrohm	615436863520817152	mentioned	2015-06-29 08:29:17+00:00	0	0	1	0	Twitter for Android
+WikiResearch	mstrohm	615436444623093760	mentioned	2015-06-29 08:27:37+00:00	3	0	1	0	Twitter for Mac
+computermacgyve	mstrohm	615435932859269120	mentioned	2015-06-29 08:25:35+00:00	1	0	1	0	Twitter for Android
+computermacgyve	liquidfeedback	615435932859269120	mentioned	2015-06-29 08:25:35+00:00	1	0	1	0	Twitter for Android
+gesis_org	renepickhardt	615435237062000640	replied_to	2015-06-29 08:22:49+00:00	0	0	0	0	Twitter for Android
+gesis_org	mstrohm	615435237062000640	replied_to	2015-06-29 08:22:49+00:00	0	0	0	0	Twitter for Android
+oren_data	mstrohm	615434915988008960	mentioned	2015-06-29 08:21:32+00:00	1	0	1	0	Twitter for Android
+JuUm	mstrohm	615434629647101952	mentioned	2015-06-29 08:20:24+00:00	1	0	4	0	Twitter for iPhone
+natematias	mstrohm	615434325388054528	replied_to	2015-06-29 08:19:12+00:00	0	0	2	0	Twitter for Android
+munmun10	lutzid	615434237341249536	replied_to	2015-06-29 08:18:51+00:00	1	1	3	0	Twitter Web Client
+munmun10	mstrohm	615434237341249536	replied_to	2015-06-29 08:18:51+00:00	1	1	3	0	Twitter Web Client
+Isabella83	mstrohm	615434234233266176	mentioned	2015-06-29 08:18:50+00:00	2	0	2	0	Twitter for Android
+danielequercia	mstrohm	615434009041108992	mentioned	2015-06-29 08:17:56+00:00	4	0	1	0	Twitter for Android
+ravenben	mstrohm	615433544580603904	mentioned	2015-06-29 08:16:05+00:00	0	1	0	0	Twitter for Android
+annmariehanlon	mstrohm	615432289795878912	mentioned	2015-06-29 08:11:06+00:00	1	0	0	0	Twitter Web Client
+PFCdgayo	mstrohm	615432266588790784	mentioned	2015-06-29 08:11:01+00:00	1	1	0	0	Twitter for Android
+arthur3131	DameWendyDBE	615431842565607424	mentioned	2015-06-29 08:09:20+00:00	2	0	1	0	Twitter for iPhone
+arthur3131	mstrohm	615431842565607424	mentioned	2015-06-29 08:09:20+00:00	2	0	1	0	Twitter for iPhone
+laroyo	mstrohm	613967792807804928	replied_to	2015-06-25 07:11:43+00:00	2	0	1	0	Tweetbot for iΟS
+TSchnoebelen	santo_fortunato	609265369677742080	mentioned	2015-06-12 07:45:58+00:00	0	0	1	0	TweetDeck
+TSchnoebelen	mstrohm	609265369677742080	mentioned	2015-06-12 07:45:58+00:00	0	0	1	0	TweetDeck
+codybuntain	computermacgyve	608354301510066176	replied_to	2015-06-09 19:25:42+00:00	0	0	0	0	Twitter Web Client
+codybuntain	clauwa	608354301510066176	replied_to	2015-06-09 19:25:42+00:00	0	0	0	0	Twitter Web Client
+codybuntain	mstrohm	608354301510066176	replied_to	2015-06-09 19:25:42+00:00	0	0	0	0	Twitter Web Client
+ajungherr	clauwa	608140431826796544	replied_to	2015-06-09 05:15:52+00:00	0	1	0	0	Twitter Web Client
+ajungherr	mstrohm	608140431826796544	replied_to	2015-06-09 05:15:52+00:00	0	1	0	0	Twitter Web Client
+danielequercia	greggish	595929319068807168	replied_to	2015-05-06 12:33:16+00:00	0	0	2	0	Echofon
+danielequercia	mstrohm	595929319068807168	replied_to	2015-05-06 12:33:16+00:00	0	0	2	0	Echofon
+brancatee	mstrohm	584355059930103809	mentioned	2015-04-04 14:01:17+00:00	0	0	0	0	Google
+Street_Dogg	heinrichhartman	583563849481191425	replied_to	2015-04-02 09:37:18+00:00	0	0	0	0	Twitter Web Client
+Street_Dogg	CCkling	583563849481191425	replied_to	2015-04-02 09:37:18+00:00	0	0	0	0	Twitter Web Client
+Street_Dogg	kunegis	583563849481191425	replied_to	2015-04-02 09:37:18+00:00	0	0	0	0	Twitter Web Client
+Street_Dogg	mstrohm	583563849481191425	replied_to	2015-04-02 09:37:18+00:00	0	0	0	0	Twitter Web Client
+heinrichhartman	heinrichhartman	583557877022982144	replied_to	2015-04-02 09:13:34+00:00	0	1	0	0	Twitter Web Client
+heinrichhartman	CCkling	583557877022982144	replied_to	2015-04-02 09:13:34+00:00	0	1	0	0	Twitter Web Client
+heinrichhartman	kunegis	583557877022982144	replied_to	2015-04-02 09:13:34+00:00	0	1	0	0	Twitter Web Client
+heinrichhartman	mstrohm	583557877022982144	replied_to	2015-04-02 09:13:34+00:00	0	1	0	0	Twitter Web Client
+gesis_org	heinrichhartman	583557775948718080	replied_to	2015-04-02 09:13:10+00:00	0	1	0	0	Twitter Web Client
+gesis_org	CCkling	583557775948718080	replied_to	2015-04-02 09:13:10+00:00	0	1	0	0	Twitter Web Client
+gesis_org	kunegis	583557775948718080	replied_to	2015-04-02 09:13:10+00:00	0	1	0	0	Twitter Web Client
+gesis_org	mstrohm	583557775948718080	replied_to	2015-04-02 09:13:10+00:00	0	1	0	0	Twitter Web Client
+DrPhDprof	heinrichhartman	583557486143262722	replied_to	2015-04-02 09:12:01+00:00	0	1	0	0	Twitter Web Client
+DrPhDprof	CCkling	583557486143262722	replied_to	2015-04-02 09:12:01+00:00	0	1	0	0	Twitter Web Client
+DrPhDprof	kunegis	583557486143262722	replied_to	2015-04-02 09:12:01+00:00	0	1	0	0	Twitter Web Client
+DrPhDprof	mstrohm	583557486143262722	replied_to	2015-04-02 09:12:01+00:00	0	1	0	0	Twitter Web Client
+Orestis_K	heinrichhartman	583552920928575488	mentioned	2015-04-02 08:53:52+00:00	0	0	0	0	Google
+Orestis_K	CCkling	583552920928575488	mentioned	2015-04-02 08:53:52+00:00	0	0	0	0	Google
+Orestis_K	kunegis	583552920928575488	mentioned	2015-04-02 08:53:52+00:00	0	0	0	0	Google
+Orestis_K	mstrohm	583552920928575488	mentioned	2015-04-02 08:53:52+00:00	0	0	0	0	Google
+ReaderMeter	CCkling	583552659719901184	mentioned	2015-04-02 08:52:50+00:00	10	1	6	0	Twitter Web Client
+ReaderMeter	kunegis	583552659719901184	mentioned	2015-04-02 08:52:50+00:00	10	1	6	0	Twitter Web Client
+ReaderMeter	mstrohm	583552659719901184	mentioned	2015-04-02 08:52:50+00:00	10	1	6	0	Twitter Web Client
+chris_bail	clauwa	578836003487637504	mentioned	2015-03-20 08:30:32+00:00	1	0	3	0	Hootsuite
+chris_bail	llvll0hsen	578836003487637504	mentioned	2015-03-20 08:30:32+00:00	1	0	3	0	Hootsuite
+chris_bail	mstrohm	578836003487637504	mentioned	2015-03-20 08:30:32+00:00	1	0	3	0	Hootsuite
+nikete	mstrohm	570651117253754880	replied_to	2015-02-25 18:26:43+00:00	0	0	0	0	Twitter Web Client
+pbFeed	mstrohm	569807023661027328	mentioned	2015-02-23 10:32:35+00:00	0	0	1	0	Twitter for Android
+ph_singer	mstrohm	567764330692800512	replied_to	2015-02-17 19:15:39+00:00	0	0	1	0	TweetDeck
+sanjose5005	mstrohm	567719716974649344	mentioned	2015-02-17 16:18:22+00:00	1	0	1	0	Twitter Web Client
+EPJscience	mstrohm	563372402990923777	mentioned	2015-02-05 16:23:42+00:00	5	0	0	0	Twitter Web Client
+EPJscience	clauwa	563372402990923777	mentioned	2015-02-05 16:23:42+00:00	5	0	0	0	Twitter Web Client
+EPJscience	llvll0hsen	563372402990923777	mentioned	2015-02-05 16:23:42+00:00	5	0	0	0	Twitter Web Client
+stefankasberger	mstrohm	558059076870225922	replied_to	2015-01-22 00:30:26+00:00	0	1	0	0	Twitter Web Client
+alexvespi	mstrohm	557269104630177793	mentioned	2015-01-19 20:11:22+00:00	1	1	2	0	Twitter for iPhone
+hpgrahsl	mstrohm	556216105828876288	mentioned	2015-01-16 22:27:08+00:00	6	1	8	0	Twitter Web Client
+hpgrahsl	dhelic	556216105828876288	mentioned	2015-01-16 22:27:08+00:00	6	1	8	0	Twitter Web Client
+hpgrahsl	arthur3131	556216105828876288	mentioned	2015-01-16 22:27:08+00:00	6	1	8	0	Twitter Web Client
+TryEventifier	mstrohm	553613000737714176	mentioned	2015-01-09 18:03:19+00:00	0	0	0	0	Twitter Web Client
+BerlinerLufti	alexvespi	553194280618311681	replied_to	2015-01-08 14:19:29+00:00	1	0	0	0	Twitter for iPad
+BerlinerLufti	clauwa	553194280618311681	replied_to	2015-01-08 14:19:29+00:00	1	0	0	0	Twitter for iPad
+BerlinerLufti	ph_singer	553194280618311681	replied_to	2015-01-08 14:19:29+00:00	1	0	0	0	Twitter for iPad
+BerlinerLufti	mstrohm	553194280618311681	replied_to	2015-01-08 14:19:29+00:00	1	0	0	0	Twitter for iPad
+suzymoat	heinz	552595248975998976	mentioned	2015-01-06 22:39:08+00:00	0	0	0	0	TweetDeck
+suzymoat	mspro	552595248975998976	mentioned	2015-01-06 22:39:08+00:00	0	0	0	0	TweetDeck
+suzymoat	mstrohm	552595248975998976	mentioned	2015-01-06 22:39:08+00:00	0	0	0	0	TweetDeck
+barrywellman	EPJscience	551245525140647936	mentioned	2015-01-03 05:15:49+00:00	9	1	10	0	Twitter for iPad
+barrywellman	clauwa	551245525140647936	mentioned	2015-01-03 05:15:49+00:00	9	1	10	0	Twitter for iPad
+barrywellman	ph_singer	551245525140647936	mentioned	2015-01-03 05:15:49+00:00	9	1	10	0	Twitter for iPad
+barrywellman	mstrohm	551245525140647936	mentioned	2015-01-03 05:15:49+00:00	9	1	10	0	Twitter for iPad
+yijun_yu	mstrohm	549900622582251520	mentioned	2014-12-30 12:11:39+00:00	0	0	0	0	Twitter for Android
+Dr_Alex_Voss	clauwa	539676393307521025	mentioned	2014-12-02 07:04:13+00:00	2	0	0	0	Twitter Web Client
+Dr_Alex_Voss	digi_socscience	539676393307521025	mentioned	2014-12-02 07:04:13+00:00	2	0	0	0	Twitter Web Client
+Dr_Alex_Voss	j2blather	539676393307521025	mentioned	2014-12-02 07:04:13+00:00	2	0	0	0	Twitter Web Client
+Dr_Alex_Voss	mstrohm	539676393307521025	mentioned	2014-12-02 07:04:13+00:00	2	0	0	0	Twitter Web Client
+Dr_Alex_Voss	kwelle	539676393307521025	mentioned	2014-12-02 07:04:13+00:00	2	0	0	0	Twitter Web Client
+dominic_nyhuis	mstrohm	539478700493131776	mentioned	2014-12-01 17:58:39+00:00	0	1	3	0	Twitter Web Client
+clauwa	mstrohm	539470059849400320	mentioned	2014-12-01 17:24:19+00:00	0	1	4	0	Twitter for Android
+kwelle	suzymoat	539442546980958208	replied_to	2014-12-01 15:35:00+00:00	0	3	0	0	Twitter Web Client
+kwelle	mstrohm	539442546980958208	replied_to	2014-12-01 15:35:00+00:00	0	3	0	0	Twitter Web Client
+kwelle	ciro	539442546980958208	replied_to	2014-12-01 15:35:00+00:00	0	3	0	0	Twitter Web Client
+ciro	mstrohm	539402941049106432	mentioned	2014-12-01 12:57:37+00:00	1	1	1	0	Twitter for Android
+ciro	thedatascilab	539402941049106432	mentioned	2014-12-01 12:57:37+00:00	1	1	1	0	Twitter for Android
+ciro	WarwickBSchool	539402941049106432	mentioned	2014-12-01 12:57:37+00:00	1	1	1	0	Twitter for Android
+Philipp_Mayr	clauwa	539366666501914624	replied_to	2014-12-01 10:33:28+00:00	0	0	1	0	Twitter Web Client
+Philipp_Mayr	mstrohm	539366666501914624	replied_to	2014-12-01 10:33:28+00:00	0	0	1	0	Twitter Web Client
+Philipp_Mayr	BerlinerLufti	539366666501914624	replied_to	2014-12-01 10:33:28+00:00	0	0	1	0	Twitter Web Client
+PeterKraker	mstrohm	539337916259270657	mentioned	2014-12-01 08:39:14+00:00	0	0	1	0	Twitter Web Client
+emilio__ferrara	mstrohm	539335874094583809	mentioned	2014-12-01 08:31:07+00:00	1	0	0	0	Twitter for iPhone
+TahaYasseri	mstrohm	539335691310989312	mentioned	2014-12-01 08:30:23+00:00	1	2	0	0	Twitter for Android
+wm_forum	mstrohm	539333918131240960	mentioned	2014-12-01 08:23:21+00:00	0	0	0	0	Twitter for iPhone
+selvers	mstrohm	539333316751941632	mentioned	2014-12-01 08:20:57+00:00	0	0	2	0	Twitter for Android
+RedScareBot	mstrohm	539333109037420544	mentioned	2014-12-01 08:20:08+00:00	2	0	0	0	Twitter for Mac
+dr0ide	mstrohm	539332590382379008	mentioned	2014-12-01 08:18:04+00:00	2	0	2	0	Twitter for iPhone
+ktochtermann	mstrohm	539105337589391360	mentioned	2014-11-30 17:15:03+00:00	0	0	0	0	Twitter Web Client
+ktochtermann	gesis_org	539105337589391360	mentioned	2014-11-30 17:15:03+00:00	0	0	0	0	Twitter Web Client
+stefhaustein	gesis_org	538367397984743424	mentioned	2014-11-28 16:22:44+00:00	0	0	0	0	TweetDeck
+stefhaustein	mstrohm	538367397984743424	mentioned	2014-11-28 16:22:44+00:00	0	0	0	0	TweetDeck

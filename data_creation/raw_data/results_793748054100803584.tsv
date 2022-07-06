@@ -1,0 +1,21 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+pti_tk	Miklos__Sebok	1516521595405324296	mentioned	2022-04-19 20:58:18+00:00	3	0	6	0	Twitter Web App
+pti_tk	balint_kubik	1516521595405324296	mentioned	2022-04-19 20:58:18+00:00	3	0	6	0	Twitter Web App
+pti_tk	IstvanJaray	1516521595405324296	mentioned	2022-04-19 20:58:18+00:00	3	0	6	0	Twitter Web App
+pti_tk	EPSJournal	1516521595405324296	mentioned	2022-04-19 20:58:18+00:00	3	0	6	0	Twitter Web App
+pti_tk	ECPR	1516521595405324296	mentioned	2022-04-19 20:58:18+00:00	3	0	6	0	Twitter Web App
+AzureSupport	tim_iles	1125732909585977344	replied_to	2019-05-07 12:03:35+00:00	0	0	2	0	Twitter Web Client
+AzureSupport	balint_kubik	1125732909585977344	replied_to	2019-05-07 12:03:35+00:00	0	0	2	0	Twitter Web Client
+jacovgelder	balint_kubik	1125724913233428480	replied_to	2019-05-07 11:31:48+00:00	0	1	1	0	Twitter Web Client
+jacovgelder	AzureSupport	1125724913233428480	replied_to	2019-05-07 11:31:48+00:00	0	1	1	0	Twitter Web Client
+RedOktobur	balint_kubik	1073562036661972992	replied_to	2018-12-14 12:55:10+00:00	0	0	0	0	Twitter for Android
+RedOktobur	Pythondevelopm2	1073562036661972992	replied_to	2018-12-14 12:55:10+00:00	0	0	0	0	Twitter for Android
+JAX_MASTERS	balint_kubik	1071787562270810112	replied_to	2018-12-09 15:24:02+00:00	0	0	0	0	Twitter for iPhone
+JAX_MASTERS	Beezel_Bug	1071787562270810112	replied_to	2018-12-09 15:24:02+00:00	0	0	0	0	Twitter for iPhone
+udoyen	balint_kubik	1071710712169324544	replied_to	2018-12-09 10:18:39+00:00	0	0	0	0	Twitter for Android
+udoyen	Beezel_Bug	1071710712169324544	replied_to	2018-12-09 10:18:39+00:00	0	0	0	0	Twitter for Android
+SteveFranconeri	balint_kubik	1024066095425220608	replied_to	2018-07-30 22:55:58+00:00	0	0	0	0	Twitter for iPhone
+RECENS_network	balint_kubik	1018220686177906689	mentioned	2018-07-14 19:48:23+00:00	1	0	5	0	Twitter Web Client
+YellowBrickC	balint_kubik	1018204473431330816	quoted	2018-07-14 18:43:58+00:00	0	0	7	0	Twitter Web Client
+soeren_stelzer	thomasterkatz	943061262551998465	quoted	2017-12-19 10:11:40+00:00	0	0	2	0	TweetDeck
+soeren_stelzer	balint_kubik	943061262551998465	quoted	2017-12-19 10:11:40+00:00	0	0	2	0	TweetDeck

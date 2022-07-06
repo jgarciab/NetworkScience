@@ -1,0 +1,926 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+mattjhodgkinson	PLOSONE	1531967348068032522	replied_to	2022-06-01 11:54:13+00:00	2	0	3	0	Twitter for Android
+victoire_girard	TCarnap	1531964081472737288	replied_to	2022-06-01 11:41:14+00:00	0	0	0	0	Twitter Web App
+victoire_girard	MatCoutt	1531964081472737288	replied_to	2022-06-01 11:41:14+00:00	0	0	0	0	Twitter Web App
+victoire_girard	PLOSONE	1531964081472737288	replied_to	2022-06-01 11:41:14+00:00	0	0	0	0	Twitter Web App
+victoire_girard	ENSdeLyon	1531964081472737288	replied_to	2022-06-01 11:41:14+00:00	0	0	0	0	Twitter Web App
+marthadelri	zalf_leibniz	1531955323556306948	mentioned	2022-06-01 11:06:26+00:00	0	0	1	0	Twitter for Android
+marthadelri	PLOSONE	1531955323556306948	mentioned	2022-06-01 11:06:26+00:00	0	0	1	0	Twitter for Android
+Andreas_Ravache	PLOSONE	1531928004804362241	mentioned	2022-06-01 09:17:52+00:00	6	0	19	0	Twitter Web App
+gooyaglehoo1	physorg_com	1531918995464638464	replied_to	2022-06-01 08:42:04+00:00	0	0	0	0	Twitter Web App
+gooyaglehoo1	PLOSONE	1531918995464638464	replied_to	2022-06-01 08:42:04+00:00	0	0	0	0	Twitter Web App
+JeremySussman	ravi_b_parikh	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	PLOSONE	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	erichli1	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	cardismith	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	manalipatelmd	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	VyncaHealth	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	EmCollective	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	NCICareDelivRes	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	NCISymptomMgmt	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	NCIBehaviors	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	ramsedhom	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	MarkSendak	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+JeremySussman	kevin_volpp	1531739865108385794	replied_to	2022-05-31 20:50:16+00:00	0	1	1	0	Twitter Web App
+PLOS	PLOSONE	1531719677554184194	mentioned	2022-05-31 19:30:03+00:00	4	0	14	0	Sprout Social
+DrAlsaad1	PLOSONE	1531707412788518919	mentioned	2022-05-31 18:41:19+00:00	0	0	0	0	Twitter for Android
+ravi_b_parikh	PLOSONE	1531690802195230720	mentioned	2022-05-31 17:35:19+00:00	12	2	30	0	Twitter Web App
+ravi_b_parikh	erichli1	1531690802195230720	mentioned	2022-05-31 17:35:19+00:00	12	2	30	0	Twitter Web App
+physorg_com	PLOSONE	1531684450119077891	mentioned	2022-05-31 17:10:04+00:00	5	1	11	0	Science X Status Updates
+AU_ESGO	PLOSONE	1531544001203126274	replied_to	2022-05-31 07:51:59+00:00	0	0	1	0	Twitter Web App
+Valery78306358	PLOSONE	1531440818887589889	mentioned	2022-05-31 01:01:58+00:00	0	0	1	0	Twitter Web App
+elisaperego78	PLOSONE	1531436797678571527	mentioned	2022-05-31 00:45:59+00:00	12	0	23	0	Twitter for Android
+TagoMasaki	PLOSONE	1531433114551013376	mentioned	2022-05-31 00:31:21+00:00	2	0	6	0	Twitter Web App
+AerodDr	PLOSONE	1531403918898503685	mentioned	2022-05-30 22:35:21+00:00	2	0	14	0	Twitter for iPhone
+UNESCOPREV	PLOSONE	1531395027565326336	mentioned	2022-05-30 22:00:01+00:00	0	0	1	1	Twitter Web App
+UNESCOPREV	ProjectSomeone	1531395027565326336	mentioned	2022-05-30 22:00:01+00:00	0	0	1	1	Twitter Web App
+UNESCOPREV	CpnPrev	1531395027565326336	mentioned	2022-05-30 22:00:01+00:00	0	0	1	1	Twitter Web App
+medical_xpress	PLOSONE	1531395024008515584	mentioned	2022-05-30 22:00:00+00:00	0	0	1	1	Twitter Web App
+medical_xpress	ProjectSomeone	1531395024008515584	mentioned	2022-05-30 22:00:00+00:00	0	0	1	1	Twitter Web App
+medical_xpress	CpnPrev	1531395024008515584	mentioned	2022-05-30 22:00:00+00:00	0	0	1	1	Twitter Web App
+LTxJournal	PLOSONE	1531380208019902472	mentioned	2022-05-30 21:01:07+00:00	4	0	15	3	Science X Status Updates
+D_Blanchflower	LTxJournal	1531376776554979330	mentioned	2022-05-30 20:47:29+00:00	6	0	26	1	Twitter Web App
+D_Blanchflower	PLOSONE	1531376776554979330	mentioned	2022-05-30 20:47:29+00:00	6	0	26	1	Twitter Web App
+PaulLatreille	PaulLatreille	1531330649163964416	replied_to	2022-05-30 17:44:12+00:00	0	0	1	0	Twitter Web App
+PaulLatreille	AlexanderBryson	1531330649163964416	replied_to	2022-05-30 17:44:12+00:00	0	0	1	0	Twitter Web App
+PaulLatreille	PLOSONE	1531330649163964416	replied_to	2022-05-30 17:44:12+00:00	0	0	1	0	Twitter Web App
+JacksonImmunoR	D_Blanchflower	1531330460340695040	replied_to	2022-05-30 17:43:27+00:00	0	1	1	0	Twitter Web App
+JacksonImmunoR	AlexanderBryson	1531330460340695040	replied_to	2022-05-30 17:43:27+00:00	0	1	1	0	Twitter Web App
+JacksonImmunoR	PLOSONE	1531330460340695040	replied_to	2022-05-30 17:43:27+00:00	0	1	1	0	Twitter Web App
+DeborahOliviaC1	AlexanderBryson	1531327121242587137	mentioned	2022-05-30 17:30:11+00:00	0	1	3	1	Twitter Web App
+DeborahOliviaC1	PLOSONE	1531327121242587137	mentioned	2022-05-30 17:30:11+00:00	0	1	3	1	Twitter Web App
+exRNA	GesaBerretz	1531309212390895616	mentioned	2022-05-30 16:19:01+00:00	0	0	5	0	Sprout Social
+exRNA	PLOSONE	1531309212390895616	mentioned	2022-05-30 16:19:01+00:00	0	0	5	0	Sprout Social
+exRNA	CNN	1531309212390895616	mentioned	2022-05-30 16:19:01+00:00	0	0	5	0	Sprout Social
+researchsquare	PLOSONE	1531289959663034372	mentioned	2022-05-30 15:02:31+00:00	0	0	0	0	HubSpot
+kischober	medical_xpress	1531287036077846528	replied_to	2022-05-30 14:50:53+00:00	0	0	0	0	Twitter Web App
+kischober	PLOSONE	1531287036077846528	replied_to	2022-05-30 14:50:53+00:00	0	0	0	0	Twitter Web App
+Mascot_Jr	PLOSONE	1531285683972751362	mentioned	2022-05-30 14:45:31+00:00	6	1	19	0	Science X Status Updates
+jabir_kuttiyil	INSTAND66	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	goetheuni	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	rki_de	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	NML_ChemBioGC	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	UniSurreyBioSci	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	NIST	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	ptb_q5	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+jabir_kuttiyil	PLOSONE	1531266745004085248	mentioned	2022-05-30 13:30:16+00:00	1	0	1	0	Buffer
+OmicsNL	maw_tweets	1531259155616567304	mentioned	2022-05-30 13:00:06+00:00	1	0	0	0	Meltwater Social
+OmicsNL	PLOSONE	1531259155616567304	mentioned	2022-05-30 13:00:06+00:00	1	0	0	0	Meltwater Social
+QUTDataScience	PLOSONE	1531235410675998720	quoted	2022-05-30 11:25:45+00:00	1	0	4	0	Twitter Web App
+aswiburhan	PLOSONE	1531228375062396930	replied_to	2022-05-30 10:57:48+00:00	0	0	1	0	Twitter for iPhone
+aswiburhan	jabir_kuttiyil	1531228375062396930	replied_to	2022-05-30 10:57:48+00:00	0	0	1	0	Twitter for iPhone
+aswiburhan	2nihar	1531228375062396930	replied_to	2022-05-30 10:57:48+00:00	0	0	1	0	Twitter for iPhone
+aswiburhan	InnBioresearch	1531228375062396930	replied_to	2022-05-30 10:57:48+00:00	0	0	1	0	Twitter for iPhone
+aswiburhan	JonathanFior	1531228375062396930	replied_to	2022-05-30 10:57:48+00:00	0	0	1	0	Twitter for iPhone
+Farzana18_jahan	PLOSONE	1531214203163660288	replied_to	2022-05-30 10:01:29+00:00	0	0	0	0	Twitter for Android
+Farzana18_jahan	2nihar	1531214203163660288	replied_to	2022-05-30 10:01:29+00:00	0	0	0	0	Twitter for Android
+Farzana18_jahan	InnBioresearch	1531214203163660288	replied_to	2022-05-30 10:01:29+00:00	0	0	0	0	Twitter for Android
+Farzana18_jahan	JonathanFior	1531214203163660288	replied_to	2022-05-30 10:01:29+00:00	0	0	0	0	Twitter for Android
+JessAStern	PLOSONE	1531187944446377984	mentioned	2022-05-30 08:17:08+00:00	0	1	1	1	Twitter for Android
+JessAStern	2nihar	1531187944446377984	mentioned	2022-05-30 08:17:08+00:00	0	1	1	1	Twitter for Android
+JessAStern	InnBioresearch	1531187944446377984	mentioned	2022-05-30 08:17:08+00:00	0	1	1	1	Twitter for Android
+JessAStern	JonathanFior	1531187944446377984	mentioned	2022-05-30 08:17:08+00:00	0	1	1	1	Twitter for Android
+Isis_Angelique	PLOSONE	1531186882536648704	replied_to	2022-05-30 08:12:55+00:00	0	0	0	0	Twitter for Android
+emdb_bot	PLOSONE	1531175790141923330	mentioned	2022-05-30 07:28:50+00:00	0	0	0	0	Twitter Web App
+musicalchemists	PLOSONE	1531096808667066368	mentioned	2022-05-30 02:15:00+00:00	1	0	6	0	TweetDeck
+musicalchemists	Farzana18_jahan	1531096808667066368	mentioned	2022-05-30 02:15:00+00:00	1	0	6	0	TweetDeck
+musicalchemists	KerrieMengersen	1531096808667066368	mentioned	2022-05-30 02:15:00+00:00	1	0	6	0	TweetDeck
+musicalchemists	PLOS	1531096808667066368	mentioned	2022-05-30 02:15:00+00:00	1	0	6	0	TweetDeck
+musicalchemists	QUT	1531096808667066368	mentioned	2022-05-30 02:15:00+00:00	1	0	6	0	TweetDeck
+musicalchemists	danwkenn	1531096808667066368	mentioned	2022-05-30 02:15:00+00:00	1	0	6	0	TweetDeck
+sekaisaac	Farzana18_jahan	1531049958358786048	replied_to	2022-05-29 23:08:50+00:00	1	0	3	0	TweetDeck
+sekaisaac	PLOSONE	1531049958358786048	replied_to	2022-05-29 23:08:50+00:00	1	0	3	0	TweetDeck
+sekaisaac	KerrieMengersen	1531049958358786048	replied_to	2022-05-29 23:08:50+00:00	1	0	3	0	TweetDeck
+sekaisaac	danwkenn	1531049958358786048	replied_to	2022-05-29 23:08:50+00:00	1	0	3	0	TweetDeck
+sekaisaac	QUTBrag	1531049958358786048	replied_to	2022-05-29 23:08:50+00:00	1	0	3	0	TweetDeck
+Forenses_fmup	Farzana18_jahan	1530986296348250113	replied_to	2022-05-29 18:55:52+00:00	0	0	0	0	Twitter for Android
+Forenses_fmup	PLOSONE	1530986296348250113	replied_to	2022-05-29 18:55:52+00:00	0	0	0	0	Twitter for Android
+Forenses_fmup	KerrieMengersen	1530986296348250113	replied_to	2022-05-29 18:55:52+00:00	0	0	0	0	Twitter for Android
+Forenses_fmup	danwkenn	1530986296348250113	replied_to	2022-05-29 18:55:52+00:00	0	0	0	0	Twitter for Android
+Forenses_fmup	QUTBrag	1530986296348250113	replied_to	2022-05-29 18:55:52+00:00	0	0	0	0	Twitter for Android
+Forenses_fmup	QUTDataScience	1530986296348250113	replied_to	2022-05-29 18:55:52+00:00	0	0	0	0	Twitter for Android
+DaveGLambert	PLOSONE	1530917215503290369	mentioned	2022-05-29 14:21:21+00:00	2	2	21	0	Twitter for iPhone
+DaveGLambert	KerrieMengersen	1530917215503290369	mentioned	2022-05-29 14:21:21+00:00	2	2	21	0	Twitter for iPhone
+DaveGLambert	danwkenn	1530917215503290369	mentioned	2022-05-29 14:21:21+00:00	2	2	21	0	Twitter for iPhone
+DaveGLambert	QUTBrag	1530917215503290369	mentioned	2022-05-29 14:21:21+00:00	2	2	21	0	Twitter for iPhone
+DaveGLambert	QUTDataScience	1530917215503290369	mentioned	2022-05-29 14:21:21+00:00	2	2	21	0	Twitter for iPhone
+davidbent	FortuneMagazine	1530915527903916035	quoted	2022-05-29 14:14:39+00:00	1	1	2	0	Twitter Web App
+davidbent	GesaBerretz	1530915527903916035	quoted	2022-05-29 14:14:39+00:00	1	1	2	0	Twitter Web App
+davidbent	PLOSONE	1530915527903916035	quoted	2022-05-29 14:14:39+00:00	1	1	2	0	Twitter Web App
+dBmeLab	PLOSONE	1530848456809631744	replied_to	2022-05-29 09:48:08+00:00	0	0	1	0	Twitter Web App
+stephanefr	PLOSONE	1530829158707863552	mentioned	2022-05-29 08:31:27+00:00	0	0	0	0	EMDB bot
+macmanes	MicrobiomDigest	1530617572671885312	replied_to	2022-05-28 18:30:41+00:00	0	0	0	0	Twitter Web App
+macmanes	PLOSONE	1530617572671885312	replied_to	2022-05-28 18:30:41+00:00	0	0	0	0	Twitter Web App
+NedRozell	InnBioresearch	1530570537914744834	replied_to	2022-05-28 15:23:47+00:00	0	0	0	0	Twitter for Android
+NedRozell	PLOSONE	1530570537914744834	replied_to	2022-05-28 15:23:47+00:00	0	0	0	0	Twitter for Android
+StaplesLab	PLOSONE	1530470200511963137	mentioned	2022-05-28 08:45:05+00:00	0	0	2	0	Twitter Web App
+bryantlab1	PLOSONE	1530460959365636096	mentioned	2022-05-28 08:08:21+00:00	0	0	6	1	Twitter for iPhone
+ClivePetry	gregtrencher	1530449556370075648	replied_to	2022-05-28 07:23:03+00:00	0	0	2	0	Twitter Web App
+ClivePetry	PLOSONE	1530449556370075648	replied_to	2022-05-28 07:23:03+00:00	0	0	2	0	Twitter Web App
+SciDevNet_AL	PLOSONE	1530442861401063424	mentioned	2022-05-28 06:56:27+00:00	0	0	0	0	Twitter Web App
+Joshua_StephenK	InnBioresearch	1530384050505953280	replied_to	2022-05-28 03:02:45+00:00	0	0	0	0	Twitter for Android
+Joshua_StephenK	PLOSONE	1530384050505953280	replied_to	2022-05-28 03:02:45+00:00	0	0	0	0	Twitter for Android
+Joshua_StephenK	PLOSONE	1530384050505953280	replied_to	2022-05-28 03:02:45+00:00	0	0	0	0	Twitter for Android
+ValeriaAlduina	InnBioresearch	1530383967144120321	replied_to	2022-05-28 03:02:25+00:00	0	0	0	0	Twitter for Android
+ValeriaAlduina	PLOSONE	1530383967144120321	replied_to	2022-05-28 03:02:25+00:00	0	0	0	0	Twitter for Android
+ValeriaAlduina	plusone_inc	1530383967144120321	replied_to	2022-05-28 03:02:25+00:00	0	0	0	0	Twitter for Android
+JoasKule	2nihar	1530382716604076034	replied_to	2022-05-28 02:57:27+00:00	0	0	0	0	Twitter for Android
+JoasKule	PLOSONE	1530382716604076034	replied_to	2022-05-28 02:57:27+00:00	0	0	0	0	Twitter for Android
+aWarmWalrus	MicrobiomDigest	1530364893999792128	replied_to	2022-05-28 01:46:38+00:00	0	0	1	0	Twitter Web App
+aWarmWalrus	PLOSONE	1530364893999792128	replied_to	2022-05-28 01:46:38+00:00	0	0	1	0	Twitter Web App
+MaryamRafiqi	DaniBlumstein	1530341489208967168	replied_to	2022-05-28 00:13:38+00:00	0	0	0	0	Twitter for iPhone
+MaryamRafiqi	AcademicChatter	1530341489208967168	replied_to	2022-05-28 00:13:38+00:00	0	0	0	0	Twitter for iPhone
+MaryamRafiqi	PLOSONE	1530341489208967168	replied_to	2022-05-28 00:13:38+00:00	0	0	0	0	Twitter for iPhone
+heythereimcindy	Paleo_Fiorillo	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	AAlechiarenza	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	SMU	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	SMUDedman	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	smuresearch	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	HokkaidoUni	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	ExplorersClub	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	PLOSONE	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+heythereimcindy	dino_mamire	1530319957497507840	replied_to	2022-05-27 22:48:04+00:00	0	0	0	0	Twitter Web App
+thuyvytnguyen	bryantlab1	1530305457914466304	replied_to	2022-05-27 21:50:27+00:00	0	0	2	0	Twitter for Android
+thuyvytnguyen	PLOSONE	1530305457914466304	replied_to	2022-05-27 21:50:27+00:00	0	0	2	0	Twitter for Android
+thuyvytnguyen	BCiani	1530305457914466304	replied_to	2022-05-27 21:50:27+00:00	0	0	2	0	Twitter for Android
+thuyvytnguyen	SheffieldChem	1530305457914466304	replied_to	2022-05-27 21:50:27+00:00	0	0	2	0	Twitter for Android
+thuyvytnguyen	msesheffield	1530305457914466304	replied_to	2022-05-27 21:50:27+00:00	0	0	2	0	Twitter for Android
+rojwanders	PLOSONE	1530279243925659649	mentioned	2022-05-27 20:06:17+00:00	4	1	14	0	Twitter Web App
+rojwanders	BCiani	1530279243925659649	mentioned	2022-05-27 20:06:17+00:00	4	1	14	0	Twitter Web App
+rojwanders	SheffieldChem	1530279243925659649	mentioned	2022-05-27 20:06:17+00:00	4	1	14	0	Twitter Web App
+rojwanders	msesheffield	1530279243925659649	mentioned	2022-05-27 20:06:17+00:00	4	1	14	0	Twitter Web App
+drkevinwood	CrivellaroFed	1530264075325825024	mentioned	2022-05-27 19:06:01+00:00	2	0	4	0	Sprout Social
+drkevinwood	turkanabasin	1530264075325825024	mentioned	2022-05-27 19:06:01+00:00	2	0	4	0	Sprout Social
+drkevinwood	PLOSONE	1530264075325825024	mentioned	2022-05-27 19:06:01+00:00	2	0	4	0	Sprout Social
+drkevinwood	Gizmodo	1530264075325825024	mentioned	2022-05-27 19:06:01+00:00	2	0	4	0	Sprout Social
+RubeenaZakar	PLOSONE	1530253344555532294	mentioned	2022-05-27 18:23:22+00:00	2	0	6	0	Twitter for Android
+RubeenaZakar	PaediatCam	1530253344555532294	mentioned	2022-05-27 18:23:22+00:00	2	0	6	0	Twitter for Android
+manal_mhada	PLOSONE	1530236973620813824	replied_to	2022-05-27 17:18:19+00:00	0	1	0	0	Twitter for Android
+rmflight	MicrobiomDigest	1530233067465748480	quoted	2022-05-27 17:02:48+00:00	0	0	0	0	Twitter Web App
+rmflight	PLOSONE	1530233067465748480	quoted	2022-05-27 17:02:48+00:00	0	0	0	0	Twitter Web App
+MicroTolo	PLOSONE	1530230234326384640	mentioned	2022-05-27 16:51:32+00:00	0	0	0	0	Twitter Web App
+MicrobiomDigest	kaggwa_dr	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	PLOSONE	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	MbararaHospital	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	MbararaUST	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	joanabaatyo	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	AshabaSchola	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	mamun_CHINTA	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	alain_favina	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	Muwangu16767449	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	Dr_MuwanguziM	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+MicrobiomDigest	MariaSa40992790	1530223606122307589	replied_to	2022-05-27 16:25:12+00:00	0	1	2	0	Twitter for Android
+griz1	heythereimcindy	1530217477996793857	replied_to	2022-05-27 16:00:51+00:00	0	0	0	0	Twitter for Android
+griz1	PLOSONE	1530217477996793857	replied_to	2022-05-27 16:00:51+00:00	0	0	0	0	Twitter for Android
+kaggwa_dr	ForestPathology	1530216243168522241	replied_to	2022-05-27 15:55:57+00:00	0	0	0	0	Twitter for iPhone
+kaggwa_dr	PLOSONE	1530216243168522241	replied_to	2022-05-27 15:55:57+00:00	0	0	0	0	Twitter for iPhone
+abarakate1	PLOSONE	1530212706233499649	mentioned	2022-05-27 15:41:53+00:00	1	1	4	0	Twitter Web App
+TCarnap	NettaWeinstein	1530203131874795521	mentioned	2022-05-27 15:03:51+00:00	4	1	9	0	Twitter Web App
+TCarnap	richardmryan3	1530203131874795521	mentioned	2022-05-27 15:03:51+00:00	4	1	9	0	Twitter Web App
+TCarnap	PLOSONE	1530203131874795521	mentioned	2022-05-27 15:03:51+00:00	4	1	9	0	Twitter Web App
+MatCoutt	PLOSONE	1530202958633107461	mentioned	2022-05-27 15:03:09+00:00	1	0	1	0	Twitter Web App
+RBT_RAMBO	PLOSONE	1530201844307443715	mentioned	2022-05-27 14:58:44+00:00	0	0	1	0	Twitter Web App
+WorldPopProject	PLOSONE	1530199543656157189	mentioned	2022-05-27 14:49:35+00:00	1	0	4	0	Twitter for iPhone
+WorldPopProject	PLOS	1530199543656157189	mentioned	2022-05-27 14:49:35+00:00	1	0	4	0	Twitter for iPhone
+Shoaib_Siddik	PLOSONE	1530198928968368129	mentioned	2022-05-27 14:47:09+00:00	3	0	4	0	Twitter for iPhone
+Shoaib_Siddik	PLOS	1530198928968368129	mentioned	2022-05-27 14:47:09+00:00	3	0	4	0	Twitter for iPhone
+jcortesanchez	PLOSONE	1530197469958651905	mentioned	2022-05-27 14:41:21+00:00	0	0	1	0	Twitter for iPhone
+LBNLBioSci	abarakate1	1530192963262980098	replied_to	2022-05-27 14:23:26+00:00	0	0	2	0	Twitter for iPhone
+LBNLBioSci	MaryamRafiqi	1530192963262980098	replied_to	2022-05-27 14:23:26+00:00	0	0	2	0	Twitter for iPhone
+LBNLBioSci	PLOSONE	1530192963262980098	replied_to	2022-05-27 14:23:26+00:00	0	0	2	0	Twitter for iPhone
+MacKhundi	MicrobiomDigest	1530181124001087490	replied_to	2022-05-27 13:36:24+00:00	0	0	0	0	TweetDeck
+MacKhundi	PLOSONE	1530181124001087490	replied_to	2022-05-27 13:36:24+00:00	0	0	0	0	TweetDeck
+sweta887170	MicrobiomDigest	1530180256270802944	replied_to	2022-05-27 13:32:57+00:00	0	0	0	0	Twitter for Android
+sweta887170	PLOSONE	1530180256270802944	replied_to	2022-05-27 13:32:57+00:00	0	0	0	0	Twitter for Android
+NEPatson	PLOSONE	1530178301813219330	mentioned	2022-05-27 13:25:11+00:00	4	6	42	0	Twitter Web App
+2nihar	ColumbiaMed	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+2nihar	UCLAMCH	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+2nihar	neurotrauma2022	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+2nihar	Neurotrauma	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+2nihar	PNCRGtweets	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+2nihar	yoncabulutmd	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+2nihar	PLOSONE	1530156878940065793	mentioned	2022-05-27 12:00:03+00:00	1	0	4	0	Twitter Web App
+NAHDAP1	PLOSONE	1530149312155492352	mentioned	2022-05-27 11:29:59+00:00	3	1	16	0	Twitter Web App
+NAHDAP1	MbararaHospital	1530149312155492352	mentioned	2022-05-27 11:29:59+00:00	3	1	16	0	Twitter Web App
+NAHDAP1	MbararaUST	1530149312155492352	mentioned	2022-05-27 11:29:59+00:00	3	1	16	0	Twitter Web App
+EpigenomeHacker	MaryamRafiqi	1530148861737676801	replied_to	2022-05-27 11:28:12+00:00	0	1	1	0	Twitter Web App
+EpigenomeHacker	PLOSONE	1530148861737676801	replied_to	2022-05-27 11:28:12+00:00	0	1	1	0	Twitter Web App
+leclercfl	MatCoutt	1530144324788408320	replied_to	2022-05-27 11:10:10+00:00	0	1	1	0	Twitter Web App
+leclercfl	PLOSONE	1530144324788408320	replied_to	2022-05-27 11:10:10+00:00	0	1	1	0	Twitter Web App
+leclercfl	ENSdeLyon	1530144324788408320	replied_to	2022-05-27 11:10:10+00:00	0	1	1	0	Twitter Web App
+leclercfl	victoire_girard	1530144324788408320	replied_to	2022-05-27 11:10:10+00:00	0	1	1	0	Twitter Web App
+ArchaeologyPost	PLOSONE	1530135294091182080	mentioned	2022-05-27 10:34:17+00:00	6	2	12	0	Twitter for iPhone
+abdurrafi007	PLOSONE	1530110673627250688	mentioned	2022-05-27 08:56:27+00:00	5	2	49	0	Twitter Web App
+abdurrafi007	ENSdeLyon	1530110673627250688	mentioned	2022-05-27 08:56:27+00:00	5	2	49	0	Twitter Web App
+physorg_biology	2nihar	1530089239613956097	replied_to	2022-05-27 07:31:17+00:00	0	0	0	0	Twitter for Android
+physorg_biology	PLOSONE	1530089239613956097	replied_to	2022-05-27 07:31:17+00:00	0	0	0	0	Twitter for Android
+drchinh	PLOSONE	1530081619863805954	mentioned	2022-05-27 07:01:00+00:00	4	0	7	0	TweetDeck
+enriquefarez	PLOSONE	1530012582035488769	mentioned	2022-05-27 02:26:40+00:00	3	0	2	0	Twitter Web App
+ZBoakesResearch	PLOSONE	1529952779544018944	mentioned	2022-05-26 22:29:02+00:00	0	0	0	0	Twitter Web App
+elektrokral	PLOSONE	1529920573794570246	mentioned	2022-05-26 20:21:03+00:00	0	0	2	0	Sendible
+HartleySamantha	PLOSONE	1529725613736599554	replied_to	2022-05-26 07:26:21+00:00	0	0	0	0	Twitter Web App
+physorg_health	PLOSONE	1529725486020104193	mentioned	2022-05-26 07:25:51+00:00	0	0	0	0	Science X Status Updates
+SamDGreenhill	ZBoakesResearch	1529718093307596800	replied_to	2022-05-26 06:56:28+00:00	0	1	0	0	Twitter for Android
+SamDGreenhill	PLOSONE	1529718093307596800	replied_to	2022-05-26 06:56:28+00:00	0	1	0	0	Twitter for Android
+MacKhundi	TchaiweL	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	PLOSONE	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	petermacp	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	HelenaFeasey	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	LizCorbett17	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	petedodd24	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	ted_h_cohen	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	HusseinTwabi	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	Rnzawa	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	kc_horton	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+MacKhundi	rachaelburke	1529703058732621825	replied_to	2022-05-26 05:56:44+00:00	0	0	0	0	Twitter Web App
+TchaiweL	MacKhundi	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	PLOSONE	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	petermacp	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	HelenaFeasey	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	LizCorbett17	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	petedodd24	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	ted_h_cohen	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	HusseinTwabi	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	Rnzawa	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	kc_horton	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+TchaiweL	rachaelburke	1529696784758579200	replied_to	2022-05-26 05:31:48+00:00	0	1	1	0	Twitter for Android
+pnatarajanmd	PLOSONE	1529628812484521986	mentioned	2022-05-26 01:01:42+00:00	1	0	24	0	Twitter Web App
+pnatarajanmd	VAResearch	1529628812484521986	mentioned	2022-05-26 01:01:42+00:00	1	0	24	0	Twitter Web App
+scheufele	YouTube	1529598385048666112	mentioned	2022-05-25 23:00:48+00:00	14	1	38	2	TweetDeck
+scheufele	PLOSONE	1529598385048666112	mentioned	2022-05-25 23:00:48+00:00	14	1	38	2	TweetDeck
+scheufele	UW_LSC	1529598385048666112	mentioned	2022-05-25 23:00:48+00:00	14	1	38	2	TweetDeck
+scheufele	syang364	1529598385048666112	mentioned	2022-05-25 23:00:48+00:00	14	1	38	2	TweetDeck
+P_Palagi	marc_rr	1529575156213071872	replied_to	2022-05-25 21:28:30+00:00	0	1	2	0	Twitter for iPhone
+P_Palagi	PLOS	1529575156213071872	replied_to	2022-05-25 21:28:30+00:00	0	1	2	0	Twitter for iPhone
+P_Palagi	PLOSONE	1529575156213071872	replied_to	2022-05-25 21:28:30+00:00	0	1	2	0	Twitter for iPhone
+P_Palagi	PLOSCompBiol	1529575156213071872	replied_to	2022-05-25 21:28:30+00:00	0	1	2	0	Twitter for iPhone
+LGthnk4yourself	medical_xpress	1529570605565083648	replied_to	2022-05-25 21:10:25+00:00	0	0	0	0	Twitter for Android
+LGthnk4yourself	PLOS	1529570605565083648	replied_to	2022-05-25 21:10:25+00:00	0	0	0	0	Twitter for Android
+LGthnk4yourself	PLOSONE	1529570605565083648	replied_to	2022-05-25 21:10:25+00:00	0	0	0	0	Twitter for Android
+fbogliacino	kalayci_kenan	1529554153512501248	replied_to	2022-05-25 20:05:02+00:00	0	1	2	0	Twitter Web App
+fbogliacino	PLOSONE	1529554153512501248	replied_to	2022-05-25 20:05:02+00:00	0	1	2	0	Twitter Web App
+medical_xpress	PLOS	1529522707699736576	mentioned	2022-05-25 18:00:05+00:00	3	0	6	0	Science X Status Updates
+medical_xpress	PLOSONE	1529522707699736576	mentioned	2022-05-25 18:00:05+00:00	3	0	6	0	Science X Status Updates
+GilliesKatie	PLOS	1529522694718476288	mentioned	2022-05-25 18:00:02+00:00	9	1	19	2	Science X Status Updates
+GilliesKatie	PLOSONE	1529522694718476288	mentioned	2022-05-25 18:00:02+00:00	9	1	19	2	Science X Status Updates
+willjcragg	willjcragg	1529503793162989569	replied_to	2022-05-25 16:44:55+00:00	0	0	1	0	Twitter for Android
+willjcragg	PLOSONE	1529503793162989569	replied_to	2022-05-25 16:44:55+00:00	0	0	1	0	Twitter for Android
+willjcragg	FrancesShiely	1529503793162989569	replied_to	2022-05-25 16:44:55+00:00	0	0	1	0	Twitter for Android
+DartmouthCTBH	GilliesKatie	1529486031778635777	replied_to	2022-05-25 15:34:21+00:00	0	1	0	0	Twitter for Android
+DartmouthCTBH	PLOSONE	1529486031778635777	replied_to	2022-05-25 15:34:21+00:00	0	1	0	0	Twitter for Android
+DartmouthCTBH	FrancesShiely	1529486031778635777	replied_to	2022-05-25 15:34:21+00:00	0	1	0	0	Twitter for Android
+NPEU_Oxford	DartmouthCTBH	1529483552689119238	mentioned	2022-05-25 15:24:30+00:00	0	0	1	0	Twitter Web App
+NPEU_Oxford	NC_Jacobson	1529483552689119238	mentioned	2022-05-25 15:24:30+00:00	0	0	1	0	Twitter Web App
+NPEU_Oxford	PLOSONE	1529483552689119238	mentioned	2022-05-25 15:24:30+00:00	0	0	1	0	Twitter Web App
+Sightsavers_Pol	PLOSONE	1529474014401421314	mentioned	2022-05-25 14:46:35+00:00	1	0	1	0	Twitter Web App
+Sightsavers_Pol	PLOS	1529474014401421314	mentioned	2022-05-25 14:46:35+00:00	1	0	1	0	Twitter Web App
+AggregoOncology	Sightsavers	1529461343362875394	mentioned	2022-05-25 13:56:14+00:00	0	0	1	0	Sprout Social
+AggregoOncology	guillsec	1529461343362875394	mentioned	2022-05-25 13:56:14+00:00	0	0	1	0	Sprout Social
+AggregoOncology	PLOSONE	1529461343362875394	mentioned	2022-05-25 13:56:14+00:00	0	0	1	0	Sprout Social
+Screensandkids	PLOSONE	1529460129191559170	mentioned	2022-05-25 13:51:25+00:00	0	0	0	0	Twitter Web App
+phyllismlau	aapos4kids	1529419111113138178	mentioned	2022-05-25 11:08:25+00:00	2	0	2	0	Twitter Web App
+phyllismlau	DrSimonFung	1529419111113138178	mentioned	2022-05-25 11:08:25+00:00	2	0	2	0	Twitter Web App
+phyllismlau	JPOSJournal	1529419111113138178	mentioned	2022-05-25 11:08:25+00:00	2	0	2	0	Twitter Web App
+phyllismlau	MacularHope	1529419111113138178	mentioned	2022-05-25 11:08:25+00:00	2	0	2	0	Twitter Web App
+phyllismlau	PLOSONE	1529419111113138178	mentioned	2022-05-25 11:08:25+00:00	2	0	2	0	Twitter Web App
+ZBoakesResearch	PLOSONE	1529418093503852544	mentioned	2022-05-25 11:04:23+00:00	0	0	1	0	Twitter Web App
+ChykoMalamba	PLOSONE	1529394277251698688	mentioned	2022-05-25 09:29:45+00:00	0	1	5	0	Twitter Web App
+marc_rr	MacKhundi	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	PLOSONE	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	petermacp	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	HelenaFeasey	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	LizCorbett17	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	petedodd24	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	ted_h_cohen	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	HusseinTwabi	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	Rnzawa	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	kc_horton	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+marc_rr	rachaelburke	1529382667208253442	replied_to	2022-05-25 08:43:37+00:00	0	0	0	0	Twitter for iPhone
+ang_mwape	PLOS	1529367635795877891	mentioned	2022-05-25 07:43:53+00:00	1	1	14	0	TweetDeck
+ang_mwape	PLOSONE	1529367635795877891	mentioned	2022-05-25 07:43:53+00:00	1	1	14	0	TweetDeck
+ang_mwape	PLOSCompBiol	1529367635795877891	mentioned	2022-05-25 07:43:53+00:00	1	1	14	0	TweetDeck
+Lady_Patriot76	PLOSONE	1529364651967926279	mentioned	2022-05-25 07:32:01+00:00	0	0	1	0	Twitter Web App
+sean_vikoren	PLOSONE	1529364307149979649	mentioned	2022-05-25 07:30:39+00:00	25	1	53	1	Twitter Web App
+sean_vikoren	FrancesShiely	1529364307149979649	mentioned	2022-05-25 07:30:39+00:00	25	1	53	1	Twitter Web App
+lizheth_sd	medical_xpress	1529201266034987013	replied_to	2022-05-24 20:42:47+00:00	0	0	0	0	Twitter for iPhone
+lizheth_sd	PLOSONE	1529201266034987013	replied_to	2022-05-24 20:42:47+00:00	0	0	0	0	Twitter for iPhone
+ACCUCOMSLATAM	medical_xpress	1529200068858761216	replied_to	2022-05-24 20:38:02+00:00	0	0	0	0	Twitter Web App
+ACCUCOMSLATAM	physorg_com	1529200068858761216	replied_to	2022-05-24 20:38:02+00:00	0	0	0	0	Twitter Web App
+ACCUCOMSLATAM	PLOSONE	1529200068858761216	replied_to	2022-05-24 20:38:02+00:00	0	0	0	0	Twitter Web App
+PLOS	PLOSONE	1529199824003809281	mentioned	2022-05-24 20:37:03+00:00	7	2	13	0	Science X Status Updates
+EdijsVavers	PLOSONE	1529190733722230784	quoted	2022-05-24 20:00:56+00:00	1	0	5	0	Twitter Web App
+EdijsVavers	planktomancer	1529190733722230784	quoted	2022-05-24 20:00:56+00:00	1	0	5	0	Twitter Web App
+laurensallan	PLOSONE	1529179579838976000	mentioned	2022-05-24 19:16:37+00:00	2	0	2	0	Twitter Web App
+laurensallan	SBarquera	1529179579838976000	mentioned	2022-05-24 19:16:37+00:00	2	0	2	0	Twitter Web App
+laurensallan	inspmx	1529179579838976000	mentioned	2022-05-24 19:16:37+00:00	2	0	2	0	Twitter Web App
+NewFoodMag	ICAyCC_UNAM	1529173393370624000	mentioned	2022-05-24 18:52:02+00:00	3	0	2	0	Twitter Web App
+NewFoodMag	PLOS	1529173393370624000	mentioned	2022-05-24 18:52:02+00:00	3	0	2	0	Twitter Web App
+NewFoodMag	PLOSONE	1529173393370624000	mentioned	2022-05-24 18:52:02+00:00	3	0	2	0	Twitter Web App
+NewFoodMag	bibliotecasUNAM	1529173393370624000	mentioned	2022-05-24 18:52:02+00:00	3	0	2	0	Twitter Web App
+NewFoodMag	UNAM_MX	1529173393370624000	mentioned	2022-05-24 18:52:02+00:00	3	0	2	0	Twitter Web App
+MGChipeta	MGChipeta	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	PLOSONE	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	petermacp	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	HelenaFeasey	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	LizCorbett17	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	petedodd24	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	ted_h_cohen	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	HusseinTwabi	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	Rnzawa	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	kc_horton	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+MGChipeta	rachaelburke	1529169467078545408	replied_to	2022-05-24 18:36:26+00:00	0	0	0	0	Twitter Web App
+rskudesia	PLOSONE	1529165335940694016	mentioned	2022-05-24 18:20:01+00:00	3	0	4	0	Sprout Social
+rskudesia	newscientist	1529165335940694016	mentioned	2022-05-24 18:20:01+00:00	3	0	4	0	Sprout Social
+DartmouthCancer	osi_lv	1529138584418238464	mentioned	2022-05-24 16:33:43+00:00	2	1	9	0	Twitter for Android
+DartmouthCancer	unitartu	1529138584418238464	mentioned	2022-05-24 16:33:43+00:00	2	1	9	0	Twitter for Android
+DartmouthCancer	PLOSONE	1529138584418238464	mentioned	2022-05-24 16:33:43+00:00	2	1	9	0	Twitter for Android
+DartmouthCancer	VIAA_LV	1529138584418238464	mentioned	2022-05-24 16:33:43+00:00	2	1	9	0	Twitter for Android
+DartmouthCancer	Zinatnespadome	1529138584418238464	mentioned	2022-05-24 16:33:43+00:00	2	1	9	0	Twitter for Android
+DrNdeketa	PLOSONE	1529134517444825089	mentioned	2022-05-24 16:17:33+00:00	2	0	15	0	Twitter Web App
+DrNdeketa	ZhuEarlyFishLab	1529134517444825089	mentioned	2022-05-24 16:17:33+00:00	2	0	15	0	Twitter Web App
+Juergen181156	PLOSONE	1529130132711014400	mentioned	2022-05-24 16:00:08+00:00	0	0	1	0	NF Tweet Pro
+McMasterFamMed	MacKhundi	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	PLOSONE	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	petermacp	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	HelenaFeasey	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	LizCorbett17	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	petedodd24	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	ted_h_cohen	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	HusseinTwabi	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	Rnzawa	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	kc_horton	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	rachaelburke	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+McMasterFamMed	MacKhundi	1529128570102112256	replied_to	2022-05-24 15:53:55+00:00	0	1	0	0	Twitter for Android
+OyatsuMaster	PsychScience	1529117516756402177	mentioned	2022-05-24 15:10:00+00:00	0	1	14	0	Twitter Web App
+OyatsuMaster	PLOSONE	1529117516756402177	mentioned	2022-05-24 15:10:00+00:00	0	1	14	0	Twitter Web App
+zembere_kennedy	DrNdeketa	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	PLOSONE	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	petermacp	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	HelenaFeasey	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	LizCorbett17	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	petedodd24	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	ted_h_cohen	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	HusseinTwabi	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	Rnzawa	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	kc_horton	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+zembere_kennedy	rachaelburke	1529106244472012804	replied_to	2022-05-24 14:25:12+00:00	0	0	1	0	Twitter Web App
+HelenaFeasey	zembere_kennedy	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	PLOSONE	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	petermacp	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	HelenaFeasey	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	LizCorbett17	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	petedodd24	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	ted_h_cohen	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	HusseinTwabi	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	Rnzawa	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	kc_horton	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+HelenaFeasey	rachaelburke	1529106038548484099	replied_to	2022-05-24 14:24:23+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	HelenaFeasey	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	PLOSONE	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	petermacp	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	LizCorbett17	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	petedodd24	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	ted_h_cohen	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	HusseinTwabi	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	Rnzawa	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	kc_horton	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+DbyckLpKAx8t1RA	rachaelburke	1529105946462588933	replied_to	2022-05-24 14:24:01+00:00	0	0	0	0	Twitter Web App
+josejolivas	PLOSONE	1529083415496122369	mentioned	2022-05-24 12:54:29+00:00	0	0	0	0	Twitter Web App
+josejolivas	GeiselMed	1529083415496122369	mentioned	2022-05-24 12:54:29+00:00	0	0	0	0	Twitter Web App
+GMFHx	MacKhundi	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	PLOSONE	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	petermacp	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	HelenaFeasey	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	LizCorbett17	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	petedodd24	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	ted_h_cohen	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	HusseinTwabi	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	Rnzawa	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	kc_horton	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+GMFHx	rachaelburke	1529080203384963073	replied_to	2022-05-24 12:41:44+00:00	0	1	3	0	Twitter for Android
+FarrukhSaah	SZ	1529078366237868033	replied_to	2022-05-24 12:34:26+00:00	0	0	0	0	Twitter for Android
+FarrukhSaah	PLOSONE	1529078366237868033	replied_to	2022-05-24 12:34:26+00:00	0	0	0	0	Twitter for Android
+FarrukhSaah	jawet	1529078366237868033	replied_to	2022-05-24 12:34:26+00:00	0	0	0	0	Twitter for Android
+LuisProfit	PLOSONE	1529073631590072321	mentioned	2022-05-24 12:15:37+00:00	6	1	6	0	Twitter Web App
+LuisProfit	F_Kouyoumdjian	1529073631590072321	mentioned	2022-05-24 12:15:37+00:00	6	1	6	0	Twitter Web App
+antoine_coutrot	PLOSONE	1529052396789280768	replied_to	2022-05-24 10:51:14+00:00	1	0	4	0	Twitter Web App
+PriscillaRupali	MacKhundi	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	PLOSONE	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	petermacp	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	HelenaFeasey	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	LizCorbett17	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	petedodd24	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	ted_h_cohen	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	HusseinTwabi	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	Rnzawa	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	kc_horton	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+PriscillaRupali	rachaelburke	1529043351718207488	replied_to	2022-05-24 10:15:17+00:00	0	1	2	0	Twitter for Android
+cannabis_sci	MacKhundi	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	PLOSONE	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	petermacp	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	LizCorbett17	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	petedodd24	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	ted_h_cohen	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	HusseinTwabi	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	Rnzawa	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	kc_horton	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	rachaelburke	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+cannabis_sci	MacKhundi	1529040392657715202	replied_to	2022-05-24 10:03:32+00:00	1	1	5	0	Twitter for iPhone
+Pablo_the_Finn	PLOSONE	1529039377048944640	mentioned	2022-05-24 09:59:30+00:00	23	8	100	3	Twitter Web App
+SZ	Pablo_the_Finn	1529010527468261377	replied_to	2022-05-24 08:04:52+00:00	0	0	0	0	Twitter for Android
+SZ	SZ	1529010527468261377	replied_to	2022-05-24 08:04:52+00:00	0	0	0	0	Twitter for Android
+SZ	PLOSONE	1529010527468261377	replied_to	2022-05-24 08:04:52+00:00	0	0	0	0	Twitter for Android
+SZ	jawet	1529010527468261377	replied_to	2022-05-24 08:04:52+00:00	0	0	0	0	Twitter for Android
+SZ_TopNews	PLOSONE	1529006076804440068	replied_to	2022-05-24 07:47:10+00:00	0	0	0	0	Twitter for Android
+SZ_Wissen	PLOSONE	1528975338956636166	mentioned	2022-05-24 05:45:02+00:00	3	0	6	0	Hootsuite Inc.
+medicaldialogs	hubert_amu	1528934370005987328	replied_to	2022-05-24 03:02:14+00:00	0	0	0	0	Twitter for iPhone
+medicaldialogs	PLOSONE	1528934370005987328	replied_to	2022-05-24 03:02:14+00:00	0	0	0	0	Twitter for iPhone
+CUPhysMed	waseuno	1528914105607852032	replied_to	2022-05-24 01:41:43+00:00	0	0	1	0	Twitter Web App
+CUPhysMed	ChanpuruRabbits	1528914105607852032	replied_to	2022-05-24 01:41:43+00:00	0	0	1	0	Twitter Web App
+CUPhysMed	sambitswaraj	1528914105607852032	replied_to	2022-05-24 01:41:43+00:00	0	0	1	0	Twitter Web App
+CUPhysMed	PLOSONE	1528914105607852032	replied_to	2022-05-24 01:41:43+00:00	0	0	1	0	Twitter Web App
+CUPhysMed	xmioart	1528914105607852032	replied_to	2022-05-24 01:41:43+00:00	0	0	1	0	Twitter Web App
+physorg_com	PLOSONE	1528855135652282369	mentioned	2022-05-23 21:47:23+00:00	2	0	31	0	Twitter Web App
+Divyani_Garg	Divyani_Garg	1528794724546383872	replied_to	2022-05-23 17:47:20+00:00	0	0	1	0	Twitter for iPhone
+Divyani_Garg	malt_mj	1528794724546383872	replied_to	2022-05-23 17:47:20+00:00	0	0	1	0	Twitter for iPhone
+Divyani_Garg	PLOSONE	1528794724546383872	replied_to	2022-05-23 17:47:20+00:00	0	0	1	0	Twitter for iPhone
+Narenmbbs	PLOSONE	1528784084247498756	mentioned	2022-05-23 17:05:03+00:00	1	0	2	0	HubSpot
+Narenmbbs	Leafly	1528784084247498756	mentioned	2022-05-23 17:05:03+00:00	1	0	2	0	HubSpot
+prototyperspect	SZ	1528770163264393218	replied_to	2022-05-23 16:09:44+00:00	0	1	0	0	Twitter for Android
+prototyperspect	PLOSONE	1528770163264393218	replied_to	2022-05-23 16:09:44+00:00	0	1	0	0	Twitter for Android
+prototyperspect	jawet	1528770163264393218	replied_to	2022-05-23 16:09:44+00:00	0	1	0	0	Twitter for Android
+hubert_amu	PLOSONE	1528768984484614144	mentioned	2022-05-23 16:05:03+00:00	0	1	1	0	Twitter for Android
+manikbasha2197	PLOSONE	1528762568348770305	mentioned	2022-05-23 15:39:33+00:00	3	2	8	0	SZ.de Twitterbot - Main
+manikbasha2197	jawet	1528762568348770305	mentioned	2022-05-23 15:39:33+00:00	3	2	8	0	SZ.de Twitterbot - Main
+malt_mj	PLOSONE	1528762568323616769	mentioned	2022-05-23 15:39:33+00:00	0	0	0	0	SZ.de Twitterbot - Topthemen
+malt_mj	jawet	1528762568323616769	mentioned	2022-05-23 15:39:33+00:00	0	0	0	0	SZ.de Twitterbot - Topthemen
+CciliaKaczmare1	PLOSONE	1528762446936166404	mentioned	2022-05-23 15:39:05+00:00	1	0	1	0	SZ.de Twitterbot - Wissen
+CciliaKaczmare1	jawet	1528762446936166404	mentioned	2022-05-23 15:39:05+00:00	1	0	1	0	SZ.de Twitterbot - Wissen
+ecoevol_MNCN	PLOSONE	1528745783570612225	mentioned	2022-05-23 14:32:52+00:00	0	0	0	0	Hocalwire Social Share
+VR_Neuroscience	PLOSONE	1528745670110085120	mentioned	2022-05-23 14:32:25+00:00	0	0	2	0	Twitter Web App
+VR_Neuroscience	CUPhysMed	1528745670110085120	mentioned	2022-05-23 14:32:25+00:00	0	0	2	0	Twitter Web App
+VR_Neuroscience	nbahraini11	1528745670110085120	mentioned	2022-05-23 14:32:25+00:00	0	0	2	0	Twitter Web App
+VR_Neuroscience	LisaABrenner	1528745670110085120	mentioned	2022-05-23 14:32:25+00:00	0	0	2	0	Twitter Web App
+jabir_kuttiyil	PLOSONE	1528745069301350401	mentioned	2022-05-23 14:30:01+00:00	7	0	19	0	Science X Status Updates
+Pascaledeparis	malt_mj	1528730461396414467	replied_to	2022-05-23 13:31:59+00:00	0	1	4	0	Twitter for iPhone
+Pascaledeparis	PriscillaRupali	1528730461396414467	replied_to	2022-05-23 13:31:59+00:00	0	1	4	0	Twitter for iPhone
+Pascaledeparis	PLOSONE	1528730461396414467	replied_to	2022-05-23 13:31:59+00:00	0	1	4	0	Twitter for iPhone
+Pascaledeparis	PriscillaRupali	1528730461396414467	replied_to	2022-05-23 13:31:59+00:00	0	1	4	0	Twitter for iPhone
+Gerard_Lanusse	malt_mj	1528725573308018688	replied_to	2022-05-23 13:12:33+00:00	0	0	2	0	Twitter for Android
+Gerard_Lanusse	PriscillaRupali	1528725573308018688	replied_to	2022-05-23 13:12:33+00:00	0	0	2	0	Twitter for Android
+Gerard_Lanusse	PLOSONE	1528725573308018688	replied_to	2022-05-23 13:12:33+00:00	0	0	2	0	Twitter for Android
+philippejuvin	PLOSONE	1528693776935534593	replied_to	2022-05-23 11:06:12+00:00	0	0	0	0	Twitter Web App
+VicenziMarco	PLOSONE	1528693001421492224	mentioned	2022-05-23 11:03:07+00:00	3	1	9	0	Twitter Web App
+GermannaMedeir1	malt_mj	1528689074915028998	replied_to	2022-05-23 10:47:31+00:00	0	0	1	0	Twitter for Android
+GermannaMedeir1	PriscillaRupali	1528689074915028998	replied_to	2022-05-23 10:47:31+00:00	0	0	1	0	Twitter for Android
+GermannaMedeir1	PLOSONE	1528689074915028998	replied_to	2022-05-23 10:47:31+00:00	0	0	1	0	Twitter for Android
+Prof_Tabarak	PriscillaRupali	1528686887291891713	mentioned	2022-05-23 10:38:50+00:00	1	3	16	0	Twitter for Android
+Prof_Tabarak	PLOSONE	1528686887291891713	mentioned	2022-05-23 10:38:50+00:00	1	3	16	0	Twitter for Android
+omidhhassani	philippejuvin	1528599464298020869	replied_to	2022-05-23 04:51:26+00:00	0	0	0	0	Twitter Web App
+omidhhassani	PLOSONE	1528599464298020869	replied_to	2022-05-23 04:51:26+00:00	0	0	0	0	Twitter Web App
+trexbob	isaavedragarces	1528473972622376960	mentioned	2022-05-22 20:32:47+00:00	0	0	2	0	Twitter Web App
+trexbob	PLOSONE	1528473972622376960	mentioned	2022-05-22 20:32:47+00:00	0	0	2	0	Twitter Web App
+BornAgainHard	LAsslander	1528391160926203905	replied_to	2022-05-22 15:03:43+00:00	0	0	0	0	Twitter Web App
+BornAgainHard	UnrealEngine	1528391160926203905	replied_to	2022-05-22 15:03:43+00:00	0	0	0	0	Twitter Web App
+BornAgainHard	SteamVR	1528391160926203905	replied_to	2022-05-22 15:03:43+00:00	0	0	0	0	Twitter Web App
+BornAgainHard	PLOSONE	1528391160926203905	replied_to	2022-05-22 15:03:43+00:00	0	0	0	0	Twitter Web App
+BornAgainHard	unity	1528391160926203905	replied_to	2022-05-22 15:03:43+00:00	0	0	0	0	Twitter Web App
+BUMedicine	PLOSONE	1528294095541657600	mentioned	2022-05-22 08:38:01+00:00	5	0	3	0	Sprout Social
+ProfAlireza	InnBioresearch	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+ProfAlireza	PLOSONE	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+ProfAlireza	anndylian	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+ProfAlireza	BigONEexchange	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+ProfAlireza	binance	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+ProfAlireza	kucoincom	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+ProfAlireza	coinbase	1528277889426366464	replied_to	2022-05-22 07:33:37+00:00	0	0	0	0	Twitter for Android
+niagarahealth	philippejuvin	1527991902120837121	replied_to	2022-05-21 12:37:12+00:00	0	0	0	0	Twitter Web App
+niagarahealth	PLOSONE	1527991902120837121	replied_to	2022-05-21 12:37:12+00:00	0	0	0	0	Twitter Web App
+LindaCPhD	philippejuvin	1527989536520806401	replied_to	2022-05-21 12:27:48+00:00	0	0	1	0	Twitter for iPhone
+LindaCPhD	PLOSONE	1527989536520806401	replied_to	2022-05-21 12:27:48+00:00	0	0	1	0	Twitter for iPhone
+MicrobiomDigest	philippejuvin	1527987684475650050	replied_to	2022-05-21 12:20:27+00:00	0	0	0	0	Twitter for iPad
+MicrobiomDigest	PLOSONE	1527987684475650050	replied_to	2022-05-21 12:20:27+00:00	0	0	0	0	Twitter for iPad
+pukalepus	PLOSONE	1527986639724851201	mentioned	2022-05-21 12:16:18+00:00	11	4	12	2	Twitter for iPhone
+Experiential_AI	PLOSONE	1527978598010871810	replied_to	2022-05-21 11:44:20+00:00	0	0	1	0	Twitter for iPhone
+JustinLathia	PLOSONE	1527950086868713472	quoted	2022-05-21 09:51:03+00:00	0	0	2	0	Twitter for iPhone
+Salendra_Singh_	PLOSONE	1527941516089782272	mentioned	2022-05-21 09:16:59+00:00	0	0	2	0	Twitter Web App
+DesaiLabCWRU	DesaiLabCWRU	1527862143491645440	replied_to	2022-05-21 04:01:35+00:00	0	0	1	0	Twitter for iPhone
+DesaiLabCWRU	PLOSONE	1527862143491645440	replied_to	2022-05-21 04:01:35+00:00	0	0	1	0	Twitter for iPhone
+DesaiLabCWRU	wonjinho1	1527862143491645440	replied_to	2022-05-21 04:01:35+00:00	0	0	1	0	Twitter for iPhone
+DesaiLabCWRU	JulianneNPSmith	1527862143491645440	replied_to	2022-05-21 04:01:35+00:00	0	0	1	0	Twitter for iPhone
+Dr_ALayton	TAMUEngineering	1527654080918716418	mentioned	2022-05-20 14:14:49+00:00	1	0	4	0	Twitter Web App
+Dr_ALayton	WE_TAMU	1527654080918716418	mentioned	2022-05-20 14:14:49+00:00	1	0	4	0	Twitter Web App
+Dr_ALayton	YaleEnvironment	1527654080918716418	mentioned	2022-05-20 14:14:49+00:00	1	0	4	0	Twitter Web App
+Dr_ALayton	PLOSONE	1527654080918716418	mentioned	2022-05-20 14:14:49+00:00	1	0	4	0	Twitter Web App
+Dr_ALayton	HLuceFdn	1527654080918716418	mentioned	2022-05-20 14:14:49+00:00	1	0	4	0	Twitter Web App
+JaimePsiquiatra	PLOSONE	1527649261290070017	mentioned	2022-05-20 13:55:40+00:00	0	0	0	0	Twitter for iPhone
+JaimePsiquiatra	TheScientistLLC	1527649261290070017	mentioned	2022-05-20 13:55:40+00:00	0	0	0	0	Twitter for iPhone
+Imperial_IGHI	PLOSONE	1527635406921117697	mentioned	2022-05-20 13:00:37+00:00	2	0	4	0	Hootsuite Inc.
+Imperial_IGHI	nicapples	1527635406921117697	mentioned	2022-05-20 13:00:37+00:00	2	0	4	0	Hootsuite Inc.
+Imperial_IGHI	Jonny_M_Clarke	1527635406921117697	mentioned	2022-05-20 13:00:37+00:00	2	0	4	0	Hootsuite Inc.
+DTScholars	aliczner	1527618702966984705	mentioned	2022-05-20 11:54:15+00:00	2	0	7	0	Twitter Web App
+DTScholars	PLOSONE	1527618702966984705	mentioned	2022-05-20 11:54:15+00:00	2	0	7	0	Twitter Web App
+gloriahermawan	dokterparu	1527609518561329152	replied_to	2022-05-20 11:17:45+00:00	0	0	1	0	Twitter for iPhone
+gloriahermawan	PLOSONE	1527609518561329152	replied_to	2022-05-20 11:17:45+00:00	0	0	1	0	Twitter for iPhone
+janov20	dokterparu	1527605568898101249	replied_to	2022-05-20 11:02:03+00:00	0	0	1	0	Twitter for Android
+janov20	PLOSONE	1527605568898101249	replied_to	2022-05-20 11:02:03+00:00	0	0	1	0	Twitter for Android
+INOSproject	PLOSONE	1527605215297413120	mentioned	2022-05-20 11:00:39+00:00	0	0	2	1	Hootsuite Inc.
+dokterparu	PLOSONE	1527601677750390784	mentioned	2022-05-20 10:46:36+00:00	0	2	5	0	Twitter for Android
+HugoJario	yagopinheiropb	1527583406040748034	replied_to	2022-05-20 09:33:59+00:00	0	0	0	0	Twitter Web App
+HugoJario	PLOSONE	1527583406040748034	replied_to	2022-05-20 09:33:59+00:00	0	0	0	0	Twitter Web App
+isaavedragarces	PLOSONE	1527582607659175936	mentioned	2022-05-20 09:30:49+00:00	1	0	3	1	Twitter Web App
+IIASAVienna	PLOSONE	1527575749615558656	mentioned	2022-05-20 09:03:34+00:00	1	0	7	0	Twitter Web App
+SocEspEtoEcoEvo	PLOSONE	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+SocEspEtoEcoEvo	Geo_Wiki	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+SocEspEtoEcoEvo	CSAustria	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+SocEspEtoEcoEvo	EuCitSci	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+SocEspEtoEcoEvo	WeObserveEU	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+SocEspEtoEcoEvo	sdsn_TReNDS	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+SocEspEtoEcoEvo	mitforschen	1527571785453080576	replied_to	2022-05-20 08:47:49+00:00	0	0	0	0	TweetDeck
+LGthnk4yourself	PLOSONE	1527571650534948864	mentioned	2022-05-20 08:47:17+00:00	3	1	3	1	TweetDeck
+yagopinheiropb	PLOSONE	1527509500156157961	mentioned	2022-05-20 04:40:19+00:00	0	0	5	0	Twitter for iPhone
+yagopinheiropb	isaavedragarces	1527509500156157961	mentioned	2022-05-20 04:40:19+00:00	0	0	5	0	Twitter for iPhone
+EfinedRed	medical_xpress	1527475249083711498	replied_to	2022-05-20 02:24:13+00:00	0	0	0	0	Twitter for Android
+EfinedRed	PLOSONE	1527475249083711498	replied_to	2022-05-20 02:24:13+00:00	0	0	0	0	Twitter for Android
+EnTodasParteh	PLOSONE	1527455761940598794	mentioned	2022-05-20 01:06:47+00:00	0	0	0	0	Twitter for iPhone
+physorg_com	PLOSONE	1527454495365550081	mentioned	2022-05-20 01:01:45+00:00	1	1	1	0	Twitter for iPhone
+physorg_com	HugoJario	1527454495365550081	mentioned	2022-05-20 01:01:45+00:00	1	1	1	0	Twitter for iPhone
+richgarz	physorg_com	1527394002613334019	replied_to	2022-05-19 21:01:22+00:00	0	0	1	0	Twitter Web App
+richgarz	PLOSONE	1527394002613334019	replied_to	2022-05-19 21:01:22+00:00	0	0	1	0	Twitter Web App
+richgarz	WSLCB	1527394002613334019	replied_to	2022-05-19 21:01:22+00:00	0	0	1	0	Twitter Web App
+anbrowndc	physorg_com	1527392188551688205	replied_to	2022-05-19 20:54:09+00:00	0	0	0	0	Twitter for Android
+anbrowndc	PLOSONE	1527392188551688205	replied_to	2022-05-19 20:54:09+00:00	0	0	0	0	Twitter for Android
+nicapples	PLOSONE	1527386880580493313	mentioned	2022-05-19 20:33:04+00:00	6	2	26	1	Science X Status Updates
+medical_xpress	SapienzaRoma	1527383800283643904	mentioned	2022-05-19 20:20:50+00:00	0	0	0	0	Twitter Web App
+medical_xpress	PLOSONE	1527383800283643904	mentioned	2022-05-19 20:20:50+00:00	0	0	0	0	Twitter Web App
+TechXplore_com	dingding_peng	1527374465608232962	replied_to	2022-05-19 19:43:44+00:00	1	0	1	1	Twitter Web App
+TechXplore_com	bdkwood	1527374465608232962	replied_to	2022-05-19 19:43:44+00:00	1	0	1	1	Twitter Web App
+TechXplore_com	PLOSONE	1527374465608232962	replied_to	2022-05-19 19:43:44+00:00	1	0	1	1	Twitter Web App
+NEBiolabs	PLOSONE	1527366853223661568	quoted	2022-05-19 19:13:29+00:00	0	0	1	0	Twitter for iPhone
+MapesBrendan	PLOSONE	1527358673932238849	mentioned	2022-05-19 18:40:59+00:00	4	1	13	1	Science X Status Updates
+YaleClassicsLib	IIASAVienna	1527355514212220929	mentioned	2022-05-19 18:28:26+00:00	1	0	4	0	Science X Status Updates
+YaleClassicsLib	PLOSONE	1527355514212220929	mentioned	2022-05-19 18:28:26+00:00	1	0	4	0	Science X Status Updates
+Jul1an_King	NEBiolabs	1527325725887324164	mentioned	2022-05-19 16:30:04+00:00	1	0	5	0	Salesforce - Social Studio
+Jul1an_King	PLOSONE	1527325725887324164	mentioned	2022-05-19 16:30:04+00:00	1	0	5	0	Salesforce - Social Studio
+JacksonImmunoR	PLOSONE	1527323199242809345	mentioned	2022-05-19 16:20:01+00:00	1	0	2	0	Twitter for iPhone
+JacksonImmunoR	DrGIScience	1527323199242809345	mentioned	2022-05-19 16:20:01+00:00	1	0	2	0	Twitter for iPhone
+JacksonImmunoR	carloscaosmax	1527323199242809345	mentioned	2022-05-19 16:20:01+00:00	1	0	2	0	Twitter for iPhone
+Prof_Sasangohar	PLOSONE	1527317928269336577	mentioned	2022-05-19 15:59:04+00:00	1	0	0	0	Twitter Web App
+zvandiri	PLOSONE	1527309972068921345	mentioned	2022-05-19 15:27:28+00:00	0	0	0	0	Twitter for Android
+zvandiri	Everyeye	1527309972068921345	mentioned	2022-05-19 15:27:28+00:00	0	0	0	0	Twitter for Android
+OyatsuMaster	PLOSONE	1527304147040874496	mentioned	2022-05-19 15:04:19+00:00	0	0	0	0	HubSpot
+SudhaRamani6	PLOSONE	1527301891666812931	mentioned	2022-05-19 14:55:21+00:00	7	0	17	0	Science X Status Updates
+LAsslander	PLOSONE	1527288703537881089	mentioned	2022-05-19 14:02:57+00:00	0	0	4	1	Twitter Web App
+LAsslander	ACELAB_TAMU	1527288703537881089	mentioned	2022-05-19 14:02:57+00:00	0	0	4	1	Twitter Web App
+LAsslander	SadeghiMahnoosh	1527288703537881089	mentioned	2022-05-19 14:02:57+00:00	0	0	4	1	Twitter Web App
+LAsslander	hfml_lab	1527288703537881089	mentioned	2022-05-19 14:02:57+00:00	0	0	4	1	Twitter Web App
+JILLBAILLARGEO6	PLOSONE	1527276958840651776	quoted	2022-05-19 13:16:17+00:00	4	0	10	0	Twitter for Android
+JILLBAILLARGEO6	ViiVHC	1527276958840651776	quoted	2022-05-19 13:16:17+00:00	4	0	10	0	Twitter for Android
+EthiopianNomad	PLOSONE	1527275356792623104	replied_to	2022-05-19 13:09:55+00:00	1	0	3	0	Twitter Web App
+Jonny_M_Clarke	PLOSONE	1527275354275995648	replied_to	2022-05-19 13:09:54+00:00	1	1	5	0	Twitter Web App
+DrSexologue	PLOSONE	1527275345216385024	mentioned	2022-05-19 13:09:52+00:00	2	1	4	0	Twitter Web App
+FINDdx	SNEHAmumbai	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	PLOSONE	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	UHRC_India	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	jasoncorburn	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	PMenonIFPRI	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	a_siddharth_in	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	epigiri	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	david_vlahov	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	IS_UrbanHealth	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+FINDdx	GeorgeInstIN	1527262225345691648	quoted	2022-05-19 12:17:44+00:00	2	0	7	1	Twitter Web App
+joel_mossong	VR_Neuroscience	1527260139459313666	replied_to	2022-05-19 12:09:27+00:00	0	1	1	0	Twitter for Android
+joel_mossong	UnrealEngine	1527260139459313666	replied_to	2022-05-19 12:09:27+00:00	0	1	1	0	Twitter for Android
+joel_mossong	SteamVR	1527260139459313666	replied_to	2022-05-19 12:09:27+00:00	0	1	1	0	Twitter for Android
+joel_mossong	PLOSONE	1527260139459313666	replied_to	2022-05-19 12:09:27+00:00	0	1	1	0	Twitter for Android
+joel_mossong	unity	1527260139459313666	replied_to	2022-05-19 12:09:27+00:00	0	1	1	0	Twitter for Android
+BiratNepal	Higgs_World	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	Siegfried_Vla	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	PLOSONE	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	AlloulAbbas	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	JanneSpanoghe	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	ugent	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	UAntwerpen	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+BiratNepal	peter_vermeir	1527257930596237314	replied_to	2022-05-19 12:00:40+00:00	0	0	0	0	Twitter Web App
+RackMada	PLOSONE	1527235409134161927	mentioned	2022-05-19 10:31:10+00:00	2	0	8	0	Twitter for iPhone
+RackMada	JJohnsPhD	1527235409134161927	mentioned	2022-05-19 10:31:10+00:00	2	0	8	0	Twitter for iPhone
+RackMada	AngelaTaft19	1527235409134161927	mentioned	2022-05-19 10:31:10+00:00	2	0	8	0	Twitter for iPhone
+RackMada	MSUPubHealth	1527235409134161927	mentioned	2022-05-19 10:31:10+00:00	2	0	8	0	Twitter for iPhone
+sppgatech	PLOSONE	1527221104909205506	mentioned	2022-05-19 09:34:20+00:00	3	1	6	1	Twitter Web App
+sppgatech	Imperial_IGHI	1527221104909205506	mentioned	2022-05-19 09:34:20+00:00	3	1	6	1	Twitter Web App
+sppgatech	CMPHImperial	1527221104909205506	mentioned	2022-05-19 09:34:20+00:00	3	1	6	1	Twitter Web App
+sppgatech	radboudumc	1527221104909205506	mentioned	2022-05-19 09:34:20+00:00	3	1	6	1	Twitter Web App
+sppgatech	nicapples	1527221104909205506	mentioned	2022-05-19 09:34:20+00:00	3	1	6	1	Twitter Web App
+NeilOConnell	ruhrunibochum	1527202083023179776	mentioned	2022-05-19 08:18:45+00:00	0	0	1	0	WordPress.com
+NeilOConnell	PLOSONE	1527202083023179776	mentioned	2022-05-19 08:18:45+00:00	0	0	1	0	WordPress.com
+NeilOConnell	destinationsant	1527202083023179776	mentioned	2022-05-19 08:18:45+00:00	0	0	1	0	WordPress.com
+_AConscience_	Emma_Hannay	1527188709929541632	mentioned	2022-05-19 07:25:36+00:00	5	0	3	0	Twitter Web App
+_AConscience_	drsergiocarmona	1527188709929541632	mentioned	2022-05-19 07:25:36+00:00	5	0	3	0	Twitter Web App
+_AConscience_	brookenichols	1527188709929541632	mentioned	2022-05-19 07:25:36+00:00	5	0	3	0	Twitter Web App
+_AConscience_	PLOSONE	1527188709929541632	mentioned	2022-05-19 07:25:36+00:00	5	0	3	0	Twitter Web App
+seenafazel	Boghuma	1527144461066715138	replied_to	2022-05-19 04:29:47+00:00	0	0	6	0	Twitter for Android
+seenafazel	sawabrice	1527144461066715138	replied_to	2022-05-19 04:29:47+00:00	0	0	6	0	Twitter for Android
+seenafazel	PeerJLife	1527144461066715138	replied_to	2022-05-19 04:29:47+00:00	0	0	6	0	Twitter for Android
+seenafazel	PLOSONE	1527144461066715138	replied_to	2022-05-19 04:29:47+00:00	0	0	6	0	Twitter for Android
+londorondo	PLOSONE	1527140159019700224	mentioned	2022-05-19 04:12:41+00:00	4	0	16	2	Twitter Web App
+londorondo	FCDOHealthRes	1527140159019700224	mentioned	2022-05-19 04:12:41+00:00	4	0	16	2	Twitter Web App
+londorondo	LSTMnews	1527140159019700224	mentioned	2022-05-19 04:12:41+00:00	4	0	16	2	Twitter Web App
+londorondo	PaulGarnerWoof	1527140159019700224	mentioned	2022-05-19 04:12:41+00:00	4	0	16	2	Twitter Web App
+assaf_lev	YGalily	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	assaf_lev	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	PLOSONE	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	AmirGrinstein	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	nir_eynon	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	AlexKrumer	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	ilan125	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	odaskal	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+assaf_lev	OsimNBA	1527013682496118785	replied_to	2022-05-18 19:50:07+00:00	0	0	1	0	Twitter for iPhone
+jens2go	csugimoto	1527011665463885824	mentioned	2022-05-18 19:42:06+00:00	0	0	12	0	Twitter Web App
+jens2go	PLOSONE	1527011665463885824	mentioned	2022-05-18 19:42:06+00:00	0	0	12	0	Twitter Web App
+sekaisaac	PLOSONE	1527011197870125060	quoted	2022-05-18 19:40:14+00:00	5	1	10	1	Twitter for iPhone
+sekaisaac	Sian_MacRae	1527011197870125060	quoted	2022-05-18 19:40:14+00:00	5	1	10	1	Twitter for iPhone
+moranyarchi	medical_xpress	1527010901068599296	replied_to	2022-05-18 19:39:03+00:00	0	0	0	0	Twitter for iPhone
+moranyarchi	physorg_com	1527010901068599296	replied_to	2022-05-18 19:39:03+00:00	0	0	0	0	Twitter for iPhone
+moranyarchi	PLOS	1527010901068599296	replied_to	2022-05-18 19:39:03+00:00	0	0	0	0	Twitter for iPhone
+moranyarchi	PLOSONE	1527010901068599296	replied_to	2022-05-18 19:39:03+00:00	0	0	0	0	Twitter for iPhone
+DrFuSiongNg	PLOSONE	1527010349454659586	quoted	2022-05-18 19:36:52+00:00	0	1	5	1	Twitter for iPhone
+MagnifyLondon	medical_xpress	1527008930748055552	replied_to	2022-05-18 19:31:14+00:00	0	0	0	0	Twitter for iPhone
+MagnifyLondon	PLOS	1527008930748055552	replied_to	2022-05-18 19:31:14+00:00	0	0	0	0	Twitter for iPhone
+MagnifyLondon	PLOSONE	1527008930748055552	replied_to	2022-05-18 19:31:14+00:00	0	0	0	0	Twitter for iPhone
+Sian_MacRae	PLOSONE	1527007655549624326	mentioned	2022-05-18 19:26:10+00:00	0	0	2	0	Twitter for iPhone
+Sian_MacRae	NBA	1527007655549624326	mentioned	2022-05-18 19:26:10+00:00	0	0	2	0	Twitter for iPhone
+Sian_MacRae	NBATV	1527007655549624326	mentioned	2022-05-18 19:26:10+00:00	0	0	2	0	Twitter for iPhone
+YGalily	PLOS	1527005912589901826	mentioned	2022-05-18 19:19:14+00:00	14	0	25	0	Science X Status Updates
+YGalily	PLOSONE	1527005912589901826	mentioned	2022-05-18 19:19:14+00:00	14	0	25	0	Science X Status Updates
+ele_eme_ele	PLOS	1527005821460176897	mentioned	2022-05-18 19:18:52+00:00	13	2	40	3	Science X Status Updates
+ele_eme_ele	PLOSONE	1527005821460176897	mentioned	2022-05-18 19:18:52+00:00	13	2	40	3	Science X Status Updates
+PratiqueAvancee	PLOS	1527005565830025226	mentioned	2022-05-18 19:17:51+00:00	6	0	6	0	Science X Status Updates
+PratiqueAvancee	PLOSONE	1527005565830025226	mentioned	2022-05-18 19:17:51+00:00	6	0	6	0	Science X Status Updates
+Tom_S_Collier	steppebioarch	1527002620010844163	replied_to	2022-05-18 19:06:09+00:00	1	0	1	0	Twitter for iPhone
+Tom_S_Collier	PLOSONE	1527002620010844163	replied_to	2022-05-18 19:06:09+00:00	1	0	1	0	Twitter for iPhone
+Eibhlin_W	InnBioresearch	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	PLOSONE	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	anndylian	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	BigONEexchange	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	binance	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	kucoincom	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	coinbase	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+Eibhlin_W	PLOSONE	1526996903518425088	replied_to	2022-05-18 18:43:26+00:00	0	0	1	0	Twitter for Android
+hche_uhh	YGalily	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	assaf_lev	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	PLOSONE	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	AmirGrinstein	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	nir_eynon	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	RackMada	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	AlexKrumer	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	ilan125	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	odaskal	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+hche_uhh	OsimNBA	1526989939379884037	replied_to	2022-05-18 18:15:46+00:00	0	0	2	0	Twitter for Android
+AVPapachristos	Sian_MacRae	1526989229196288002	replied_to	2022-05-18 18:12:56+00:00	0	0	1	0	Twitter for iPhone
+AVPapachristos	NeilOConnell	1526989229196288002	replied_to	2022-05-18 18:12:56+00:00	0	0	1	0	Twitter for iPhone
+AVPapachristos	timsinnett9	1526989229196288002	replied_to	2022-05-18 18:12:56+00:00	0	0	1	0	Twitter for iPhone
+AVPapachristos	arochefortius	1526989229196288002	replied_to	2022-05-18 18:12:56+00:00	0	0	1	0	Twitter for iPhone
+AVPapachristos	PLOSONE	1526989229196288002	replied_to	2022-05-18 18:12:56+00:00	0	0	1	0	Twitter for iPhone
+AVPapachristos	Sian_MacRae	1526989229196288002	replied_to	2022-05-18 18:12:56+00:00	0	0	1	0	Twitter for iPhone
+Amanda_O_Dwyer	Sian_MacRae	1526989150716559361	replied_to	2022-05-18 18:12:38+00:00	0	0	0	0	Twitter for iPhone
+Amanda_O_Dwyer	NeilOConnell	1526989150716559361	replied_to	2022-05-18 18:12:38+00:00	0	0	0	0	Twitter for iPhone
+Amanda_O_Dwyer	timsinnett9	1526989150716559361	replied_to	2022-05-18 18:12:38+00:00	0	0	0	0	Twitter for iPhone
+Amanda_O_Dwyer	arochefortius	1526989150716559361	replied_to	2022-05-18 18:12:38+00:00	0	0	0	0	Twitter for iPhone
+Amanda_O_Dwyer	PLOSONE	1526989150716559361	replied_to	2022-05-18 18:12:38+00:00	0	0	0	0	Twitter for iPhone
+AntoniouRaf	Sian_MacRae	1526988411067834369	mentioned	2022-05-18 18:09:41+00:00	10	3	23	1	Twitter for iPhone
+AntoniouRaf	NeilOConnell	1526988411067834369	mentioned	2022-05-18 18:09:41+00:00	10	3	23	1	Twitter for iPhone
+AntoniouRaf	timsinnett9	1526988411067834369	mentioned	2022-05-18 18:09:41+00:00	10	3	23	1	Twitter for iPhone
+AntoniouRaf	arochefortius	1526988411067834369	mentioned	2022-05-18 18:09:41+00:00	10	3	23	1	Twitter for iPhone
+AntoniouRaf	PLOSONE	1526988411067834369	mentioned	2022-05-18 18:09:41+00:00	10	3	23	1	Twitter for iPhone
+ZakAllalMD	assaf_lev	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	PLOSONE	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	AmirGrinstein	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	nir_eynon	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	RackMada	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	AlexKrumer	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	ilan125	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	odaskal	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+ZakAllalMD	OsimNBA	1526987925078085633	mentioned	2022-05-18 18:07:46+00:00	0	3	14	1	Twitter for Mac
+OmicsNL	Exp_Andante	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	ChuckySalada	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	Gil_Cx	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	Mclovin26039212	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	navorskii	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	AceNewsMX	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	paolacarola	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+OmicsNL	PLOSONE	1526984797029117955	replied_to	2022-05-18 17:55:20+00:00	0	0	0	0	Twitter for iPhone
+GeminivirusLit	PLOSONE	1526978688503406593	mentioned	2022-05-18 17:31:03+00:00	1	0	2	0	TweetDeck
+NakazawaLab	PLOSONE	1526966836687937539	mentioned	2022-05-18 16:43:58+00:00	1	0	3	0	Twitter for iPhone
+NakazawaLab	dt_hughes	1526966836687937539	mentioned	2022-05-18 16:43:58+00:00	1	0	3	0	Twitter for iPhone
+NakazawaLab	RachelChesterPT	1526966836687937539	mentioned	2022-05-18 16:43:58+00:00	1	0	3	0	Twitter for iPhone
+NakazawaLab	Pure_Physio	1526966836687937539	mentioned	2022-05-18 16:43:58+00:00	1	0	3	0	Twitter for iPhone
+plazi_species	Amanda_O_Dwyer	1526952637215690752	replied_to	2022-05-18 15:47:32+00:00	0	0	2	0	Twitter for Android
+plazi_species	PLOSONE	1526952637215690752	replied_to	2022-05-18 15:47:32+00:00	0	0	2	0	Twitter for Android
+canazo6	JSchreyoegg	1526928325855350784	mentioned	2022-05-18 14:10:56+00:00	1	0	1	0	Twitter Web App
+canazo6	TomStargardt	1526928325855350784	mentioned	2022-05-18 14:10:56+00:00	1	0	1	0	Twitter Web App
+canazo6	PLOSONE	1526928325855350784	mentioned	2022-05-18 14:10:56+00:00	1	0	1	0	Twitter Web App
+physorg_health	PLOSONE	1526917965945479168	quoted	2022-05-18 13:29:46+00:00	3	1	11	0	Twitter for Mac
+physorg_health	ChipMitchell1	1526917965945479168	quoted	2022-05-18 13:29:46+00:00	3	1	11	0	Twitter for Mac
+PROMoTeR_DPM	PLOSONE	1526907348438384640	replied_to	2022-05-18 12:47:35+00:00	1	0	2	0	Twitter Web App
+Brian_M_Wong	PLOSONE	1526907344793509888	replied_to	2022-05-18 12:47:34+00:00	1	1	3	0	Twitter Web App
+DrAaronB	PLOSONE	1526907333166903296	mentioned	2022-05-18 12:47:31+00:00	3	1	6	0	Twitter Web App
+AggregoOncology	PLOSONE	1526877430312538113	mentioned	2022-05-18 10:48:42+00:00	0	1	6	0	Twitter for Android
+asscatinforma	MSchottdorf	1526866973434445826	replied_to	2022-05-18 10:07:08+00:00	0	0	1	0	Twitter Web App
+asscatinforma	PLOSONE	1526866973434445826	replied_to	2022-05-18 10:07:08+00:00	0	0	1	0	Twitter Web App
+asscatinforma	Chagas_AM	1526866973434445826	replied_to	2022-05-18 10:07:08+00:00	0	0	1	0	Twitter Web App
+asscatinforma	stirling_julian	1526866973434445826	replied_to	2022-05-18 10:07:08+00:00	0	0	1	0	Twitter Web App
+asscatinforma	MJY_Zimmermann	1526866973434445826	replied_to	2022-05-18 10:07:08+00:00	0	0	1	0	Twitter Web App
+LeahBuehrmann	Dr_Almohammed	1526850105415856128	mentioned	2022-05-18 09:00:07+00:00	1	0	0	0	Hootsuite Inc.
+LeahBuehrmann	_KSU	1526850105415856128	mentioned	2022-05-18 09:00:07+00:00	1	0	0	0	Hootsuite Inc.
+LeahBuehrmann	pharmacyksu	1526850105415856128	mentioned	2022-05-18 09:00:07+00:00	1	0	0	0	Hootsuite Inc.
+LeahBuehrmann	PLOSONE	1526850105415856128	mentioned	2022-05-18 09:00:07+00:00	1	0	0	0	Hootsuite Inc.
+PulmAdvisor	PLOSONE	1526849864100761600	mentioned	2022-05-18 08:59:09+00:00	1	0	2	0	Twitter Web App
+misquarcio	PLOSONE	1526831040878129153	mentioned	2022-05-18 07:44:21+00:00	3	0	6	0	Twitter for iPhone
+HOMERuN_Network	PLOSONE	1526828421250449408	mentioned	2022-05-18 07:33:57+00:00	0	0	12	1	Twitter Web App
+rskudesia	PLOSONE	1526804231310688256	mentioned	2022-05-18 05:57:50+00:00	5	0	12	2	Twitter Web App
+rskudesia	SandyKnapp	1526804231310688256	mentioned	2022-05-18 05:57:50+00:00	5	0	12	2	Twitter Web App
+rskudesia	bgci	1526804231310688256	mentioned	2022-05-18 05:57:50+00:00	5	0	12	2	Twitter Web App
+rskudesia	plantsciences	1526804231310688256	mentioned	2022-05-18 05:57:50+00:00	5	0	12	2	Twitter Web App
+rskudesia	KewAmericas	1526804231310688256	mentioned	2022-05-18 05:57:50+00:00	5	0	12	2	Twitter Web App
+rskudesia	iaptglobal	1526804231310688256	mentioned	2022-05-18 05:57:50+00:00	5	0	12	2	Twitter Web App
+SharifMoradi1	NEBiolabs	1526634931249717248	mentioned	2022-05-17 18:45:05+00:00	4	0	6	0	Salesforce - Social Studio
+SharifMoradi1	PLOSONE	1526634931249717248	mentioned	2022-05-17 18:45:05+00:00	4	0	6	0	Salesforce - Social Studio
+Higgs_World	NaimBroKhomasi	1526623979993186306	replied_to	2022-05-17 18:01:34+00:00	0	0	1	0	Twitter for iPhone
+Higgs_World	PLOSONE	1526623979993186306	replied_to	2022-05-17 18:01:34+00:00	0	0	1	0	Twitter for iPhone
+Higgs_World	mmendozarocha	1526623979993186306	replied_to	2022-05-17 18:01:34+00:00	0	0	1	0	Twitter for iPhone
+HansatechInst	PLOSONE	1526623597464272898	mentioned	2022-05-17 18:00:03+00:00	0	0	0	0	Science X Status Updates
+pubpolcenter	PROMoTeR_DPM	1526614785093255171	mentioned	2022-05-17 17:25:02+00:00	1	0	2	0	Buffer
+pubpolcenter	Asthma3Ways	1526614785093255171	mentioned	2022-05-17 17:25:02+00:00	1	0	2	0	Buffer
+pubpolcenter	PLOSONE	1526614785093255171	mentioned	2022-05-17 17:25:02+00:00	1	0	2	0	Buffer
+HRPresearch	CQuIPS	1526601985717305344	replied_to	2022-05-17 16:34:10+00:00	0	0	0	0	Twitter Web App
+HRPresearch	PLOSONE	1526601985717305344	replied_to	2022-05-17 16:34:10+00:00	0	0	0	0	Twitter Web App
+AlloulAbbas	PLOSONE	1526586662322593795	mentioned	2022-05-17 15:33:17+00:00	1	0	2	2	Twitter for iPhone
+Dr_Ismail101	PLOSONE	1526580198526930944	mentioned	2022-05-17 15:07:36+00:00	0	0	2	0	Twitter Web App
+Higgs_World	Siegfried_Vla	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	PLOSONE	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	AlloulAbbas	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	JanneSpanoghe	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	ugent	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	UAntwerpen	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	peter_vermeir	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	JanneSpanoghe	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	Siegfried_Vla	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+Higgs_World	AlloulAbbas	1526033187167539202	replied_to	2022-05-16 02:53:58+00:00	2	1	3	1	Twitter Web App
+OyatsuMaster	PLOSONE	1525962187147296768	replied_to	2022-05-15 22:11:51+00:00	1	0	2	0	Twitter Web App
+CCCPodcastVOC	PLOSONE	1525962183901052928	replied_to	2022-05-15 22:11:50+00:00	2	1	4	0	Twitter Web App
+LawrenceGostin	PLOSONE	1525962177525747713	mentioned	2022-05-15 22:11:48+00:00	2	1	4	0	Twitter Web App
+WalkandTalkCIC	maw_tweets	1525937777501782018	mentioned	2022-05-15 20:34:51+00:00	3	0	4	0	Twitter Web App
+WalkandTalkCIC	researchsquare	1525937777501782018	mentioned	2022-05-15 20:34:51+00:00	3	0	4	0	Twitter Web App
+WalkandTalkCIC	PLOSONE	1525937777501782018	mentioned	2022-05-15 20:34:51+00:00	3	0	4	0	Twitter Web App
+j_aunger	Georgetown	1525896321542017026	mentioned	2022-05-15 17:50:07+00:00	7	0	8	0	Twitter Web App
+j_aunger	PLOSONE	1525896321542017026	mentioned	2022-05-15 17:50:07+00:00	7	0	8	0	Twitter Web App
+HansSars2	Macquarie_Uni	1525768530972524546	mentioned	2022-05-15 09:22:19+00:00	0	0	1	0	Twitter Web App
+HansSars2	PLOSONE	1525768530972524546	mentioned	2022-05-15 09:22:19+00:00	0	0	1	0	Twitter Web App
+CedarsSinaiMed	DrRossMillar	1525760869883322368	replied_to	2022-05-15 08:51:53+00:00	0	0	0	0	Talon Android
+CedarsSinaiMed	PLOSONE	1525760869883322368	replied_to	2022-05-15 08:51:53+00:00	0	0	0	0	Talon Android
+CedarsSinaiMed	_HSMCentre	1525760869883322368	replied_to	2022-05-15 08:51:53+00:00	0	0	0	0	Talon Android
+tweetchamp	medical_xpress	1525754395278905345	replied_to	2022-05-15 08:26:09+00:00	0	0	0	0	Twitter for Android
+tweetchamp	PLOSONE	1525754395278905345	replied_to	2022-05-15 08:26:09+00:00	0	0	0	0	Twitter for Android
+PLOS	PLOSONE	1525566625864421377	mentioned	2022-05-14 20:00:01+00:00	1	0	4	0	Sprinklr Publishing
+jovwoke	PLOSONE	1525530469156245504	mentioned	2022-05-14 17:36:21+00:00	0	0	0	0	Twitter for iPad
+dr_becker	grhsandercock	1525483322247364608	mentioned	2022-05-14 14:29:00+00:00	0	0	2	0	Sprout Social
+dr_becker	Uni_of_Essex	1525483322247364608	mentioned	2022-05-14 14:29:00+00:00	0	0	2	0	Sprout Social
+dr_becker	PLOSONE	1525483322247364608	mentioned	2022-05-14 14:29:00+00:00	0	0	2	0	Sprout Social
+dr_becker	SkyNews	1525483322247364608	mentioned	2022-05-14 14:29:00+00:00	0	0	2	0	Sprout Social
+chrisms150	MicrobiomDigest	1525435644629098496	replied_to	2022-05-14 11:19:33+00:00	0	0	4	0	Twitter for Android
+chrisms150	PLOSONE	1525435644629098496	replied_to	2022-05-14 11:19:33+00:00	0	0	4	0	Twitter for Android
+bedcatalysis	MicrobiomDigest	1525431199895805952	replied_to	2022-05-14 11:01:53+00:00	0	0	2	0	Twitter Web App
+bedcatalysis	PLOSONE	1525431199895805952	replied_to	2022-05-14 11:01:53+00:00	0	0	2	0	Twitter Web App
+ktibus	MicrobiomDigest	1525426275388727297	replied_to	2022-05-14 10:42:19+00:00	0	0	7	0	Twitter for Android
+ktibus	PLOSONE	1525426275388727297	replied_to	2022-05-14 10:42:19+00:00	0	0	7	0	Twitter for Android
+MicrobiomDigest	MicrobiomDigest	1525393659893583872	replied_to	2022-05-14 08:32:43+00:00	0	0	2	0	Twitter for iPad
+MicrobiomDigest	PLOSONE	1525393659893583872	replied_to	2022-05-14 08:32:43+00:00	0	0	2	0	Twitter for iPad
+HameedatOmoyele	MicrobiomDigest	1525392712761249792	replied_to	2022-05-14 08:28:57+00:00	0	0	6	0	Twitter for Android
+HameedatOmoyele	PLOSONE	1525392712761249792	replied_to	2022-05-14 08:28:57+00:00	0	0	6	0	Twitter for Android
+GinaSpitz	PLOSONE	1525392333453373441	replied_to	2022-05-14 08:27:27+00:00	2	1	26	0	Twitter Web App
+SaulCardenasZur	PLOSONE	1525391717653946368	mentioned	2022-05-14 08:25:00+00:00	8	5	56	0	Twitter Web App
+LizHighleyman	hammed0101	1525372974190284800	replied_to	2022-05-14 07:10:31+00:00	0	0	1	0	Twitter for Android
+LizHighleyman	PLOSONE	1525372974190284800	replied_to	2022-05-14 07:10:31+00:00	0	0	1	0	Twitter for Android
+somosvivelibre	AVPapachristos	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+somosvivelibre	PLOSONE	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+somosvivelibre	jeeves	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+somosvivelibre	invinst	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+somosvivelibre	N3Initiative	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+somosvivelibre	IPRatNU	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+somosvivelibre	NUsociology	1525316469818544129	replied_to	2022-05-14 03:26:00+00:00	0	0	1	0	Twitter for iPhone
+Shoba_Bio	felocarril	1525292379116163072	replied_to	2022-05-14 01:50:16+00:00	0	0	0	0	Twitter for Android
+Shoba_Bio	PLOSONE	1525292379116163072	replied_to	2022-05-14 01:50:16+00:00	0	0	0	0	Twitter for Android
+Shoba_Bio	gemvep_usach	1525292379116163072	replied_to	2022-05-14 01:50:16+00:00	0	0	0	0	Twitter for Android
+Shoba_Bio	facimed_usach	1525292379116163072	replied_to	2022-05-14 01:50:16+00:00	0	0	0	0	Twitter for Android
+PetDxInc	UTHealthHouston	1525209488575193088	replied_to	2022-05-13 20:20:53+00:00	0	0	1	0	Twitter Web App
+PetDxInc	PLOSONE	1525209488575193088	replied_to	2022-05-13 20:20:53+00:00	0	0	1	0	Twitter Web App
+pharmacists	PLOSONE	1525204552802246657	mentioned	2022-05-13 20:01:16+00:00	0	0	1	0	Metricool
+pharmacists	Consalud_es	1525204552802246657	mentioned	2022-05-13 20:01:16+00:00	0	0	1	0	Metricool
+deboevep	AcademicChatter	1525192532652597249	quoted	2022-05-13 19:13:31+00:00	4	1	6	0	Twitter Web App
+deboevep	Grad_Careers	1525192532652597249	quoted	2022-05-13 19:13:31+00:00	4	1	6	0	Twitter Web App
+deboevep	PLOSONE	1525192532652597249	quoted	2022-05-13 19:13:31+00:00	4	1	6	0	Twitter Web App
+MedThinkSciCom	PLOSONE	1525174776280539137	mentioned	2022-05-13 18:02:57+00:00	0	0	0	0	Loomly
+k_bravo1	PLOSONE	1525167750389321735	mentioned	2022-05-13 17:35:02+00:00	2	0	4	0	Sprout Social
+felocarril	PLOSONE	1525159301773500418	mentioned	2022-05-13 17:01:28+00:00	2	0	2	0	Hootsuite Inc.
+GaddeGaddesrao	GroupENA	1525134961816260615	mentioned	2022-05-13 15:24:45+00:00	6	0	6	0	Twitter Web App
+GaddeGaddesrao	GPonirakis	1525134961816260615	mentioned	2022-05-13 15:24:45+00:00	6	0	6	0	Twitter Web App
+GaddeGaddesrao	Yiannaras	1525134961816260615	mentioned	2022-05-13 15:24:45+00:00	6	0	6	0	Twitter Web App
+GaddeGaddesrao	PLOSONE	1525134961816260615	mentioned	2022-05-13 15:24:45+00:00	6	0	6	0	Twitter Web App
+UoNPressOffice	PLOSONE	1525133775373586432	mentioned	2022-05-13 15:20:02+00:00	0	0	0	0	Sprout Social
+MOISESVASQUEZC	felocarril	1525123450628493312	replied_to	2022-05-13 14:39:00+00:00	0	0	0	0	Twitter for Android
+MOISESVASQUEZC	raul_morales	1525123450628493312	replied_to	2022-05-13 14:39:00+00:00	0	0	0	0	Twitter for Android
+MOISESVASQUEZC	PLOSONE	1525123450628493312	replied_to	2022-05-13 14:39:00+00:00	0	0	0	0	Twitter for Android
+MOISESVASQUEZC	gemvep_usach	1525123450628493312	replied_to	2022-05-13 14:39:00+00:00	0	0	0	0	Twitter for Android
+MOISESVASQUEZC	facimed_usach	1525123450628493312	replied_to	2022-05-13 14:39:00+00:00	0	0	0	0	Twitter for Android
+sshiftb	k_bravo1	1525123273536700417	replied_to	2022-05-13 14:38:18+00:00	0	0	1	0	Twitter Web App
+sshiftb	raul_morales	1525123273536700417	replied_to	2022-05-13 14:38:18+00:00	0	0	1	0	Twitter Web App
+sshiftb	PLOSONE	1525123273536700417	replied_to	2022-05-13 14:38:18+00:00	0	0	1	0	Twitter Web App
+sshiftb	gemvep_usach	1525123273536700417	replied_to	2022-05-13 14:38:18+00:00	0	0	1	0	Twitter Web App
+sshiftb	facimed_usach	1525123273536700417	replied_to	2022-05-13 14:38:18+00:00	0	0	1	0	Twitter Web App
+frankc_sierra	PLOSONE	1525122971475615752	replied_to	2022-05-13 14:37:06+00:00	3	1	5	0	Twitter Web App
+frankc_sierra	gemvep_usach	1525122971475615752	replied_to	2022-05-13 14:37:06+00:00	3	1	5	0	Twitter Web App
+frankc_sierra	facimed_usach	1525122971475615752	replied_to	2022-05-13 14:37:06+00:00	3	1	5	0	Twitter Web App
+Dr_OluwoleAS	PLOSONE	1525122664129511431	replied_to	2022-05-13 14:35:53+00:00	3	1	5	0	Twitter Web App
+Dr_OluwoleAS	gemvep_usach	1525122664129511431	replied_to	2022-05-13 14:35:53+00:00	3	1	5	0	Twitter Web App
+Dr_OluwoleAS	facimed_usach	1525122664129511431	replied_to	2022-05-13 14:35:53+00:00	3	1	5	0	Twitter Web App
+the_robbieking	PLOSONE	1525122067213045766	replied_to	2022-05-13 14:33:30+00:00	2	1	6	0	Twitter Web App
+the_robbieking	gemvep_usach	1525122067213045766	replied_to	2022-05-13 14:33:30+00:00	2	1	6	0	Twitter Web App
+the_robbieking	facimed_usach	1525122067213045766	replied_to	2022-05-13 14:33:30+00:00	2	1	6	0	Twitter Web App
+KarlaHolmboe	felocarril	1525120920402071553	replied_to	2022-05-13 14:28:57+00:00	0	2	1	0	Twitter for Android
+KarlaHolmboe	raul_morales	1525120920402071553	replied_to	2022-05-13 14:28:57+00:00	0	2	1	0	Twitter for Android
+KarlaHolmboe	PLOSONE	1525120920402071553	replied_to	2022-05-13 14:28:57+00:00	0	2	1	0	Twitter for Android
+KarlaHolmboe	gemvep_usach	1525120920402071553	replied_to	2022-05-13 14:28:57+00:00	0	2	1	0	Twitter for Android
+KarlaHolmboe	facimed_usach	1525120920402071553	replied_to	2022-05-13 14:28:57+00:00	0	2	1	0	Twitter for Android
+TimoTolppa	PLOSONE	1525120808112226305	replied_to	2022-05-13 14:28:30+00:00	10	4	11	0	Twitter Web App
+TimoTolppa	gemvep_usach	1525120808112226305	replied_to	2022-05-13 14:28:30+00:00	10	4	11	0	Twitter Web App
+TimoTolppa	facimed_usach	1525120808112226305	replied_to	2022-05-13 14:28:30+00:00	10	4	11	0	Twitter Web App
+OmarKDeeb	PLOSONE	1525120043624841216	mentioned	2022-05-13 14:25:28+00:00	2	0	3	0	Twitter Web App
+ZaharinAris	PLOSONE	1525117983370133509	mentioned	2022-05-13 14:17:17+00:00	10	2	16	0	Twitter Web App
+ZaharinAris	gemvep_usach	1525117983370133509	mentioned	2022-05-13 14:17:17+00:00	10	2	16	0	Twitter Web App
+ZaharinAris	facimed_usach	1525117983370133509	mentioned	2022-05-13 14:17:17+00:00	10	2	16	0	Twitter Web App
+Iff85678573	MedicineUoN	1525100274712559618	mentioned	2022-05-13 13:06:55+00:00	3	0	1	0	Hootsuite Inc.
+Iff85678573	PLOSONE	1525100274712559618	mentioned	2022-05-13 13:06:55+00:00	3	0	1	0	Hootsuite Inc.
+Iff85678573	medical_xpress	1525100274712559618	mentioned	2022-05-13 13:06:55+00:00	3	0	1	0	Hootsuite Inc.
+Mohit_FCC	JenniferTsang12	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+Mohit_FCC	PLOSONE	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+Mohit_FCC	niagarahealth	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+Mohit_FCC	CCCTG_	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+Mohit_FCC	CIHR_ICRH	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+Mohit_FCC	CCIRNet	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+Mohit_FCC	MacMedNRC	1525100199152066565	replied_to	2022-05-13 13:06:37+00:00	0	0	0	0	Twitter for iPhone
+MohamedBoufarss	angiesalomon	1525097633114902529	mentioned	2022-05-13 12:56:25+00:00	1	0	5	1	Twitter for iPhone
+MohamedBoufarss	WHO	1525097633114902529	mentioned	2022-05-13 12:56:25+00:00	1	0	5	1	Twitter for iPhone
+MohamedBoufarss	DaftaryAmrita	1525097633114902529	mentioned	2022-05-13 12:56:25+00:00	1	0	5	1	Twitter for iPhone
+MohamedBoufarss	PLOSONE	1525097633114902529	mentioned	2022-05-13 12:56:25+00:00	1	0	5	1	Twitter for iPhone
+KimLewisMD	LaurenFink_PhD	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+KimLewisMD	a_tavano	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+KimLewisMD	davidpoeppel	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+KimLewisMD	MPI_ae	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+KimLewisMD	TimingForum	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+KimLewisMD	PLOSONE	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+KimLewisMD	PLOS	1525090189638500355	replied_to	2022-05-13 12:26:50+00:00	0	0	1	0	Twitter for iPhone
+JacintaAdelaide	hammed0101	1525053468909748226	replied_to	2022-05-13 10:00:55+00:00	0	0	1	0	Twitter for Android
+JacintaAdelaide	PLOSONE	1525053468909748226	replied_to	2022-05-13 10:00:55+00:00	0	0	1	0	Twitter for Android
+JenniferTsang12	hammed0101	1525053061185560577	replied_to	2022-05-13 09:59:18+00:00	0	0	1	0	Twitter Web App
+JenniferTsang12	PLOSONE	1525053061185560577	replied_to	2022-05-13 09:59:18+00:00	0	0	1	0	Twitter Web App
+CamilaGonzRosas	sjblakemore	1525052822911389696	replied_to	2022-05-13 09:58:21+00:00	0	0	24	0	Twitter Web App
+CamilaGonzRosas	PLOSONE	1525052822911389696	replied_to	2022-05-13 09:58:21+00:00	0	0	24	0	Twitter Web App
+LetsTalkSciComm	PLOSONE	1525052168780193793	replied_to	2022-05-13 09:55:45+00:00	2	0	4	0	Twitter Web App
+gemvep_usach	JenniferTsang12	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	bharathkumartv	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	PLOSONE	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	niagarahealth	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	CCCTG_	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	CIHR_ICRH	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	CCIRNet	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+gemvep_usach	MacMedNRC	1525042655368990720	replied_to	2022-05-13 09:17:57+00:00	0	0	0	0	Twitter for Android
+RehabHIV	PLOSONE	1525041400328462337	mentioned	2022-05-13 09:12:58+00:00	0	0	1	0	Twitter for Android
+darrenabrown	PLOSONE	1525038547811479552	mentioned	2022-05-13 09:01:38+00:00	0	0	2	0	Twitter for iPad
+LGBTQjc	darrenabrown	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+LGBTQjc	PLOSONE	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+LGBTQjc	KellyOBrien25	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+LGBTQjc	AgnieszkaLewko	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+LGBTQjc	RHardingCSI	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+LGBTQjc	Statistics_Man	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+LGBTQjc	DrMartaBoffito	1525034998461505536	replied_to	2022-05-13 08:47:32+00:00	0	0	1	0	Twitter Web App
+HabtiyeB	PLOSONE	1525021675149852672	mentioned	2022-05-13 07:54:35+00:00	0	0	1	0	Twitter for Android
+lteytelman	SarahCHowes	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+lteytelman	PLOSONE	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+lteytelman	aoifestephenson	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+lteytelman	JudithDeutsch	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+lteytelman	ktpedlow	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+lteytelman	smcdonough2	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+lteytelman	u	1525008852483248129	mentioned	2022-05-13 07:03:38+00:00	1	0	1	0	IFTTT
+olabanjisurakat	JenniferTsang12	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+olabanjisurakat	CCIRNet	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+olabanjisurakat	PLOSONE	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+olabanjisurakat	niagarahealth	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+olabanjisurakat	CCCTG_	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+olabanjisurakat	CIHR_ICRH	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+olabanjisurakat	MacMedNRC	1524931096986669057	replied_to	2022-05-13 01:54:40+00:00	0	0	0	0	Twitter Web App
+BeckyWatson1012	PLOSONE	1524917342970359808	mentioned	2022-05-13 01:00:00+00:00	3	0	8	0	Twitter Web App
+smcdonough2	PLOSONE	1524909678353956865	mentioned	2022-05-13 00:29:33+00:00	7	3	16	1	Twitter Web App
+smcdonough2	niagarahealth	1524909678353956865	mentioned	2022-05-13 00:29:33+00:00	7	3	16	1	Twitter Web App
+smcdonough2	CCCTG_	1524909678353956865	mentioned	2022-05-13 00:29:33+00:00	7	3	16	1	Twitter Web App
+smcdonough2	CIHR_ICRH	1524909678353956865	mentioned	2022-05-13 00:29:33+00:00	7	3	16	1	Twitter Web App
+smcdonough2	CCIRNet	1524909678353956865	mentioned	2022-05-13 00:29:33+00:00	7	3	16	1	Twitter Web App
+smcdonough2	MacMedNRC	1524909678353956865	mentioned	2022-05-13 00:29:33+00:00	7	3	16	1	Twitter Web App

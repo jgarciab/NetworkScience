@@ -1,0 +1,279 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+molivahemker	NatureComms	1460604490755706890	mentioned	2021-11-16 13:43:41+00:00	0	0	2	0	Twitter Web App
+molivahemker	DamonCentola	1460604490755706890	mentioned	2021-11-16 13:43:41+00:00	0	0	2	0	Twitter Web App
+molivahemker	NDGannenberg	1460604490755706890	mentioned	2021-11-16 13:43:41+00:00	0	0	2	0	Twitter Web App
+JingwenZhang	NDGannenberg	1447682733539414020	replied_to	2021-10-11 21:57:14+00:00	0	0	0	0	Twitter for iPhone
+CANSSIOntario	JHIevents	1370828540107710469	quoted	2021-03-13 20:06:07+00:00	0	0	1	1	Sprout Social
+CANSSIOntario	UofT	1370828540107710469	quoted	2021-03-13 20:06:07+00:00	0	0	1	1	Sprout Social
+CANSSIOntario	DamonCentola	1370828540107710469	quoted	2021-03-13 20:06:07+00:00	0	0	1	1	Sprout Social
+CANSSIOntario	Penn	1370828540107710469	quoted	2021-03-13 20:06:07+00:00	0	0	1	1	Sprout Social
+CANSSIOntario	NDGannenberg	1370828540107710469	quoted	2021-03-13 20:06:07+00:00	0	0	1	1	Sprout Social
+CANSSIOntario	AnnenbergPenn	1370828540107710469	quoted	2021-03-13 20:06:07+00:00	0	0	1	1	Sprout Social
+PennMBDS	JHIevents	1369651261604302853	quoted	2021-03-10 14:08:02+00:00	0	0	1	0	Sprout Social
+PennMBDS	UofT	1369651261604302853	quoted	2021-03-10 14:08:02+00:00	0	0	1	0	Sprout Social
+PennMBDS	DamonCentola	1369651261604302853	quoted	2021-03-10 14:08:02+00:00	0	0	1	0	Sprout Social
+PennMBDS	Penn	1369651261604302853	quoted	2021-03-10 14:08:02+00:00	0	0	1	0	Sprout Social
+PennMBDS	NDGannenberg	1369651261604302853	quoted	2021-03-10 14:08:02+00:00	0	0	1	0	Sprout Social
+PennMBDS	AnnenbergPenn	1369651261604302853	quoted	2021-03-10 14:08:02+00:00	0	0	1	0	Sprout Social
+apokerplayer	JHIevents	1369039345307578368	quoted	2021-03-08 21:36:30+00:00	4	0	4	1	Twitter Web App
+apokerplayer	UofT	1369039345307578368	quoted	2021-03-08 21:36:30+00:00	4	0	4	1	Twitter Web App
+apokerplayer	DamonCentola	1369039345307578368	quoted	2021-03-08 21:36:30+00:00	4	0	4	1	Twitter Web App
+apokerplayer	Penn	1369039345307578368	quoted	2021-03-08 21:36:30+00:00	4	0	4	1	Twitter Web App
+apokerplayer	NDGannenberg	1369039345307578368	quoted	2021-03-08 21:36:30+00:00	4	0	4	1	Twitter Web App
+apokerplayer	AnnenbergPenn	1369039345307578368	quoted	2021-03-08 21:36:30+00:00	4	0	4	1	Twitter Web App
+WarrenCntrPenn	Penn	1362159897786413056	replied_to	2021-02-17 22:00:01+00:00	5	0	3	0	Twitter Web App
+WarrenCntrPenn	PennSAS	1362159897786413056	replied_to	2021-02-17 22:00:01+00:00	5	0	3	0	Twitter Web App
+WarrenCntrPenn	PennLPS	1362159897786413056	replied_to	2021-02-17 22:00:01+00:00	5	0	3	0	Twitter Web App
+WarrenCntrPenn	NDGannenberg	1362159897786413056	replied_to	2021-02-17 22:00:01+00:00	5	0	3	0	Twitter Web App
+WarrenCntrPenn	penn_csnbd	1362159897786413056	replied_to	2021-02-17 22:00:01+00:00	5	0	3	0	Twitter Web App
+WarrenCntrPenn	actiondesign	1362159897786413056	replied_to	2021-02-17 22:00:01+00:00	5	0	3	0	Twitter Web App
+AnnenbergPenn	Penn	1326572263617933313	replied_to	2020-11-11 17:07:28+00:00	0	0	0	0	Twitter Web App
+AnnenbergPenn	NDGannenberg	1326572263617933313	replied_to	2020-11-11 17:07:28+00:00	0	0	0	0	Twitter Web App
+AnnenbergPenn	PennGazette	1326572263617933313	replied_to	2020-11-11 17:07:28+00:00	0	0	0	0	Twitter Web App
+AnnenbergPenn	AnnenbergPenn	1326572263617933313	replied_to	2020-11-11 17:07:28+00:00	0	0	0	0	Twitter Web App
+CAGolembeski	facebook	1319327699496730625	mentioned	2020-10-22 17:20:10+00:00	2	0	4	0	Hootsuite Inc.
+CAGolembeski	sciam	1319327699496730625	mentioned	2020-10-22 17:20:10+00:00	2	0	4	0	Hootsuite Inc.
+CAGolembeski	AnnenbergPenn	1319327699496730625	mentioned	2020-10-22 17:20:10+00:00	2	0	4	0	Hootsuite Inc.
+CAGolembeski	NDGannenberg	1319327699496730625	mentioned	2020-10-22 17:20:10+00:00	2	0	4	0	Hootsuite Inc.
+AnnualReviews	sciam	1316752307187576832	mentioned	2020-10-15 14:46:28+00:00	6	0	4	1	TweetDeck
+AnnualReviews	NDGannenberg	1316752307187576832	mentioned	2020-10-15 14:46:28+00:00	6	0	4	1	TweetDeck
+Lightoller_llc	tyler_prochnow	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	PrincetonUPress	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	medical_policy	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	PennNudgeUnit	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	PennMEHP	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	Penn	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	WarrenCntrPenn	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+Lightoller_llc	NDGannenberg	1314084570338336768	replied_to	2020-10-08 06:05:50+00:00	3	0	2	0	Twitter Web App
+DzGuilbeault	Princeton	1251213346956693504	replied_to	2020-04-17 18:18:02+00:00	0	0	3	0	Twitter Web App
+DzGuilbeault	NDGannenberg	1251213346956693504	replied_to	2020-04-17 18:18:02+00:00	0	0	3	0	Twitter Web App
+DzGuilbeault	anthromama	1251213346956693504	replied_to	2020-04-17 18:18:02+00:00	0	0	3	0	Twitter Web App
+DzGuilbeault	UCLAStressLab	1251213346956693504	replied_to	2020-04-17 18:18:02+00:00	0	0	3	0	Twitter Web App
+DzGuilbeault	annarascouet	1251213346956693504	replied_to	2020-04-17 18:18:02+00:00	0	0	3	0	Twitter Web App
+KleinKleinKlein	AnnualReviews	1251209434099040256	replied_to	2020-04-17 18:02:30+00:00	0	0	1	0	TweetDeck
+KleinKleinKlein	GaryMcDowellPhD	1251209434099040256	replied_to	2020-04-17 18:02:30+00:00	0	0	1	0	TweetDeck
+KleinKleinKlein	UCLAStressLab	1251209434099040256	replied_to	2020-04-17 18:02:30+00:00	0	0	1	0	TweetDeck
+KleinKleinKlein	NDGannenberg	1251209434099040256	replied_to	2020-04-17 18:02:30+00:00	0	0	1	0	TweetDeck
+KleinKleinKlein	anthromama	1251209434099040256	replied_to	2020-04-17 18:02:30+00:00	0	0	1	0	TweetDeck
+KleinKleinKlein	UNICEF	1251209434099040256	replied_to	2020-04-17 18:02:30+00:00	0	0	1	0	TweetDeck
+JJSantana	AnnualReviews	1251208463096573952	replied_to	2020-04-17 17:58:38+00:00	0	1	0	1	TweetDeck
+JJSantana	GaryMcDowellPhD	1251208463096573952	replied_to	2020-04-17 17:58:38+00:00	0	1	0	1	TweetDeck
+JJSantana	UCLAStressLab	1251208463096573952	replied_to	2020-04-17 17:58:38+00:00	0	1	0	1	TweetDeck
+JJSantana	NDGannenberg	1251208463096573952	replied_to	2020-04-17 17:58:38+00:00	0	1	0	1	TweetDeck
+JJSantana	anthromama	1251208463096573952	replied_to	2020-04-17 17:58:38+00:00	0	1	0	1	TweetDeck
+JJSantana	UNICEF	1251208463096573952	replied_to	2020-04-17 17:58:38+00:00	0	1	0	1	TweetDeck
+jackorlik	AnnualReviews	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+jackorlik	GaryMcDowellPhD	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+jackorlik	UCLAStressLab	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+jackorlik	NDGannenberg	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+jackorlik	anthromama	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+jackorlik	UNICEF	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+jackorlik	anthromama	1251208205117657091	replied_to	2020-04-17 17:57:37+00:00	0	1	0	1	TweetDeck
+mikerogalski	AnnualReviews	1251207915903557632	replied_to	2020-04-17 17:56:28+00:00	1	1	2	1	TweetDeck
+mikerogalski	GaryMcDowellPhD	1251207915903557632	replied_to	2020-04-17 17:56:28+00:00	1	1	2	1	TweetDeck
+mikerogalski	UCLAStressLab	1251207915903557632	replied_to	2020-04-17 17:56:28+00:00	1	1	2	1	TweetDeck
+mikerogalski	NDGannenberg	1251207915903557632	replied_to	2020-04-17 17:56:28+00:00	1	1	2	1	TweetDeck
+mikerogalski	anthromama	1251207915903557632	replied_to	2020-04-17 17:56:28+00:00	1	1	2	1	TweetDeck
+mikerogalski	UNICEF	1251207915903557632	replied_to	2020-04-17 17:56:28+00:00	1	1	2	1	TweetDeck
+mdbod	AnnualReviews	1251207601616031751	replied_to	2020-04-17 17:55:13+00:00	0	1	0	0	TweetDeck
+mdbod	GaryMcDowellPhD	1251207601616031751	replied_to	2020-04-17 17:55:13+00:00	0	1	0	0	TweetDeck
+mdbod	UCLAStressLab	1251207601616031751	replied_to	2020-04-17 17:55:13+00:00	0	1	0	0	TweetDeck
+mdbod	NDGannenberg	1251207601616031751	replied_to	2020-04-17 17:55:13+00:00	0	1	0	0	TweetDeck
+mdbod	anthromama	1251207601616031751	replied_to	2020-04-17 17:55:13+00:00	0	1	0	0	TweetDeck
+mdbod	UNICEF	1251207601616031751	replied_to	2020-04-17 17:55:13+00:00	0	1	0	0	TweetDeck
+paulinapaiz02	AnnualReviews	1251206228262486019	replied_to	2020-04-17 17:49:45+00:00	0	1	0	0	TweetDeck
+paulinapaiz02	GaryMcDowellPhD	1251206228262486019	replied_to	2020-04-17 17:49:45+00:00	0	1	0	0	TweetDeck
+paulinapaiz02	UCLAStressLab	1251206228262486019	replied_to	2020-04-17 17:49:45+00:00	0	1	0	0	TweetDeck
+paulinapaiz02	NDGannenberg	1251206228262486019	replied_to	2020-04-17 17:49:45+00:00	0	1	0	0	TweetDeck
+paulinapaiz02	anthromama	1251206228262486019	replied_to	2020-04-17 17:49:45+00:00	0	1	0	0	TweetDeck
+paulinapaiz02	UNICEF	1251206228262486019	replied_to	2020-04-17 17:49:45+00:00	0	1	0	0	TweetDeck
+a_baronca	AnnualReviews	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+a_baronca	GaryMcDowellPhD	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+a_baronca	UCLAStressLab	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+a_baronca	NDGannenberg	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+a_baronca	anthromama	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+a_baronca	UNICEF	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+a_baronca	UCLAStressLab	1251205998573993985	replied_to	2020-04-17 17:48:51+00:00	0	1	0	0	TweetDeck
+wrahool	AnnualReviews	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+wrahool	GaryMcDowellPhD	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+wrahool	UCLAStressLab	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+wrahool	NDGannenberg	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+wrahool	anthromama	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+wrahool	UNICEF	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+wrahool	anthromama	1251205534902083586	replied_to	2020-04-17 17:47:00+00:00	0	1	0	0	TweetDeck
+PennOnline	AnnualReviews	1251205220446633986	replied_to	2020-04-17 17:45:45+00:00	0	1	0	0	TweetDeck
+PennOnline	GaryMcDowellPhD	1251205220446633986	replied_to	2020-04-17 17:45:45+00:00	0	1	0	0	TweetDeck
+PennOnline	UCLAStressLab	1251205220446633986	replied_to	2020-04-17 17:45:45+00:00	0	1	0	0	TweetDeck
+PennOnline	NDGannenberg	1251205220446633986	replied_to	2020-04-17 17:45:45+00:00	0	1	0	0	TweetDeck
+PennOnline	anthromama	1251205220446633986	replied_to	2020-04-17 17:45:45+00:00	0	1	0	0	TweetDeck
+PennOnline	UNICEF	1251205220446633986	replied_to	2020-04-17 17:45:45+00:00	0	1	0	0	TweetDeck
+SongZhimuFeng	AnnualReviews	1251204873569394690	replied_to	2020-04-17 17:44:22+00:00	0	1	0	0	TweetDeck
+SongZhimuFeng	GaryMcDowellPhD	1251204873569394690	replied_to	2020-04-17 17:44:22+00:00	0	1	0	0	TweetDeck
+SongZhimuFeng	UCLAStressLab	1251204873569394690	replied_to	2020-04-17 17:44:22+00:00	0	1	0	0	TweetDeck
+SongZhimuFeng	NDGannenberg	1251204873569394690	replied_to	2020-04-17 17:44:22+00:00	0	1	0	0	TweetDeck
+SongZhimuFeng	anthromama	1251204873569394690	replied_to	2020-04-17 17:44:22+00:00	0	1	0	0	TweetDeck
+SongZhimuFeng	UNICEF	1251204873569394690	replied_to	2020-04-17 17:44:22+00:00	0	1	0	0	TweetDeck
+jvitak	AnnualReviews	1251204604135686146	replied_to	2020-04-17 17:43:18+00:00	0	1	0	0	TweetDeck
+jvitak	GaryMcDowellPhD	1251204604135686146	replied_to	2020-04-17 17:43:18+00:00	0	1	0	0	TweetDeck
+jvitak	UCLAStressLab	1251204604135686146	replied_to	2020-04-17 17:43:18+00:00	0	1	0	0	TweetDeck
+jvitak	NDGannenberg	1251204604135686146	replied_to	2020-04-17 17:43:18+00:00	0	1	0	0	TweetDeck
+jvitak	anthromama	1251204604135686146	replied_to	2020-04-17 17:43:18+00:00	0	1	0	0	TweetDeck
+jvitak	UNICEF	1251204604135686146	replied_to	2020-04-17 17:43:18+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	AnnualReviews	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	GaryMcDowellPhD	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	UCLAStressLab	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	NDGannenberg	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	anthromama	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	UNICEF	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+JulienMigozzi	NDGannenberg	1251204362195603457	replied_to	2020-04-17 17:42:20+00:00	0	1	0	0	TweetDeck
+theDiverge	AnnualReviews	1251204063267520515	replied_to	2020-04-17 17:41:09+00:00	0	1	0	0	TweetDeck
+theDiverge	GaryMcDowellPhD	1251204063267520515	replied_to	2020-04-17 17:41:09+00:00	0	1	0	0	TweetDeck
+theDiverge	UCLAStressLab	1251204063267520515	replied_to	2020-04-17 17:41:09+00:00	0	1	0	0	TweetDeck
+theDiverge	NDGannenberg	1251204063267520515	replied_to	2020-04-17 17:41:09+00:00	0	1	0	0	TweetDeck
+theDiverge	anthromama	1251204063267520515	replied_to	2020-04-17 17:41:09+00:00	0	1	0	0	TweetDeck
+theDiverge	UNICEF	1251204063267520515	replied_to	2020-04-17 17:41:09+00:00	0	1	0	0	TweetDeck
+Rare_org	AnnualReviews	1251203469089923076	replied_to	2020-04-17 17:38:47+00:00	0	1	0	0	TweetDeck
+Rare_org	GaryMcDowellPhD	1251203469089923076	replied_to	2020-04-17 17:38:47+00:00	0	1	0	0	TweetDeck
+Rare_org	UCLAStressLab	1251203469089923076	replied_to	2020-04-17 17:38:47+00:00	0	1	0	0	TweetDeck
+Rare_org	NDGannenberg	1251203469089923076	replied_to	2020-04-17 17:38:47+00:00	0	1	0	0	TweetDeck
+Rare_org	anthromama	1251203469089923076	replied_to	2020-04-17 17:38:47+00:00	0	1	0	0	TweetDeck
+Rare_org	UNICEF	1251203469089923076	replied_to	2020-04-17 17:38:47+00:00	0	1	0	0	TweetDeck
+jayexprs	AnnualReviews	1251203022299987968	replied_to	2020-04-17 17:37:01+00:00	0	1	0	0	TweetDeck
+jayexprs	GaryMcDowellPhD	1251203022299987968	replied_to	2020-04-17 17:37:01+00:00	0	1	0	0	TweetDeck
+jayexprs	UCLAStressLab	1251203022299987968	replied_to	2020-04-17 17:37:01+00:00	0	1	0	0	TweetDeck
+jayexprs	NDGannenberg	1251203022299987968	replied_to	2020-04-17 17:37:01+00:00	0	1	0	0	TweetDeck
+jayexprs	anthromama	1251203022299987968	replied_to	2020-04-17 17:37:01+00:00	0	1	0	0	TweetDeck
+jayexprs	UNICEF	1251203022299987968	replied_to	2020-04-17 17:37:01+00:00	0	1	0	0	TweetDeck
+andre_lhu	AnnualReviews	1251202371927134211	replied_to	2020-04-17 17:34:26+00:00	0	1	0	0	TweetDeck
+andre_lhu	GaryMcDowellPhD	1251202371927134211	replied_to	2020-04-17 17:34:26+00:00	0	1	0	0	TweetDeck
+andre_lhu	UCLAStressLab	1251202371927134211	replied_to	2020-04-17 17:34:26+00:00	0	1	0	0	TweetDeck
+andre_lhu	NDGannenberg	1251202371927134211	replied_to	2020-04-17 17:34:26+00:00	0	1	0	0	TweetDeck
+andre_lhu	anthromama	1251202371927134211	replied_to	2020-04-17 17:34:26+00:00	0	1	0	0	TweetDeck
+andre_lhu	UNICEF	1251202371927134211	replied_to	2020-04-17 17:34:26+00:00	0	1	0	0	TweetDeck
+OrnithoAle	AnnualReviews	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+OrnithoAle	GaryMcDowellPhD	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+OrnithoAle	UCLAStressLab	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+OrnithoAle	NDGannenberg	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+OrnithoAle	anthromama	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+OrnithoAle	UNICEF	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+OrnithoAle	anthromama	1251201978501410819	replied_to	2020-04-17 17:32:52+00:00	0	1	0	0	TweetDeck
+AnnenbergPenn	washingtonpost	1039605756683870212	mentioned	2018-09-11 20:05:01+00:00	1	0	1	1	Sprout Social
+AnnenbergPenn	DzGuilbeault	1039605756683870212	mentioned	2018-09-11 20:05:01+00:00	1	0	1	1	Sprout Social
+AnnenbergPenn	NDGannenberg	1039605756683870212	mentioned	2018-09-11 20:05:01+00:00	1	0	1	1	Sprout Social
+DzGuilbeault	washingtonpost	1038182450852257798	mentioned	2018-09-07 21:49:19+00:00	4	1	7	0	Twitter for iPhone
+DzGuilbeault	chris_bail	1038182450852257798	mentioned	2018-09-07 21:49:19+00:00	4	1	7	0	Twitter for iPhone
+DzGuilbeault	NDGannenberg	1038182450852257798	mentioned	2018-09-07 21:49:19+00:00	4	1	7	0	Twitter for iPhone
+DzGuilbeault	AnnenbergPenn	1038182450852257798	mentioned	2018-09-07 21:49:19+00:00	4	1	7	0	Twitter for iPhone
+WarrenCntrPenn	AnnenbergPenn	1038130919641636865	replied_to	2018-09-07 18:24:33+00:00	0	1	3	0	Twitter for iPhone
+WarrenCntrPenn	NDGannenberg	1038130919641636865	replied_to	2018-09-07 18:24:33+00:00	0	1	3	0	Twitter for iPhone
+amaatouq	PNASNews	1037427669535793153	mentioned	2018-09-05 19:50:05+00:00	2	0	1	0	Hootsuite Inc.
+amaatouq	DzGuilbeault	1037427669535793153	mentioned	2018-09-05 19:50:05+00:00	2	0	1	0	Hootsuite Inc.
+amaatouq	AnnenbergPenn	1037427669535793153	mentioned	2018-09-05 19:50:05+00:00	2	0	1	0	Hootsuite Inc.
+amaatouq	NDGannenberg	1037427669535793153	mentioned	2018-09-05 19:50:05+00:00	2	0	1	0	Hootsuite Inc.
+scenesinthecity	NDGannenberg	1037359451320332288	mentioned	2018-09-05 15:19:01+00:00	4	0	0	0	Sprout Social
+JJSantana	NDGannenberg	1037071884070871040	mentioned	2018-09-04 20:16:19+00:00	15	0	11	0	TweetDeck
+JJSantana	DzGuilbeault	1037071884070871040	mentioned	2018-09-04 20:16:19+00:00	15	0	11	0	TweetDeck
+JJSantana	PNASNews	1037071884070871040	mentioned	2018-09-04 20:16:19+00:00	15	0	11	0	TweetDeck
+SSRC_mtp	DzGuilbeault	1037070821464977414	replied_to	2018-09-04 20:12:06+00:00	0	0	1	0	Twitter for iPhone
+SSRC_mtp	joshua_a_becker	1037070821464977414	replied_to	2018-09-04 20:12:06+00:00	0	0	1	0	Twitter for iPhone
+SSRC_mtp	NDGannenberg	1037070821464977414	replied_to	2018-09-04 20:12:06+00:00	0	0	1	0	Twitter for iPhone
+SSRC_mtp	AnnenbergPenn	1037070821464977414	replied_to	2018-09-04 20:12:06+00:00	0	0	1	0	Twitter for iPhone
+joshua_a_becker	joshua_a_becker	1037051748496691200	mentioned	2018-09-04 18:56:18+00:00	19	2	32	1	Twitter for iPhone
+joshua_a_becker	NDGannenberg	1037051748496691200	mentioned	2018-09-04 18:56:18+00:00	19	2	32	1	Twitter for iPhone
+joshua_a_becker	AnnenbergPenn	1037051748496691200	mentioned	2018-09-04 18:56:18+00:00	19	2	32	1	Twitter for iPhone
+plzbeemyfriend	rgorwa	1028277046865219589	mentioned	2018-08-11 13:48:47+00:00	11	1	26	0	Twitter for iPhone
+plzbeemyfriend	NDGannenberg	1028277046865219589	mentioned	2018-08-11 13:48:47+00:00	11	1	26	0	Twitter for iPhone
+plzbeemyfriend	AnnenbergPenn	1028277046865219589	mentioned	2018-08-11 13:48:47+00:00	11	1	26	0	Twitter for iPhone
+ChangexHQ	NDGannenberg	1027961070462353408	replied_to	2018-08-10 16:53:12+00:00	0	0	0	0	Twitter for iPhone
+ChangexHQ	rosanna_dent	1027961070462353408	replied_to	2018-08-10 16:53:12+00:00	0	0	0	0	Twitter for iPhone
+SanazBahargam	AnnenbergPenn	1027906913407664128	mentioned	2018-08-10 13:18:00+00:00	0	0	1	0	TweetDeck
+SanazBahargam	NDGannenberg	1027906913407664128	mentioned	2018-08-10 13:18:00+00:00	0	0	1	0	TweetDeck
+feedkoko	NDGannenberg	1027899197989814272	mentioned	2018-08-10 12:47:20+00:00	0	0	1	0	Twitter for iPhone
+silviamajo	NDGannenberg	1027298409978519558	mentioned	2018-08-08 21:00:01+00:00	0	0	0	2	TweetDeck
+Shugars	plzbeemyfriend	1027281518350290944	replied_to	2018-08-08 19:52:54+00:00	0	0	0	0	Twitter Web Client
+Shugars	peterdodds	1027281518350290944	replied_to	2018-08-08 19:52:54+00:00	0	0	0	0	Twitter Web Client
+Shugars	jhubiostat	1027281518350290944	replied_to	2018-08-08 19:52:54+00:00	0	0	0	0	Twitter Web Client
+Shugars	DzGuilbeault	1027281518350290944	replied_to	2018-08-08 19:52:54+00:00	0	0	0	0	Twitter Web Client
+Shugars	NDGannenberg	1027281518350290944	replied_to	2018-08-08 19:52:54+00:00	0	0	0	0	Twitter Web Client
+NICOatNU	joshua_a_becker	1027264343921094657	replied_to	2018-08-08 18:44:39+00:00	0	1	0	0	Twitter Web Client
+NICOatNU	peterdodds	1027264343921094657	replied_to	2018-08-08 18:44:39+00:00	0	1	0	0	Twitter Web Client
+NICOatNU	jhubiostat	1027264343921094657	replied_to	2018-08-08 18:44:39+00:00	0	1	0	0	Twitter Web Client
+NICOatNU	DzGuilbeault	1027264343921094657	replied_to	2018-08-08 18:44:39+00:00	0	1	0	0	Twitter Web Client
+NICOatNU	NDGannenberg	1027264343921094657	replied_to	2018-08-08 18:44:39+00:00	0	1	0	0	Twitter Web Client
+benzevgreen	plzbeemyfriend	1027255746096971776	replied_to	2018-08-08 18:10:30+00:00	0	1	3	0	Twitter Web Client
+benzevgreen	peterdodds	1027255746096971776	replied_to	2018-08-08 18:10:30+00:00	0	1	3	0	Twitter Web Client
+benzevgreen	jhubiostat	1027255746096971776	replied_to	2018-08-08 18:10:30+00:00	0	1	3	0	Twitter Web Client
+benzevgreen	DzGuilbeault	1027255746096971776	replied_to	2018-08-08 18:10:30+00:00	0	1	3	0	Twitter Web Client
+benzevgreen	NDGannenberg	1027255746096971776	replied_to	2018-08-08 18:10:30+00:00	0	1	3	0	Twitter Web Client
+wrahool	plzbeemyfriend	1027255622184644608	replied_to	2018-08-08 18:10:00+00:00	0	1	1	0	Twitter Web Client
+wrahool	peterdodds	1027255622184644608	replied_to	2018-08-08 18:10:00+00:00	0	1	1	0	Twitter Web Client
+wrahool	jhubiostat	1027255622184644608	replied_to	2018-08-08 18:10:00+00:00	0	1	1	0	Twitter Web Client
+wrahool	DzGuilbeault	1027255622184644608	replied_to	2018-08-08 18:10:00+00:00	0	1	1	0	Twitter Web Client
+wrahool	NDGannenberg	1027255622184644608	replied_to	2018-08-08 18:10:00+00:00	0	1	1	0	Twitter Web Client
+AirTalk	joshua_a_becker	1027250730833530880	replied_to	2018-08-08 17:50:34+00:00	0	1	0	0	Twitter Web Client
+AirTalk	peterdodds	1027250730833530880	replied_to	2018-08-08 17:50:34+00:00	0	1	0	0	Twitter Web Client
+AirTalk	jhubiostat	1027250730833530880	replied_to	2018-08-08 17:50:34+00:00	0	1	0	0	Twitter Web Client
+AirTalk	DzGuilbeault	1027250730833530880	replied_to	2018-08-08 17:50:34+00:00	0	1	0	0	Twitter Web Client
+AirTalk	NDGannenberg	1027250730833530880	replied_to	2018-08-08 17:50:34+00:00	0	1	0	0	Twitter Web Client
+janetnotjackson	plzbeemyfriend	1027248757774188544	replied_to	2018-08-08 17:42:43+00:00	0	1	1	0	Twitter Web Client
+janetnotjackson	peterdodds	1027248757774188544	replied_to	2018-08-08 17:42:43+00:00	0	1	1	0	Twitter Web Client
+janetnotjackson	jhubiostat	1027248757774188544	replied_to	2018-08-08 17:42:43+00:00	0	1	1	0	Twitter Web Client
+janetnotjackson	DzGuilbeault	1027248757774188544	replied_to	2018-08-08 17:42:43+00:00	0	1	1	0	Twitter Web Client
+janetnotjackson	NDGannenberg	1027248757774188544	replied_to	2018-08-08 17:42:43+00:00	0	1	1	0	Twitter Web Client
+Heartw1red	joshua_a_becker	1027247822314381317	replied_to	2018-08-08 17:39:00+00:00	0	1	0	0	Twitter Web Client
+Heartw1red	peterdodds	1027247822314381317	replied_to	2018-08-08 17:39:00+00:00	0	1	0	0	Twitter Web Client
+Heartw1red	jhubiostat	1027247822314381317	replied_to	2018-08-08 17:39:00+00:00	0	1	0	0	Twitter Web Client
+Heartw1red	DzGuilbeault	1027247822314381317	replied_to	2018-08-08 17:39:00+00:00	0	1	0	0	Twitter Web Client
+Heartw1red	NDGannenberg	1027247822314381317	replied_to	2018-08-08 17:39:00+00:00	0	1	0	0	Twitter Web Client
+AndrewMakeTweet	plzbeemyfriend	1027246908438392832	replied_to	2018-08-08 17:35:22+00:00	0	1	0	0	Twitter Web Client
+AndrewMakeTweet	peterdodds	1027246908438392832	replied_to	2018-08-08 17:35:22+00:00	0	1	0	0	Twitter Web Client
+AndrewMakeTweet	jhubiostat	1027246908438392832	replied_to	2018-08-08 17:35:22+00:00	0	1	0	0	Twitter Web Client
+AndrewMakeTweet	DzGuilbeault	1027246908438392832	replied_to	2018-08-08 17:35:22+00:00	0	1	0	0	Twitter Web Client
+AndrewMakeTweet	NDGannenberg	1027246908438392832	replied_to	2018-08-08 17:35:22+00:00	0	1	0	0	Twitter Web Client
+wetuad	peterdodds	1027015480694001669	replied_to	2018-08-08 02:15:46+00:00	3	1	6	0	Twitter Web Client
+wetuad	jhubiostat	1027015480694001669	replied_to	2018-08-08 02:15:46+00:00	3	1	6	0	Twitter Web Client
+wetuad	DzGuilbeault	1027015480694001669	replied_to	2018-08-08 02:15:46+00:00	3	1	6	0	Twitter Web Client
+wetuad	joshua_a_becker	1027015480694001669	replied_to	2018-08-08 02:15:46+00:00	3	1	6	0	Twitter Web Client
+wetuad	NDGannenberg	1027015480694001669	replied_to	2018-08-08 02:15:46+00:00	3	1	6	0	Twitter Web Client
+alexvespi	NDGannenberg	1025076280042160129	mentioned	2018-08-02 17:50:04+00:00	1	0	0	0	Hootsuite Inc.
+alexvespi	AnnenbergPenn	1025076280042160129	mentioned	2018-08-02 17:50:04+00:00	1	0	0	0	Hootsuite Inc.
+briwood1	PrincetonUPress	1024391544378404864	mentioned	2018-07-31 20:29:11+00:00	1	0	1	0	Twitter Media Studio
+briwood1	NDGannenberg	1024391544378404864	mentioned	2018-07-31 20:29:11+00:00	1	0	1	0	Twitter Media Studio
+fusaroli	NDGannenberg	1024187965222866944	mentioned	2018-07-31 07:00:14+00:00	4	0	4	1	Buffer
+WillCardy	NDGannenberg	1022503106733588480	mentioned	2018-07-26 15:25:12+00:00	3	0	7	1	TweetDeck
+dani_agent	joshua_a_becker	1018674089064574976	replied_to	2018-07-16 01:50:03+00:00	0	0	3	0	Twitter for iPhone
+dani_agent	DzGuilbeault	1018674089064574976	replied_to	2018-07-16 01:50:03+00:00	0	0	3	0	Twitter for iPhone
+dani_agent	NDGannenberg	1018674089064574976	replied_to	2018-07-16 01:50:03+00:00	0	0	3	0	Twitter for iPhone
+gaveltri	joshua_a_becker	1018654522581966848	replied_to	2018-07-16 00:32:18+00:00	0	0	2	0	Twitter for Android
+gaveltri	DzGuilbeault	1018654522581966848	replied_to	2018-07-16 00:32:18+00:00	0	0	2	0	Twitter for Android
+gaveltri	NDGannenberg	1018654522581966848	replied_to	2018-07-16 00:32:18+00:00	0	0	2	0	Twitter for Android
+fariba_k	joshua_a_becker	1018653779208687616	replied_to	2018-07-16 00:29:21+00:00	0	0	2	0	Twitter for Android
+fariba_k	DzGuilbeault	1018653779208687616	replied_to	2018-07-16 00:29:21+00:00	0	0	2	0	Twitter for Android
+fariba_k	NDGannenberg	1018653779208687616	replied_to	2018-07-16 00:29:21+00:00	0	0	2	0	Twitter for Android
+Fede_Botta	joshua_a_becker	1018617504141324288	replied_to	2018-07-15 22:05:12+00:00	0	0	2	0	Twitter Web Client
+Fede_Botta	DzGuilbeault	1018617504141324288	replied_to	2018-07-15 22:05:12+00:00	0	0	2	0	Twitter Web Client
+Fede_Botta	NDGannenberg	1018617504141324288	replied_to	2018-07-15 22:05:12+00:00	0	0	2	0	Twitter Web Client
+a_baronca	NICOatNU	1018588537858527232	replied_to	2018-07-15 20:10:06+00:00	0	0	2	0	Twitter for iPhone
+a_baronca	joshua_a_becker	1018588537858527232	replied_to	2018-07-15 20:10:06+00:00	0	0	2	0	Twitter for iPhone
+a_baronca	NDGannenberg	1018588537858527232	replied_to	2018-07-15 20:10:06+00:00	0	0	2	0	Twitter for iPhone
+HCCommentator1	joshua_a_becker	1018579975761481730	replied_to	2018-07-15 19:36:05+00:00	0	1	2	0	Twitter for Android
+HCCommentator1	DzGuilbeault	1018579975761481730	replied_to	2018-07-15 19:36:05+00:00	0	1	2	0	Twitter for Android
+HCCommentator1	NDGannenberg	1018579975761481730	replied_to	2018-07-15 19:36:05+00:00	0	1	2	0	Twitter for Android
+BruceTedesco	DzGuilbeault	1018571783262343168	mentioned	2018-07-15 19:03:31+00:00	2	5	63	1	Twitter for Android
+BruceTedesco	NDGannenberg	1018571783262343168	mentioned	2018-07-15 19:03:31+00:00	2	5	63	1	Twitter for Android
+monsusana	DzGuilbeault	1018229646926794753	replied_to	2018-07-14 20:24:00+00:00	0	0	0	0	Twitter Web Client
+monsusana	joshua_a_becker	1018229646926794753	replied_to	2018-07-14 20:24:00+00:00	0	0	0	0	Twitter Web Client
+monsusana	NDGannenberg	1018229646926794753	replied_to	2018-07-14 20:24:00+00:00	0	0	0	0	Twitter Web Client
+sfiscience	joshua_a_becker	1018220729442160642	mentioned	2018-07-14 19:48:34+00:00	2	1	5	0	Twitter for iPhone
+sfiscience	NDGannenberg	1018220729442160642	mentioned	2018-07-14 19:48:34+00:00	2	1	5	0	Twitter for iPhone
+fangkc	AnnenbergPenn	1018138768136638464	mentioned	2018-07-14 14:22:53+00:00	1	0	5	0	Twitter for Android
+fangkc	NDGannenberg	1018138768136638464	mentioned	2018-07-14 14:22:53+00:00	1	0	5	0	Twitter for Android
+JingwenZhang	NDGannenberg	1018130283529474048	mentioned	2018-07-14 13:49:10+00:00	1	0	6	0	Twitter for Android
+JingwenZhang	AnnenbergPenn	1018130283529474048	mentioned	2018-07-14 13:49:10+00:00	1	0	6	0	Twitter for Android
+YINSedge	DzGuilbeault	1017880589557551105	replied_to	2018-07-13 21:16:58+00:00	0	0	1	0	Twitter for Android
+YINSedge	NDGannenberg	1017880589557551105	replied_to	2018-07-13 21:16:58+00:00	0	0	1	0	Twitter for Android
+official_SYNS	joshua_a_becker	1017879785584898048	replied_to	2018-07-13 21:13:46+00:00	0	1	0	0	Twitter for iPhone
+official_SYNS	NDGannenberg	1017879785584898048	replied_to	2018-07-13 21:13:46+00:00	0	1	0	0	Twitter for iPhone
+Bot_Giveaway_1	ScienceBlogTwit	1017042103799635968	mentioned	2018-07-11 13:45:07+00:00	3	0	0	0	Hootsuite Inc.
+Bot_Giveaway_1	NDGannenberg	1017042103799635968	mentioned	2018-07-11 13:45:07+00:00	3	0	0	0	Hootsuite Inc.
+Bot_Giveaway_1	AnnenbergPenn	1017042103799635968	mentioned	2018-07-11 13:45:07+00:00	3	0	0	0	Hootsuite Inc.

@@ -1,0 +1,379 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+WebHostingSaver	WikiCFP	1527013456070721536	mentioned	2022-05-18 19:49:13+00:00	0	0	0	0	Twitter_WHS_App
+digitalhealthxx	WikiCFP	1525511355389861893	mentioned	2022-05-14 16:20:24+00:00	13	0	6	0	Twitter Web App
+peterpaws	AIEDconf	1520081609709473794	mentioned	2022-04-29 16:44:32+00:00	0	0	4	0	TweetDeck
+peterpaws	WikiCFP	1520081609709473794	mentioned	2022-04-29 16:44:32+00:00	0	0	4	0	TweetDeck
+peterpaws	SergeySosnovsky	1520081609709473794	mentioned	2022-04-29 16:44:32+00:00	0	0	4	0	TweetDeck
+antoguerrieri	WikiCFP	1519246534344380416	mentioned	2022-04-27 09:26:14+00:00	0	0	0	0	Twitter_WHS_App
+TheresaAhearn3	IEEEorg	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+TheresaAhearn3	ieeesmcsociety	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+TheresaAhearn3	ieeecis	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+TheresaAhearn3	ICAR_CNR	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+TheresaAhearn3	CNRsocial_	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+TheresaAhearn3	UniCalPortale	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+TheresaAhearn3	WikiCFP	1514566914667859971	mentioned	2022-04-14 11:31:06+00:00	0	0	0	0	TweetDeck
+BiciHater	WikiCFP	1514211629109583875	mentioned	2022-04-13 11:59:19+00:00	0	0	0	0	TweetDeck
+BiciHater	IEEEorg	1514211629109583875	mentioned	2022-04-13 11:59:19+00:00	0	0	0	0	TweetDeck
+BiciHater	ieeesmcsociety	1514211629109583875	mentioned	2022-04-13 11:59:19+00:00	0	0	0	0	TweetDeck
+BiciHater	CNRsocial_	1514211629109583875	mentioned	2022-04-13 11:59:19+00:00	0	0	0	0	TweetDeck
+BiciHater	UniCalPortale	1514211629109583875	mentioned	2022-04-13 11:59:19+00:00	0	0	0	0	TweetDeck
+BiciHater	FlaviaDelicato	1514211629109583875	mentioned	2022-04-13 11:59:19+00:00	0	0	0	0	TweetDeck
+cfp_time	WikiCFP	1511636881674588161	mentioned	2022-04-06 09:28:12+00:00	1	0	0	0	Twitter_WHS_App
+yandreaxx	WikiCFP	1507315153779503106	mentioned	2022-03-25 11:15:11+00:00	0	0	0	0	Twitter Web App
+barland	WikiCFP	1507058454422335493	mentioned	2022-03-24 18:15:09+00:00	0	0	0	0	Twitter for Android
+usm_1984	300000kms	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	RaiBambo	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	s_garciaperez	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	CFPOdisha	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	CFPapers	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	subsandpapers	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	CFPDesign	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	CFP_Bot	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+usm_1984	WikiCFP	1505620479675097097	replied_to	2022-03-20 19:01:10+00:00	0	0	0	0	Twitter Web App
+bennour_akram	WikiCFP	1504143603207217153	mentioned	2022-03-16 17:12:35+00:00	0	0	0	0	Twitter_WHS_App
+worma_workshop	yandreaxx	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+worma_workshop	hardwear_io	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+worma_workshop	infosec_cfp	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+worma_workshop	cfp_land	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+worma_workshop	all_conf_alert	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+worma_workshop	AppCfp	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+worma_workshop	WikiCFP	1493137749607649282	replied_to	2022-02-14 08:19:15+00:00	0	0	2	0	Twitter for Android
+GrischaLi	hardwear_io	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	infosec_cfp	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	cfp_time	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	cfp_land	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	all_conf_alert	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	AppCfp	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	WikiCFP	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+GrischaLi	hardwear_io	1493129679179550722	mentioned	2022-02-14 07:47:11+00:00	7	1	6	0	Twitter Web App
+CDADeathStar	WikiCFP	1487432406915325952	mentioned	2022-01-29 14:28:15+00:00	1	0	0	0	Twitter_WHS_App
+BsidesKY	WikiCFP	1484814806267961345	mentioned	2022-01-22 09:06:50+00:00	0	0	0	0	Twitter Web App
+JournalCurrent	WikiCFP	1480576054230142978	mentioned	2022-01-10 16:23:33+00:00	0	0	0	0	Twitter_WHS_App
+LabourLaw_PhD	DrSandeepTripa5	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	simant_uw	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	studies_forum	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	WikiCFP	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	FPRI	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	JNU_official_50	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	HSE_eng	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	BKNsaumya	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	Unesp_Global	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	rsen02	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+LabourLaw_PhD	studies_forum	1480512557790085121	replied_to	2022-01-10 12:11:15+00:00	0	0	0	0	Twitter for Android
+horacio_ps	WikiCFP	1478681192723632128	mentioned	2022-01-05 10:54:03+00:00	0	0	0	0	Twitter Web App
+CDADeathStar	WikiCFP	1404429056075046913	mentioned	2021-06-14 13:22:34+00:00	0	0	0	0	CDADeathStar
+WebHostingSaver	WikiCFP	1403654965885915138	mentioned	2021-06-12 10:06:37+00:00	0	0	0	0	CDADeathStar
+heikopaulheim	WikiCFP	1403627360465870858	mentioned	2021-06-12 08:16:55+00:00	0	0	0	0	CDADeathStar
+gdequeiroz	WikiCFP	1403442822729146384	mentioned	2021-06-11 20:03:38+00:00	0	0	0	0	CDADeathStar
+AtomicZest	WikiCFP	1402793968388222976	mentioned	2021-06-10 01:05:19+00:00	0	0	2	0	Twitter_WHS_App
+asstprofmp	WikiCFP	1400271909972025347	mentioned	2021-06-03 02:03:33+00:00	0	0	0	0	CDADeathStar
+BCSHCI2022	WikiCFP	1400107890732634116	mentioned	2021-06-02 15:11:48+00:00	0	0	0	0	CDADeathStar
+HarshitRMahajan	SpringerNature	1399242603808407554	mentioned	2021-05-31 05:53:28+00:00	0	1	20	1	Twitter Web App
+HarshitRMahajan	WikiCFP	1399242603808407554	mentioned	2021-05-31 05:53:28+00:00	0	1	20	1	Twitter Web App
+HarshitRMahajan	JCDLConf	1399242603808407554	mentioned	2021-05-31 05:53:28+00:00	0	1	20	1	Twitter Web App
+HarshitRMahajan	dwsunima	1399242603808407554	mentioned	2021-05-31 05:53:28+00:00	0	1	20	1	Twitter Web App
+cfp_time	WikiCFP	1395182871577518087	mentioned	2021-05-20 01:01:32+00:00	0	0	0	0	Twitter_WHS_App
+infosec_cfp	AtomicZest	1395179233413005313	replied_to	2021-05-20 00:47:05+00:00	0	0	1	0	Twitter for iPhone
+infosec_cfp	PoddarShivani	1395179233413005313	replied_to	2021-05-20 00:47:05+00:00	0	0	1	0	Twitter for iPhone
+infosec_cfp	WikiCFP	1395179233413005313	replied_to	2021-05-20 00:47:05+00:00	0	0	1	0	Twitter for iPhone
+ImagingOrg	gdequeiroz	1394198556341198848	quoted	2021-05-17 07:50:13+00:00	1	1	2	1	Twitter Web App
+ImagingOrg	PoddarShivani	1394198556341198848	quoted	2021-05-17 07:50:13+00:00	1	1	2	1	Twitter Web App
+ImagingOrg	WikiCFP	1394198556341198848	quoted	2021-05-17 07:50:13+00:00	1	1	2	1	Twitter Web App
+ACMHT	WikiCFP	1389824780749053955	mentioned	2021-05-05 06:10:24+00:00	0	0	0	0	Twitter for Android
+grighav	bcs_interaction	1387656880743403521	mentioned	2021-04-29 06:35:56+00:00	1	0	0	0	Twitter Web App
+grighav	WikiCFP	1387656880743403521	mentioned	2021-04-29 06:35:56+00:00	1	0	0	0	Twitter Web App
+grighav	WikiResearch	1387656880743403521	mentioned	2021-04-29 06:35:56+00:00	1	0	0	0	Twitter Web App
+wcpas2020	WikiCFP	1386849846280212481	mentioned	2021-04-27 01:09:04+00:00	1	0	0	0	Twitter_WHS_App
+grupoCAPIRE	WikiCFP	1385258560108613640	mentioned	2021-04-22 15:45:52+00:00	0	0	1	0	CDADeathStar
+PlumasDeSimurgh	cfp_time	1384756267923632129	replied_to	2021-04-21 06:29:56+00:00	0	0	1	0	Twitter for Android
+PlumasDeSimurgh	infosec_cfp	1384756267923632129	replied_to	2021-04-21 06:29:56+00:00	0	0	1	0	Twitter for Android
+PlumasDeSimurgh	prorch_cfp	1384756267923632129	replied_to	2021-04-21 06:29:56+00:00	0	0	1	0	Twitter for Android
+PlumasDeSimurgh	CFPapers	1384756267923632129	replied_to	2021-04-21 06:29:56+00:00	0	0	1	0	Twitter for Android
+PlumasDeSimurgh	WikiCFP	1384756267923632129	replied_to	2021-04-21 06:29:56+00:00	0	0	1	0	Twitter for Android
+cruzcerda3	HarshitRMahajan	1384754981119533061	replied_to	2021-04-21 06:24:49+00:00	0	1	1	0	TweetDeck
+cruzcerda3	infosec_cfp	1384754981119533061	replied_to	2021-04-21 06:24:49+00:00	0	1	1	0	TweetDeck
+cruzcerda3	prorch_cfp	1384754981119533061	replied_to	2021-04-21 06:24:49+00:00	0	1	1	0	TweetDeck
+cruzcerda3	CFPapers	1384754981119533061	replied_to	2021-04-21 06:24:49+00:00	0	1	1	0	TweetDeck
+cruzcerda3	WikiCFP	1384754981119533061	replied_to	2021-04-21 06:24:49+00:00	0	1	1	0	TweetDeck
+rin_de_tatum	infosec_cfp	1384554377512247301	replied_to	2021-04-20 17:07:42+00:00	0	1	0	0	Twitter for Android
+rin_de_tatum	cfp_time	1384554377512247301	replied_to	2021-04-20 17:07:42+00:00	0	1	0	0	Twitter for Android
+rin_de_tatum	prorch_cfp	1384554377512247301	replied_to	2021-04-20 17:07:42+00:00	0	1	0	0	Twitter for Android
+rin_de_tatum	CFPapers	1384554377512247301	replied_to	2021-04-20 17:07:42+00:00	0	1	0	0	Twitter for Android
+rin_de_tatum	WikiCFP	1384554377512247301	replied_to	2021-04-20 17:07:42+00:00	0	1	0	0	Twitter for Android
+25vikram	HarshitRMahajan	1384547549953118209	replied_to	2021-04-20 16:40:34+00:00	0	1	2	0	Twitter for Android
+25vikram	cfp_time	1384547549953118209	replied_to	2021-04-20 16:40:34+00:00	0	1	2	0	Twitter for Android
+25vikram	prorch_cfp	1384547549953118209	replied_to	2021-04-20 16:40:34+00:00	0	1	2	0	Twitter for Android
+25vikram	CFPapers	1384547549953118209	replied_to	2021-04-20 16:40:34+00:00	0	1	2	0	Twitter for Android
+25vikram	WikiCFP	1384547549953118209	replied_to	2021-04-20 16:40:34+00:00	0	1	2	0	Twitter for Android
+KritasDimitrios	cfp_time	1384396050039930882	replied_to	2021-04-20 06:38:33+00:00	0	1	0	0	Twitter Web App
+KritasDimitrios	infosec_cfp	1384396050039930882	replied_to	2021-04-20 06:38:33+00:00	0	1	0	0	Twitter Web App
+KritasDimitrios	prorch_cfp	1384396050039930882	replied_to	2021-04-20 06:38:33+00:00	0	1	0	0	Twitter Web App
+KritasDimitrios	CFPapers	1384396050039930882	replied_to	2021-04-20 06:38:33+00:00	0	1	0	0	Twitter Web App
+KritasDimitrios	WikiCFP	1384396050039930882	replied_to	2021-04-20 06:38:33+00:00	0	1	0	0	Twitter Web App
+si_jacques	WikiCFP	1383309481677709312	mentioned	2021-04-17 06:40:55+00:00	0	0	0	0	CDADeathStar
+1barun	WikiCFP	1379962656531091457	mentioned	2021-04-08 01:01:50+00:00	3	0	0	0	Twitter_WHS_App
+tojha09	WikiCFP	1374814569357574148	mentioned	2021-03-24 20:05:10+00:00	0	0	0	0	Hootsuite Inc.
+Hishamierek	WikiCFP	1374129409913917443	mentioned	2021-03-22 22:42:36+00:00	1	0	0	0	Twitter_WHS_App
+HershMarion	WikiCFP	1364813838982533122	mentioned	2021-02-25 05:45:50+00:00	0	0	0	0	CDADeathStar
+imhulra	WikiCFP	1282626336494780421	mentioned	2020-07-13 10:42:03+00:00	0	0	1	0	Twitter Web App
+WebHostingSaver	WikiCFP	1282623979015077888	mentioned	2020-07-13 10:32:41+00:00	0	0	0	0	Twitter_WHS_App
+AIRCCFP	WikiCFP	1282548779804237824	mentioned	2020-07-13 05:33:52+00:00	0	0	0	0	Twitter Web App
+AIRCCFP	researchbib	1282548779804237824	mentioned	2020-07-13 05:33:52+00:00	0	0	0	0	Twitter Web App
+AIRCCFP	CSchacke	1282548779804237824	mentioned	2020-07-13 05:33:52+00:00	0	0	0	0	Twitter Web App
+AIRCCFP	ourglocal	1282548779804237824	mentioned	2020-07-13 05:33:52+00:00	0	0	0	0	Twitter Web App
+AIRCCFP	ksdwong	1282548779804237824	mentioned	2020-07-13 05:33:52+00:00	0	0	0	0	Twitter Web App
+CDADeathStar	WikiCFP	1280662690323673090	mentioned	2020-07-08 00:39:13+00:00	0	0	0	0	CDADeathStar
+ElectroImaging	WikiCFP	1278813760032038913	mentioned	2020-07-02 22:12:14+00:00	0	0	0	0	CDADeathStar
+Hishamierek	OpenConf	1278739026732777472	mentioned	2020-07-02 17:15:16+00:00	0	0	0	0	Hootsuite Inc.
+Hishamierek	WikiCFP	1278739026732777472	mentioned	2020-07-02 17:15:16+00:00	0	0	0	0	Hootsuite Inc.
+ImagingOrg	WikiCFP	1277256217254154240	quoted	2020-06-28 15:03:07+00:00	0	0	0	0	Twitter Web App
+ehasalud	WikiCFP	1276191080162213888	mentioned	2020-06-25 16:30:38+00:00	0	0	0	0	Hootsuite Inc.
+ehasalud	OpenConf	1276191080162213888	mentioned	2020-06-25 16:30:38+00:00	0	0	0	0	Hootsuite Inc.
+hardwear_io	WikiCFP	1276177096268750848	mentioned	2020-06-25 15:35:04+00:00	0	0	0	0	Hootsuite Inc.
+hardwear_io	OpenConf	1276177096268750848	mentioned	2020-06-25 15:35:04+00:00	0	0	0	0	Hootsuite Inc.
+SAGEPubIndia	WikiCFP	1275938787709915137	mentioned	2020-06-24 23:48:07+00:00	0	0	0	0	Twitter_WHS_App
+JDWallace3	ElectronicsMDPI	1275385704370049025	mentioned	2020-06-23 11:10:22+00:00	0	0	0	0	Twitter Web App
+JDWallace3	WikiCFP	1275385704370049025	mentioned	2020-06-23 11:10:22+00:00	0	0	0	0	Twitter Web App
+JDWallace3	CDC_eHealth	1275385704370049025	mentioned	2020-06-23 11:10:22+00:00	0	0	0	0	Twitter Web App
+JDWallace3	healthglobal	1275385704370049025	mentioned	2020-06-23 11:10:22+00:00	0	0	0	0	Twitter Web App
+JDWallace3	EHEALTHREPORTER	1275385704370049025	mentioned	2020-06-23 11:10:22+00:00	0	0	0	0	Twitter Web App
+heikopaulheim	WikiCFP	1274032964322709504	mentioned	2020-06-19 17:35:03+00:00	0	0	0	0	Hootsuite Inc.
+fnielsen	WikiCFP	1273685697468260352	mentioned	2020-06-18 18:35:08+00:00	0	0	0	0	Hootsuite Inc.
+grfdt12	GOSSArchitect	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	BooksArchitect	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	CFA_tweets	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	IITArchitecture	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	JCJarchitecture	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	WACommunity	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	archpaper	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	archforhumanity	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	CultHeritageTR	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	HeritageAtState	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	Heritage_Radio	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	WikiCFP	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+grfdt12	CFA_tweets	1272169876531142656	quoted	2020-06-14 14:11:48+00:00	0	0	0	0	Twitter Web App
+cruzcerda3	WikiCFP	1271118763254075393	mentioned	2020-06-11 16:35:04+00:00	0	0	0	0	Hootsuite Inc.
+faceaffinity	WikiCFP	1269626823824027655	quoted	2020-06-07 13:46:37+00:00	0	0	0	0	Twitter Web App
+CDADeathStar	WikiCFP	1227871779772825603	mentioned	2020-02-13 08:26:59+00:00	0	0	0	0	CDADeathStar
+thephdstory	WikiCFP	1227768650226192384	mentioned	2020-02-13 01:37:11+00:00	0	0	0	0	CDADeathStar
+WebHostingSaver	WikiCFP	1227742326589739008	mentioned	2020-02-12 23:52:35+00:00	0	0	0	0	CDADeathStar
+Krenner	WikiCFP	1227117611089088515	mentioned	2020-02-11 06:30:11+00:00	0	0	0	0	CDADeathStar
+BsidesSD	WikiCFP	1227029018966396929	mentioned	2020-02-11 00:38:09+00:00	0	0	0	0	CDADeathStar
+ImagingOrg	WikiCFP	1226360535630794753	replied_to	2020-02-09 04:21:51+00:00	0	0	3	0	Twitter Web App
+CrimeFic	WikiCFP	1225902195356422145	mentioned	2020-02-07 22:00:34+00:00	0	0	0	0	CDADeathStar
+splcconf	WikiCFP	1225561023891017731	mentioned	2020-02-06 23:24:52+00:00	0	0	0	0	CDADeathStar
+susmitj	WikiCFP	1224435163460849665	mentioned	2020-02-03 20:51:06+00:00	0	0	0	0	CDADeathStar
+nullcon	WikiCFP	1224415937715228672	mentioned	2020-02-03 19:34:42+00:00	0	0	0	0	CDADeathStar
+ValentinoLucaZ	WikiCFP	1224400836882763781	mentioned	2020-02-03 18:34:42+00:00	0	0	0	0	CDADeathStar
+grfdt12	WikiCFP	1222728760144932866	mentioned	2020-01-30 03:50:28+00:00	0	0	0	0	CDADeathStar
+GuardJ34n	IEEE	1220591819689529344	mentioned	2020-01-24 06:19:01+00:00	0	0	0	0	CDADeathStar
+GuardJ34n	WikiCFP	1220591819689529344	mentioned	2020-01-24 06:19:01+00:00	0	0	0	0	CDADeathStar
+ElectroImaging	WikiCFP	1220541593737973763	mentioned	2020-01-24 02:59:27+00:00	0	0	0	0	CDADeathStar
+EditComillas	UCOMILLAS	1170305211216220160	mentioned	2019-09-07 11:58:00+00:00	0	0	3	0	Twitter for Advertisers.
+EditComillas	WikiCFP	1170305211216220160	mentioned	2019-09-07 11:58:00+00:00	0	0	3	0	Twitter for Advertisers.
+ValentinoLucaZ	WikiCFP	1166678489241722881	replied_to	2019-08-28 11:46:42+00:00	2	1	0	0	Twitter Web App
+WebHostingSaver	JGNandComics	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	WikiCFP	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	INKS_ComicsJrnl	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	cssorg	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	ComicsBD	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	TORCHComicsOx	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	QueersComics	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	ComicsVerse	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	Arts_Routledge	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	ALA_PLA	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	libcomix	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	TheIGNCC	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	GSC_CSS	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	GraphicSocSci	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	LexComica	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	GraphicMedicine	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+WebHostingSaver	alanews	1165983115623448576	mentioned	2019-08-26 13:43:32+00:00	18	0	23	1	Twitter Web App
+GDGBud	WikiCFP	1164224029261279234	mentioned	2019-08-21 17:13:33+00:00	0	0	0	0	Twitter_WHS_App
+nirmalyakar	WikiCFP	1163440745979752448	replied_to	2019-08-19 13:21:04+00:00	0	0	0	0	Twitter Web App
+nirmalyakar	WikiCFP	1163440745979752448	replied_to	2019-08-19 13:21:04+00:00	0	0	0	0	Twitter Web App
+CDADeathStar	WikiCFP	1163439764403605504	mentioned	2019-08-19 13:17:10+00:00	1	1	1	0	Twitter Web App
+aiidan96	WikiCFP	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+aiidan96	ConfMonkey	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+aiidan96	all_conf_alert	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+aiidan96	conf_alert	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+aiidan96	Conf_Alerts_Ind	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+aiidan96	ConfAlert_India	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+aiidan96	Inte_Conf_Alert	1162393007540191235	quoted	2019-08-16 15:57:43+00:00	0	0	0	0	Twitter Web App
+ImagingOrg	WikiCFP	1161686576751153160	mentioned	2019-08-14 17:10:37+00:00	0	0	0	0	CDADeathStar
+barland	WikiCFP	1161433234724589574	mentioned	2019-08-14 00:23:56+00:00	0	0	0	0	CDADeathStar
+ElectroImaging	WikiCFP	1160960508356386816	mentioned	2019-08-12 17:05:29+00:00	0	0	0	0	CDADeathStar
+MichaelAupetit	WikiCFP	1155825129856864258	mentioned	2019-07-29 12:59:19+00:00	2	0	0	0	Twitter_WHS_App
+AineMacD	WikiCFP	1155111544704946176	mentioned	2019-07-27 13:43:47+00:00	0	0	1	0	Twitter for iPhone
+vxdmicroservice	JGNandComics	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	WikiCFP	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	INKS_ComicsJrnl	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	cssorg	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	ComicsBD	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	TORCHComicsOx	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	BuzzFeedComics	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	_comicbuzz	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	ComicsVerse	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	Arts_Routledge	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	ALA_PLA	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	libcomix	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	TheIGNCC	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	GSC_CSS	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	GraphicSocSci	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	LexComica	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	GraphicMedicine	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+vxdmicroservice	alanews	1154840710669053952	mentioned	2019-07-26 19:47:35+00:00	18	0	22	3	Twitter Web App
+ITConfChannel	WikiCFP	1151563760030666752	mentioned	2019-07-17 18:46:10+00:00	1	0	0	0	Sendible
+venkumaar	WikiCFP	1150850288259149824	mentioned	2019-07-15 19:31:05+00:00	0	0	0	0	Twitter Web Client
+HUMAN_HT	WikiCFP	1149493365794205696	mentioned	2019-07-12 01:39:09+00:00	0	0	0	0	CDADeathStar
+IgorBrigadir	WikiCFP	1149387921310568449	mentioned	2019-07-11 18:40:09+00:00	0	0	0	0	Hootsuite Inc.
+skontopo	WikiCFP	1149360255907827713	mentioned	2019-07-11 16:50:13+00:00	0	0	0	0	Twitter_WHS_App
+openbugbounty	WikiCFP	1149067573167886337	mentioned	2019-07-10 21:27:12+00:00	0	0	0	0	Twitter Web Client
+WencyZhang3	WikiCFP	1148738483370057728	mentioned	2019-07-09 23:39:31+00:00	0	0	0	0	CDADeathStar
+sksk6536	WikiCFP	1148729282560180225	mentioned	2019-07-09 23:02:57+00:00	0	0	0	0	CDADeathStar
+GeorgiosLappas	WikiCFP	1148710120056078336	mentioned	2019-07-09 21:46:49+00:00	0	0	0	0	CDADeathStar
+CDADeathStar	WikiCFP	1110303975201562630	mentioned	2019-03-25 22:14:30+00:00	0	0	0	0	CDADeathStar
+formalmethods21	WikiCFP	1110287839516917767	mentioned	2019-03-25 21:10:23+00:00	0	0	0	0	CDADeathStar
+AGRC20191	FormalMtds	1110227775967973377	mentioned	2019-03-25 17:11:43+00:00	3	0	5	1	Twitter Web Client
+AGRC20191	WikiCFP	1110227775967973377	mentioned	2019-03-25 17:11:43+00:00	3	0	5	1	Twitter Web Client
+KeoAeic	WikiCFP	1109955359685390337	mentioned	2019-03-24 23:09:14+00:00	0	0	0	0	Twitter Web Client
+cuttertweets	WikiCFP	1109784281671335936	mentioned	2019-03-24 11:49:26+00:00	2	0	0	0	Twitter for iPhone
+USydSLC	WikiCFP	1109259482637447169	mentioned	2019-03-23 01:04:04+00:00	0	0	0	0	CDADeathStar
+andras_io	WikiCFP	1108485844082528261	mentioned	2019-03-20 21:49:54+00:00	0	0	0	0	CDADeathStar
+meherfalcon	WikiCFP	1108456895755501568	mentioned	2019-03-20 19:54:52+00:00	0	0	0	0	CDADeathStar
+haddara	WikiCFP	1108432806672297984	mentioned	2019-03-20 18:19:09+00:00	0	0	0	0	Twitter Web Client
+haddara	popecork	1108432806672297984	mentioned	2019-03-20 18:19:09+00:00	0	0	0	0	Twitter Web Client
+ImagingOrg	WikiCFP	1108415249747767297	mentioned	2019-03-20 17:09:23+00:00	0	0	0	0	CDADeathStar
+CodeBrewLabs	WikiCFP	1108072807341142019	mentioned	2019-03-19 18:28:38+00:00	0	0	0	0	CDADeathStar
+Mynameisshaoxun	WikiCFP	1106732605460889602	mentioned	2019-03-16 01:43:09+00:00	0	0	0	0	CDADeathStar
+ValentinoLucaZ	WikiCFP	1106245127650070529	mentioned	2019-03-14 17:26:06+00:00	0	0	0	0	Twitter Web Client
+ValentinoLucaZ	popecork	1106245127650070529	mentioned	2019-03-14 17:26:06+00:00	0	0	0	0	Twitter Web Client
+CodemotionIT	WikiCFP	1105229251094237186	mentioned	2019-03-11 22:09:22+00:00	0	0	0	0	CDADeathStar
+wylliams	WikiCFP	1069921920634839040	mentioned	2018-12-04 11:50:38+00:00	0	0	1	0	Twitter Web Client
+ValentinoLucaZ	WikiCFP	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	JGNandComics	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	cssorg	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	CallPapers	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	GSC_CSS	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	libcomix	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	GraphicMedicine	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	ComicNurse	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	AnUncivilPhD	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	psychoanalysis_	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	TheIGNCC	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	theIoPA	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	CallPapers	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+ValentinoLucaZ	QueersComics	1069634880802308096	mentioned	2018-12-03 16:50:03+00:00	9	0	10	2	Twitter Web Client
+NeurologyStroke	WikiCFP	1068490516394729472	mentioned	2018-11-30 13:02:45+00:00	0	0	2	0	Twitter Web Client
+ImagingOrg	cni_org	1068185845356773378	mentioned	2018-11-29 16:52:06+00:00	0	0	0	0	Sendible
+ImagingOrg	archivists_org	1068185845356773378	mentioned	2018-11-29 16:52:06+00:00	0	0	0	0	Sendible
+ImagingOrg	dpc_chat	1068185845356773378	mentioned	2018-11-29 16:52:06+00:00	0	0	0	0	Sendible
+ImagingOrg	WikiCFP	1068185845356773378	mentioned	2018-11-29 16:52:06+00:00	0	0	0	0	Sendible
+ImagingOrg	amhistorymuseum	1068185845356773378	mentioned	2018-11-29 16:52:06+00:00	0	0	0	0	Sendible
+cuttertweets	cni_org	1067823464181100545	mentioned	2018-11-28 16:52:07+00:00	0	0	0	0	Sendible
+cuttertweets	archivists_org	1067823464181100545	mentioned	2018-11-28 16:52:07+00:00	0	0	0	0	Sendible
+cuttertweets	dpc_chat	1067823464181100545	mentioned	2018-11-28 16:52:07+00:00	0	0	0	0	Sendible
+cuttertweets	WikiCFP	1067823464181100545	mentioned	2018-11-28 16:52:07+00:00	0	0	0	0	Sendible
+cuttertweets	amhistorymuseum	1067823464181100545	mentioned	2018-11-28 16:52:07+00:00	0	0	0	0	Sendible
+KeoAeic	cni_org	1067461083244478464	mentioned	2018-11-27 16:52:09+00:00	0	0	0	0	Sendible
+KeoAeic	archivists_org	1067461083244478464	mentioned	2018-11-27 16:52:09+00:00	0	0	0	0	Sendible
+KeoAeic	dpc_chat	1067461083244478464	mentioned	2018-11-27 16:52:09+00:00	0	0	0	0	Sendible
+KeoAeic	WikiCFP	1067461083244478464	mentioned	2018-11-27 16:52:09+00:00	0	0	0	0	Sendible
+KeoAeic	amhistorymuseum	1067461083244478464	mentioned	2018-11-27 16:52:09+00:00	0	0	0	0	Sendible
+tes51e	cni_org	1067098662902349824	mentioned	2018-11-26 16:52:01+00:00	0	0	0	0	Sendible
+tes51e	archivists_org	1067098662902349824	mentioned	2018-11-26 16:52:01+00:00	0	0	0	0	Sendible
+tes51e	dpc_chat	1067098662902349824	mentioned	2018-11-26 16:52:01+00:00	0	0	0	0	Sendible
+tes51e	WikiCFP	1067098662902349824	mentioned	2018-11-26 16:52:01+00:00	0	0	0	0	Sendible
+tes51e	amhistorymuseum	1067098662902349824	mentioned	2018-11-26 16:52:01+00:00	0	0	0	0	Sendible
+CDADeathStar	WikiCFP	1067095754307772417	mentioned	2018-11-26 16:40:28+00:00	0	0	1	2	Twitter Web Client
+CDADeathStar	santweets	1067095754307772417	mentioned	2018-11-26 16:40:28+00:00	0	0	1	2	Twitter Web Client
+ieeeiv2019	WikiCFP	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	JGNandComics	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	cssorg	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	ComicsBD	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	TORCHComicsOx	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	BuzzFeedComics	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	_comicbuzz	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	CallPapers	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	PsychToday	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	APADiv39	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	theIoPA	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	The_IJP	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	theNYPSI	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ieeeiv2019	psychoanalysis_	1067087851333083138	mentioned	2018-11-26 16:09:03+00:00	3	0	3	0	Twitter Web Client
+ICSAconf	cni_org	1066736305579745281	mentioned	2018-11-25 16:52:08+00:00	0	0	0	0	Sendible
+ICSAconf	archivists_org	1066736305579745281	mentioned	2018-11-25 16:52:08+00:00	0	0	0	0	Sendible
+ICSAconf	dpc_chat	1066736305579745281	mentioned	2018-11-25 16:52:08+00:00	0	0	0	0	Sendible
+ICSAconf	WikiCFP	1066736305579745281	mentioned	2018-11-25 16:52:08+00:00	0	0	0	0	Sendible
+ICSAconf	amhistorymuseum	1066736305579745281	mentioned	2018-11-25 16:52:08+00:00	0	0	0	0	Sendible
+stateviolenceRN	cni_org	1066373912873889792	mentioned	2018-11-24 16:52:07+00:00	1	0	0	0	Sendible
+stateviolenceRN	archivists_org	1066373912873889792	mentioned	2018-11-24 16:52:07+00:00	1	0	0	0	Sendible
+stateviolenceRN	dpc_chat	1066373912873889792	mentioned	2018-11-24 16:52:07+00:00	1	0	0	0	Sendible
+stateviolenceRN	WikiCFP	1066373912873889792	mentioned	2018-11-24 16:52:07+00:00	1	0	0	0	Sendible
+stateviolenceRN	amhistorymuseum	1066373912873889792	mentioned	2018-11-24 16:52:07+00:00	1	0	0	0	Sendible
+HarshitRMahajan	cni_org	1066011525457068032	mentioned	2018-11-23 16:52:07+00:00	0	0	0	0	Sendible
+HarshitRMahajan	archivists_org	1066011525457068032	mentioned	2018-11-23 16:52:07+00:00	0	0	0	0	Sendible
+HarshitRMahajan	dpc_chat	1066011525457068032	mentioned	2018-11-23 16:52:07+00:00	0	0	0	0	Sendible
+HarshitRMahajan	WikiCFP	1066011525457068032	mentioned	2018-11-23 16:52:07+00:00	0	0	0	0	Sendible
+HarshitRMahajan	amhistorymuseum	1066011525457068032	mentioned	2018-11-23 16:52:07+00:00	0	0	0	0	Sendible
+ICIN_conference	WikiCFP	1065884345578283008	mentioned	2018-11-23 08:26:45+00:00	0	0	1	0	Twitter Web Client
+ICIN_conference	ELSFinance	1065884345578283008	mentioned	2018-11-23 08:26:45+00:00	0	0	1	0	Twitter Web Client
+brookes_oa	cni_org	1065649126304595968	mentioned	2018-11-22 16:52:05+00:00	0	0	0	0	Sendible
+brookes_oa	archivists_org	1065649126304595968	mentioned	2018-11-22 16:52:05+00:00	0	0	0	0	Sendible
+brookes_oa	dpc_chat	1065649126304595968	mentioned	2018-11-22 16:52:05+00:00	0	0	0	0	Sendible
+brookes_oa	WikiCFP	1065649126304595968	mentioned	2018-11-22 16:52:05+00:00	0	0	0	0	Sendible
+brookes_oa	amhistorymuseum	1065649126304595968	mentioned	2018-11-22 16:52:05+00:00	0	0	0	0	Sendible
+ISOC_OTA	cni_org	1065286760148684800	mentioned	2018-11-21 16:52:10+00:00	0	0	2	0	Sendible
+ISOC_OTA	archivists_org	1065286760148684800	mentioned	2018-11-21 16:52:10+00:00	0	0	2	0	Sendible
+ISOC_OTA	dpc_chat	1065286760148684800	mentioned	2018-11-21 16:52:10+00:00	0	0	2	0	Sendible
+ISOC_OTA	WikiCFP	1065286760148684800	mentioned	2018-11-21 16:52:10+00:00	0	0	2	0	Sendible
+ISOC_OTA	amhistorymuseum	1065286760148684800	mentioned	2018-11-21 16:52:10+00:00	0	0	2	0	Sendible
+kylegvolk	WikiCFP	1065147515069231104	replied_to	2018-11-21 07:38:51+00:00	0	0	0	0	Twitter for iPad
+Brewed_Culture	cni_org	1064924364288724992	mentioned	2018-11-20 16:52:08+00:00	0	0	0	0	Sendible
+Brewed_Culture	archivists_org	1064924364288724992	mentioned	2018-11-20 16:52:08+00:00	0	0	0	0	Sendible
+Brewed_Culture	dpc_chat	1064924364288724992	mentioned	2018-11-20 16:52:08+00:00	0	0	0	0	Sendible
+Brewed_Culture	WikiCFP	1064924364288724992	mentioned	2018-11-20 16:52:08+00:00	0	0	0	0	Sendible
+Brewed_Culture	amhistorymuseum	1064924364288724992	mentioned	2018-11-20 16:52:08+00:00	0	0	0	0	Sendible
+Loiarchives	WikiCFP	1064618725272416256	mentioned	2018-11-19 20:37:38+00:00	0	0	0	0	CDADeathStar
+brianleechphd	WikiCFP	1064597879954788352	mentioned	2018-11-19 19:14:48+00:00	0	0	0	0	CDADeathStar
+ReelNOLA	WikiCFP	1064590097067188224	mentioned	2018-11-19 18:43:52+00:00	0	0	0	0	CDADeathStar
+CBlair_EE	cni_org	1064561984589447171	mentioned	2018-11-19 16:52:10+00:00	2	0	2	0	Sendible
+CBlair_EE	archivists_org	1064561984589447171	mentioned	2018-11-19 16:52:10+00:00	2	0	2	0	Sendible
+CBlair_EE	dpc_chat	1064561984589447171	mentioned	2018-11-19 16:52:10+00:00	2	0	2	0	Sendible
+CBlair_EE	WikiCFP	1064561984589447171	mentioned	2018-11-19 16:52:10+00:00	2	0	2	0	Sendible
+CBlair_EE	amhistorymuseum	1064561984589447171	mentioned	2018-11-19 16:52:10+00:00	2	0	2	0	Sendible
+chatzimisios	cni_org	1064199571071471617	mentioned	2018-11-18 16:52:04+00:00	0	0	0	0	Sendible
+chatzimisios	archivists_org	1064199571071471617	mentioned	2018-11-18 16:52:04+00:00	0	0	0	0	Sendible
+chatzimisios	dpc_chat	1064199571071471617	mentioned	2018-11-18 16:52:04+00:00	0	0	0	0	Sendible
+chatzimisios	WikiCFP	1064199571071471617	mentioned	2018-11-18 16:52:04+00:00	0	0	0	0	Sendible
+chatzimisios	amhistorymuseum	1064199571071471617	mentioned	2018-11-18 16:52:04+00:00	0	0	0	0	Sendible
+cuttertweets	WikiCFP	1014963255201206272	mentioned	2018-07-05 20:04:31+00:00	0	0	0	0	Twitter Web Client
+cuttertweets	cbaudoin	1014963255201206272	mentioned	2018-07-05 20:04:31+00:00	0	0	0	0	Twitter Web Client
+ictss2018	univcadiz	1014057675632635904	mentioned	2018-07-03 08:06:04+00:00	0	0	0	0	Twitter Web Client
+ictss2018	Divulga_UCA	1014057675632635904	mentioned	2018-07-03 08:06:04+00:00	0	0	0	0	Twitter Web Client
+ictss2018	comp_science	1014057675632635904	mentioned	2018-07-03 08:06:04+00:00	0	0	0	0	Twitter Web Client
+ictss2018	WikiCFP	1014057675632635904	mentioned	2018-07-03 08:06:04+00:00	0	0	0	0	Twitter Web Client
+CodemotionIT	mozTechCFPs	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	BTechMeetup	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	TCEurope	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	PhpCfps	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	Prorch	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	WikiCFP	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	prorch_cfp	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	lanyrd	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	ItCfpList	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	TheTechThings	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	nocfp	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	Milano_JS	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CodemotionIT	WomanSpeakers	1013827491126005760	mentioned	2018-07-02 16:51:24+00:00	5	0	9	0	Twitter Web Client
+CDADeathStar	WikiCFP	1012518872732270592	mentioned	2018-06-29 02:11:25+00:00	0	0	0	0	CDADeathStar
+JOSELUISDELMOR1	WikiCFP	1012395282397646849	mentioned	2018-06-28 18:00:19+00:00	0	0	0	0	CDADeathStar
+AhmedoufIerek	WikiCFP	1011103955768741888	mentioned	2018-06-25 04:29:03+00:00	0	0	0	0	CDADeathStar
+lukelim369	WikiCFP	1010867090818027520	replied_to	2018-06-24 12:47:50+00:00	0	0	0	0	Twitter for iPhone
+TadashiOkoshi	WikiCFP	1010430966261796864	mentioned	2018-06-23 07:54:49+00:00	0	0	0	0	Twitter Web Client
+Biotechnology2k	WikiCFP	1010318587112849409	mentioned	2018-06-23 00:28:16+00:00	0	0	0	0	CDADeathStar
+CodemotionWorld	WikiCFP	1010254469643296768	mentioned	2018-06-22 20:13:29+00:00	0	0	0	0	CDADeathStar
+zfalomir	WikiCFP	1010242899575963648	mentioned	2018-06-22 19:27:31+00:00	0	0	0	0	CDADeathStar
+KarinagibertK	WikiCFP	1010060874386534400	mentioned	2018-06-22 07:24:13+00:00	0	0	0	0	Twitter Web Client
+molnarba	WikiCFP	1009666089029120000	mentioned	2018-06-21 05:15:28+00:00	0	0	0	0	CDADeathStar
+TeCoMo_MT	WikiCFP	1009634846942138368	mentioned	2018-06-21 03:11:20+00:00	0	0	0	0	CDADeathStar

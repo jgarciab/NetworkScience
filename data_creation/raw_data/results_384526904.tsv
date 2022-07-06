@@ -1,0 +1,543 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+AmazonScience	MattTaddy	1528972108910534657	replied_to	2022-05-24 05:32:12+00:00	0	0	0	0	Twitter for iPhone
+AmazonScience	BigDataMetrics	1528972108910534657	replied_to	2022-05-24 05:32:12+00:00	0	0	0	0	Twitter for iPhone
+Zalaventurero	MattTaddy	1527256154266644480	replied_to	2022-05-19 11:53:36+00:00	0	1	0	0	Twitter for Android
+Zalaventurero	BigDataMetrics	1527256154266644480	replied_to	2022-05-19 11:53:36+00:00	0	1	0	0	Twitter for Android
+primadecorative	AmazonScience	1526236458452852739	replied_to	2022-05-16 16:21:42+00:00	0	0	0	0	Twitter Web App
+primadecorative	MattTaddy	1526236458452852739	replied_to	2022-05-16 16:21:42+00:00	0	0	0	0	Twitter Web App
+primadecorative	BigDataMetrics	1526236458452852739	replied_to	2022-05-16 16:21:42+00:00	0	0	0	0	Twitter Web App
+primadecorative	UofSC	1526236458452852739	replied_to	2022-05-16 16:21:42+00:00	0	0	0	0	Twitter Web App
+GaborBekes	AmazonScience	1526234360256401408	replied_to	2022-05-16 16:13:22+00:00	0	0	0	0	Twitter Web App
+GaborBekes	MattTaddy	1526234360256401408	replied_to	2022-05-16 16:13:22+00:00	0	0	0	0	Twitter Web App
+GaborBekes	BigDataMetrics	1526234360256401408	replied_to	2022-05-16 16:13:22+00:00	0	0	0	0	Twitter Web App
+GaborBekes	UofSC	1526234360256401408	replied_to	2022-05-16 16:13:22+00:00	0	0	0	0	Twitter Web App
+NickSinghTech	MattTaddy	1526231109880664066	mentioned	2022-05-16 16:00:27+00:00	12	3	19	2	Sprout Social
+NickSinghTech	BigDataMetrics	1526231109880664066	mentioned	2022-05-16 16:00:27+00:00	12	3	19	2	Sprout Social
+NickSinghTech	UofSC	1526231109880664066	mentioned	2022-05-16 16:00:27+00:00	12	3	19	2	Sprout Social
+arXiv__ml	BigDataMetrics	1526199579275821057	replied_to	2022-05-16 13:55:09+00:00	0	0	1	0	Twitter Web App
+arXiv__ml	MattTaddy	1526199579275821057	replied_to	2022-05-16 13:55:09+00:00	0	0	1	0	Twitter Web App
+BigDataMetrics	causalinf	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+BigDataMetrics	nickchk	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+BigDataMetrics	StatModeling	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+BigDataMetrics	MattTaddy	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+BigDataMetrics	metrics52	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+BigDataMetrics	jmwooldridge	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+BigDataMetrics	mike_luca	1522581377794953219	replied_to	2022-05-06 14:17:43+00:00	4	1	20	1	Twitter Web App
+WaterFront8	MattTaddy	1521164702822318082	replied_to	2022-05-02 16:28:21+00:00	0	1	3	0	Twitter Web App
+mube_shir	AmazonScience	1518617156438704130	mentioned	2022-04-25 15:45:19+00:00	0	0	0	0	IFTTT
+mube_shir	MattTaddy	1518617156438704130	mentioned	2022-04-25 15:45:19+00:00	0	0	0	0	IFTTT
+mube_shir	towards_AI	1518617156438704130	mentioned	2022-04-25 15:45:19+00:00	0	0	0	0	IFTTT
+Docell6	MattTaddy	1515111807811158016	mentioned	2022-04-15 23:36:19+00:00	5	1	45	0	Twitter for iPhone
+TheSequenceAI	MattTaddy	1514556142160130048	mentioned	2022-04-14 10:48:18+00:00	0	1	1	0	Twitter for iPhone
+arxivabs	Airdrop365Team	1499643424277995520	replied_to	2022-03-04 07:10:29+00:00	0	0	0	0	Twitter for Android
+arxivabs	MattTaddy	1499643424277995520	replied_to	2022-03-04 07:10:29+00:00	0	0	0	0	Twitter for Android
+AyalChenZion	ClassicTad	1483385434264961025	quoted	2022-01-18 10:27:02+00:00	0	0	0	0	Twitter Web App
+AyalChenZion	MattTaddy	1483385434264961025	quoted	2022-01-18 10:27:02+00:00	0	0	0	0	Twitter Web App
+jaypalter	MattTaddy	1479555276911136772	replied_to	2022-01-07 20:47:21+00:00	0	0	0	0	Twitter Web App
+maxhfarrell	MattTaddy	1476988315467489285	mentioned	2021-12-31 18:47:10+00:00	4	0	34	0	FeedHive.io
+maxhfarrell	maycotte	1476988315467489285	mentioned	2021-12-31 18:47:10+00:00	4	0	34	0	FeedHive.io
+maxhfarrell	Molecula	1476988315467489285	mentioned	2021-12-31 18:47:10+00:00	4	0	34	0	FeedHive.io
+simonhhess	AyalChenZion	1464425499258724357	replied_to	2021-11-27 02:47:01+00:00	0	0	0	0	Twitter
+simonhhess	A_Schwa	1464425499258724357	replied_to	2021-11-27 02:47:01+00:00	0	0	0	0	Twitter
+simonhhess	YFeyman	1464425499258724357	replied_to	2021-11-27 02:47:01+00:00	0	0	0	0	Twitter
+simonhhess	MattTaddy	1464425499258724357	replied_to	2021-11-27 02:47:01+00:00	0	0	0	0	Twitter
+StephanHollan	A_Schwa	1464425204470349826	replied_to	2021-11-27 02:45:51+00:00	0	1	2	0	Twitter for iPhone
+StephanHollan	YFeyman	1464425204470349826	replied_to	2021-11-27 02:45:51+00:00	0	1	2	0	Twitter for iPhone
+StephanHollan	MattTaddy	1464425204470349826	replied_to	2021-11-27 02:45:51+00:00	0	1	2	0	Twitter for iPhone
+AEAjournals	A_Schwa	1464423864021098499	replied_to	2021-11-27 02:40:31+00:00	0	1	6	0	Twitter for iPhone
+AEAjournals	YFeyman	1464423864021098499	replied_to	2021-11-27 02:40:31+00:00	0	1	6	0	Twitter for iPhone
+AEAjournals	MattTaddy	1464423864021098499	replied_to	2021-11-27 02:40:31+00:00	0	1	6	0	Twitter for iPhone
+anjumiqbal	appliedAIbook	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	LancasterUni	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	kaifulee	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	HarvardBiz	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	pmddomingos	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	alexcastrounis	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	MattTaddy	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	jimsterne	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	mikewalsh	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+anjumiqbal	anjumiqbal	1460026721902682112	mentioned	2021-11-14 23:27:51+00:00	1	0	2	0	SocialPilot.co
+marxmatt	AmazonScience	1455440797415919616	mentioned	2021-11-02 07:45:01+00:00	0	0	1	0	IFTTT
+marxmatt	MattTaddy	1455440797415919616	mentioned	2021-11-02 07:45:01+00:00	0	0	1	0	IFTTT
+marxmatt	towards_AI	1455440797415919616	mentioned	2021-11-02 07:45:01+00:00	0	0	1	0	IFTTT
+taylor_wright	maxhfarrell	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+taylor_wright	simonhhess	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+taylor_wright	jasonhartford	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+taylor_wright	econ_greg	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+taylor_wright	k_leyton_brown	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+taylor_wright	MattTaddy	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+taylor_wright	sanjog_misra	1451970933422440453	replied_to	2021-10-23 17:57:01+00:00	0	0	1	0	Twitter
+ronuraltindag	simonhhess	1451970751205154817	replied_to	2021-10-23 17:56:18+00:00	0	1	1	0	Twitter Web App
+ronuraltindag	jasonhartford	1451970751205154817	replied_to	2021-10-23 17:56:18+00:00	0	1	1	0	Twitter Web App
+ronuraltindag	econ_greg	1451970751205154817	replied_to	2021-10-23 17:56:18+00:00	0	1	1	0	Twitter Web App
+ronuraltindag	k_leyton_brown	1451970751205154817	replied_to	2021-10-23 17:56:18+00:00	0	1	1	0	Twitter Web App
+ronuraltindag	MattTaddy	1451970751205154817	replied_to	2021-10-23 17:56:18+00:00	0	1	1	0	Twitter Web App
+ronuraltindag	sanjog_misra	1451970751205154817	replied_to	2021-10-23 17:56:18+00:00	0	1	1	0	Twitter Web App
+Nemaykuzur2	maxhfarrell	1451516876174020614	replied_to	2021-10-22 11:52:45+00:00	0	1	1	0	Twitter Web App
+Nemaykuzur2	jasonhartford	1451516876174020614	replied_to	2021-10-22 11:52:45+00:00	0	1	1	0	Twitter Web App
+Nemaykuzur2	econ_greg	1451516876174020614	replied_to	2021-10-22 11:52:45+00:00	0	1	1	0	Twitter Web App
+Nemaykuzur2	k_leyton_brown	1451516876174020614	replied_to	2021-10-22 11:52:45+00:00	0	1	1	0	Twitter Web App
+Nemaykuzur2	MattTaddy	1451516876174020614	replied_to	2021-10-22 11:52:45+00:00	0	1	1	0	Twitter Web App
+Nemaykuzur2	sanjog_misra	1451516876174020614	replied_to	2021-10-22 11:52:45+00:00	0	1	1	0	Twitter Web App
+mktgbest	simonhhess	1451508879288848386	replied_to	2021-10-22 11:20:59+00:00	0	1	1	0	Twitter Web App
+mktgbest	jasonhartford	1451508879288848386	replied_to	2021-10-22 11:20:59+00:00	0	1	1	0	Twitter Web App
+mktgbest	econ_greg	1451508879288848386	replied_to	2021-10-22 11:20:59+00:00	0	1	1	0	Twitter Web App
+mktgbest	k_leyton_brown	1451508879288848386	replied_to	2021-10-22 11:20:59+00:00	0	1	1	0	Twitter Web App
+mktgbest	MattTaddy	1451508879288848386	replied_to	2021-10-22 11:20:59+00:00	0	1	1	0	Twitter Web App
+mktgbest	sanjog_misra	1451508879288848386	replied_to	2021-10-22 11:20:59+00:00	0	1	1	0	Twitter Web App
+UBC_CS	appliedAIbook	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	LancasterUni	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	kaifulee	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	HarvardBiz	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	pmddomingos	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	alexcastrounis	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	MattTaddy	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	jimsterne	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	mikewalsh	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	analyticsinme	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+UBC_CS	anjumiqbal	1442269771827802116	mentioned	2021-09-26 23:28:04+00:00	7	0	6	0	SocialPilot.co
+NurAhmedB	MattTaddy	1437504163622096898	quoted	2021-09-13 19:51:14+00:00	0	0	1	0	Twitter for iPhone
+GurbaxaniVijay	MattTaddy	1437399236841250816	mentioned	2021-09-13 12:54:18+00:00	10	0	25	4	Twitter Web App
+datadecisioning	appliedAIbook	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	LancasterUni	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	kaifulee	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	HarvardBiz	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	pmddomingos	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	alexcastrounis	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	MattTaddy	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	jimsterne	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	mikewalsh	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+datadecisioning	analyticsinme	1436727051759796225	mentioned	2021-09-11 16:23:16+00:00	6	0	3	1	SocialPilot.co
+jasonhartford	mattsclancy	1431246111918993411	replied_to	2021-08-27 13:23:59+00:00	0	0	1	0	Twitter Web App
+jasonhartford	MattTaddy	1431246111918993411	replied_to	2021-08-27 13:23:59+00:00	0	0	1	0	Twitter Web App
+krikamol	jasonhartford	1418604232882667520	mentioned	2021-07-23 16:09:40+00:00	4	1	14	0	Twitter Web App
+krikamol	econ_greg	1418604232882667520	mentioned	2021-07-23 16:09:40+00:00	4	1	14	0	Twitter Web App
+krikamol	k_leyton_brown	1418604232882667520	mentioned	2021-07-23 16:09:40+00:00	4	1	14	0	Twitter Web App
+krikamol	MattTaddy	1418604232882667520	mentioned	2021-07-23 16:09:40+00:00	4	1	14	0	Twitter Web App
+MC_Knaus	ronuraltindag	1386460446690058241	replied_to	2021-04-25 23:21:44+00:00	0	0	1	0	Twitter for iPhone
+MC_Knaus	dsebastiantello	1386460446690058241	replied_to	2021-04-25 23:21:44+00:00	0	0	1	0	Twitter for iPhone
+MC_Knaus	jmwooldridge	1386460446690058241	replied_to	2021-04-25 23:21:44+00:00	0	0	1	0	Twitter for iPhone
+MC_Knaus	MattTaddy	1386460446690058241	replied_to	2021-04-25 23:21:44+00:00	0	0	1	0	Twitter for iPhone
+MC_Knaus	EdwardTufte	1386460446690058241	replied_to	2021-04-25 23:21:44+00:00	0	0	1	0	Twitter for iPhone
+MC_Knaus	CT_Bergstrom	1386460446690058241	replied_to	2021-04-25 23:21:44+00:00	0	0	1	0	Twitter for iPhone
+jasonroy	dsebastiantello	1386402344531742721	replied_to	2021-04-25 19:30:51+00:00	0	1	2	0	Twitter Web App
+jasonroy	jmwooldridge	1386402344531742721	replied_to	2021-04-25 19:30:51+00:00	0	1	2	0	Twitter Web App
+jasonroy	MattTaddy	1386402344531742721	replied_to	2021-04-25 19:30:51+00:00	0	1	2	0	Twitter Web App
+jasonroy	EdwardTufte	1386402344531742721	replied_to	2021-04-25 19:30:51+00:00	0	1	2	0	Twitter Web App
+jasonroy	CT_Bergstrom	1386402344531742721	replied_to	2021-04-25 19:30:51+00:00	0	1	2	0	Twitter Web App
+k__niki	MattTaddy	1381755116043206663	mentioned	2021-04-12 23:44:26+00:00	0	0	0	0	Twitter Web App
+k__niki	ClassicTad	1381755116043206663	mentioned	2021-04-12 23:44:26+00:00	0	0	0	0	Twitter Web App
+k__niki	sonia_taddy	1381755116043206663	mentioned	2021-04-12 23:44:26+00:00	0	0	0	0	Twitter Web App
+k__niki	FrancoisTaddei	1381755116043206663	mentioned	2021-04-12 23:44:26+00:00	0	0	0	0	Twitter Web App
+CasualBrady	AmazonScience	1350963968337203204	mentioned	2021-01-18 00:31:24+00:00	1	0	1	0	IFTTT
+CasualBrady	MattTaddy	1350963968337203204	mentioned	2021-01-18 00:31:24+00:00	1	0	1	0	IFTTT
+CasualBrady	towards_AI	1350963968337203204	mentioned	2021-01-18 00:31:24+00:00	1	0	1	0	IFTTT
+teriquel	CAIDA_UBC	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	ubcscience	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	BMIAI2	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	ubcappscience	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	k_leyton_brown	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	Mvandepanne	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	frankdonaldwood	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	AlineTalhouk	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	MattTaddy	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+teriquel	greg_mori	1339721866198409216	mentioned	2020-12-17 23:59:18+00:00	4	0	8	0	Twitter Web App
+towards_AI	danielrock	1321551224555134978	replied_to	2020-10-28 20:35:39+00:00	0	0	1	0	Twitter for iPhone
+towards_AI	GurbaxaniVijay	1321551224555134978	replied_to	2020-10-28 20:35:39+00:00	0	0	1	0	Twitter for iPhone
+towards_AI	mitpress	1321551224555134978	replied_to	2020-10-28 20:35:39+00:00	0	0	1	0	Twitter for iPhone
+towards_AI	MattTaddy	1321551224555134978	replied_to	2020-10-28 20:35:39+00:00	0	0	1	0	Twitter for iPhone
+wahalulu	danielrock	1321538276352651264	replied_to	2020-10-28 19:44:12+00:00	0	0	1	0	Twitter Web App
+wahalulu	mitpress	1321538276352651264	replied_to	2020-10-28 19:44:12+00:00	0	0	1	0	Twitter Web App
+wahalulu	MattTaddy	1321538276352651264	replied_to	2020-10-28 19:44:12+00:00	0	0	1	0	Twitter Web App
+wahalulu	danielrock	1321538276352651264	replied_to	2020-10-28 19:44:12+00:00	0	0	1	0	Twitter Web App
+ssemov	censuswide	1319014647538745344	replied_to	2020-10-21 20:36:12+00:00	3	0	3	1	Twitter Web App
+ssemov	BridgetMcCrea	1319014647538745344	replied_to	2020-10-21 20:36:12+00:00	3	0	3	1	Twitter Web App
+ssemov	quaesita	1319014647538745344	replied_to	2020-10-21 20:36:12+00:00	3	0	3	1	Twitter Web App
+ssemov	Doug_Laney	1319014647538745344	replied_to	2020-10-21 20:36:12+00:00	3	0	3	1	Twitter Web App
+ssemov	MattTaddy	1319014647538745344	replied_to	2020-10-21 20:36:12+00:00	3	0	3	1	Twitter Web App
+ssemov	AmazonScience	1319014647538745344	replied_to	2020-10-21 20:36:12+00:00	3	0	3	1	Twitter Web App
+mslater_johnson	krikamol	1317128746948718593	replied_to	2020-10-16 15:42:18+00:00	0	0	1	0	Twitter for iPhone
+mslater_johnson	k__niki	1317128746948718593	replied_to	2020-10-16 15:42:18+00:00	0	0	1	0	Twitter for iPhone
+mslater_johnson	CasualBrady	1317128746948718593	replied_to	2020-10-16 15:42:18+00:00	0	0	1	0	Twitter for iPhone
+mslater_johnson	k_leyton_brown	1317128746948718593	replied_to	2020-10-16 15:42:18+00:00	0	0	1	0	Twitter for iPhone
+mslater_johnson	MattTaddy	1317128746948718593	replied_to	2020-10-16 15:42:18+00:00	0	0	1	0	Twitter for iPhone
+orgRem	k__niki	1317007915438510081	replied_to	2020-10-16 07:42:10+00:00	0	1	4	0	Twitter Web App
+orgRem	CasualBrady	1317007915438510081	replied_to	2020-10-16 07:42:10+00:00	0	1	4	0	Twitter Web App
+orgRem	jasonhartford	1317007915438510081	replied_to	2020-10-16 07:42:10+00:00	0	1	4	0	Twitter Web App
+orgRem	k_leyton_brown	1317007915438510081	replied_to	2020-10-16 07:42:10+00:00	0	1	4	0	Twitter Web App
+orgRem	MattTaddy	1317007915438510081	replied_to	2020-10-16 07:42:10+00:00	0	1	4	0	Twitter Web App
+raffasadun	CasualBrady	1316614430550040576	replied_to	2020-10-15 05:38:36+00:00	0	0	3	0	Twitter Web App
+raffasadun	jasonhartford	1316614430550040576	replied_to	2020-10-15 05:38:36+00:00	0	0	3	0	Twitter Web App
+raffasadun	k_leyton_brown	1316614430550040576	replied_to	2020-10-15 05:38:36+00:00	0	0	3	0	Twitter Web App
+raffasadun	MattTaddy	1316614430550040576	replied_to	2020-10-15 05:38:36+00:00	0	0	3	0	Twitter Web App
+raffasadun	k__niki	1316614430550040576	replied_to	2020-10-15 05:38:36+00:00	0	0	3	0	Twitter Web App
+raffasadun	VC31415	1316614430550040576	replied_to	2020-10-15 05:38:36+00:00	0	0	3	0	Twitter Web App
+daveholtz	CasualBrady	1316362926379479040	replied_to	2020-10-14 12:59:13+00:00	1	0	5	0	Twitter Web App
+daveholtz	CausalInferBot	1316362926379479040	replied_to	2020-10-14 12:59:13+00:00	1	0	5	0	Twitter Web App
+daveholtz	jasonhartford	1316362926379479040	replied_to	2020-10-14 12:59:13+00:00	1	0	5	0	Twitter Web App
+daveholtz	k_leyton_brown	1316362926379479040	replied_to	2020-10-14 12:59:13+00:00	1	0	5	0	Twitter Web App
+daveholtz	MattTaddy	1316362926379479040	replied_to	2020-10-14 12:59:13+00:00	1	0	5	0	Twitter Web App
+daveholtz	k__niki	1316362926379479040	replied_to	2020-10-14 12:59:13+00:00	1	0	5	0	Twitter Web App
+jermainkaminski	CasualBrady	1316286767021129728	replied_to	2020-10-14 07:56:35+00:00	0	1	2	0	Twitter for iPhone
+jermainkaminski	jasonhartford	1316286767021129728	replied_to	2020-10-14 07:56:35+00:00	0	1	2	0	Twitter for iPhone
+jermainkaminski	k_leyton_brown	1316286767021129728	replied_to	2020-10-14 07:56:35+00:00	0	1	2	0	Twitter for iPhone
+jermainkaminski	MattTaddy	1316286767021129728	replied_to	2020-10-14 07:56:35+00:00	0	1	2	0	Twitter for iPhone
+jermainkaminski	krikamol	1316286767021129728	replied_to	2020-10-14 07:56:35+00:00	0	1	2	0	Twitter for iPhone
+jaredlander	CasualBrady	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	k_leyton_brown	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	MattTaddy	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	k__niki	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	nathankallus	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	NishanthDikkala	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	econ_greg	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	syrgkanis	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+jaredlander	ArthurGretton	1316284265814880256	replied_to	2020-10-14 07:46:39+00:00	0	0	3	0	Twitter Web App
+janzilinsky	CasualBrady	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	k_leyton_brown	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	MattTaddy	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	k__niki	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	nathankallus	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	NishanthDikkala	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	econ_greg	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+janzilinsky	syrgkanis	1316282763008372737	replied_to	2020-10-14 07:40:40+00:00	0	1	2	0	Twitter Web App
+equityin	jasonhartford	1316125055265517569	mentioned	2020-10-13 21:14:00+00:00	7	4	18	1	Twitter Web App
+equityin	k_leyton_brown	1316125055265517569	mentioned	2020-10-13 21:14:00+00:00	7	4	18	1	Twitter Web App
+equityin	MattTaddy	1316125055265517569	mentioned	2020-10-13 21:14:00+00:00	7	4	18	1	Twitter Web App
+equityin	k__niki	1316125055265517569	mentioned	2020-10-13 21:14:00+00:00	7	4	18	1	Twitter Web App
+gzervas	MattTaddy	1313159060053798912	quoted	2020-10-05 16:48:11+00:00	0	0	0	0	Twitter Web App
+jjaxen	MattTaddy	1308802632350412803	quoted	2020-09-23 16:17:18+00:00	19	0	15	0	Twitter Web App
+jjaxen	towards_AI	1308802632350412803	quoted	2020-09-23 16:17:18+00:00	19	0	15	0	Twitter Web App
+dmitrygenin	AmazonScience	1308615003789029377	replied_to	2020-09-23 03:51:44+00:00	1	0	2	0	Twitter for Android
+dmitrygenin	MattTaddy	1308615003789029377	replied_to	2020-09-23 03:51:44+00:00	1	0	2	0	Twitter for Android
+verdadcap_quant	towards_AI	1308606530543992833	replied_to	2020-09-23 03:18:04+00:00	1	1	2	0	Twitter for iPhone
+verdadcap_quant	MattTaddy	1308606530543992833	replied_to	2020-09-23 03:18:04+00:00	1	1	2	0	Twitter for iPhone
+joshualeond	DogmaticPrior	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+joshualeond	daveholtz	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+joshualeond	dade_us	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+joshualeond	danielrock	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+joshualeond	jaredlander	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+joshualeond	miketeod	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+joshualeond	MattTaddy	1294367017298989057	replied_to	2020-08-14 20:15:19+00:00	0	0	1	0	Twitter for iPhone
+grayclhn	DogmaticPrior	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+grayclhn	daveholtz	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+grayclhn	dade_us	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+grayclhn	danielrock	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+grayclhn	jaredlander	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+grayclhn	miketeod	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+grayclhn	MattTaddy	1294165113654489089	replied_to	2020-08-14 06:53:02+00:00	0	0	0	0	Twitter for iPad
+jaradniemi	DogmaticPrior	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	pqblair	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	daveholtz	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	dade_us	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	danielrock	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	jaredlander	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	miketeod	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+jaradniemi	MattTaddy	1294081386018676737	replied_to	2020-08-14 01:20:19+00:00	0	0	1	0	Twitter Web App
+BaskinEng	raffasadun	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	DogmaticPrior	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	pqblair	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	daveholtz	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	dade_us	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	danielrock	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	jaredlander	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	miketeod	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	MattTaddy	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	hyunjinvkim	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	mike_luca	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+BaskinEng	klakhani	1294079966523674627	replied_to	2020-08-14 01:14:41+00:00	0	0	1	0	Twitter for Android
+ProfTGilbert	DogmaticPrior	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	pqblair	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	daveholtz	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	dade_us	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	danielrock	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	jaredlander	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	miketeod	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	MattTaddy	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+ProfTGilbert	orgRem	1294074842103386112	replied_to	2020-08-14 00:54:19+00:00	0	1	1	0	Twitter Web App
+roydanroy	DogmaticPrior	1293967568538132482	replied_to	2020-08-13 17:48:03+00:00	0	0	2	0	Twitter for iPhone
+roydanroy	dade_us	1293967568538132482	replied_to	2020-08-13 17:48:03+00:00	0	0	2	0	Twitter for iPhone
+roydanroy	danielrock	1293967568538132482	replied_to	2020-08-13 17:48:03+00:00	0	0	2	0	Twitter for iPhone
+roydanroy	jaredlander	1293967568538132482	replied_to	2020-08-13 17:48:03+00:00	0	0	2	0	Twitter for iPhone
+roydanroy	miketeod	1293967568538132482	replied_to	2020-08-13 17:48:03+00:00	0	0	2	0	Twitter for iPhone
+roydanroy	MattTaddy	1293967568538132482	replied_to	2020-08-13 17:48:03+00:00	0	0	2	0	Twitter for iPhone
+BaskinEng_Dean	DogmaticPrior	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+BaskinEng_Dean	daveholtz	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+BaskinEng_Dean	dade_us	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+BaskinEng_Dean	danielrock	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+BaskinEng_Dean	jaredlander	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+BaskinEng_Dean	miketeod	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+BaskinEng_Dean	MattTaddy	1293950210729811968	replied_to	2020-08-13 16:39:05+00:00	0	0	0	0	Twitter for iPhone
+will_townes	DogmaticPrior	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+will_townes	daveholtz	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+will_townes	dade_us	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+will_townes	danielrock	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+will_townes	jaredlander	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+will_townes	miketeod	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+will_townes	MattTaddy	1293949241761697792	replied_to	2020-08-13 16:35:14+00:00	0	0	2	0	Twitter for iPhone
+EnonymousAcc	DogmaticPrior	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+EnonymousAcc	daveholtz	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+EnonymousAcc	dade_us	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+EnonymousAcc	danielrock	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+EnonymousAcc	jaredlander	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+EnonymousAcc	miketeod	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+EnonymousAcc	MattTaddy	1293948632744497153	replied_to	2020-08-13 16:32:49+00:00	0	1	4	0	Twitter for iPhone
+arpitrage	DogmaticPrior	1293942521492639746	replied_to	2020-08-13 16:08:32+00:00	0	0	0	0	Twitter for Android
+arpitrage	daveholtz	1293942521492639746	replied_to	2020-08-13 16:08:32+00:00	0	0	0	0	Twitter for Android
+arpitrage	dade_us	1293942521492639746	replied_to	2020-08-13 16:08:32+00:00	0	0	0	0	Twitter for Android
+arpitrage	danielrock	1293942521492639746	replied_to	2020-08-13 16:08:32+00:00	0	0	0	0	Twitter for Android
+arpitrage	miketeod	1293942521492639746	replied_to	2020-08-13 16:08:32+00:00	0	0	0	0	Twitter for Android
+arpitrage	MattTaddy	1293942521492639746	replied_to	2020-08-13 16:08:32+00:00	0	0	0	0	Twitter for Android
+RandyWhitePDX	DogmaticPrior	1293932748277768193	replied_to	2020-08-13 15:29:41+00:00	0	0	0	0	Twitter for iPhone
+RandyWhitePDX	dade_us	1293932748277768193	replied_to	2020-08-13 15:29:41+00:00	0	0	0	0	Twitter for iPhone
+RandyWhitePDX	danielrock	1293932748277768193	replied_to	2020-08-13 15:29:41+00:00	0	0	0	0	Twitter for iPhone
+RandyWhitePDX	jaredlander	1293932748277768193	replied_to	2020-08-13 15:29:41+00:00	0	0	0	0	Twitter for iPhone
+RandyWhitePDX	miketeod	1293932748277768193	replied_to	2020-08-13 15:29:41+00:00	0	0	0	0	Twitter for iPhone
+RandyWhitePDX	MattTaddy	1293932748277768193	replied_to	2020-08-13 15:29:41+00:00	0	0	0	0	Twitter for iPhone
+zimvak	MattTaddy	1293355572780310534	mentioned	2020-08-12 01:16:12+00:00	0	1	1	0	Twitter Web App
+itamarcaspi	AmazonScience	1284147980614856704	replied_to	2020-07-17 15:28:31+00:00	1	0	2	0	Twitter Web App
+itamarcaspi	MattTaddy	1284147980614856704	replied_to	2020-07-17 15:28:31+00:00	1	0	2	0	Twitter Web App
+deaneckles	seanjtaylor	1284096244143579138	replied_to	2020-07-17 12:02:56+00:00	0	0	1	0	Twitter for Android
+deaneckles	ajwchin	1284096244143579138	replied_to	2020-07-17 12:02:56+00:00	0	0	1	0	Twitter for Android
+deaneckles	MattTaddy	1284096244143579138	replied_to	2020-07-17 12:02:56+00:00	0	0	1	0	Twitter for Android
+felipempleite_	MattTaddy	1283495202775134208	quoted	2020-07-15 20:14:37+00:00	2	0	3	0	Twitter Web App
+felipempleite_	AmazonScience	1283495202775134208	quoted	2020-07-15 20:14:37+00:00	2	0	3	0	Twitter Web App
+pilusocrespo	MattTaddy	1283471660838944769	mentioned	2020-07-15 18:41:04+00:00	5	1	12	1	Twitter Web App
+AlbanoPupo	verdadcap_quant	1265294462047182849	replied_to	2020-05-26 14:51:22+00:00	0	0	0	0	Twitter for Mac
+AlbanoPupo	MattTaddy	1265294462047182849	replied_to	2020-05-26 14:51:22+00:00	0	0	0	0	Twitter for Mac
+AlbanoPupo	MattTaddy	1265294462047182849	replied_to	2020-05-26 14:51:22+00:00	0	0	0	0	Twitter for Mac
+acmeducation	MattTaddy	1265274092678193153	mentioned	2020-05-26 13:30:26+00:00	1	1	8	0	Twitter for iPhone
+TimJonesBI	VirGrand	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	julie_a_shah	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	gartner	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	MattTaddy	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	AlexCEngler	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	edjeff	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	theStrout	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	johncumbers	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+TimJonesBI	junwuwriting	1253751579611545601	mentioned	2020-04-24 18:24:04+00:00	4	0	5	0	TweetDeck
+fghjorth	DogmaticPrior	1249528866135252992	replied_to	2020-04-13 02:44:31+00:00	0	0	2	0	Twitter for iPhone
+fghjorth	MattTaddy	1249528866135252992	replied_to	2020-04-13 02:44:31+00:00	0	0	2	0	Twitter for iPhone
+AnalyticsHour	jaradniemi	1248707091520294912	replied_to	2020-04-10 20:19:05+00:00	0	0	0	0	Twitter Web App
+AnalyticsHour	MattTaddy	1248707091520294912	replied_to	2020-04-10 20:19:05+00:00	0	0	0	0	Twitter Web App
+talich	MattTaddy	1248699480276434946	replied_to	2020-04-10 19:48:50+00:00	0	1	0	0	Twitter Web App
+talich	grayclhn	1248699480276434946	replied_to	2020-04-10 19:48:50+00:00	0	1	0	0	Twitter Web App
+thannigan	ucsc	1246111504711245824	mentioned	2020-04-03 16:25:09+00:00	0	0	3	0	Hootsuite Inc.
+thannigan	MattTaddy	1246111504711245824	mentioned	2020-04-03 16:25:09+00:00	0	0	3	0	Hootsuite Inc.
+thannigan	amazon	1246111504711245824	mentioned	2020-04-03 16:25:09+00:00	0	0	3	0	Hootsuite Inc.
+pierre_jacquel	MattTaddy	1245542102022246402	replied_to	2020-04-02 02:42:32+00:00	0	0	2	0	Twitter for Android
+ABelgo_optimum	MattTaddy	1245533898672611328	replied_to	2020-04-02 02:09:57+00:00	0	0	1	0	Twitter Web App
+ABelgo_optimum	ucsc	1245533898672611328	replied_to	2020-04-02 02:09:57+00:00	0	0	1	0	Twitter Web App
+ABelgo_optimum	amazon	1245533898672611328	replied_to	2020-04-02 02:09:57+00:00	0	0	1	0	Twitter Web App
+Marcelortizv	MattTaddy	1174081375605075968	mentioned	2019-09-17 22:03:07+00:00	1	0	2	0	Twitter for Android
+TimJonesBI	MattTaddy	1173067673804169216	replied_to	2019-09-15 02:55:02+00:00	0	0	1	0	Twitter for iPhone
+Jpyaan	MattTaddy	1172673183863980038	replied_to	2019-09-14 00:47:28+00:00	0	0	0	0	Twitter for iPhone
+Jpyaan	seanjtaylor	1172673183863980038	replied_to	2019-09-14 00:47:28+00:00	0	0	0	0	Twitter for iPhone
+jdotson77	MattTaddy	1172527103981473792	replied_to	2019-09-13 15:07:00+00:00	0	0	2	0	Twitter for iPad
+alvaroortiz1968	MattTaddy	1172429487767580672	replied_to	2019-09-13 08:39:07+00:00	0	0	1	0	Twitter for iPhone
+DonskerClass	MattTaddy	1172359096630222849	replied_to	2019-09-13 03:59:24+00:00	0	0	1	0	Twitter Web App
+joshualeond	MattTaddy	1172354132012863489	replied_to	2019-09-13 03:39:41+00:00	0	0	1	0	Twitter for iPhone
+straightedge	MattTaddy	1172345468380012544	replied_to	2019-09-13 03:05:15+00:00	0	0	1	0	Twitter Web App
+janzilinsky	lukasneville	1171508695869509634	replied_to	2019-09-10 19:40:13+00:00	0	1	2	0	Twitter for iPad
+janzilinsky	MattTaddy	1171508695869509634	replied_to	2019-09-10 19:40:13+00:00	0	1	2	0	Twitter for iPad
+nicolaskoehler	MattGentzkow	1171442469793234946	mentioned	2019-09-10 15:17:03+00:00	1	0	3	0	Bitly
+nicolaskoehler	MattTaddy	1171442469793234946	mentioned	2019-09-10 15:17:03+00:00	1	0	3	0	Bitly
+nicolaskoehler	w_alschner	1171442469793234946	mentioned	2019-09-10 15:17:03+00:00	1	0	3	0	Bitly
+nicolaskoehler	JuliaSeiermann	1171442469793234946	mentioned	2019-09-10 15:17:03+00:00	1	0	3	0	Bitly
+LaRiviereJS	MattTaddy	1166443205409116160	mentioned	2019-08-27 20:11:46+00:00	0	1	0	0	Twitter for Android
+BigDataMetrics	MattTaddy	1166378323900915712	mentioned	2019-08-27 15:53:57+00:00	0	1	6	0	Twitter for iPhone
+TylerCushing	MattTaddy	1166139411219660801	replied_to	2019-08-27 00:04:36+00:00	0	0	1	0	Twitter for iPhone
+orgRem	MattTaddy	1165391849374150656	replied_to	2019-08-24 22:34:03+00:00	0	0	1	0	Twitter for iPhone
+denispmaciel	MattTaddy	1165361341743472640	mentioned	2019-08-24 20:32:49+00:00	2	1	6	0	Twitter for iPad
+reckel	MattTaddy	1164960438334951424	replied_to	2019-08-23 17:59:47+00:00	0	0	0	0	Twitter for Android
+BernoulliSays	MattTaddy	1164928735696416768	replied_to	2019-08-23 15:53:48+00:00	0	0	0	0	Twitter for iPhone
+Fnsepulveda	MattTaddy	1164301211941638148	quoted	2019-08-21 22:20:15+00:00	0	0	1	0	Twitter Web App
+Fnsepulveda	amazon	1164301211941638148	quoted	2019-08-21 22:20:15+00:00	0	0	1	0	Twitter Web App
+OTStats	MattTaddy	1163842383215095809	replied_to	2019-08-20 15:57:01+00:00	0	1	1	0	Twitter for iPhone
+leruandrea	MattTaddy	1162442137964879873	replied_to	2019-08-16 19:12:57+00:00	0	0	1	0	Twitter for Android
+felipempleite_	ProfEmilyOster	1162076993489424384	replied_to	2019-08-15 19:02:00+00:00	0	0	2	0	Twitter for iPhone
+felipempleite_	MattTaddy	1162076993489424384	replied_to	2019-08-15 19:02:00+00:00	0	0	2	0	Twitter for iPhone
+felipempleite_	jfantuzzi	1162076993489424384	replied_to	2019-08-15 19:02:00+00:00	0	0	2	0	Twitter for iPhone
+felipempleite_	jibatlle	1162076993489424384	replied_to	2019-08-15 19:02:00+00:00	0	0	2	0	Twitter for iPhone
+sunarquitectura	KodyMjelde	1161994025869750273	replied_to	2019-08-15 13:32:19+00:00	0	1	0	0	Twitter for iPhone
+sunarquitectura	ProfEmilyOster	1161994025869750273	replied_to	2019-08-15 13:32:19+00:00	0	1	0	0	Twitter for iPhone
+sunarquitectura	MattTaddy	1161994025869750273	replied_to	2019-08-15 13:32:19+00:00	0	1	0	0	Twitter for iPhone
+UofLEcon	MattTaddy	1161801812950863872	replied_to	2019-08-15 00:48:32+00:00	0	0	0	0	Twitter for iPhone
+betterfireE	ProfEmilyOster	1161792279088115717	replied_to	2019-08-15 00:10:39+00:00	0	0	1	0	Twitter for Android
+betterfireE	deaneckles	1161792279088115717	replied_to	2019-08-15 00:10:39+00:00	0	0	1	0	Twitter for Android
+betterfireE	MattTaddy	1161792279088115717	replied_to	2019-08-15 00:10:39+00:00	0	0	1	0	Twitter for Android
+amber34owl	MattTaddy	1161698716404854784	replied_to	2019-08-14 17:58:51+00:00	0	0	0	0	Twitter for Android
+ramosgarzak	MattTaddy	1161697221659594752	replied_to	2019-08-14 17:52:55+00:00	0	0	0	0	Twitter for iPhone
+ramosgarzak	ProfEmilyOster	1161697221659594752	replied_to	2019-08-14 17:52:55+00:00	0	0	0	0	Twitter for iPhone
+ProfEmilyOster	ProfEmilyOster	1161688107525255168	replied_to	2019-08-14 17:16:42+00:00	0	0	0	0	Twitter for iPhone
+ProfEmilyOster	MattTaddy	1161688107525255168	replied_to	2019-08-14 17:16:42+00:00	0	0	0	0	Twitter for iPhone
+BenedictKonso	MattTaddy	1161687286209306625	replied_to	2019-08-14 17:13:26+00:00	0	1	0	0	Tweetbot for iΟS
+asusarla	MattTaddy	1161635022807285762	replied_to	2019-08-14 13:45:46+00:00	0	1	2	0	Twitter for Android
+asusarla	leruandrea	1161635022807285762	replied_to	2019-08-14 13:45:46+00:00	0	1	2	0	Twitter for Android
+ChrisSeligYYC	MattTaddy	1161619549210447872	mentioned	2019-08-14 12:44:17+00:00	0	1	0	0	Tweetbot for iΟS
+mdancho84	MattTaddy	1161606592267055104	replied_to	2019-08-14 11:52:47+00:00	0	1	1	0	Twitter Web App
+mdancho84	ProfEmilyOster	1161606592267055104	replied_to	2019-08-14 11:52:47+00:00	0	1	1	0	Twitter Web App
+verdadcap_quant	MattTaddy	1161584970420428800	mentioned	2019-08-14 10:26:52+00:00	27	5	102	0	Twitter Web App
+MHBusiness	MattTaddy	1161536047429378049	replied_to	2019-08-14 07:12:28+00:00	0	0	1	0	Twitter for iPhone
+MHBusiness	calebmukadi1	1161536047429378049	replied_to	2019-08-14 07:12:28+00:00	0	0	1	0	Twitter for iPhone
+slee981	MattTaddy	1161447419890012165	replied_to	2019-08-14 01:20:18+00:00	0	0	2	0	Twitter Web App
+BusinessBooks	MattTaddy	1161439949662478336	replied_to	2019-08-14 00:50:37+00:00	0	0	0	0	Twitter for Android
+adababbage	MattTaddy	1161412170296569856	replied_to	2019-08-13 23:00:14+00:00	0	0	0	0	Twitter for iPhone
+joshua_ulrich	MattTaddy	1161293233885835264	replied_to	2019-08-13 15:07:37+00:00	0	1	1	0	Twitter for iPhone
+dale_rosenthal	MattTaddy	1157080817463713792	replied_to	2019-08-02 00:08:59+00:00	0	0	0	0	Twitter for iPhone
+ExtraRed	MattTaddy	1156997593194536960	mentioned	2019-08-01 18:38:16+00:00	0	0	7	1	Sprout Social
+roydanroy	MattTaddy	1155969397476872193	replied_to	2019-07-29 22:32:35+00:00	0	0	1	0	Twitter Web App
+lauretig	MattTaddy	1155968404580270080	mentioned	2019-07-29 22:28:39+00:00	0	1	1	0	Twitter Web App
+chris_bail	MattTaddy	1154032235042918401	mentioned	2019-07-24 14:15:00+00:00	5	0	4	0	TweetDeck
+chris_bail	MHBusiness	1154032235042918401	mentioned	2019-07-24 14:15:00+00:00	5	0	4	0	TweetDeck
+emyeom	joshua_ulrich	1129469499017695232	replied_to	2019-05-17 19:31:27+00:00	0	0	2	0	Twitter for iPhone
+emyeom	MattTaddy	1129469499017695232	replied_to	2019-05-17 19:31:27+00:00	0	0	2	0	Twitter for iPhone
+meisin123	MattTaddy	1129439369771724800	replied_to	2019-05-17 17:31:44+00:00	1	0	5	0	TweetDeck
+eliasbareinboim	MattTaddy	1129437338013196288	mentioned	2019-05-17 17:23:39+00:00	0	0	1	0	Twitter for Android
+eliasbareinboim	RinFinance	1129437338013196288	mentioned	2019-05-17 17:23:39+00:00	0	0	1	0	Twitter for Android
+jasonhartford	MattTaddy	1129431767109136385	mentioned	2019-05-17 17:01:31+00:00	0	2	4	0	Twitter for Android
+nberpubs	Genevera_Allen	1125136001003937796	mentioned	2019-05-05 20:31:41+00:00	2	0	2	0	Twitter Web Client
+nberpubs	adababbage	1125136001003937796	mentioned	2019-05-05 20:31:41+00:00	2	0	2	0	Twitter Web Client
+nberpubs	MattTaddy	1125136001003937796	mentioned	2019-05-05 20:31:41+00:00	2	0	2	0	Twitter Web Client
+nberpubs	RinFinance	1125136001003937796	mentioned	2019-05-05 20:31:41+00:00	2	0	2	0	Twitter Web Client
+jcberk	MattTaddy	1122323860299374592	mentioned	2019-04-28 02:17:14+00:00	0	0	0	0	Paper.li
+jcberk	GoFraiche_ChefG	1122323860299374592	mentioned	2019-04-28 02:17:14+00:00	0	0	0	0	Paper.li
+jcberk	badwaitressmpls	1122323860299374592	mentioned	2019-04-28 02:17:14+00:00	0	0	0	0	Paper.li
+economeager	MattTaddy	1122296311808700416	replied_to	2019-04-28 00:27:46+00:00	0	1	1	0	Twitter for iPhone
+TriumphantBass	Genevera_Allen	1116753658425692161	quoted	2019-04-12 17:23:15+00:00	1	0	3	0	Twitter for Android
+TriumphantBass	adababbage	1116753658425692161	quoted	2019-04-12 17:23:15+00:00	1	0	3	0	Twitter for Android
+TriumphantBass	MattTaddy	1116753658425692161	quoted	2019-04-12 17:23:15+00:00	1	0	3	0	Twitter for Android
+tylermccormick	MattTaddy	1084631115409829888	quoted	2019-01-14 01:59:44+00:00	0	0	0	0	Twitter Web Client
+robamezquita	emyeom	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	hadleywickham	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	juliasilge	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	p_barbera	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	kearneymw	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	b_m_stewart	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	kenbenoit	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	dustintingley	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	honnibal	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	_inesmontani	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	MattTaddy	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	chrmanning	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	jurafsky	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	Cristian_DNM	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+robamezquita	jurafsky	1069408031480393728	replied_to	2018-12-03 01:48:38+00:00	1	0	6	0	Twitter Web Client
+dsweet	chris_bail	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	hadleywickham	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	juliasilge	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	p_barbera	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	kearneymw	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	b_m_stewart	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	kenbenoit	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	dustintingley	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	honnibal	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	_inesmontani	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	MattTaddy	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	chrmanning	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	jurafsky	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+dsweet	Cristian_DNM	1069407476888625152	replied_to	2018-12-03 01:46:25+00:00	0	1	4	0	Twitter for iPhone
+HKuechenhoff	MattTaddy	1069130433168793600	replied_to	2018-12-02 07:25:33+00:00	0	0	2	0	Twitter Web Client
+iamVaalPaiyan_	jasonhartford	1067593626623123456	replied_to	2018-11-28 01:38:50+00:00	0	0	0	0	Twitter Web Client
+iamVaalPaiyan_	CsabaSzepesvari	1067593626623123456	replied_to	2018-11-28 01:38:50+00:00	0	0	0	0	Twitter Web Client
+iamVaalPaiyan_	gmravi2003	1067593626623123456	replied_to	2018-11-28 01:38:50+00:00	0	0	0	0	Twitter Web Client
+iamVaalPaiyan_	dustinvtran	1067593626623123456	replied_to	2018-11-28 01:38:50+00:00	0	0	0	0	Twitter Web Client
+iamVaalPaiyan_	ShalitUri	1067593626623123456	replied_to	2018-11-28 01:38:50+00:00	0	0	0	0	Twitter Web Client
+iamVaalPaiyan_	MattTaddy	1067593626623123456	replied_to	2018-11-28 01:38:50+00:00	0	0	0	0	Twitter Web Client
+GaborBekes	CsabaSzepesvari	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+GaborBekes	eliasbareinboim	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+GaborBekes	gmravi2003	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+GaborBekes	dustinvtran	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+GaborBekes	ShalitUri	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+GaborBekes	eliasbareinboim	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+GaborBekes	MattTaddy	1067580048297742336	replied_to	2018-11-28 00:44:52+00:00	0	1	3	0	Twitter Web Client
+eddelbuettel	MattTaddy	1065658671084920833	mentioned	2018-11-22 17:30:00+00:00	9	0	37	1	TweetDeck
+rolfilho	ChicagoBooth	1019960922046173185	quoted	2018-07-19 15:03:28+00:00	0	0	1	0	Twitter Web Client
+rolfilho	MattTaddy	1019960922046173185	quoted	2018-07-19 15:03:28+00:00	0	0	1	0	Twitter Web Client
+EunateMayor	MattTaddy	1014181749457391616	mentioned	2018-07-03 16:19:06+00:00	1	0	21	0	Twitter for iPhone
+kennyshirley	MattTaddy	1011247355440574464	replied_to	2018-06-25 13:58:52+00:00	0	1	0	0	Twitter for iPhone
+congratsbot	economeager	1010903482935664641	replied_to	2018-06-24 15:12:26+00:00	0	0	0	0	Twitter Web Client
+congratsbot	MattTaddy	1010903482935664641	replied_to	2018-06-24 15:12:26+00:00	0	0	0	0	Twitter Web Client
+mguindani	MattTaddy	1010802838472216576	mentioned	2018-06-24 08:32:31+00:00	1	3	63	1	Twitter for iPhone
+9c7d3adf81cd490	ISBA_events	983517762503917574	mentioned	2018-04-10 01:31:22+00:00	0	0	3	1	Twitter Web Client
+9c7d3adf81cd490	MattTaddy	983517762503917574	mentioned	2018-04-10 01:31:22+00:00	0	0	3	1	Twitter Web Client
+9c7d3adf81cd490	economeager	983517762503917574	mentioned	2018-04-10 01:31:22+00:00	0	0	3	1	Twitter Web Client
+chilicondata	MattTaddy	973078434153771008	replied_to	2018-03-12 06:09:12+00:00	0	0	0	0	Twitter Web Client
+sjh_canada	MattTaddy	971397261790887936	replied_to	2018-03-07 14:48:49+00:00	0	0	0	0	Twitter for iPhone
+sjh_canada	amazon	971397261790887936	replied_to	2018-03-07 14:48:49+00:00	0	0	0	0	Twitter for iPhone
+eleafeit	eddelbuettel	971349180873695232	replied_to	2018-03-07 11:37:46+00:00	0	0	0	0	Twitter Web Client
+eleafeit	MattTaddy	971349180873695232	replied_to	2018-03-07 11:37:46+00:00	0	0	0	0	Twitter Web Client
+fjnogales	MattTaddy	971039192879960068	replied_to	2018-03-06 15:05:59+00:00	0	0	0	0	Twitter Web Client
+fjnogales	eddelbuettel	971039192879960068	replied_to	2018-03-06 15:05:59+00:00	0	0	0	0	Twitter Web Client
+s1nelson	MattTaddy	971030314847035392	replied_to	2018-03-06 14:30:42+00:00	0	0	1	0	Twitter Web Client
+avicgoldfarb	MattTaddy	971004789612937216	replied_to	2018-03-06 12:49:16+00:00	0	1	0	0	Twitter Web Client
+avicgoldfarb	eddelbuettel	971004789612937216	replied_to	2018-03-06 12:49:16+00:00	0	1	0	0	Twitter Web Client
+SeanKHiggins	MattTaddy	970391847679004672	mentioned	2018-03-04 20:13:40+00:00	14	1	91	1	Twitter Web Client
+Bliss_Ville	MattTaddy	969727743058362368	replied_to	2018-03-03 00:14:45+00:00	0	0	0	0	Twitter for iPhone
+Bliss_Ville	amazon	969727743058362368	replied_to	2018-03-03 00:14:45+00:00	0	0	0	0	Twitter for iPhone
+instrumenthull	MattTaddy	968595047544512512	replied_to	2018-02-27 21:13:49+00:00	0	0	0	0	Twitter for Android
+instrumenthull	amazon	968595047544512512	replied_to	2018-02-27 21:13:49+00:00	0	0	0	0	Twitter for Android
+KLdivergence	MattTaddy	968457901114363904	replied_to	2018-02-27 12:08:51+00:00	0	0	0	0	Twitter Web Client
+KLdivergence	amazon	968457901114363904	replied_to	2018-02-27 12:08:51+00:00	0	0	0	0	Twitter Web Client
+bsvejk	MattTaddy	968355083627978752	replied_to	2018-02-27 05:20:17+00:00	0	0	0	0	Twitter for iPhone
+bsvejk	amazon	968355083627978752	replied_to	2018-02-27 05:20:17+00:00	0	0	0	0	Twitter for iPhone
+tweeting_cris	MattTaddy	968349762792681474	replied_to	2018-02-27 04:59:09+00:00	0	0	0	0	Twitter for iPhone
+tweeting_cris	amazon	968349762792681474	replied_to	2018-02-27 04:59:09+00:00	0	0	0	0	Twitter for iPhone
+KMetzlerSAGE	MattTaddy	968336126489526276	replied_to	2018-02-27 04:04:58+00:00	0	0	0	0	Twitter Web Client
+KMetzlerSAGE	amazon	968336126489526276	replied_to	2018-02-27 04:04:58+00:00	0	0	0	0	Twitter Web Client
+KMetzlerSAGE	MattTaddy	885482985289601026	mentioned	2017-07-13 12:56:09+00:00	0	0	0	0	Twitter for Android
+TSEinfo	MattTaddy	885480619098157056	mentioned	2017-07-13 12:46:45+00:00	0	0	0	0	Twitter for Android
+reckel	MattTaddy	875719537508876288	mentioned	2017-06-16 14:19:42+00:00	0	0	1	0	TweetDeck
+nberpubs	Microsoft	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+nberpubs	CarolineHydeTV	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+nberpubs	technology	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+nberpubs	jenniferchayes	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+nberpubs	MattTaddy	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+nberpubs	MSNewEngland	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+nberpubs	Kayyyt	862767187836243969	mentioned	2017-05-11 20:31:41+00:00	4	0	6	0	Twitter Web Client
+BeckerFriedman	MattTaddy	847490858320412672	mentioned	2017-03-30 16:49:00+00:00	6	0	8	1	TweetDeck
+RickEcon	MattGentzkow	846421710089916416	mentioned	2017-03-27 18:00:36+00:00	0	0	2	1	Buffer
+RickEcon	MattTaddy	846421710089916416	mentioned	2017-03-27 18:00:36+00:00	0	0	2	1	Buffer
+RickEcon	nberpubs	846421710089916416	mentioned	2017-03-27 18:00:36+00:00	0	0	2	1	Buffer
+jcberk	MattGentzkow	846379972134621184	mentioned	2017-03-27 15:14:44+00:00	2	0	5	0	Twitter Web Client
+jcberk	MattTaddy	846379972134621184	mentioned	2017-03-27 15:14:44+00:00	2	0	5	0	Twitter Web Client
+econromesh	amazon	846031448905797635	mentioned	2017-03-26 16:09:50+00:00	0	0	2	0	Twitter Web Client
+econromesh	mims	846031448905797635	mentioned	2017-03-26 16:09:50+00:00	0	0	2	0	Twitter Web Client
+econromesh	WSJ	846031448905797635	mentioned	2017-03-26 16:09:50+00:00	0	0	2	0	Twitter Web Client
+econromesh	glenweyl	846031448905797635	mentioned	2017-03-26 16:09:50+00:00	0	0	2	0	Twitter Web Client
+econromesh	MattTaddy	846031448905797635	mentioned	2017-03-26 16:09:50+00:00	0	0	2	0	Twitter Web Client
+arthur_spirling	ProfWD	843548574642307072	quoted	2017-03-19 19:43:47+00:00	0	0	2	1	Twitter Web Client
+arthur_spirling	jdube6	843548574642307072	quoted	2017-03-19 19:43:47+00:00	0	0	2	1	Twitter Web Client
+arthur_spirling	Austan_Goolsbee	843548574642307072	quoted	2017-03-19 19:43:47+00:00	0	0	2	1	Twitter Web Client
+arthur_spirling	Guenter_Hitsch	843548574642307072	quoted	2017-03-19 19:43:47+00:00	0	0	2	1	Twitter Web Client
+arthur_spirling	MattTaddy	843548574642307072	quoted	2017-03-19 19:43:47+00:00	0	0	2	1	Twitter Web Client
+SSRCanxieties	TSEinfo	809661845673951232	mentioned	2016-12-16 07:30:01+00:00	1	0	0	0	TweetDeck
+SSRCanxieties	MattTaddy	809661845673951232	mentioned	2016-12-16 07:30:01+00:00	1	0	0	0	TweetDeck
+SSRCanxieties	MSFTResearch	809661845673951232	mentioned	2016-12-16 07:30:01+00:00	1	0	0	0	TweetDeck
+janzilinsky	MattTaddy	791633582787887104	quoted	2016-10-27 13:32:08+00:00	0	0	0	0	Twitter Web Client
+janzilinsky	NYUDataScience	791633582787887104	quoted	2016-10-27 13:32:08+00:00	0	0	0	0	Twitter Web Client
+TheShubhanshu	arthur_spirling	791337072988659714	quoted	2016-10-26 17:53:55+00:00	1	0	0	0	Twitter Web Client
+TheShubhanshu	UChicago	791337072988659714	quoted	2016-10-26 17:53:55+00:00	1	0	0	0	Twitter Web Client
+TheShubhanshu	MattTaddy	791337072988659714	quoted	2016-10-26 17:53:55+00:00	1	0	0	0	Twitter Web Client
+davidfmurphy	MattTaddy	790935855036850177	mentioned	2016-10-25 15:19:37+00:00	2	0	4	3	Twitter Web Client
+davidfmurphy	NYUDataScience	790935855036850177	mentioned	2016-10-25 15:19:37+00:00	2	0	4	3	Twitter Web Client
+AndyLanglais	MattTaddy	773904547018379264	quoted	2016-09-08 15:23:17+00:00	0	0	0	0	Twitter for iPhone
+AndyLanglais	JustinGrimmer	773904547018379264	quoted	2016-09-08 15:23:17+00:00	0	0	0	0	Twitter for iPhone
+AndyLanglais	kinggary	773904547018379264	quoted	2016-09-08 15:23:17+00:00	0	0	0	0	Twitter for iPhone
+deaneckles	MattTaddy	763522212037091328	mentioned	2016-08-10 23:47:35+00:00	0	0	1	0	Twitter Web Client
+tricoachmartin	MattGentzkow	761802866499682304	mentioned	2016-08-06 05:55:31+00:00	0	0	0	0	Twitter Web Client
+tricoachmartin	MattTaddy	761802866499682304	mentioned	2016-08-06 05:55:31+00:00	0	0	0	0	Twitter Web Client
+UChicago_RCC	MattTaddy	761544213712478208	mentioned	2016-08-05 12:47:44+00:00	0	1	6	0	Twitter for iPhone
+web_sant	MattTaddy	760929488943415296	mentioned	2016-08-03 20:05:02+00:00	2	0	8	0	Twitter Web Client
+GChurch99	MattTaddy	756604142856998912	mentioned	2016-07-22 21:37:39+00:00	0	0	0	0	Twitter Web Client
+GChurch99	manwhohasitall	756604142856998912	mentioned	2016-07-22 21:37:39+00:00	0	0	0	0	Twitter Web Client
+glenweyl	MattTaddy	756601431747092480	replied_to	2016-07-22 21:26:52+00:00	0	0	0	0	Twitter for Windows
+gensim_py	MattTaddy	756507190052225024	mentioned	2016-07-22 15:12:23+00:00	0	0	0	0	Twitter for Windows
+VenkatNagaswamy	MattTaddy	721365617257934849	mentioned	2016-04-16 15:52:20+00:00	0	0	0	0	Twitter Web Client
+arnicas	MattTaddy	719587185008226304	mentioned	2016-04-11 18:05:28+00:00	1	0	1	0	Tweetbot for Mac
+pommedeterre33	MattTaddy	719571316454649856	mentioned	2016-04-11 17:02:25+00:00	0	0	0	0	Twitter Web Client
+RadimRehurek	glenweyl	668166432895705089	replied_to	2015-11-21 20:37:46+00:00	0	0	0	0	Twitter Web Client
+RadimRehurek	MattTaddy	668166432895705089	replied_to	2015-11-21 20:37:46+00:00	0	0	0	0	Twitter Web Client
+RadimRehurek	MSRNE	668166432895705089	replied_to	2015-11-21 20:37:46+00:00	0	0	0	0	Twitter Web Client
+jaradniemi	MattTaddy	667450872943644673	mentioned	2015-11-19 21:14:23+00:00	0	1	4	0	Twitter Web Client
+jaradniemi	MSRNE	667450872943644673	mentioned	2015-11-19 21:14:23+00:00	0	1	4	0	Twitter Web Client
+cumulyst	MattTaddy	662603653111521280	mentioned	2015-11-06 12:13:16+00:00	24	0	57	0	Twitter Web Client

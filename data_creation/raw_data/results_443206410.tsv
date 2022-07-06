@@ -1,0 +1,677 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+biovis_net	biocs	1529497957204107266	replied_to	2022-05-25 16:21:44+00:00	0	0	2	0	Twitter Web App
+biovis_net	helenajambor	1529497957204107266	replied_to	2022-05-25 16:21:44+00:00	0	0	2	0	Twitter Web App
+biovis_net	MKrzywinski	1529497957204107266	replied_to	2022-05-25 16:21:44+00:00	0	0	2	0	Twitter Web App
+biovis_net	hsailem	1529497957204107266	replied_to	2022-05-25 16:21:44+00:00	0	0	2	0	Twitter Web App
+biocs	MKrzywinski	1529128602398527488	mentioned	2022-05-24 15:54:03+00:00	0	1	5	1	TweetDeck
+Phil_A_Richmond	MKrzywinski	1526456031672418304	replied_to	2022-05-17 06:54:12+00:00	0	0	0	0	TweetDeck
+nzmyachie	MKrzywinski	1526455756580585472	replied_to	2022-05-17 06:53:07+00:00	0	1	0	0	TweetDeck
+kumarchanchal	MKrzywinski	1526455375318368256	replied_to	2022-05-17 06:51:36+00:00	0	1	0	0	TweetDeck
+Leili_Rohani	MKrzywinski	1526455091733086208	mentioned	2022-05-17 06:50:28+00:00	5	2	8	2	TweetDeck
+lolzcifer	helenajambor	1525027651538280449	replied_to	2022-05-13 08:18:20+00:00	0	1	0	0	Tweetbot for Mac
+lolzcifer	MKrzywinski	1525027651538280449	replied_to	2022-05-13 08:18:20+00:00	0	1	0	0	Tweetbot for Mac
+lolzcifer	biovis_net	1525027651538280449	replied_to	2022-05-13 08:18:20+00:00	0	1	0	0	Tweetbot for Mac
+lolzcifer	hsailem	1525027651538280449	replied_to	2022-05-13 08:18:20+00:00	0	1	0	0	Tweetbot for Mac
+pjb1440	helenajambor	1525010580825952256	replied_to	2022-05-13 07:10:30+00:00	0	1	0	0	Tweetbot for Mac
+pjb1440	MKrzywinski	1525010580825952256	replied_to	2022-05-13 07:10:30+00:00	0	1	0	0	Tweetbot for Mac
+pjb1440	biovis_net	1525010580825952256	replied_to	2022-05-13 07:10:30+00:00	0	1	0	0	Tweetbot for Mac
+pjb1440	hsailem	1525010580825952256	replied_to	2022-05-13 07:10:30+00:00	0	1	0	0	Tweetbot for Mac
+doriantaylor	helenajambor	1525004854774603778	replied_to	2022-05-13 06:47:45+00:00	0	1	1	0	Tweetbot for Mac
+doriantaylor	MKrzywinski	1525004854774603778	replied_to	2022-05-13 06:47:45+00:00	0	1	1	0	Tweetbot for Mac
+doriantaylor	biovis_net	1525004854774603778	replied_to	2022-05-13 06:47:45+00:00	0	1	1	0	Tweetbot for Mac
+doriantaylor	hsailem	1525004854774603778	replied_to	2022-05-13 06:47:45+00:00	0	1	1	0	Tweetbot for Mac
+marcoyannic	MKrzywinski	1523247481945202689	mentioned	2022-05-08 10:24:34+00:00	5	0	10	0	TweetDeck
+budcolincoln	MKrzywinski	1514631641422913536	quoted	2022-04-14 15:48:18+00:00	0	0	3	0	Twitter for iPhone
+damimeyer	Leili_Rohani	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	GlenTibbits1	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	nictitate	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	utnk1	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	NatureBiotech	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	MKrzywinski	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	TreyIdeker	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	iwasakiw	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	soh__i	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+damimeyer	Morihideponn	1514456962565517312	replied_to	2022-04-14 04:14:11+00:00	0	1	1	0	Twitter Web App
+moritz_stefaner	KeikoUTorii	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	utnk1	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	NatureBiotech	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	MKrzywinski	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	TreyIdeker	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	iwasakiw	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	soh__i	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	Morihideponn	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+moritz_stefaner	utnk1	1514456666720272384	replied_to	2022-04-14 04:13:01+00:00	0	0	1	0	Twitter Web App
+AUnderhillUA	GlenTibbits1	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	nictitate	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	utnk1	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	NatureBiotech	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	MKrzywinski	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	TreyIdeker	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	iwasakiw	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	soh__i	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+AUnderhillUA	Morihideponn	1514454065626828808	replied_to	2022-04-14 04:02:41+00:00	0	0	0	0	Twitter Web App
+micokoch	MKrzywinski	1514449050510438403	replied_to	2022-04-14 03:42:45+00:00	0	0	0	0	Twitter for iPhone
+micokoch	NatureBiotech	1514449050510438403	replied_to	2022-04-14 03:42:45+00:00	0	0	0	0	Twitter for iPhone
+micokoch	nzmyachie	1514449050510438403	replied_to	2022-04-14 03:42:45+00:00	0	0	0	0	Twitter for iPhone
+micokoch	yachielab	1514449050510438403	replied_to	2022-04-14 03:42:45+00:00	0	0	0	0	Twitter for iPhone
+CarldeBoerPhD	nictitate	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	utnk1	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	NatureBiotech	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	MKrzywinski	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	TreyIdeker	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	iwasakiw	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	soh__i	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	Morihideponn	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+CarldeBoerPhD	MKrzywinski	1514432899386208256	replied_to	2022-04-14 02:38:34+00:00	0	1	1	0	Twitter for iPhone
+GarredGarred	landrychristian	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	utnk1	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	NatureBiotech	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	MKrzywinski	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	TreyIdeker	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	iwasakiw	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	soh__i	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	Morihideponn	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+GarredGarred	utnk1	1514419425822183424	replied_to	2022-04-14 01:45:02+00:00	0	0	1	0	Twitter Web App
+drst3f	carvunis	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	utnk1	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	NatureBiotech	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	MKrzywinski	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	TreyIdeker	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	iwasakiw	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	soh__i	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+drst3f	Morihideponn	1514380689256292356	replied_to	2022-04-13 23:11:06+00:00	0	0	1	0	Twitter Web App
+entrup	nzmyachie	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	utnk1	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	NatureBiotech	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	MKrzywinski	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	TreyIdeker	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	iwasakiw	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	soh__i	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	Morihideponn	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+entrup	nzmyachie	1514293277373001736	replied_to	2022-04-13 17:23:46+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	nzmyachie	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	utnk1	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	NatureBiotech	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	MKrzywinski	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	TreyIdeker	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	iwasakiw	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	soh__i	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+BCCancer_GSC	Morihideponn	1514293236101050374	replied_to	2022-04-13 17:23:36+00:00	0	0	1	0	Twitter for Android
+foreveremain	utnk1	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+foreveremain	NatureBiotech	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+foreveremain	MKrzywinski	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+foreveremain	TreyIdeker	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+foreveremain	iwasakiw	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+foreveremain	soh__i	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+foreveremain	Morihideponn	1514273811134251010	quoted	2022-04-13 16:06:25+00:00	31	12	145	6	Twitter Web App
+ScienceisGlobal	MKrzywinski	1514216382346391559	replied_to	2022-04-13 12:18:12+00:00	0	0	0	0	Twitter Web App
+ScienceisGlobal	Nature	1514216382346391559	replied_to	2022-04-13 12:18:12+00:00	0	0	0	0	Twitter Web App
+ScienceisGlobal	CarldeBoerPhD	1514216382346391559	replied_to	2022-04-13 12:18:12+00:00	0	0	0	0	Twitter Web App
+ScienceisGlobal	_e_d_v_	1514216382346391559	replied_to	2022-04-13 12:18:12+00:00	0	0	0	0	Twitter Web App
+mylesbyrne	TheAtavism	1512203911842607114	mentioned	2022-04-07 23:01:22+00:00	1	1	6	0	Twitter Web App
+mylesbyrne	MKrzywinski	1512203911842607114	mentioned	2022-04-07 23:01:22+00:00	1	1	6	0	Twitter Web App
+ngehlenborg	MKrzywinski	1509539584987873285	replied_to	2022-03-31 14:34:17+00:00	0	0	0	0	Twitter Web App
+ngehlenborg	golan	1509539584987873285	replied_to	2022-03-31 14:34:17+00:00	0	0	0	0	Twitter Web App
+enniscath	vizbi	1506378688614391812	mentioned	2022-03-22 21:14:01+00:00	3	1	20	0	Twitter Web App
+enniscath	MKrzywinski	1506378688614391812	mentioned	2022-03-22 21:14:01+00:00	3	1	20	0	Twitter Web App
+h_emreerhan	MKrzywinski	1504807011656949761	replied_to	2022-03-18 13:08:44+00:00	0	0	0	0	Twitter Web App
+h_emreerhan	Nature	1504807011656949761	replied_to	2022-03-18 13:08:44+00:00	0	0	0	0	Twitter Web App
+h_emreerhan	CarldeBoerPhD	1504807011656949761	replied_to	2022-03-18 13:08:44+00:00	0	0	0	0	Twitter Web App
+h_emreerhan	_e_d_v_	1504807011656949761	replied_to	2022-03-18 13:08:44+00:00	0	0	0	0	Twitter Web App
+naturemethods	MKrzywinski	1504780935828549658	replied_to	2022-03-18 11:25:07+00:00	0	0	0	0	Twitter for iPhone
+naturemethods	Nature	1504780935828549658	replied_to	2022-03-18 11:25:07+00:00	0	0	0	0	Twitter for iPhone
+naturemethods	CarldeBoerPhD	1504780935828549658	replied_to	2022-03-18 11:25:07+00:00	0	0	0	0	Twitter for iPhone
+naturemethods	_e_d_v_	1504780935828549658	replied_to	2022-03-18 11:25:07+00:00	0	0	0	0	Twitter for iPhone
+ChristiansenJen	MKrzywinski	1504739720710049792	replied_to	2022-03-18 08:41:20+00:00	0	0	0	0	Twitter for iPhone
+ChristiansenJen	Nature	1504739720710049792	replied_to	2022-03-18 08:41:20+00:00	0	0	0	0	Twitter for iPhone
+ChristiansenJen	CarldeBoerPhD	1504739720710049792	replied_to	2022-03-18 08:41:20+00:00	0	0	0	0	Twitter for iPhone
+ChristiansenJen	_e_d_v_	1504739720710049792	replied_to	2022-03-18 08:41:20+00:00	0	0	0	0	Twitter for iPhone
+monsieurKoch	MKrzywinski	1504553967929409543	replied_to	2022-03-17 20:23:13+00:00	0	0	1	0	Twitter for iPhone
+monsieurKoch	Nature	1504553967929409543	replied_to	2022-03-17 20:23:13+00:00	0	0	1	0	Twitter for iPhone
+monsieurKoch	CarldeBoerPhD	1504553967929409543	replied_to	2022-03-17 20:23:13+00:00	0	0	1	0	Twitter for iPhone
+monsieurKoch	_e_d_v_	1504553967929409543	replied_to	2022-03-17 20:23:13+00:00	0	0	1	0	Twitter for iPhone
+ekocakavuk	MaxCRoser	1504526696048848906	replied_to	2022-03-17 18:34:51+00:00	0	0	0	0	Twitter Web App
+ekocakavuk	MKrzywinski	1504526696048848906	replied_to	2022-03-17 18:34:51+00:00	0	0	0	0	Twitter Web App
+notSoJunkDNA	_e_d_v_	1504520385877864450	replied_to	2022-03-17 18:09:47+00:00	0	0	1	0	Twitter Web App
+notSoJunkDNA	Nature	1504520385877864450	replied_to	2022-03-17 18:09:47+00:00	0	0	1	0	Twitter Web App
+notSoJunkDNA	MKrzywinski	1504520385877864450	replied_to	2022-03-17 18:09:47+00:00	0	0	1	0	Twitter Web App
+morinryan	pcastr	1504497139107471366	replied_to	2022-03-17 16:37:24+00:00	0	0	1	0	Twitter Web App
+morinryan	MKrzywinski	1504497139107471366	replied_to	2022-03-17 16:37:24+00:00	0	0	1	0	Twitter Web App
+obigriffith	JenniferMolinet	1504199108898164736	replied_to	2022-03-16 20:53:08+00:00	1	1	4	0	Twitter Web App
+obigriffith	MoranYassour	1504199108898164736	replied_to	2022-03-16 20:53:08+00:00	1	1	4	0	Twitter Web App
+obigriffith	XAdiconis	1504199108898164736	replied_to	2022-03-16 20:53:08+00:00	1	1	4	0	Twitter Web App
+obigriffith	jzlevin	1504199108898164736	replied_to	2022-03-16 20:53:08+00:00	1	1	4	0	Twitter Web App
+obigriffith	FcocubillosR	1504199108898164736	replied_to	2022-03-16 20:53:08+00:00	1	1	4	0	Twitter Web App
+obigriffith	MKrzywinski	1504199108898164736	replied_to	2022-03-16 20:53:08+00:00	1	1	4	0	Twitter Web App
+doctorveera	MKrzywinski	1503551693740335111	replied_to	2022-03-15 02:00:33+00:00	0	1	0	0	Twitter for iPhone
+doctorveera	emma_beauxis	1503551693740335111	replied_to	2022-03-15 02:00:33+00:00	0	1	0	0	Twitter for iPhone
+RodMakeKidsBald	MKrzywinski	1503550596871122945	replied_to	2022-03-15 01:56:11+00:00	0	0	2	0	Twitter for iPhone
+RodMakeKidsBald	emma_beauxis	1503550596871122945	replied_to	2022-03-15 01:56:11+00:00	0	0	2	0	Twitter for iPhone
+bch_rc	MKrzywinski	1503509975213166598	replied_to	2022-03-14 23:14:46+00:00	0	0	3	0	Twitter Web App
+jamesday76	MKrzywinski	1503411146237304832	mentioned	2022-03-14 16:42:03+00:00	0	0	5	0	Twitter Web App
+VanessaPorter	MKrzywinski	1503392439771418625	quoted	2022-03-14 15:27:43+00:00	2	0	6	0	Twitter Web App
+rita_strack	MKrzywinski	1502490866916769793	replied_to	2022-03-12 03:45:12+00:00	0	0	1	0	Twitter for Android
+rita_strack	Nature	1502490866916769793	replied_to	2022-03-12 03:45:12+00:00	0	0	1	0	Twitter for Android
+rita_strack	_e_d_v_	1502490866916769793	replied_to	2022-03-12 03:45:12+00:00	0	0	1	0	Twitter for Android
+rita_strack	physorg_com	1502490866916769793	replied_to	2022-03-12 03:45:12+00:00	0	0	1	0	Twitter for Android
+Better_Posters	LindstromLab	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	vizbi	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	sb_fuller	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	hollybik	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	huddlej	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	amcrisan	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	KristinMBranson	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	HaoLi81	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	bongshin	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	jankosinski	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	boscoh	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	brunklab	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	dsgoodsell	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	ben_fry	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	erikgarrison	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	jmuiuc	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	athmapai	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	drewberryIV	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	MKrzywinski	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	biovis_net	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	iscb	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+Better_Posters	EMBLEvents	1502339121473363969	replied_to	2022-03-11 17:42:13+00:00	0	0	2	0	Twitter for Android
+indole_gaines	moritz_stefaner	1497247972253474848	replied_to	2022-02-25 16:31:48+00:00	0	0	0	0	Twitter Web App
+indole_gaines	WiringTheBrain	1497247972253474848	replied_to	2022-02-25 16:31:48+00:00	0	0	0	0	Twitter Web App
+indole_gaines	MKrzywinski	1497247972253474848	replied_to	2022-02-25 16:31:48+00:00	0	0	0	0	Twitter Web App
+indole_gaines	bangwong	1497247972253474848	replied_to	2022-02-25 16:31:48+00:00	0	0	0	0	Twitter Web App
+indole_gaines	rob_beiko	1497247972253474848	replied_to	2022-02-25 16:31:48+00:00	0	0	0	0	Twitter Web App
+indole_gaines	visualisingdata	1497247972253474848	replied_to	2022-02-25 16:31:48+00:00	0	0	0	0	Twitter Web App
+datavisandcomms	foreveremain	1497183999860617219	replied_to	2022-02-25 12:17:36+00:00	0	1	1	0	Tweetbot for iΟS
+datavisandcomms	WiringTheBrain	1497183999860617219	replied_to	2022-02-25 12:17:36+00:00	0	1	1	0	Tweetbot for iΟS
+datavisandcomms	MKrzywinski	1497183999860617219	replied_to	2022-02-25 12:17:36+00:00	0	1	1	0	Tweetbot for iΟS
+datavisandcomms	bangwong	1497183999860617219	replied_to	2022-02-25 12:17:36+00:00	0	1	1	0	Tweetbot for iΟS
+datavisandcomms	rob_beiko	1497183999860617219	replied_to	2022-02-25 12:17:36+00:00	0	1	1	0	Tweetbot for iΟS
+datavisandcomms	visualisingdata	1497183999860617219	replied_to	2022-02-25 12:17:36+00:00	0	1	1	0	Tweetbot for iΟS
+GolloFabiano	WiringTheBrain	1497167692205232132	replied_to	2022-02-25 11:12:48+00:00	0	1	1	0	Twitter Web App
+GolloFabiano	MKrzywinski	1497167692205232132	replied_to	2022-02-25 11:12:48+00:00	0	1	1	0	Twitter Web App
+GolloFabiano	bangwong	1497167692205232132	replied_to	2022-02-25 11:12:48+00:00	0	1	1	0	Twitter Web App
+GolloFabiano	rob_beiko	1497167692205232132	replied_to	2022-02-25 11:12:48+00:00	0	1	1	0	Twitter Web App
+GolloFabiano	moritz_stefaner	1497167692205232132	replied_to	2022-02-25 11:12:48+00:00	0	1	1	0	Twitter Web App
+GolloFabiano	visualisingdata	1497167692205232132	replied_to	2022-02-25 11:12:48+00:00	0	1	1	0	Twitter Web App
+maxcoopermax	MKrzywinski	1487295720826630145	replied_to	2022-01-29 05:25:07+00:00	0	0	0	0	Twitter for iPhone
+maxcoopermax	PNASNews	1487295720826630145	replied_to	2022-01-29 05:25:07+00:00	0	0	0	0	Twitter for iPhone
+maxcoopermax	EBPgenome	1487295720826630145	replied_to	2022-01-29 05:25:07+00:00	0	0	0	0	Twitter for iPhone
+maxcoopermax	EarthBioGenome	1487295720826630145	replied_to	2022-01-29 05:25:07+00:00	0	0	0	0	Twitter for iPhone
+maartenzam	PLOSCompBiol	1484378839320981514	mentioned	2022-01-21 04:14:28+00:00	1	0	3	0	Twitter for iPhone
+maartenzam	MKrzywinski	1484378839320981514	mentioned	2022-01-21 04:14:28+00:00	1	0	3	0	Twitter for iPhone
+CC_ARCC	MKrzywinski	1484377880377249797	mentioned	2022-01-21 04:10:39+00:00	0	1	0	0	Twitter for iPhone
+SpiritOfFlight_	kausch	1482378144657117184	replied_to	2022-01-15 15:44:25+00:00	0	0	1	0	Twitter Web App
+SpiritOfFlight_	MKrzywinski	1482378144657117184	replied_to	2022-01-15 15:44:25+00:00	0	0	1	0	Twitter Web App
+Lange_Lab	baym	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	sarveshnikumbh	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	arjunrajlab	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	arjunrajlab	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	naturemethods	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	devanko	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	bangwong	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	MKrzywinski	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	marc_streit	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+Lange_Lab	alexander_lex	1481022662013034505	replied_to	2022-01-11 21:58:13+00:00	2	1	16	0	Twitter Web App
+jodirmurphy	punkrockscience	1473466474970771459	replied_to	2021-12-22 01:32:37+00:00	0	1	0	0	Twitter Web App
+jodirmurphy	MKrzywinski	1473466474970771459	replied_to	2021-12-22 01:32:37+00:00	0	1	0	0	Twitter Web App
+shabaz_sultan	MKrzywinski	1470958050018271234	replied_to	2021-12-15 03:25:02+00:00	0	1	2	1	Twitter Web App
+KevinSauve	MKrzywinski	1466945455271518209	replied_to	2021-12-04 01:40:25+00:00	0	1	1	0	Twitter for iPhone
+jakelever0	MKrzywinski	1455968859048009729	mentioned	2021-11-03 18:43:21+00:00	4	0	12	1	Twitter Web App
+BCCancer_GSC	sajraparicio	1357400323485147140	replied_to	2021-02-04 18:47:11+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	sjmjones	1357400323485147140	replied_to	2021-02-04 18:47:11+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	MKrzywinski	1357400323485147140	replied_to	2021-02-04 18:47:11+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	sajraparicio	1357400323485147140	replied_to	2021-02-04 18:47:11+00:00	0	0	1	0	Twitter Web App
+jakelever0	MKrzywinski	1357167273027375104	replied_to	2021-02-04 03:21:07+00:00	0	1	0	0	Twitter Web App
+maartenzam	MKrzywinski	1357128964448407553	replied_to	2021-02-04 00:48:54+00:00	0	1	6	0	Twitter Web App
+hackseq	BCCancer_GSC	1354938462059696129	replied_to	2021-01-28 23:44:37+00:00	0	0	0	0	Twitter Web App
+hackseq	MKrzywinski	1354938462059696129	replied_to	2021-01-28 23:44:37+00:00	0	0	0	0	Twitter Web App
+enniscath	MKrzywinski	1354932360245030912	mentioned	2021-01-28 23:20:22+00:00	28	3	54	2	Twitter Web App
+KoonkieAria	j_mcelroy	1350227023197732864	replied_to	2021-01-15 23:43:02+00:00	0	0	0	0	Twitter for iPhone
+KoonkieAria	MKrzywinski	1350227023197732864	replied_to	2021-01-15 23:43:02+00:00	0	0	0	0	Twitter for iPhone
+naturemethods	MKrzywinski	1350211115695783937	replied_to	2021-01-15 22:39:50+00:00	0	0	0	0	Twitter Web App
+wntyuli	MKrzywinski	1347548406185660417	mentioned	2021-01-08 14:19:10+00:00	4	0	9	1	Twitter Web App
+wntyuli	HannoWurbel	1347548406185660417	mentioned	2021-01-08 14:19:10+00:00	4	0	9	1	Twitter Web App
+rita_strack	MKrzywinski	1340084278504275971	quoted	2020-12-18 23:59:24+00:00	0	1	8	0	Twitter Web App
+rita_strack	emminicc	1340084278504275971	quoted	2020-12-18 23:59:24+00:00	0	1	8	0	Twitter Web App
+_marstudio	MKrzywinski	1338538391302967302	replied_to	2020-12-14 17:36:35+00:00	0	0	1	0	Twitter for Android
+StolteChris	ClementYChow	1337203782288027649	replied_to	2020-12-11 01:13:20+00:00	0	0	0	0	Twitter for Android
+StolteChris	MKrzywinski	1337203782288027649	replied_to	2020-12-11 01:13:20+00:00	0	0	0	0	Twitter for Android
+4pandohs	AnnaLWil	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+4pandohs	ec_aus	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+4pandohs	BurnetInstitute	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+4pandohs	KirbyInstitute	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+4pandohs	MKrzywinski	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+4pandohs	BurnetInstitute	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+4pandohs	methylnick	1326701113987330048	replied_to	2020-11-12 01:39:29+00:00	1	0	2	0	Twitter for Android
+refractivelifer	MKrzywinski	1325431834830893056	replied_to	2020-11-08 13:35:49+00:00	0	0	2	0	Twitter for Android
+refractivelifer	KamalaHarris	1325431834830893056	replied_to	2020-11-08 13:35:49+00:00	0	0	2	0	Twitter for Android
+refractivelifer	JoeBiden	1325431834830893056	replied_to	2020-11-08 13:35:49+00:00	0	0	2	0	Twitter for Android
+kumarchanchal	MKrzywinski	1325259864952643585	replied_to	2020-11-08 02:12:28+00:00	0	0	0	0	Twitter for iPhone
+kumarchanchal	KamalaHarris	1325259864952643585	replied_to	2020-11-08 02:12:28+00:00	0	0	0	0	Twitter for iPhone
+kumarchanchal	JoeBiden	1325259864952643585	replied_to	2020-11-08 02:12:28+00:00	0	0	0	0	Twitter for iPhone
+MLithopoulos	MKrzywinski	1320765411168694279	replied_to	2020-10-26 16:33:07+00:00	0	0	1	0	Twitter Web App
+nigelhawtin	MKrzywinski	1320468917412909056	replied_to	2020-10-25 20:54:57+00:00	0	0	0	0	Twitter for iPhone
+nigelhawtin	StemCellNetwork	1320468917412909056	replied_to	2020-10-25 20:54:57+00:00	0	0	0	0	Twitter for iPhone
+MplsBarry	MKrzywinski	1320419224624500736	mentioned	2020-10-25 17:37:30+00:00	2	0	15	0	Twitter for Android
+MplsBarry	StemCellNetwork	1320419224624500736	mentioned	2020-10-25 17:37:30+00:00	2	0	15	0	Twitter for Android
+doriantaylor	MKrzywinski	1320280517925851136	replied_to	2020-10-25 08:26:19+00:00	1	0	1	0	Twitter for iPad
+doriantaylor	StemCellNetwork	1320280517925851136	replied_to	2020-10-25 08:26:19+00:00	1	0	1	0	Twitter for iPad
+ChadSinclairYVR	MKrzywinski	1319740996326928384	replied_to	2020-10-23 20:42:27+00:00	0	0	0	0	Twitter Web App
+JPCourneya	MKrzywinski	1319734532770320384	replied_to	2020-10-23 20:16:46+00:00	0	1	0	0	Twitter Web App
+rzolau	MKrzywinski	1318680516615262208	replied_to	2020-10-20 22:28:29+00:00	0	0	0	0	Twitter Web App
+rzolau	hondanhon	1318680516615262208	replied_to	2020-10-20 22:28:29+00:00	0	0	0	0	Twitter Web App
+LadyScorcher	bat__go	1315513017308639232	replied_to	2020-10-12 04:41:59+00:00	0	1	1	0	Twitter for iPhone
+LadyScorcher	MKrzywinski	1315513017308639232	replied_to	2020-10-12 04:41:59+00:00	0	1	1	0	Twitter for iPhone
+ianbosdet	MKrzywinski	1315417157543444480	quoted	2020-10-11 22:21:04+00:00	0	1	7	0	Twitter for iPhone
+methylnick	MKrzywinski	1314328258431852547	replied_to	2020-10-08 22:14:10+00:00	0	0	0	0	Twitter for Android
+sjackman	MKrzywinski	1314327922812092427	replied_to	2020-10-08 22:12:50+00:00	0	2	0	0	Twitter for Android
+michaelhoffman	MKrzywinski	1313842494992453633	mentioned	2020-10-07 14:03:55+00:00	0	1	0	0	Twitter Web App
+indole_gaines	imgrund	1313441609846054913	replied_to	2020-10-06 11:30:57+00:00	0	1	1	0	Twitter for iPhone
+indole_gaines	Billius27	1313441609846054913	replied_to	2020-10-06 11:30:57+00:00	0	1	1	0	Twitter for iPhone
+indole_gaines	spaiglass	1313441609846054913	replied_to	2020-10-06 11:30:57+00:00	0	1	1	0	Twitter for iPhone
+indole_gaines	MKrzywinski	1313441609846054913	replied_to	2020-10-06 11:30:57+00:00	0	1	1	0	Twitter for iPhone
+dccc_phd	MKrzywinski	1311533460108918784	replied_to	2020-10-01 05:08:38+00:00	0	1	0	0	Twitter for iPhone
+moritz_stefaner	MKrzywinski	1307346344617500672	replied_to	2020-09-19 15:50:32+00:00	0	1	0	0	Twitter for iPhone
+moritz_stefaner	maxcoopermax	1307346344617500672	replied_to	2020-09-19 15:50:32+00:00	0	1	0	0	Twitter for iPhone
+VanessaPorter	jmmagana	1303149853883527168	replied_to	2020-09-08 01:55:11+00:00	0	0	2	0	TweetDeck
+VanessaPorter	statsgen	1303149853883527168	replied_to	2020-09-08 01:55:11+00:00	0	0	2	0	TweetDeck
+VanessaPorter	MKrzywinski	1303149853883527168	replied_to	2020-09-08 01:55:11+00:00	0	0	2	0	TweetDeck
+VanessaPorter	MonashUni	1303149853883527168	replied_to	2020-09-08 01:55:11+00:00	0	0	2	0	TweetDeck
+VanessaPorter	MonashBioinfo	1303149853883527168	replied_to	2020-09-08 01:55:11+00:00	0	0	2	0	TweetDeck
+mmarra0630	statsgen	1303135594827010048	replied_to	2020-09-08 00:58:31+00:00	0	0	0	0	TweetDeck
+mmarra0630	MKrzywinski	1303135594827010048	replied_to	2020-09-08 00:58:31+00:00	0	0	0	0	TweetDeck
+ChristiansenJen	statsgen	1303134164334440448	replied_to	2020-09-08 00:52:50+00:00	0	1	0	0	TweetDeck
+ChristiansenJen	MKrzywinski	1303134164334440448	replied_to	2020-09-08 00:52:50+00:00	0	1	0	0	TweetDeck
+AlbertoCairo	MKrzywinski	1298747376685862912	replied_to	2020-08-26 22:21:18+00:00	0	0	0	0	Tweetbot for Mac
+AlbertoCairo	keriannecameron	1298747376685862912	replied_to	2020-08-26 22:21:18+00:00	0	0	0	0	Tweetbot for Mac
+jonathan_davies	dccc_phd	1298722801520488451	replied_to	2020-08-26 20:43:39+00:00	1	0	0	0	Twitter Web App
+jonathan_davies	naturemethods	1298722801520488451	replied_to	2020-08-26 20:43:39+00:00	1	0	0	0	Twitter Web App
+jonathan_davies	jakelever0	1298722801520488451	replied_to	2020-08-26 20:43:39+00:00	1	0	0	0	Twitter Web App
+jonathan_davies	MKrzywinski	1298722801520488451	replied_to	2020-08-26 20:43:39+00:00	1	0	0	0	Twitter Web App
+christlet	dccc_phd	1298720499787165698	replied_to	2020-08-26 20:34:30+00:00	1	1	0	0	Twitter Web App
+christlet	naturemethods	1298720499787165698	replied_to	2020-08-26 20:34:30+00:00	1	1	0	0	Twitter Web App
+christlet	jakelever0	1298720499787165698	replied_to	2020-08-26 20:34:30+00:00	1	1	0	0	Twitter Web App
+christlet	MKrzywinski	1298720499787165698	replied_to	2020-08-26 20:34:30+00:00	1	1	0	0	Twitter Web App
+AndrewPlested	dccc_phd	1298720146287026178	replied_to	2020-08-26 20:33:06+00:00	1	1	4	0	Twitter Web App
+AndrewPlested	naturemethods	1298720146287026178	replied_to	2020-08-26 20:33:06+00:00	1	1	4	0	Twitter Web App
+AndrewPlested	jakelever0	1298720146287026178	replied_to	2020-08-26 20:33:06+00:00	1	1	4	0	Twitter Web App
+AndrewPlested	MKrzywinski	1298720146287026178	replied_to	2020-08-26 20:33:06+00:00	1	1	4	0	Twitter Web App
+FrenchFryPug	MKrzywinski	1298352811793686528	replied_to	2020-08-25 20:13:27+00:00	0	0	1	0	Twitter Web App
+FrenchFryPug	naturemethods	1298352811793686528	replied_to	2020-08-25 20:13:27+00:00	0	0	1	0	Twitter Web App
+FrenchFryPug	devanko	1298352811793686528	replied_to	2020-08-25 20:13:27+00:00	0	0	1	0	Twitter Web App
+zalaly	MKrzywinski	1298306308798468097	replied_to	2020-08-25 17:08:40+00:00	1	0	1	0	Twitter Web App
+zalaly	naturemethods	1298306308798468097	replied_to	2020-08-25 17:08:40+00:00	1	0	1	0	Twitter Web App
+zalaly	BjornstadOttar	1298306308798468097	replied_to	2020-08-25 17:08:40+00:00	1	0	1	0	Twitter Web App
+whereisdaz	theorecol	1296857435395764225	replied_to	2020-08-21 17:11:21+00:00	0	0	2	0	Twitter Web App
+whereisdaz	enniscath	1296857435395764225	replied_to	2020-08-21 17:11:21+00:00	0	0	2	0	Twitter Web App
+whereisdaz	MKrzywinski	1296857435395764225	replied_to	2020-08-21 17:11:21+00:00	0	0	2	0	Twitter Web App
+rashmi_mallappa	dccc_phd	1296836167761969157	replied_to	2020-08-21 15:46:51+00:00	0	1	0	0	Twitter Web App
+rashmi_mallappa	theorecol	1296836167761969157	replied_to	2020-08-21 15:46:51+00:00	0	1	0	0	Twitter Web App
+rashmi_mallappa	MKrzywinski	1296836167761969157	replied_to	2020-08-21 15:46:51+00:00	0	1	0	0	Twitter Web App
+DBBurkhardt	MKrzywinski	1295987185469001728	replied_to	2020-08-19 07:33:17+00:00	0	0	0	0	TweetDeck
+DBBurkhardt	ChristiansenJen	1295987185469001728	replied_to	2020-08-19 07:33:17+00:00	0	0	0	0	TweetDeck
+mikhaildozmorov	MKrzywinski	1294819378316230657	replied_to	2020-08-16 02:12:51+00:00	0	0	0	0	Twitter Web App
+ernestopena	MKrzywinski	1294819025004818434	replied_to	2020-08-16 02:11:26+00:00	0	1	0	0	Twitter Web App
+pgolding	CDCofBC	1294040883973611522	replied_to	2020-08-13 22:39:23+00:00	0	0	0	0	Twitter Web App
+pgolding	MKrzywinski	1294040883973611522	replied_to	2020-08-13 22:39:23+00:00	0	0	0	0	Twitter Web App
+morinryan	MKrzywinski	1292585100694048768	replied_to	2020-08-09 22:14:37+00:00	0	0	0	0	Twitter for iPhone
+morinryan	AndyMungall	1292585100694048768	replied_to	2020-08-09 22:14:37+00:00	0	0	0	0	Twitter for iPhone
+morinryan	NatureGenet	1292585100694048768	replied_to	2020-08-09 22:14:37+00:00	0	0	0	0	Twitter for iPhone
+morinryan	VanessaPorter	1292585100694048768	replied_to	2020-08-09 22:14:37+00:00	0	0	0	0	Twitter for iPhone
+morinryan	BCCancer_GSC	1292585100694048768	replied_to	2020-08-09 22:14:37+00:00	0	0	0	0	Twitter for iPhone
+ReedLiu1314	MKrzywinski	1292190698221891584	mentioned	2020-08-08 20:07:24+00:00	2	0	18	0	Twitter for Android
+ReedLiu1314	NatureGenet	1292190698221891584	mentioned	2020-08-08 20:07:24+00:00	2	0	18	0	Twitter for Android
+mslima	MKrzywinski	1291783922120941568	replied_to	2020-08-07 17:11:01+00:00	0	0	1	0	Twitter Web App
+mslima	ianbosdet	1291783922120941568	replied_to	2020-08-07 17:11:01+00:00	0	0	1	0	Twitter Web App
+hexylena	MKrzywinski	1291782631135367173	replied_to	2020-08-07 17:05:54+00:00	0	0	0	0	Twitter Web App
+Phil_A_Richmond	MKrzywinski	1291600873508835335	quoted	2020-08-07 05:03:39+00:00	0	1	1	0	Twitter for iPhone
+House_of_Miau	questionswsam	1291485682938941440	replied_to	2020-08-06 21:25:56+00:00	0	0	0	0	Twitter for Android
+House_of_Miau	MKrzywinski	1291485682938941440	replied_to	2020-08-06 21:25:56+00:00	0	0	0	0	Twitter for Android
+House_of_Miau	NatureGenet	1291485682938941440	replied_to	2020-08-06 21:25:56+00:00	0	0	0	0	Twitter for Android
+House_of_Miau	questionswsam	1291485682938941440	replied_to	2020-08-06 21:25:56+00:00	0	0	0	0	Twitter for Android
+AnneSteino	MKrzywinski	1291432133932851200	quoted	2020-08-06 17:53:09+00:00	2	2	26	1	Twitter for Android
+AnneSteino	NatureGenet	1291432133932851200	quoted	2020-08-06 17:53:09+00:00	2	2	26	1	Twitter for Android
+marcoyannic	MKrzywinski	1290865083812163585	replied_to	2020-08-05 04:19:53+00:00	0	0	2	0	Twitter for iPhone
+marcoyannic	NatureGenet	1290865083812163585	replied_to	2020-08-05 04:19:53+00:00	0	0	2	0	Twitter for iPhone
+marcoyannic	VanessaPorter	1290865083812163585	replied_to	2020-08-05 04:19:53+00:00	0	0	2	0	Twitter for iPhone
+marcoyannic	AndyMungall	1290865083812163585	replied_to	2020-08-05 04:19:53+00:00	0	0	2	0	Twitter for iPhone
+marcoyannic	BCCancer_GSC	1290865083812163585	replied_to	2020-08-05 04:19:53+00:00	0	0	2	0	Twitter for iPhone
+ATJCagan	VanessaPorter	1290437358509264901	quoted	2020-08-04 00:00:16+00:00	8	1	31	0	Twitter for iPhone
+ATJCagan	MKrzywinski	1290437358509264901	quoted	2020-08-04 00:00:16+00:00	8	1	31	0	Twitter for iPhone
+DavidSHolz	MKrzywinski	1287130855744339968	replied_to	2020-07-25 21:01:24+00:00	0	0	0	0	Twitter for iPhone
+ngehlenborg	Obdurodon	1285729690536353795	replied_to	2020-07-22 00:13:40+00:00	0	0	0	0	Twitter for iPhone
+ngehlenborg	MKrzywinski	1285729690536353795	replied_to	2020-07-22 00:13:40+00:00	0	0	0	0	Twitter for iPhone
+AlbertoCairo	ngehlenborg	1258934477092503557	replied_to	2020-05-09 01:39:03+00:00	0	1	0	0	Twitter Web App
+AlbertoCairo	alyssafowers	1258934477092503557	replied_to	2020-05-09 01:39:03+00:00	0	1	0	0	Twitter Web App
+AlbertoCairo	MKrzywinski	1258934477092503557	replied_to	2020-05-09 01:39:03+00:00	0	1	0	0	Twitter Web App
+ngehlenborg	alyssafowers	1258924925617868807	replied_to	2020-05-09 01:01:06+00:00	0	0	1	0	Twitter for Mac
+ngehlenborg	MKrzywinski	1258924925617868807	replied_to	2020-05-09 01:01:06+00:00	0	0	1	0	Twitter for Mac
+ngehlenborg	AlbertoCairo	1258924925617868807	replied_to	2020-05-09 01:01:06+00:00	0	0	1	0	Twitter for Mac
+ngehlenborg	nmeth	1258924925617868807	replied_to	2020-05-09 01:01:06+00:00	0	0	1	0	Twitter for Mac
+ChristiansenJen	alyssafowers	1258924922585395202	quoted	2020-05-09 01:01:05+00:00	0	3	7	1	Twitter for Mac
+ChristiansenJen	MKrzywinski	1258924922585395202	quoted	2020-05-09 01:01:05+00:00	0	3	7	1	Twitter for Mac
+ChristiansenJen	AlbertoCairo	1258924922585395202	quoted	2020-05-09 01:01:05+00:00	0	3	7	1	Twitter for Mac
+MRAKdesign	MRAKdesign	1257426843608760320	replied_to	2020-05-04 21:48:16+00:00	0	0	5	0	Twitter for iPhone
+MRAKdesign	sciam	1257426843608760320	replied_to	2020-05-04 21:48:16+00:00	0	0	5	0	Twitter for iPhone
+MRAKdesign	MKrzywinski	1257426843608760320	replied_to	2020-05-04 21:48:16+00:00	0	0	5	0	Twitter for iPhone
+MRAKdesign	nextstrain	1257426843608760320	replied_to	2020-05-04 21:48:16+00:00	0	0	5	0	Twitter for iPhone
+MRAKdesign	markfischetti	1257426843608760320	replied_to	2020-05-04 21:48:16+00:00	0	0	5	0	Twitter for iPhone
+otaviocv	sciam	1257421233756475392	quoted	2020-05-04 21:25:58+00:00	3	1	16	0	Twitter Web App
+otaviocv	ChristiansenJen	1257421233756475392	quoted	2020-05-04 21:25:58+00:00	3	1	16	0	Twitter Web App
+otaviocv	MKrzywinski	1257421233756475392	quoted	2020-05-04 21:25:58+00:00	3	1	16	0	Twitter Web App
+otaviocv	nextstrain	1257421233756475392	quoted	2020-05-04 21:25:58+00:00	3	1	16	0	Twitter Web App
+foreveremain	MKrzywinski	1257349869410422784	mentioned	2020-05-04 16:42:23+00:00	45	4	123	6	Twitter Web App
+foreveremain	nextstrain	1257349869410422784	mentioned	2020-05-04 16:42:23+00:00	45	4	123	6	Twitter Web App
+indole_gaines	MKrzywinski	1256035047574036486	mentioned	2020-05-01 01:37:46+00:00	0	0	1	0	Twitter Web App
+rita_strack	ngehlenborg	1255609890950742017	replied_to	2020-04-29 21:28:20+00:00	0	0	3	0	Twitter for Android
+rita_strack	MKrzywinski	1255609890950742017	replied_to	2020-04-29 21:28:20+00:00	0	0	3	0	Twitter for Android
+csaviochan	MKrzywinski	1255605764909039617	replied_to	2020-04-29 21:11:57+00:00	0	2	0	0	Twitter for Mac
+michaelhoffman	MKrzywinski	1255314037568651267	replied_to	2020-04-29 01:52:43+00:00	1	0	0	0	Twitter Web App
+michaelhoffman	BjornstadOttar	1255314037568651267	replied_to	2020-04-29 01:52:43+00:00	1	0	0	0	Twitter Web App
+michaelhoffman	naturemethods	1255314037568651267	replied_to	2020-04-29 01:52:43+00:00	1	0	0	0	Twitter Web App
+GarredGarred	AnitaQuintana20	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	RCBagot	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	csaviochan	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	KateWassum	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	michaelhoffman	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	TLowePower	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	PracheeAC	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	SJB_SynBio	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	ClausWilke	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+GarredGarred	MKrzywinski	1255139081350086658	replied_to	2020-04-28 14:17:31+00:00	0	0	2	0	Twitter Web App
+doug_manuel	AnitaQuintana20	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	RCBagot	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	rita_strack	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	KateWassum	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	michaelhoffman	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	TLowePower	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	PracheeAC	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	SJB_SynBio	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	ClausWilke	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+doug_manuel	MKrzywinski	1255138545104084993	replied_to	2020-04-28 14:15:23+00:00	0	0	0	0	TweetDeck
+BCCancer_GSC	csaviochan	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	RCBagot	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	rita_strack	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	KateWassum	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	TLowePower	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	PracheeAC	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	SJB_SynBio	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	ClausWilke	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+BCCancer_GSC	MKrzywinski	1254944409147359233	replied_to	2020-04-28 01:23:57+00:00	0	0	1	0	Twitter Web App
+StolteChris	michaelhoffman	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	RCBagot	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	rita_strack	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	KateWassum	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	TLowePower	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	PracheeAC	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	SJB_SynBio	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	ClausWilke	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+StolteChris	MKrzywinski	1254943226022199296	replied_to	2020-04-28 01:19:15+00:00	0	1	1	0	TweetDeck
+parowicka	csaviochan	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	RCBagot	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	rita_strack	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	KateWassum	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	TLowePower	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	PracheeAC	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	SJB_SynBio	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	ClausWilke	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+parowicka	MKrzywinski	1254942771347173376	replied_to	2020-04-28 01:17:27+00:00	0	1	2	0	Twitter Web App
+kellybkrause	michaelhoffman	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	RCBagot	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	rita_strack	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	KateWassum	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	TLowePower	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	PracheeAC	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	SJB_SynBio	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	ClausWilke	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+kellybkrause	MKrzywinski	1254941986370605059	replied_to	2020-04-28 01:14:19+00:00	0	1	0	0	TweetDeck
+VanessaPorter	RCBagot	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	csaviochan	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	rita_strack	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	KateWassum	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	TLowePower	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	PracheeAC	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	SJB_SynBio	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	ClausWilke	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+VanessaPorter	MKrzywinski	1254941333879435268	replied_to	2020-04-28 01:11:44+00:00	0	1	2	0	Twitter Web App
+LowDimensional	RCBagot	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	rita_strack	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	KateWassum	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	michaelhoffman	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	TLowePower	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	PracheeAC	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	SJB_SynBio	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	ClausWilke	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+LowDimensional	MKrzywinski	1254937799498829839	replied_to	2020-04-28 00:57:41+00:00	0	0	1	0	TweetDeck
+mmarra0630	MKrzywinski	1254818451568226304	replied_to	2020-04-27 17:03:26+00:00	0	0	2	0	Twitter for iPhone
+mmarra0630	NatureCancer	1254818451568226304	replied_to	2020-04-27 17:03:26+00:00	0	0	2	0	Twitter for iPhone
+mmarra0630	StolteChris	1254818451568226304	replied_to	2020-04-27 17:03:26+00:00	0	0	2	0	Twitter for iPhone
+mmarra0630	mmarra0630	1254818451568226304	replied_to	2020-04-27 17:03:26+00:00	0	0	2	0	Twitter for iPhone
+mmarra0630	sjmjones	1254818451568226304	replied_to	2020-04-27 17:03:26+00:00	0	0	2	0	Twitter for iPhone
+mmarra0630	InancBirol	1254818451568226304	replied_to	2020-04-27 17:03:26+00:00	0	0	2	0	Twitter for iPhone
+naturemethods	rita_strack	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	KateWassum	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	michaelhoffman	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	TLowePower	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	PracheeAC	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	SJB_SynBio	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	ClausWilke	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+naturemethods	MKrzywinski	1254779234528026626	replied_to	2020-04-27 14:27:36+00:00	0	1	2	0	Twitter Web App
+dominik_stoll	petenator39	1253245613132611584	replied_to	2020-04-23 08:53:33+00:00	0	0	0	0	Twitter Web App
+dominik_stoll	MKrzywinski	1253245613132611584	replied_to	2020-04-23 08:53:33+00:00	0	0	0	0	Twitter Web App
+dominik_stoll	enniscath	1253245613132611584	replied_to	2020-04-23 08:53:33+00:00	0	0	0	0	Twitter Web App
+dominik_stoll	CDCofBC	1253245613132611584	replied_to	2020-04-23 08:53:33+00:00	0	0	0	0	Twitter Web App
+dominik_stoll	CBCNews	1253245613132611584	replied_to	2020-04-23 08:53:33+00:00	0	0	0	0	Twitter Web App
+dominik_stoll	j_mcelroy	1253245613132611584	replied_to	2020-04-23 08:53:33+00:00	0	0	0	0	Twitter Web App
+KevinSauve	robynroscoe	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	NatureCancer	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	MKrzywinski	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	mmarra0630	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	sjmjones	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	BCCancer	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	howiel2013	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+KevinSauve	DeanRegier	1253005956591480835	replied_to	2020-04-22 17:01:14+00:00	0	0	1	0	Twitter Web App
+enniscath	NatureCancer	1252999318283276289	quoted	2020-04-22 16:34:51+00:00	7	2	18	0	Twitter for iPhone
+enniscath	MKrzywinski	1252999318283276289	quoted	2020-04-22 16:34:51+00:00	7	2	18	0	Twitter for iPhone
+enniscath	mmarra0630	1252999318283276289	quoted	2020-04-22 16:34:51+00:00	7	2	18	0	Twitter for iPhone
+enniscath	sjmjones	1252999318283276289	quoted	2020-04-22 16:34:51+00:00	7	2	18	0	Twitter for iPhone
+enniscath	robynroscoe	1252999318283276289	quoted	2020-04-22 16:34:51+00:00	7	2	18	0	Twitter for iPhone
+enniscath	BCCancer	1252999318283276289	quoted	2020-04-22 16:34:51+00:00	7	2	18	0	Twitter for iPhone
+ianbosdet	MKrzywinski	1252938939364782080	replied_to	2020-04-22 12:34:56+00:00	0	0	4	0	Twitter for Android
+ianbosdet	NatureCancer	1252938939364782080	replied_to	2020-04-22 12:34:56+00:00	0	0	4	0	Twitter for Android
+ianbosdet	mmarra0630	1252938939364782080	replied_to	2020-04-22 12:34:56+00:00	0	0	4	0	Twitter for Android
+ianbosdet	sjmjones	1252938939364782080	replied_to	2020-04-22 12:34:56+00:00	0	0	4	0	Twitter for Android
+ianbosdet	InancBirol	1252938939364782080	replied_to	2020-04-22 12:34:56+00:00	0	0	4	0	Twitter for Android
+sondpulga	MKrzywinski	1252930703202955265	replied_to	2020-04-22 12:02:12+00:00	0	0	4	0	Twitter for Mac
+sondpulga	NatureCancer	1252930703202955265	replied_to	2020-04-22 12:02:12+00:00	0	0	4	0	Twitter for Mac
+sondpulga	StolteChris	1252930703202955265	replied_to	2020-04-22 12:02:12+00:00	0	0	4	0	Twitter for Mac
+sondpulga	mmarra0630	1252930703202955265	replied_to	2020-04-22 12:02:12+00:00	0	0	4	0	Twitter for Mac
+sondpulga	sjmjones	1252930703202955265	replied_to	2020-04-22 12:02:12+00:00	0	0	4	0	Twitter for Mac
+sondpulga	InancBirol	1252930703202955265	replied_to	2020-04-22 12:02:12+00:00	0	0	4	0	Twitter for Mac
+xbryanx	MKrzywinski	1252919435033264128	replied_to	2020-04-22 11:17:26+00:00	0	0	0	0	Twitter for iPhone
+xbryanx	NatureCancer	1252919435033264128	replied_to	2020-04-22 11:17:26+00:00	0	0	0	0	Twitter for iPhone
+xbryanx	StolteChris	1252919435033264128	replied_to	2020-04-22 11:17:26+00:00	0	0	0	0	Twitter for iPhone
+xbryanx	mmarra0630	1252919435033264128	replied_to	2020-04-22 11:17:26+00:00	0	0	0	0	Twitter for iPhone
+xbryanx	sjmjones	1252919435033264128	replied_to	2020-04-22 11:17:26+00:00	0	0	0	0	Twitter for iPhone
+xbryanx	InancBirol	1252919435033264128	replied_to	2020-04-22 11:17:26+00:00	0	0	0	0	Twitter for iPhone
+SpiritOfFlight_	MKrzywinski	1252862436517900294	replied_to	2020-04-22 07:30:56+00:00	0	0	4	0	Twitter for iPhone
+SpiritOfFlight_	NatureCancer	1252862436517900294	replied_to	2020-04-22 07:30:56+00:00	0	0	4	0	Twitter for iPhone
+SpiritOfFlight_	StolteChris	1252862436517900294	replied_to	2020-04-22 07:30:56+00:00	0	0	4	0	Twitter for iPhone
+SpiritOfFlight_	mmarra0630	1252862436517900294	replied_to	2020-04-22 07:30:56+00:00	0	0	4	0	Twitter for iPhone
+SpiritOfFlight_	sjmjones	1252862436517900294	replied_to	2020-04-22 07:30:56+00:00	0	0	4	0	Twitter for iPhone
+SpiritOfFlight_	InancBirol	1252862436517900294	replied_to	2020-04-22 07:30:56+00:00	0	0	4	0	Twitter for iPhone
+syntagmatic	MKrzywinski	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	DeanRegier	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	samTpollard	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	NatureCancer	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	StolteChris	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	mmarra0630	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	sjmjones	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+syntagmatic	InancBirol	1252813189982466060	replied_to	2020-04-22 04:15:15+00:00	0	0	1	0	Twitter for Android
+methylnick	MKrzywinski	1252812305768697858	quoted	2020-04-22 04:11:44+00:00	0	0	2	0	Twitter for Android
+JimGriffinNJ	MKrzywinski	1252788577928282113	replied_to	2020-04-22 02:37:27+00:00	0	0	0	0	Twitter Web App
+JimGriffinNJ	NatureCancer	1252788577928282113	replied_to	2020-04-22 02:37:27+00:00	0	0	0	0	Twitter Web App
+JimGriffinNJ	StolteChris	1252788577928282113	replied_to	2020-04-22 02:37:27+00:00	0	0	0	0	Twitter Web App
+JimGriffinNJ	mmarra0630	1252788577928282113	replied_to	2020-04-22 02:37:27+00:00	0	0	0	0	Twitter Web App
+JimGriffinNJ	sjmjones	1252788577928282113	replied_to	2020-04-22 02:37:27+00:00	0	0	0	0	Twitter Web App
+JimGriffinNJ	InancBirol	1252788577928282113	replied_to	2020-04-22 02:37:27+00:00	0	0	0	0	Twitter Web App
+MikeKSmith	MKrzywinski	1252782384128208897	replied_to	2020-04-22 02:12:50+00:00	0	0	7	0	Twitter for iPhone
+MikeKSmith	NatureCancer	1252782384128208897	replied_to	2020-04-22 02:12:50+00:00	0	0	7	0	Twitter for iPhone
+MikeKSmith	StolteChris	1252782384128208897	replied_to	2020-04-22 02:12:50+00:00	0	0	7	0	Twitter for iPhone
+MikeKSmith	sjmjones	1252782384128208897	replied_to	2020-04-22 02:12:50+00:00	0	0	7	0	Twitter for iPhone
+MikeKSmith	InancBirol	1252782384128208897	replied_to	2020-04-22 02:12:50+00:00	0	0	7	0	Twitter for iPhone
+Kedi_Otu	MKrzywinski	1252262269871886337	mentioned	2020-04-20 15:46:05+00:00	25	1	51	1	Twitter Web App
+mttcrown	MKrzywinski	1251936424393351171	quoted	2020-04-19 18:11:18+00:00	0	0	0	0	Twitter for iPhone
+Merz	MKrzywinski	1251881506370281472	quoted	2020-04-19 14:33:04+00:00	0	0	1	0	Twitter for iPhone
+maja_divjak	MKrzywinski	1251574222771548161	replied_to	2020-04-18 18:12:02+00:00	0	0	0	0	Twitter for iPhone
+maja_divjak	CDCofBC	1251574222771548161	replied_to	2020-04-18 18:12:02+00:00	0	0	0	0	Twitter for iPhone
+maja_divjak	CBCNews	1251574222771548161	replied_to	2020-04-18 18:12:02+00:00	0	0	0	0	Twitter for iPhone
+maja_divjak	j_mcelroy	1251574222771548161	replied_to	2020-04-18 18:12:02+00:00	0	0	0	0	Twitter for iPhone
+maja_divjak	NatashaTsakos	1251574222771548161	replied_to	2020-04-18 18:12:02+00:00	0	0	0	0	Twitter for iPhone
+ag0x00	MKrzywinski	1251542160765149186	replied_to	2020-04-18 16:04:38+00:00	0	0	3	0	Twitter for iPhone
+ag0x00	CDCofBC	1251542160765149186	replied_to	2020-04-18 16:04:38+00:00	0	0	3	0	Twitter for iPhone
+ag0x00	CBCNews	1251542160765149186	replied_to	2020-04-18 16:04:38+00:00	0	0	3	0	Twitter for iPhone
+ag0x00	j_mcelroy	1251542160765149186	replied_to	2020-04-18 16:04:38+00:00	0	0	3	0	Twitter for iPhone
+9brandon	MKrzywinski	1251368766471991296	quoted	2020-04-18 04:35:37+00:00	2	0	6	0	Twitter for iPad
+AusBiocommons	MKrzywinski	1250891038601940992	quoted	2020-04-16 20:57:18+00:00	0	0	0	0	Twitter Web App
+maxcoopermax	MKrzywinski	1245679863262035968	replied_to	2020-04-02 11:49:57+00:00	0	0	0	0	Twitter for Android
+maxcoopermax	WhiteHouse	1245679863262035968	replied_to	2020-04-02 11:49:57+00:00	0	0	0	0	Twitter for Android
+Squawkingalah	MKrzywinski	1243552927567843329	mentioned	2020-03-27 14:58:16+00:00	1	1	0	0	Twitter for iPhone
+DrLindskog	MKrzywinski	1241143810186493960	replied_to	2020-03-20 23:25:18+00:00	0	0	1	0	Twitter Web App
+MrAnupShah	MKrzywinski	1240699336935104512	replied_to	2020-03-19 17:59:07+00:00	0	0	1	0	Twitter for iPhone
+bnschlz	MKrzywinski	1240589283603492864	replied_to	2020-03-19 10:41:48+00:00	0	0	1	0	Twitter for iPhone
+massDynamicsCo	MKrzywinski	1240399207615336450	quoted	2020-03-18 22:06:31+00:00	3	0	11	1	TweetDeck
+bffo	MKrzywinski	1240142895723798528	replied_to	2020-03-18 05:08:01+00:00	0	1	2	0	Twitter Web App
+bioggrimes	MKrzywinski	1239370601409609728	mentioned	2020-03-16 01:59:12+00:00	3	0	9	0	TweetDeck
+astacus	MKrzywinski	1238976211042394113	replied_to	2020-03-14 23:52:02+00:00	0	0	0	0	Twitter for iPad
+JoelisSteele	maxcoopermax	1238879420317937673	replied_to	2020-03-14 17:27:25+00:00	0	0	1	0	TweetDeck
+JoelisSteele	MKrzywinski	1238879420317937673	replied_to	2020-03-14 17:27:25+00:00	0	0	1	0	TweetDeck
+Emily_Jayne_93	maxcoopermax	1238879360188366849	mentioned	2020-03-14 17:27:11+00:00	2	1	8	1	TweetDeck
+Emily_Jayne_93	MKrzywinski	1238879360188366849	mentioned	2020-03-14 17:27:11+00:00	2	1	8	1	TweetDeck
+ankitYYZ	MKrzywinski	1238589595500994560	mentioned	2020-03-13 22:15:46+00:00	0	0	6	0	Twitter Web App
+Gautier_Rich4rd	MKrzywinski	1237607843118723074	replied_to	2020-03-11 05:14:38+00:00	0	0	0	0	Twitter for iPhone
+Gautier_Rich4rd	SpiritOfFlight_	1237607843118723074	replied_to	2020-03-11 05:14:38+00:00	0	0	0	0	Twitter for iPhone
+FalconieriV	MKrzywinski	1237597310827163648	replied_to	2020-03-11 04:32:47+00:00	0	1	0	0	Twitter for iPhone
+samhinshaw	parowicka	1237490726415380480	replied_to	2020-03-10 21:29:15+00:00	0	0	1	0	Twitter Web App
+samhinshaw	MKrzywinski	1237490726415380480	replied_to	2020-03-10 21:29:15+00:00	0	0	1	0	Twitter Web App
+rj3sp	MKrzywinski	1236484433101770753	quoted	2020-03-08 02:50:36+00:00	0	0	2	0	Twitter for Android
+AusBiocommons	MKrzywinski	1220451898010099744	mentioned	2020-01-23 21:03:02+00:00	8	0	12	1	Buffer
+AusBiocommons	BCCancer	1220451898010099744	mentioned	2020-01-23 21:03:02+00:00	8	0	12	1	Buffer
+methylnick	MKrzywinski	1219104516940808192	mentioned	2020-01-20 03:49:01+00:00	6	0	11	0	TweetDeck
+methylnick	AusBiocommons	1219104516940808192	mentioned	2020-01-20 03:49:01+00:00	6	0	11	0	TweetDeck
+methylnick	MonashBioinfo	1219104516940808192	mentioned	2020-01-20 03:49:01+00:00	6	0	11	0	TweetDeck
+methylnick	RMITBioinfo	1219104516940808192	mentioned	2020-01-20 03:49:01+00:00	6	0	11	0	TweetDeck
+methylnick	abacbs	1219104516940808192	mentioned	2020-01-20 03:49:01+00:00	6	0	11	0	TweetDeck
+KevinSauve	MKrzywinski	1218056992259895296	replied_to	2020-01-17 06:26:32+00:00	0	0	0	0	Twitter for iPhone
+MikeKSmith	MKrzywinski	1217749564729577472	replied_to	2020-01-16 10:04:55+00:00	0	0	0	0	TweetDeck
+StefanieButland	_ColinFay	1214502816087232512	replied_to	2020-01-07 11:03:30+00:00	0	0	3	0	TweetDeck
+StefanieButland	accidental__aRt	1214502816087232512	replied_to	2020-01-07 11:03:30+00:00	0	0	3	0	TweetDeck
+StefanieButland	maxcoopermax	1214502816087232512	replied_to	2020-01-07 11:03:30+00:00	0	0	3	0	TweetDeck
+StefanieButland	MKrzywinski	1214502816087232512	replied_to	2020-01-07 11:03:30+00:00	0	0	3	0	TweetDeck
+lucidmanager	seanjtaylor	1214323551206903809	replied_to	2020-01-06 23:11:10+00:00	0	1	1	0	Twitter Web App
+lucidmanager	MKrzywinski	1214323551206903809	replied_to	2020-01-06 23:11:10+00:00	0	1	1	0	Twitter Web App
+paniterka_ch	MKrzywinski	1213863497060114434	mentioned	2020-01-05 16:43:04+00:00	1	0	3	1	dlvr.it
+ngehlenborg	FILWD	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	GavinChait	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	ngehlenborg	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	naturemethods	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	bangwong	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	MKrzywinski	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	marc_streit	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	alexander_lex	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ngehlenborg	cydneybn	1208849265063268354	replied_to	2019-12-22 20:38:18+00:00	0	1	4	0	Twitter Web App
+ianbosdet	FILWD	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	GavinChait	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	naturemethods	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	bangwong	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	MKrzywinski	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	marc_streit	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	alexander_lex	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+ianbosdet	cydneybn	1208832740688355329	replied_to	2019-12-22 19:32:39+00:00	5	1	12	0	Twitter for iPhone
+wntyuli	MKrzywinski	1204137892286623744	replied_to	2019-12-09 20:36:59+00:00	0	0	0	0	Twitter for iPhone
+wntyuli	summerbrennan	1204137892286623744	replied_to	2019-12-09 20:36:59+00:00	0	0	0	0	Twitter for iPhone
+danieldamineli	MKrzywinski	1204018995919233024	quoted	2019-12-09 12:44:32+00:00	0	0	0	0	Twitter for Android
+danieldamineli	UniBogazici	1204018995919233024	quoted	2019-12-09 12:44:32+00:00	0	0	0	0	Twitter for Android
+melinaGALLOPIN	SublightMonster	1202386898674696192	replied_to	2019-12-05 00:39:10+00:00	0	0	0	0	Twitter for Android
+melinaGALLOPIN	MKrzywinski	1202386898674696192	replied_to	2019-12-05 00:39:10+00:00	0	0	0	0	Twitter for Android
+melinaGALLOPIN	benmontet	1202386898674696192	replied_to	2019-12-05 00:39:10+00:00	0	0	0	0	Twitter for Android
+melinaGALLOPIN	NobelPrize	1202386898674696192	replied_to	2019-12-05 00:39:10+00:00	0	0	0	0	Twitter for Android
+GigaScience	MKrzywinski	1202249305484152832	replied_to	2019-12-04 15:32:25+00:00	0	0	23	0	Twitter for Android
+GigaScience	benmontet	1202249305484152832	replied_to	2019-12-04 15:32:25+00:00	0	0	23	0	Twitter for Android
+GigaScience	NobelPrize	1202249305484152832	replied_to	2019-12-04 15:32:25+00:00	0	0	23	0	Twitter for Android
+BCCancer_GSC	MKrzywinski	1200989855934795777	replied_to	2019-12-01 04:07:49+00:00	0	0	1	0	Twitter for iPhone
+ATJCagan	MKrzywinski	1199416572609122304	replied_to	2019-11-26 19:56:09+00:00	0	0	0	0	Twitter Web App
+ATJCagan	sjackman	1199416572609122304	replied_to	2019-11-26 19:56:09+00:00	0	0	0	0	Twitter Web App
+ATJCagan	biodeveloper	1199416572609122304	replied_to	2019-11-26 19:56:09+00:00	0	0	0	0	Twitter Web App
+ATJCagan	JennyBryan	1199416572609122304	replied_to	2019-11-26 19:56:09+00:00	0	0	0	0	Twitter Web App
+enniscath	MKrzywinski	1197623813195698176	mentioned	2019-11-21 21:12:22+00:00	1	0	8	0	Twitter for Android
+enniscath	BCCancer_GSC	1197623813195698176	mentioned	2019-11-21 21:12:22+00:00	1	0	8	0	Twitter for Android
+genomicsgirl	MKrzywinski	1197610683883343872	mentioned	2019-11-21 20:20:12+00:00	4	0	11	0	Twitter for iPad
+genomicsgirl	BCCancer_GSC	1197610683883343872	mentioned	2019-11-21 20:20:12+00:00	4	0	11	0	Twitter for iPad
+sbmontgom	CEEHRC	1196498902737772545	replied_to	2019-11-18 18:42:22+00:00	0	0	0	0	Twitter Web App
+sbmontgom	IHEC_Epigenomes	1196498902737772545	replied_to	2019-11-18 18:42:22+00:00	0	0	0	0	Twitter Web App
+sbmontgom	MKrzywinski	1196498902737772545	replied_to	2019-11-18 18:42:22+00:00	0	0	0	0	Twitter Web App
+fiszczyp	MKrzywinski	1195726800090849285	replied_to	2019-11-16 15:34:19+00:00	0	0	0	0	Twitter for iPhone
+fiszczyp	BCCancer_GSC	1195726800090849285	replied_to	2019-11-16 15:34:19+00:00	0	0	0	0	Twitter for iPhone
+polonium_org	MKrzywinski	1195708488061792258	replied_to	2019-11-16 14:21:33+00:00	0	0	0	0	Twitter for iPhone
+polonium_org	BCCancer_GSC	1195708488061792258	replied_to	2019-11-16 14:21:33+00:00	0	0	0	0	Twitter for iPhone
+NadiehBremer	MKrzywinski	1195484072501334016	replied_to	2019-11-15 23:29:48+00:00	0	0	0	0	Twitter for iPhone
+NadiehBremer	benevoli	1195484072501334016	replied_to	2019-11-15 23:29:48+00:00	0	0	0	0	Twitter for iPhone
+NadiehBremer	BCCancer_GSC	1195484072501334016	replied_to	2019-11-15 23:29:48+00:00	0	0	0	0	Twitter for iPhone
+SonjaKuijpers	MKrzywinski	1193227929205067776	mentioned	2019-11-09 18:04:42+00:00	0	0	2	0	Twitter for Android
+nlsrecords	MKrzywinski	1193221450846654465	mentioned	2019-11-09 17:38:57+00:00	3	0	6	0	Twitter Web App
+aaronquinlan	MKrzywinski	1192522096716288000	replied_to	2019-11-07 19:19:58+00:00	0	0	0	0	Twitter Web App
+aaronquinlan	MKrzywinski	1192522096716288000	replied_to	2019-11-07 19:19:58+00:00	0	0	0	0	Twitter Web App
+karim_douieb	SonjaKuijpers	1192462712103677952	replied_to	2019-11-07 15:24:00+00:00	0	0	0	0	Twitter for Android
+karim_douieb	MKrzywinski	1192462712103677952	replied_to	2019-11-07 15:24:00+00:00	0	0	0	0	Twitter for Android
+doris_rj	NadiehBremer	1192366744406495232	replied_to	2019-11-07 09:02:39+00:00	0	1	2	0	Twitter for Android
+doris_rj	MKrzywinski	1192366744406495232	replied_to	2019-11-07 09:02:39+00:00	0	1	2	0	Twitter for Android
+DBBurkhardt	MKrzywinski	1192356709836214272	replied_to	2019-11-07 08:22:47+00:00	0	1	1	0	TweetDeck
+mattbrehmer	MKrzywinski	1191485713578987520	replied_to	2019-11-04 22:41:45+00:00	0	0	1	0	Twitter Web App
+mattbrehmer	maxcoopermax	1191485713578987520	replied_to	2019-11-04 22:41:45+00:00	0	0	1	0	Twitter Web App
+jandot	dangreiner	1191466647627763712	replied_to	2019-11-04 21:25:59+00:00	0	0	2	0	Twitter for iPhone
+jandot	rafalab	1191466647627763712	replied_to	2019-11-04 21:25:59+00:00	0	0	2	0	Twitter for iPhone
+jandot	mikelove	1191466647627763712	replied_to	2019-11-04 21:25:59+00:00	0	0	2	0	Twitter for iPhone
+jandot	MKrzywinski	1191466647627763712	replied_to	2019-11-04 21:25:59+00:00	0	0	2	0	Twitter for iPhone
+alexander_lex	rafalab	1191441234260185088	replied_to	2019-11-04 19:45:00+00:00	0	0	2	0	Twitter Web App
+alexander_lex	mikelove	1191441234260185088	replied_to	2019-11-04 19:45:00+00:00	0	0	2	0	Twitter Web App
+alexander_lex	MKrzywinski	1191441234260185088	replied_to	2019-11-04 19:45:00+00:00	0	0	2	0	Twitter Web App
+biovis_net	rafalab	1191358050147323904	mentioned	2019-11-04 14:14:28+00:00	24	4	57	1	Twitter for iPhone
+biovis_net	mikelove	1191358050147323904	mentioned	2019-11-04 14:14:28+00:00	24	4	57	1	Twitter for iPhone
+biovis_net	MKrzywinski	1191358050147323904	mentioned	2019-11-04 14:14:28+00:00	24	4	57	1	Twitter for iPhone
+rafecooks	Mapbox	1191102674940370948	mentioned	2019-11-03 21:19:41+00:00	7	4	34	1	Twitter Web App
+rafecooks	MKrzywinski	1191102674940370948	mentioned	2019-11-03 21:19:41+00:00	7	4	34	1	Twitter Web App
+Gautier_Rich4rd	MKrzywinski	1187474152547971074	mentioned	2019-10-24 21:01:14+00:00	0	0	2	0	Twitter for iPhone
+jakelever0	MKrzywinski	1187450739871883265	mentioned	2019-10-24 19:28:12+00:00	2	1	6	0	Twitter for iPhone
+hirst_lab	MKrzywinski	1187449292652457984	mentioned	2019-10-24 19:22:27+00:00	2	0	9	0	TweetDeck
+maxcoopermax	MKrzywinski	1187447414984192000	mentioned	2019-10-24 19:15:00+00:00	1	0	4	0	Twitter for Android
+StolteChris	MKrzywinski	1187445643603795971	mentioned	2019-10-24 19:07:57+00:00	3	0	4	0	TweetDeck
+AnneSteino	MKrzywinski	1187444286943649792	mentioned	2019-10-24 19:02:34+00:00	0	0	2	0	TweetDeck
+mbaudis	MKrzywinski	1187443881341833216	mentioned	2019-10-24 19:00:57+00:00	2	1	13	0	Twitter for Android
+ViolinPlots	MKrzywinski	1187443183875219457	mentioned	2019-10-24 18:58:11+00:00	0	0	3	0	Twitter for iPad
+maggie_marx	MKrzywinski	1187438452142460929	mentioned	2019-10-24 18:39:23+00:00	1	0	1	0	TweetDeck
+sjackman	amcrisan	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+sjackman	cydneybn	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+sjackman	biovis_net	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+sjackman	MKrzywinski	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+sjackman	SEHanlon	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+sjackman	jamesscottbrown	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+sjackman	angusforbes	1187404523100393474	mentioned	2019-10-24 16:24:33+00:00	5	1	8	0	Twitter for iPhone
+kumarchanchal	MKrzywinski	1187225154859876352	replied_to	2019-10-24 04:31:49+00:00	0	0	1	0	Twitter for iPhone
+kumarchanchal	kellybkrause	1187225154859876352	replied_to	2019-10-24 04:31:49+00:00	0	0	1	0	Twitter for iPhone
+kumarchanchal	EdwardTufte	1187225154859876352	replied_to	2019-10-24 04:31:49+00:00	0	0	1	0	Twitter for iPhone
+rita_strack	MKrzywinski	1185325747033870336	mentioned	2019-10-18 22:44:15+00:00	2	1	6	0	TweetDeck
+rita_strack	hackseq	1185325747033870336	mentioned	2019-10-18 22:44:15+00:00	2	1	6	0	TweetDeck
+jamesscottbrown	MKrzywinski	1184594672511082496	replied_to	2019-10-16 22:19:13+00:00	0	0	0	0	Twitter Web App
+jamesscottbrown	AsifaAkhtar1	1184594672511082496	replied_to	2019-10-16 22:19:13+00:00	0	0	0	0	Twitter Web App
+jamesscottbrown	GenesDev	1184594672511082496	replied_to	2019-10-16 22:19:13+00:00	0	0	0	0	Twitter Web App
+jamesscottbrown	ImageMagick	1184594672511082496	replied_to	2019-10-16 22:19:13+00:00	0	0	0	0	Twitter Web App
+jamesscottbrown	inkscape	1184594672511082496	replied_to	2019-10-16 22:19:13+00:00	0	0	0	0	Twitter Web App
+Phil_A_Richmond	AsifaAkhtar1	1184495394333560832	replied_to	2019-10-16 15:44:43+00:00	0	2	1	0	Twitter Web App
+Phil_A_Richmond	GenesDev	1184495394333560832	replied_to	2019-10-16 15:44:43+00:00	0	2	1	0	Twitter Web App
+Phil_A_Richmond	MKrzywinski	1184495394333560832	replied_to	2019-10-16 15:44:43+00:00	0	2	1	0	Twitter Web App
+Phil_A_Richmond	ImageMagick	1184495394333560832	replied_to	2019-10-16 15:44:43+00:00	0	2	1	0	Twitter Web App
+Phil_A_Richmond	inkscape	1184495394333560832	replied_to	2019-10-16 15:44:43+00:00	0	2	1	0	Twitter Web App
+morinryan	MKrzywinski	1181807266170720256	replied_to	2019-10-09 05:43:03+00:00	0	1	1	0	Twitter Web App
+sharmaG30	MKrzywinski	1181792442984497153	replied_to	2019-10-09 04:44:09+00:00	0	1	1	0	Twitter Web App

@@ -1,0 +1,309 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+DrBechel	AmaralLab	1504156309750493186	mentioned	2022-03-16 18:03:04+00:00	0	0	0	0	Twitter for Android
+mbellantone	AmaralLab	1500170371101777920	quoted	2022-03-05 18:04:22+00:00	0	0	1	0	Twitter Web App
+mbellantone	CT_Bergstrom	1500170371101777920	quoted	2022-03-05 18:04:22+00:00	0	0	1	0	Twitter Web App
+JAByrneSci	PLOSBiology	1481162554412273666	mentioned	2022-01-12 07:14:06+00:00	0	0	2	0	Twitter Web App
+JAByrneSci	AmaralLab	1481162554412273666	mentioned	2022-01-12 07:14:06+00:00	0	0	2	0	Twitter Web App
+PLOSBiology	AmaralLab	1479504352935133185	mentioned	2022-01-07 17:25:00+00:00	1	1	3	0	TweetDeck
+PLOSBiology	NICOatNU	1479504352935133185	mentioned	2022-01-07 17:25:00+00:00	1	1	3	0	TweetDeck
+balazsvedres	AmaralLab	1479451504679350273	mentioned	2022-01-07 13:55:00+00:00	0	0	1	0	TweetDeck
+balazsvedres	NICOatNU	1479451504679350273	mentioned	2022-01-07 13:55:00+00:00	0	0	1	0	TweetDeck
+kiran_sharma	AmaralLab	1479393696328130560	mentioned	2022-01-07 10:05:17+00:00	2	0	3	0	TweetDeck
+kiran_sharma	NICOatNU	1479393696328130560	mentioned	2022-01-07 10:05:17+00:00	2	0	3	0	TweetDeck
+NorthwesternEng	NICOatNU	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	KordingLab	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	DirkBrockmann	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	naskin	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	tinaeliassi	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	LorienJasny	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	NorthwesternU	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	AmaralLab	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+NorthwesternEng	UzziLeadership	1466704992526606348	replied_to	2021-12-03 09:44:54+00:00	0	0	2	0	Twitter Web App
+sees_lab	AmaralLab	1420622207277879297	replied_to	2021-07-29 05:48:22+00:00	0	0	0	0	Twitter for iPhone
+Tulachin	NICOatNU	1416085616773804034	mentioned	2021-07-16 17:21:35+00:00	3	0	8	0	Sprinklr
+Tulachin	AmaralLab	1416085616773804034	mentioned	2021-07-16 17:21:35+00:00	3	0	8	0	Sprinklr
+CNS_NRT	amaral	1380563070712475650	mentioned	2021-04-09 16:47:40+00:00	1	0	9	0	Twitter for Android
+CNS_NRT	AmaralLab	1380563070712475650	mentioned	2021-04-09 16:47:40+00:00	1	0	9	0	Twitter for Android
+BuffettInst	AmaralLab	1331231271696146432	mentioned	2020-11-24 13:40:42+00:00	0	0	0	0	Twitter Web App
+Andrew_S_Rosen	amaral	1309269691744030720	mentioned	2020-09-24 23:13:14+00:00	1	0	2	0	Twitter Web App
+Andrew_S_Rosen	AmaralLab	1309269691744030720	mentioned	2020-09-24 23:13:14+00:00	1	0	2	0	Twitter Web App
+NICOatNU	BuffettInst	1260250693287501825	mentioned	2020-05-12 16:49:14+00:00	2	0	7	1	Twitter Web App
+NICOatNU	amaral	1260250693287501825	mentioned	2020-05-12 16:49:14+00:00	2	0	7	1	Twitter Web App
+NICOatNU	rogertgn	1260250693287501825	mentioned	2020-05-12 16:49:14+00:00	2	0	7	1	Twitter Web App
+NICOatNU	AmaralLab	1260250693287501825	mentioned	2020-05-12 16:49:14+00:00	2	0	7	1	Twitter Web App
+NICOatNU	sees_lab	1260250693287501825	mentioned	2020-05-12 16:49:14+00:00	2	0	7	1	Twitter Web App
+Gilchrist_Lab	Andrew_S_Rosen	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	NorthwesternEng	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	amaral	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	NorthwesternU	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	AmaralLab	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	NorthwesternGLO	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	Northwestern_IO	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+Gilchrist_Lab	NUIntlRel	1259966212127297536	quoted	2020-05-11 21:58:48+00:00	0	0	0	0	Twitter Web App
+LwalkerCMU	BuffettInst	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	NorthwesternEng	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	amaral	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	NorthwesternU	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	AmaralLab	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	NorthwesternGLO	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	Northwestern_IO	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	NUIntlRel	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+LwalkerCMU	amaral	1258544186246066178	replied_to	2020-05-07 23:48:11+00:00	0	1	4	0	Twitter for Android
+Kat_Albrecht	AmaralLab	1247986108853628932	mentioned	2020-04-08 20:34:09+00:00	2	0	4	0	Twitter Web App
+Tamer_Khraisha	amaral	1245453367838748672	mentioned	2020-04-01 20:49:56+00:00	1	0	5	0	Sprinklr
+Tamer_Khraisha	AmaralLab	1245453367838748672	mentioned	2020-04-01 20:49:56+00:00	1	0	5	0	Sprinklr
+FranciscoICMC	LwalkerCMU	1232045922621820933	replied_to	2020-02-24 20:53:32+00:00	0	0	5	0	Twitter for iPhone
+FranciscoICMC	NorthwesternEng	1232045922621820933	replied_to	2020-02-24 20:53:32+00:00	0	0	5	0	Twitter for iPhone
+FranciscoICMC	AmaralLab	1232045922621820933	replied_to	2020-02-24 20:53:32+00:00	0	0	5	0	Twitter for iPhone
+FranciscoICMC	NorthwesternU	1232045922621820933	replied_to	2020-02-24 20:53:32+00:00	0	0	5	0	Twitter for iPhone
+FranciscoICMC	UIC_ChE	1232045922621820933	replied_to	2020-02-24 20:53:32+00:00	0	0	5	0	Twitter for iPhone
+FranciscoICMC	Odeslab	1232045922621820933	replied_to	2020-02-24 20:53:32+00:00	0	0	5	0	Twitter for iPhone
+OnervaKorhonen	Gilchrist_Lab	1232045241110274048	replied_to	2020-02-24 20:50:50+00:00	0	1	1	0	Twitter Web App
+OnervaKorhonen	NorthwesternEng	1232045241110274048	replied_to	2020-02-24 20:50:50+00:00	0	1	1	0	Twitter Web App
+OnervaKorhonen	AmaralLab	1232045241110274048	replied_to	2020-02-24 20:50:50+00:00	0	1	1	0	Twitter Web App
+OnervaKorhonen	NorthwesternU	1232045241110274048	replied_to	2020-02-24 20:50:50+00:00	0	1	1	0	Twitter Web App
+SushGopalan	NorthwesternEng	1232044281772335104	mentioned	2020-02-24 20:47:01+00:00	0	1	20	0	Twitter for iPhone
+SushGopalan	AmaralLab	1232044281772335104	mentioned	2020-02-24 20:47:01+00:00	0	1	20	0	Twitter for iPhone
+SushGopalan	NorthwesternU	1232044281772335104	mentioned	2020-02-24 20:47:01+00:00	0	1	20	0	Twitter for iPhone
+MonikaSMagon	AmaralLab	1216098696967983104	replied_to	2020-01-11 20:44:58+00:00	0	0	1	0	Twitter Web App
+preLights	cosnet_bifi	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	IOPscience	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	lgaalves	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	SrAleta	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	FranciscoICMC	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	AmaralLab	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	BIFI_Instituto	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+preLights	ISI_Fondazione	1214937309889486853	replied_to	2020-01-08 15:50:01+00:00	0	0	0	0	Twitter Web App
+CBC_ChiBiomed	lgaalves	1214885984694947840	quoted	2020-01-08 12:26:04+00:00	0	0	7	0	Twitter Web App
+CBC_ChiBiomed	cosnet_bifi	1214885984694947840	quoted	2020-01-08 12:26:04+00:00	0	0	7	0	Twitter Web App
+CBC_ChiBiomed	AmaralLab	1214885984694947840	quoted	2020-01-08 12:26:04+00:00	0	0	7	0	Twitter Web App
+CBC_ChiBiomed	SrAleta	1214885984694947840	quoted	2020-01-08 12:26:04+00:00	0	0	7	0	Twitter Web App
+biogerontology	lgaalves	1214882735837372418	quoted	2020-01-08 12:13:10+00:00	3	0	13	0	Twitter Web App
+biogerontology	cosnet_bifi	1214882735837372418	quoted	2020-01-08 12:13:10+00:00	3	0	13	0	Twitter Web App
+biogerontology	AmaralLab	1214882735837372418	quoted	2020-01-08 12:13:10+00:00	3	0	13	0	Twitter Web App
+biogerontology	SrAleta	1214882735837372418	quoted	2020-01-08 12:13:10+00:00	3	0	13	0	Twitter Web App
+Misharin_lab	amaral	1209729553360404481	quoted	2019-12-25 06:56:15+00:00	0	0	2	0	Twitter for Android
+Misharin_lab	AmaralLab	1209729553360404481	quoted	2019-12-25 06:56:15+00:00	0	0	2	0	Twitter for Android
+javiergb_com	complex_nets	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	AmaralLab	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	JariSaramaki	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	TahaYasseri	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	diogofpacheco	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	natera	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	SantanderMeteo	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	LoredanaBellan1	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	Milja_Selina	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+javiergb_com	UEP_group	1203002311397826565	replied_to	2019-12-06 17:24:36+00:00	0	0	3	2	TweetDeck
+manlius84	complex_nets	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	AmaralLab	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	JariSaramaki	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	TahaYasseri	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	diogofpacheco	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	natera	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	SantanderMeteo	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+manlius84	LoredanaBellan1	1203001457483616256	replied_to	2019-12-06 17:21:12+00:00	0	1	1	0	TweetDeck
+DiegoFregolente	complex_nets	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	AmaralLab	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	JariSaramaki	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	TahaYasseri	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	diogofpacheco	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	natera	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	SantanderMeteo	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+DiegoFregolente	LoredanaBellan1	1202999410608742400	mentioned	2019-12-06 17:13:04+00:00	2	1	7	0	TweetDeck
+juliettapc82	tinaL___	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	wrahool	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	Data_Rabbott	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	RShafranek	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	RLadiesChicago	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	N3Initiative	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	UChi_CompSocSci	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	NICOatNU	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	AmaralLab	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+juliettapc82	CONNECT_ISGMH	1176232068277264385	replied_to	2019-09-23 20:29:13+00:00	0	0	2	0	Twitter Web App
+BethanyLusch	N3Initiative	1170118672972701696	quoted	2019-09-06 23:36:46+00:00	1	0	2	0	Twitter Web App
+BethanyLusch	NICOatNU	1170118672972701696	quoted	2019-09-06 23:36:46+00:00	1	0	2	0	Twitter Web App
+BethanyLusch	IPRatNU	1170118672972701696	quoted	2019-09-06 23:36:46+00:00	1	0	2	0	Twitter Web App
+BethanyLusch	CONNECT_ISGMH	1170118672972701696	quoted	2019-09-06 23:36:46+00:00	1	0	2	0	Twitter Web App
+BethanyLusch	AmaralLab	1170118672972701696	quoted	2019-09-06 23:36:46+00:00	1	0	2	0	Twitter Web App
+CityLab	preLights	1169929039592722432	quoted	2019-09-06 11:03:13+00:00	0	0	1	0	Twitter for Android
+CityLab	Misharin_lab	1169929039592722432	quoted	2019-09-06 11:03:13+00:00	0	0	1	0	Twitter for Android
+CityLab	AmaralLab	1169929039592722432	quoted	2019-09-06 11:03:13+00:00	0	0	1	0	Twitter for Android
+alexvespi	MonikaSMagon	1169888147368374274	mentioned	2019-09-06 08:20:44+00:00	2	0	4	1	Twitter Web App
+alexvespi	AmaralLab	1169888147368374274	mentioned	2019-09-06 08:20:44+00:00	2	0	4	1	Twitter Web App
+exergiovanni	labonnelab	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	NUFeinbergMed	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	ResearchNU	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	CellCellPress	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	RichCarthewLab	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	AmaralLab	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	WeinbergCollege	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+exergiovanni	IBiSatNU	1156599668844965888	replied_to	2019-07-31 16:17:04+00:00	0	0	1	0	Twitter Web App
+otrasenda_AC	CellCellPress	1156599284818677760	mentioned	2019-07-31 16:15:32+00:00	3	0	4	0	Twitter Web App
+otrasenda_AC	RichCarthewLab	1156599284818677760	mentioned	2019-07-31 16:15:32+00:00	3	0	4	0	Twitter Web App
+otrasenda_AC	AmaralLab	1156599284818677760	mentioned	2019-07-31 16:15:32+00:00	3	0	4	0	Twitter Web App
+otrasenda_AC	IBiSatNU	1156599284818677760	mentioned	2019-07-31 16:15:32+00:00	3	0	4	0	Twitter Web App
+otrasenda_AC	WeinbergCollege	1156599284818677760	mentioned	2019-07-31 16:15:32+00:00	3	0	4	0	Twitter Web App
+GZamora_Lopez	NUFeinbergMed	1156246393511665664	mentioned	2019-07-30 16:53:16+00:00	0	0	5	0	Twitter Web App
+GZamora_Lopez	ResearchNU	1156246393511665664	mentioned	2019-07-30 16:53:16+00:00	0	0	5	0	Twitter Web App
+GZamora_Lopez	CellCellPress	1156246393511665664	mentioned	2019-07-30 16:53:16+00:00	0	0	5	0	Twitter Web App
+GZamora_Lopez	RichCarthewLab	1156246393511665664	mentioned	2019-07-30 16:53:16+00:00	0	0	5	0	Twitter Web App
+GZamora_Lopez	AmaralLab	1156246393511665664	mentioned	2019-07-30 16:53:16+00:00	0	0	5	0	Twitter Web App
+hackernoon	BagheriLab	1154419524537597958	mentioned	2019-07-25 15:53:57+00:00	3	0	8	0	Twitter Web App
+hackernoon	AmaralLab	1154419524537597958	mentioned	2019-07-25 15:53:57+00:00	3	0	8	0	Twitter Web App
+hackernoon	CellPressNews	1154419524537597958	mentioned	2019-07-25 15:53:57+00:00	3	0	8	0	Twitter Web App
+adamrpah	Misharin_lab	1147843251694706688	replied_to	2019-07-07 12:22:11+00:00	1	0	2	0	Twitter Web Client
+adamrpah	AmaralLab	1147843251694706688	replied_to	2019-07-07 12:22:11+00:00	1	0	2	0	Twitter Web Client
+adamrpah	NIH	1147843251694706688	replied_to	2019-07-07 12:22:11+00:00	1	0	2	0	Twitter Web Client
+HockenberryAdam	AmaralLab	1146610848049369088	quoted	2019-07-04 02:45:03+00:00	6	1	16	1	Twitter Web Client
+HockenberryAdam	NIH	1146610848049369088	quoted	2019-07-04 02:45:03+00:00	6	1	16	1	Twitter Web Client
+N3Initiative	manlius84	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	net_science	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	netscisociety	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	cxdig	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	CompSysSoc	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	DirkBrockmann	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	_AlexArenas	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	anduviera	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	alexvespi	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	cosnet_bifi	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	HirokiSayama	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	DaniSBassett	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	masonporter	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	martikagv	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	AmaralLab	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	sees_lab	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	barabasi	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	sfiscience	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+N3Initiative	IC2S2	1139997519226781696	replied_to	2019-06-15 20:46:03+00:00	1	0	3	0	Twitter for Android
+AVPapachristos	net_science	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	netscisociety	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	cxdig	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	CompSysSoc	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	DirkBrockmann	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	_AlexArenas	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	anduviera	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	alexvespi	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	cosnet_bifi	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	HirokiSayama	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	DaniSBassett	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	masonporter	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	martikagv	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	AmaralLab	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	sees_lab	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	barabasi	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+AVPapachristos	sfiscience	1139935988480925697	quoted	2019-06-15 16:41:33+00:00	17	1	32	0	Twitter Web App
+arnaureal	amaral	1134192505753235456	mentioned	2019-05-30 20:19:00+00:00	0	0	1	0	Twitter for iPhone
+arnaureal	AmaralLab	1134192505753235456	mentioned	2019-05-30 20:19:00+00:00	0	0	1	0	Twitter for iPhone
+NSF	juliettapc82	1127207923862646784	quoted	2019-05-11 13:44:46+00:00	0	0	9	0	Twitter for Android
+NSF	AmaralLab	1127207923862646784	quoted	2019-05-11 13:44:46+00:00	0	0	9	0	Twitter for Android
+NSF	amaral	1127207923862646784	quoted	2019-05-11 13:44:46+00:00	0	0	9	0	Twitter for Android
+cellohealth	AmaralLab	1098643862745239553	replied_to	2019-02-21 18:01:23+00:00	0	0	0	0	Twitter for Android
+cellohealth	hyojun_ada	1098643862745239553	replied_to	2019-02-21 18:01:23+00:00	0	0	0	0	Twitter for Android
+cellohealth	NorthwesternEng	1098643862745239553	replied_to	2019-02-21 18:01:23+00:00	0	0	0	0	Twitter for Android
+EricTopol	AmaralLab	1096091344043470848	replied_to	2019-02-14 16:58:35+00:00	1	0	2	0	Twitter Web Client
+cmkhealthatwork	juliettapc82	1093957389336920064	replied_to	2019-02-08 19:39:01+00:00	0	1	1	0	TweetDeck
+cmkhealthatwork	AmaralLab	1093957389336920064	replied_to	2019-02-08 19:39:01+00:00	0	1	1	0	TweetDeck
+cmkhealthatwork	PacificStand	1093957389336920064	replied_to	2019-02-08 19:39:01+00:00	0	1	1	0	TweetDeck
+cmkhealthatwork	Beckgale	1093957389336920064	replied_to	2019-02-08 19:39:01+00:00	0	1	1	0	TweetDeck
+Ce_PIM	CityLab	1093878467349962752	replied_to	2019-02-08 14:25:24+00:00	0	1	1	0	Twitter for Android
+Ce_PIM	AmaralLab	1093878467349962752	replied_to	2019-02-08 14:25:24+00:00	0	1	1	0	Twitter for Android
+FredHasselman	juliettapc82	1093485305448067072	mentioned	2019-02-07 12:23:07+00:00	2	0	9	1	Twitter for iPad
+FredHasselman	AmaralLab	1093485305448067072	mentioned	2019-02-07 12:23:07+00:00	2	0	9	1	Twitter for iPad
+Adampreslar	otrasenda_AC	1092895411394801666	replied_to	2019-02-05 21:19:05+00:00	0	0	0	0	Twitter for Android
+Adampreslar	alexvespi	1092895411394801666	replied_to	2019-02-05 21:19:05+00:00	0	0	0	0	Twitter for Android
+Adampreslar	cosnet_bifi	1092895411394801666	replied_to	2019-02-05 21:19:05+00:00	0	0	0	0	Twitter for Android
+Adampreslar	AmaralLab	1092895411394801666	replied_to	2019-02-05 21:19:05+00:00	0	0	0	0	Twitter for Android
+scottkoegler	alexvespi	1092887844916477963	replied_to	2019-02-05 20:49:01+00:00	0	1	0	0	Twitter for Android
+scottkoegler	cosnet_bifi	1092887844916477963	replied_to	2019-02-05 20:49:01+00:00	0	1	0	0	Twitter for Android
+scottkoegler	AmaralLab	1092887844916477963	replied_to	2019-02-05 20:49:01+00:00	0	1	0	0	Twitter for Android
+scottkoegler	exergiovanni	1092887844916477963	replied_to	2019-02-05 20:49:01+00:00	0	1	0	0	Twitter for Android
+lgaalves	rogertgn	1087013928998260738	mentioned	2019-01-20 15:48:11+00:00	1	1	3	0	Twitter Web Client
+lgaalves	AmaralLab	1087013928998260738	mentioned	2019-01-20 15:48:11+00:00	1	1	3	0	Twitter Web Client
+smr_foundation	justinucd	1078497094032338947	mentioned	2018-12-28 03:45:19+00:00	1	0	5	0	Medium
+smr_foundation	NorthwesternU	1078497094032338947	mentioned	2018-12-28 03:45:19+00:00	1	0	5	0	Medium
+smr_foundation	amaral	1078497094032338947	mentioned	2018-12-28 03:45:19+00:00	1	0	5	0	Medium
+smr_foundation	WilliamRevelle	1078497094032338947	mentioned	2018-12-28 03:45:19+00:00	1	0	5	0	Medium
+smr_foundation	AmaralLab	1078497094032338947	mentioned	2018-12-28 03:45:19+00:00	1	0	5	0	Medium
+nodexl	HockenberryAdam	1073539404017397760	replied_to	2018-12-14 11:25:13+00:00	0	0	2	0	Twitter for iPhone
+nodexl	AmaralLab	1073539404017397760	replied_to	2018-12-14 11:25:13+00:00	0	0	2	0	Twitter for iPhone
+EllisWashington	AmaralLab	1073366799515860992	replied_to	2018-12-13 23:59:21+00:00	0	0	1	0	Twitter Web Client
+deanmalmgren	AmaralLab	1073362026645331985	replied_to	2018-12-13 23:40:23+00:00	0	1	1	0	Twitter for Android
+deanmalmgren	adamrpah	1073362026645331985	replied_to	2018-12-13 23:40:23+00:00	0	1	1	0	Twitter for Android
+samseaver	DunhamReal	1073195078712258560	mentioned	2018-12-13 12:37:00+00:00	0	0	0	0	TweetDeck
+samseaver	rna_mcmanus	1073195078712258560	mentioned	2018-12-13 12:37:00+00:00	0	0	0	0	TweetDeck
+samseaver	AmaralLab	1073195078712258560	mentioned	2018-12-13 12:37:00+00:00	0	0	0	0	TweetDeck
+AmaralLab	DunhamReal	1073136945474256896	mentioned	2018-12-13 08:46:00+00:00	2	0	1	0	TweetDeck
+AmaralLab	rna_mcmanus	1073136945474256896	mentioned	2018-12-13 08:46:00+00:00	2	0	1	0	TweetDeck
+AmaralLab	AmaralLab	1073136945474256896	mentioned	2018-12-13 08:46:00+00:00	2	0	1	0	TweetDeck
+BenjaminReisman	DunhamReal	1072907685216116737	mentioned	2018-12-12 17:35:00+00:00	0	0	2	0	TweetDeck
+BenjaminReisman	rna_mcmanus	1072907685216116737	mentioned	2018-12-12 17:35:00+00:00	0	0	2	0	TweetDeck
+BenjaminReisman	AmaralLab	1072907685216116737	mentioned	2018-12-12 17:35:00+00:00	0	0	2	0	TweetDeck
+scinet_it	N3Initiative	1070399683103780864	replied_to	2018-12-05 19:29:06+00:00	0	0	1	0	Twitter for Android
+scinet_it	AmaralLab	1070399683103780864	replied_to	2018-12-05 19:29:06+00:00	0	0	1	0	Twitter for Android
+scinet_it	NorthwesternU	1070399683103780864	replied_to	2018-12-05 19:29:06+00:00	0	0	1	0	Twitter for Android
+pandanation77	AmaralLab	1070395864894582784	mentioned	2018-12-05 19:13:55+00:00	0	1	5	0	Twitter for iPhone
+pandanation77	NICOatNU	1070395864894582784	mentioned	2018-12-05 19:13:55+00:00	0	1	5	0	Twitter for iPhone
+mstringer	AmaralLab	839657259328241665	quoted	2017-03-09 02:01:05+00:00	0	0	1	0	Twitter for iPhone
+titipat_a	AmaralLab	836342727960891392	mentioned	2017-02-27 22:30:19+00:00	0	0	2	0	Twitter for Android
+NICOatNU	sci_of_sci_chi	834147251152879621	mentioned	2017-02-21 21:06:17+00:00	3	0	5	1	Twitter Web Client
+NICOatNU	NICOatNU	834147251152879621	mentioned	2017-02-21 21:06:17+00:00	3	0	5	1	Twitter Web Client
+NICOatNU	AmaralLab	834147251152879621	mentioned	2017-02-21 21:06:17+00:00	3	0	5	1	Twitter Web Client
+rober48	brianrahmer	828302661074055172	replied_to	2017-02-05 18:01:58+00:00	0	0	0	0	Twitter for Android
+rober48	adamrpah	828302661074055172	replied_to	2017-02-05 18:01:58+00:00	0	0	0	0	Twitter for Android
+rober48	AmaralLab	828302661074055172	replied_to	2017-02-05 18:01:58+00:00	0	0	0	0	Twitter for Android
+rober48	KelloggSchool	828302661074055172	replied_to	2017-02-05 18:01:58+00:00	0	0	0	0	Twitter for Android
+rober48	RA_Becks	828302661074055172	replied_to	2017-02-05 18:01:58+00:00	0	0	0	0	Twitter for Android
+rober48	VergeScience	828302661074055172	replied_to	2017-02-05 18:01:58+00:00	0	0	0	0	Twitter for Android
+sees_lab	DiegoFregolente	819643660535025665	quoted	2017-01-12 20:34:11+00:00	1	0	2	0	Twitter Web Client
+sees_lab	NICOatNU	819643660535025665	quoted	2017-01-12 20:34:11+00:00	1	0	2	0	Twitter Web Client
+sees_lab	AmaralLab	819643660535025665	quoted	2017-01-12 20:34:11+00:00	1	0	2	0	Twitter Web Client
+TamaraYaikin	AmaralLab	794494127241105408	replied_to	2016-11-04 10:58:55+00:00	0	0	0	0	Twitter Web Client
+NetSciX2017	AmaralLab	794478252261773314	mentioned	2016-11-04 09:55:50+00:00	8	1	8	0	Twitter Web Client
+FunnyTunney	Tele13_Radio	782950791397138432	replied_to	2016-10-03 14:29:49+00:00	0	0	0	1	Twitter Web Client
+FunnyTunney	carolaurrejola	782950791397138432	replied_to	2016-10-03 14:29:49+00:00	0	0	0	1	Twitter Web Client
+FunnyTunney	AmaralLab	782950791397138432	replied_to	2016-10-03 14:29:49+00:00	0	0	0	1	Twitter Web Client
+daniel_akuna	AmaralLab	780499622460620801	mentioned	2016-09-26 20:09:45+00:00	0	0	0	0	Twitter Web Client
+daniel_akuna	NetSciX2017	780499622460620801	mentioned	2016-09-26 20:09:45+00:00	0	0	0	0	Twitter Web Client
+thisismyclone	AmaralLab	726200148716605440	mentioned	2016-04-30 00:03:02+00:00	0	0	0	0	TweetDeck
+thisismyclone	NICOatNU	726200148716605440	mentioned	2016-04-30 00:03:02+00:00	0	0	0	0	TweetDeck
+lonardu	AmaralLab	712684009843728384	mentioned	2016-03-23 16:54:43+00:00	2	0	2	0	Twitter Web Client
+SolGamsu	icss2016	712636195554140160	mentioned	2016-03-23 13:44:43+00:00	0	0	0	0	Twitter Web Client
+SolGamsu	AmaralLab	712636195554140160	mentioned	2016-03-23 13:44:43+00:00	0	0	0	0	Twitter Web Client
+janexwang	icss2016	712634607401828352	mentioned	2016-03-23 13:38:25+00:00	0	0	0	0	Twitter Web Client
+janexwang	AmaralLab	712634607401828352	mentioned	2016-03-23 13:38:25+00:00	0	0	0	0	Twitter Web Client
+ScientistsInc	AmaralLab	664552807542996992	mentioned	2015-11-11 21:18:30+00:00	0	0	0	0	Twitter Web Client
+adamrpah	AmaralLab	663857709025001472	mentioned	2015-11-09 23:16:26+00:00	0	0	1	0	Twitter for iPhone
+JoeGermuska	AmaralLab	658617232449249280	mentioned	2015-10-26 12:12:39+00:00	0	0	0	0	Twitter Web Client
+JoeGermuska	andrea_lanci	658617232449249280	mentioned	2015-10-26 12:12:39+00:00	0	0	0	0	Twitter Web Client
+deanmalmgren	adamrpah	608313311453675521	mentioned	2015-06-09 16:42:50+00:00	1	0	1	0	Twitter Web Client
+deanmalmgren	AmaralLab	608313311453675521	mentioned	2015-06-09 16:42:50+00:00	1	0	1	0	Twitter Web Client
+ISTCoalition	AmaralLab	598130029415956480	mentioned	2015-05-12 14:18:06+00:00	1	0	0	0	TweetDeck
+ISTCoalition	baprison2	598130029415956480	mentioned	2015-05-12 14:18:06+00:00	1	0	0	0	TweetDeck
+petersweeney	JoeGermuska	586361406691217408	replied_to	2015-04-10 02:53:48+00:00	0	1	0	0	Twitter for iPhone
+petersweeney	deanmalmgren	586361406691217408	replied_to	2015-04-10 02:53:48+00:00	0	1	0	0	Twitter for iPhone
+petersweeney	AmaralLab	586361406691217408	replied_to	2015-04-10 02:53:48+00:00	0	1	0	0	Twitter for iPhone
+4STTC	deanmalmgren	586296637288480768	replied_to	2015-04-09 22:36:25+00:00	0	1	0	0	Tweetbot for iΟS
+4STTC	adamrpah	586296637288480768	replied_to	2015-04-09 22:36:25+00:00	0	1	0	0	Tweetbot for iΟS
+4STTC	AmaralLab	586296637288480768	replied_to	2015-04-09 22:36:25+00:00	0	1	0	0	Tweetbot for iΟS
+Jovial_Research	amaral	586288233232932866	mentioned	2015-04-09 22:03:02+00:00	0	0	0	0	Twitter for Android
+Jovial_Research	AmaralLab	586288233232932866	mentioned	2015-04-09 22:03:02+00:00	0	0	0	0	Twitter for Android
+iyadrahwan	JoeGermuska	586257469036453890	replied_to	2015-04-09 20:00:47+00:00	0	1	0	0	Twitter for Android
+iyadrahwan	adamrpah	586257469036453890	replied_to	2015-04-09 20:00:47+00:00	0	1	0	0	Twitter for Android
+iyadrahwan	AmaralLab	586257469036453890	replied_to	2015-04-09 20:00:47+00:00	0	1	0	0	Twitter for Android
+KnowLab	deanmalmgren	578546862933852161	replied_to	2015-03-19 13:21:35+00:00	0	0	2	0	Twitter for iPhone
+KnowLab	amaral	578546862933852161	replied_to	2015-03-19 13:21:35+00:00	0	0	2	0	Twitter for iPhone
+KnowLab	AmaralLab	578546862933852161	replied_to	2015-03-19 13:21:35+00:00	0	0	2	0	Twitter for iPhone
+KnowLab	bjlange	578546862933852161	replied_to	2015-03-19 13:21:35+00:00	0	0	2	0	Twitter for iPhone
+arnaureal	deanmalmgren	578546771577712640	replied_to	2015-03-19 13:21:13+00:00	0	0	0	0	Twitter for iPhone
+arnaureal	amaral	578546771577712640	replied_to	2015-03-19 13:21:13+00:00	0	0	0	0	Twitter for iPhone
+arnaureal	AmaralLab	578546771577712640	replied_to	2015-03-19 13:21:13+00:00	0	0	0	0	Twitter for iPhone
+arnaureal	bjlange	578546771577712640	replied_to	2015-03-19 13:21:13+00:00	0	0	0	0	Twitter for iPhone
+widfm	amaral	578367783001407489	mentioned	2015-03-19 01:29:59+00:00	0	2	1	0	Twitter for Mac
+widfm	AmaralLab	578367783001407489	mentioned	2015-03-19 01:29:59+00:00	0	2	1	0	Twitter for Mac
+widfm	bjlange	578367783001407489	mentioned	2015-03-19 01:29:59+00:00	0	2	1	0	Twitter for Mac
+GermsAndNumbers	IMDb	569557407451508736	mentioned	2015-02-22 18:00:42+00:00	0	0	0	0	Hootsuite
+GermsAndNumbers	NICOatNU	569557407451508736	mentioned	2015-02-22 18:00:42+00:00	0	0	0	0	Hootsuite
+GermsAndNumbers	AmaralLab	569557407451508736	mentioned	2015-02-22 18:00:42+00:00	0	0	0	0	Hootsuite
+GermsAndNumbers	librarycongress	569557407451508736	mentioned	2015-02-22 18:00:42+00:00	0	0	0	0	Hootsuite
+alexvespi	NUFeinbergMed	565518395777765376	mentioned	2015-02-11 14:31:07+00:00	0	0	1	0	Hootsuite
+alexvespi	AmaralLab	565518395777765376	mentioned	2015-02-11 14:31:07+00:00	0	0	1	0	Hootsuite

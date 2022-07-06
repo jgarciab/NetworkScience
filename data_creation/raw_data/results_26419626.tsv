@@ -1,0 +1,1269 @@
+source	target	id	type	time	retweet_count	reply_count	like_count	quote_count	platform
+cxdig	illegaldaydream	1529453436269387778	mentioned	2022-05-25 13:24:49+00:00	0	0	1	0	Scoop.it
+cxdig	LHDnets	1529453436269387778	mentioned	2022-05-25 13:24:49+00:00	0	0	1	0	Scoop.it
+cxdig	bagrow	1529453436269387778	mentioned	2022-05-25 13:24:49+00:00	0	0	1	0	Scoop.it
+onurvarol	suneman	1529193207686434826	replied_to	2022-05-24 20:10:46+00:00	0	0	2	0	Twitter Web App
+onurvarol	bagrow	1529193207686434826	replied_to	2022-05-24 20:10:46+00:00	0	0	2	0	Twitter Web App
+onurvarol	siggasvala	1529193207686434826	replied_to	2022-05-24 20:10:46+00:00	0	0	2	0	Twitter Web App
+uvmcomplexity	siggasvala	1529080267847176192	quoted	2022-05-24 12:41:59+00:00	1	0	8	0	TweetDeck
+uvmcomplexity	bagrow	1529080267847176192	quoted	2022-05-24 12:41:59+00:00	1	0	8	0	TweetDeck
+uvmcomplexity	suneman	1529080267847176192	quoted	2022-05-24 12:41:59+00:00	1	0	8	0	TweetDeck
+CogSys	siggasvala	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+CogSys	bagrow	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+CogSys	suneman	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+CogSys	NatureHumBehav	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+CogSys	CogSys	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+CogSys	DTU_Compute	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+CogSys	DTUtweet	1529075508947865601	quoted	2022-05-24 12:23:04+00:00	0	0	2	0	Twitter Web App
+siggasvala	vedransekara	1529033198738587649	replied_to	2022-05-24 09:34:57+00:00	0	0	0	0	Twitter for Android
+siggasvala	bagrow	1529033198738587649	replied_to	2022-05-24 09:34:57+00:00	0	0	0	0	Twitter for Android
+siggasvala	suneman	1529033198738587649	replied_to	2022-05-24 09:34:57+00:00	0	0	0	0	Twitter for Android
+suneman	vedransekara	1529027626064654336	replied_to	2022-05-24 09:12:48+00:00	0	0	0	0	Twitter Web App
+suneman	siggasvala	1529027626064654336	replied_to	2022-05-24 09:12:48+00:00	0	0	0	0	Twitter Web App
+suneman	bagrow	1529027626064654336	replied_to	2022-05-24 09:12:48+00:00	0	0	0	0	Twitter Web App
+suneman	vedransekara	1529027626064654336	replied_to	2022-05-24 09:12:48+00:00	0	0	0	0	Twitter Web App
+vedransekara	siggasvala	1529024329987641344	quoted	2022-05-24 08:59:42+00:00	0	2	11	0	Twitter for Android
+vedransekara	bagrow	1529024329987641344	quoted	2022-05-24 08:59:42+00:00	0	2	11	0	Twitter for Android
+vedransekara	suneman	1529024329987641344	quoted	2022-05-24 08:59:42+00:00	0	2	11	0	Twitter for Android
+dhigit9	illegaldaydream	1529013913010024448	replied_to	2022-05-24 08:18:19+00:00	0	0	1	0	Twitter Web App
+dhigit9	LHDnets	1529013913010024448	replied_to	2022-05-24 08:18:19+00:00	0	0	1	0	Twitter Web App
+dhigit9	bagrow	1529013913010024448	replied_to	2022-05-24 08:18:19+00:00	0	0	1	0	Twitter Web App
+dhigit9	BethGriggs_	1529013913010024448	replied_to	2022-05-24 08:18:19+00:00	0	0	1	0	Twitter Web App
+mattdm	bagrow	1529004521791410176	replied_to	2022-05-24 07:41:00+00:00	0	1	4	0	Twitter Web App
+mattdm	siggasvala	1529004521791410176	replied_to	2022-05-24 07:41:00+00:00	0	1	4	0	Twitter Web App
+illegaldaydream	illegaldaydream	1528778787869151237	replied_to	2022-05-23 16:44:01+00:00	0	0	3	0	Twitter for Android
+illegaldaydream	LHDnets	1528778787869151237	replied_to	2022-05-23 16:44:01+00:00	0	0	3	0	Twitter for Android
+illegaldaydream	bagrow	1528778787869151237	replied_to	2022-05-23 16:44:01+00:00	0	0	3	0	Twitter for Android
+Ghoshal_G	LHDnets	1528743035324059649	mentioned	2022-05-23 14:21:56+00:00	26	3	73	8	Twitter Web App
+Ghoshal_G	bagrow	1528743035324059649	mentioned	2022-05-23 14:21:56+00:00	26	3	73	8	Twitter Web App
+DTU_Compute	bagrow	1513493063045468163	mentioned	2022-04-11 12:24:00+00:00	7	0	21	0	TweetDeck
+DTU_Compute	NatureComms	1513493063045468163	mentioned	2022-04-11 12:24:00+00:00	7	0	21	0	TweetDeck
+juniperlov	NatureComms	1512414386186592262	mentioned	2022-04-08 12:57:43+00:00	16	1	43	2	Twitter Web App
+juniperlov	MagicaChen	1512414386186592262	mentioned	2022-04-08 12:57:43+00:00	16	1	43	2	Twitter Web App
+juniperlov	foucaultwelles	1512414386186592262	mentioned	2022-04-08 12:57:43+00:00	16	1	43	2	Twitter Web App
+juniperlov	bagrow	1512414386186592262	mentioned	2022-04-08 12:57:43+00:00	16	1	43	2	Twitter Web App
+juniperlov	ronaldomenezes	1512414386186592262	mentioned	2022-04-08 12:57:43+00:00	16	1	43	2	Twitter Web App
+HirokiSayama	NatureHumBehav	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+HirokiSayama	siggasvala	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+HirokiSayama	bagrow	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+HirokiSayama	suneman	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+HirokiSayama	DTU_Compute	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+HirokiSayama	CPH_SODAS	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+HirokiSayama	uvmvermont	1507325538607812610	mentioned	2022-03-25 11:56:27+00:00	5	1	10	1	Twitter for iPhone
+lzvolk	HirokiSayama	1504936487271419905	replied_to	2022-03-18 21:43:13+00:00	0	0	1	0	Twitter Web App
+lzvolk	uvmcomplexity	1504936487271419905	replied_to	2022-03-18 21:43:13+00:00	0	0	1	0	Twitter Web App
+lzvolk	_jgyou	1504936487271419905	replied_to	2022-03-18 21:43:13+00:00	0	0	1	0	Twitter Web App
+lzvolk	LHDnets	1504936487271419905	replied_to	2022-03-18 21:43:13+00:00	0	0	1	0	Twitter Web App
+lzvolk	bagrow	1504936487271419905	replied_to	2022-03-18 21:43:13+00:00	0	0	1	0	Twitter Web App
+LHDnets	uvmcomplexity	1504903755480940551	quoted	2022-03-18 19:33:09+00:00	1	1	9	0	Twitter Web App
+LHDnets	_jgyou	1504903755480940551	quoted	2022-03-18 19:33:09+00:00	1	1	9	0	Twitter Web App
+LHDnets	LHDnets	1504903755480940551	quoted	2022-03-18 19:33:09+00:00	1	1	9	0	Twitter Web App
+LHDnets	juniperlov	1504903755480940551	quoted	2022-03-18 19:33:09+00:00	1	1	9	0	Twitter Web App
+LHDnets	bagrow	1504903755480940551	quoted	2022-03-18 19:33:09+00:00	1	1	9	0	Twitter Web App
+_jgyou	LHDnets	1499385432915775489	replied_to	2022-03-03 14:05:19+00:00	0	0	0	0	Twitter for iPad
+_jgyou	klts0	1499385432915775489	replied_to	2022-03-03 14:05:19+00:00	0	0	0	0	Twitter for iPad
+_jgyou	all_are	1499385432915775489	replied_to	2022-03-03 14:05:19+00:00	0	0	0	0	Twitter for iPad
+_jgyou	stonge_g	1499385432915775489	replied_to	2022-03-03 14:05:19+00:00	0	0	0	0	Twitter for iPad
+_jgyou	bagrow	1499385432915775489	replied_to	2022-03-03 14:05:19+00:00	0	0	0	0	Twitter for iPad
+_jgyou	uvmcomplexity	1499385432915775489	replied_to	2022-03-03 14:05:19+00:00	0	0	0	0	Twitter for iPad
+NatureHumBehav	all_are	1499343332295811077	replied_to	2022-03-03 11:18:01+00:00	1	1	8	0	Twitter Web App
+NatureHumBehav	stonge_g	1499343332295811077	replied_to	2022-03-03 11:18:01+00:00	1	1	8	0	Twitter Web App
+NatureHumBehav	bagrow	1499343332295811077	replied_to	2022-03-03 11:18:01+00:00	1	1	8	0	Twitter Web App
+NatureHumBehav	JohnMeluso	1499343332295811077	replied_to	2022-03-03 11:18:01+00:00	1	1	8	0	Twitter Web App
+CNWWs	siggasvala	1498636356343537667	quoted	2022-03-01 12:28:45+00:00	1	0	3	0	Twitter for iPhone
+CNWWs	suneman	1498636356343537667	quoted	2022-03-01 12:28:45+00:00	1	0	3	0	Twitter for iPhone
+CNWWs	bagrow	1498636356343537667	quoted	2022-03-01 12:28:45+00:00	1	0	3	0	Twitter for iPhone
+CNWWs	DTU_Compute	1498636356343537667	quoted	2022-03-01 12:28:45+00:00	1	0	3	0	Twitter for iPhone
+CNWWs	NatureHumBehav	1498636356343537667	quoted	2022-03-01 12:28:45+00:00	1	0	3	0	Twitter for iPhone
+BrimacombeChris	NatureHumBehav	1498228574377201665	mentioned	2022-02-28 09:28:22+00:00	5	1	25	1	Twitter Web App
+BrimacombeChris	suneman	1498228574377201665	mentioned	2022-02-28 09:28:22+00:00	5	1	25	1	Twitter Web App
+BrimacombeChris	bagrow	1498228574377201665	mentioned	2022-02-28 09:28:22+00:00	5	1	25	1	Twitter Web App
+JabRef_org	NatureHumBehav	1497981800135766026	mentioned	2022-02-27 17:07:46+00:00	6	0	21	1	Twitter Web App
+JabRef_org	siggasvala	1497981800135766026	mentioned	2022-02-27 17:07:46+00:00	6	0	21	1	Twitter Web App
+JabRef_org	bagrow	1497981800135766026	mentioned	2022-02-27 17:07:46+00:00	6	0	21	1	Twitter Web App
+PamphileRoy	bagrow	1497052568584744963	mentioned	2022-02-25 03:35:20+00:00	6	0	18	0	TweetDeck
+PamphileRoy	siggasvala	1497052568584744963	mentioned	2022-02-25 03:35:20+00:00	6	0	18	0	TweetDeck
+PamphileRoy	suneman	1497052568584744963	mentioned	2022-02-25 03:35:20+00:00	6	0	18	0	TweetDeck
+_mischi	bagrow	1496958030893756420	replied_to	2022-02-24 21:19:41+00:00	0	0	3	0	Twitter Web App
+rainerbunger	siggasvala	1496885214769037313	mentioned	2022-02-24 16:30:20+00:00	12	0	25	0	Buffer
+rainerbunger	bagrow	1496885214769037313	mentioned	2022-02-24 16:30:20+00:00	12	0	25	0	Buffer
+rainerbunger	suneman	1496885214769037313	mentioned	2022-02-24 16:30:20+00:00	12	0	25	0	Buffer
+rainerbunger	DTU_Compute	1496885214769037313	mentioned	2022-02-24 16:30:20+00:00	12	0	25	0	Buffer
+rainerbunger	CPH_SODAS	1496885214769037313	mentioned	2022-02-24 16:30:20+00:00	12	0	25	0	Buffer
+rainerbunger	uvmcomplexity	1496885214769037313	mentioned	2022-02-24 16:30:20+00:00	12	0	25	0	Buffer
+all_are	bagrow	1483811607323029508	quoted	2022-01-19 14:40:29+00:00	3	0	9	0	Twitter Web App
+all_are	LHDnets	1483811607323029508	quoted	2022-01-19 14:40:29+00:00	3	0	9	0	Twitter Web App
+all_are	_jgyou	1483811607323029508	quoted	2022-01-19 14:40:29+00:00	3	0	9	0	Twitter Web App
+nschloe	bagrow	1475545308612366338	replied_to	2021-12-27 19:13:10+00:00	0	1	0	0	Twitter Web App
+todogroup	suneman	1471458385065304065	replied_to	2021-12-16 12:33:12+00:00	0	0	3	0	TweetDeck
+todogroup	bagrow	1471458385065304065	replied_to	2021-12-16 12:33:12+00:00	0	0	3	0	TweetDeck
+gcabanac	suneman	1471304984520269828	replied_to	2021-12-16 02:23:38+00:00	0	0	1	0	Twitter for iPhone
+gcabanac	nschloe	1471304984520269828	replied_to	2021-12-16 02:23:38+00:00	0	0	1	0	Twitter for iPhone
+gcabanac	bagrow	1471304984520269828	replied_to	2021-12-16 02:23:38+00:00	0	0	1	0	Twitter for iPhone
+lewis_math	suneman	1470691350047830025	replied_to	2021-12-14 09:45:16+00:00	0	0	1	0	Twitter for iPhone
+lewis_math	bagrow	1470691350047830025	replied_to	2021-12-14 09:45:16+00:00	0	0	1	0	Twitter for iPhone
+followML_	suneman	1470643188872450048	replied_to	2021-12-14 06:33:54+00:00	0	0	1	0	Twitter Web App
+followML_	bagrow	1470643188872450048	replied_to	2021-12-14 06:33:54+00:00	0	0	1	0	Twitter Web App
+philipvollet	suneman	1470500686416732166	replied_to	2021-12-13 21:07:38+00:00	0	0	7	0	Twitter Web App
+philipvollet	bagrow	1470500686416732166	replied_to	2021-12-13 21:07:38+00:00	0	0	7	0	Twitter Web App
+DoctorJosh	suneman	1470456951834349572	replied_to	2021-12-13 18:13:51+00:00	0	0	3	0	Twitter for Android
+DoctorJosh	bagrow	1470456951834349572	replied_to	2021-12-13 18:13:51+00:00	0	0	3	0	Twitter for Android
+BrettFrischmann	bagrow	1470399836063248391	mentioned	2021-12-13 14:26:54+00:00	21	6	109	3	Twitter Web App
+robinberjon	juniperlov	1462889784842481665	replied_to	2021-11-22 21:04:38+00:00	0	0	1	0	Twitter for iPhone
+robinberjon	uvmcomplexity	1462889784842481665	replied_to	2021-11-22 21:04:38+00:00	0	0	1	0	Twitter for iPhone
+robinberjon	LHDnets	1462889784842481665	replied_to	2021-11-22 21:04:38+00:00	0	0	1	0	Twitter for iPhone
+robinberjon	bagrow	1462889784842481665	replied_to	2021-11-22 21:04:38+00:00	0	0	1	0	Twitter for iPhone
+robinberjon	anajsana95	1462889784842481665	replied_to	2021-11-22 21:04:38+00:00	0	0	1	0	Twitter for iPhone
+manlius84	uvmcomplexity	1462847888522891275	replied_to	2021-11-22 18:18:09+00:00	1	2	18	1	Twitter Web App
+manlius84	LHDnets	1462847888522891275	replied_to	2021-11-22 18:18:09+00:00	1	2	18	1	Twitter Web App
+manlius84	bagrow	1462847888522891275	replied_to	2021-11-22 18:18:09+00:00	1	2	18	1	Twitter Web App
+AllisonMRoth1	bagrow	1423649854627188737	quoted	2021-08-06 14:19:10+00:00	0	0	0	0	Twitter Web App
+tiagopeixoto	bagrow	1423633594778472449	replied_to	2021-08-06 13:14:33+00:00	0	0	1	0	Twitter for iPhone
+MassimoSt	philipvollet	1419662406670852096	replied_to	2021-07-26 14:14:28+00:00	0	0	0	0	FollowML
+MassimoSt	bagrow	1419662406670852096	replied_to	2021-07-26 14:14:28+00:00	0	0	0	0	FollowML
+branmorrighan	bagrow	1419662364316774400	mentioned	2021-07-26 14:14:18+00:00	4	2	12	0	Hypefury
+CompleNet	uvmcomplexity	1418536586703163399	replied_to	2021-07-23 11:40:52+00:00	0	0	1	0	FollowML
+CompleNet	bagrow	1418536586703163399	replied_to	2021-07-23 11:40:52+00:00	0	0	1	0	FollowML
+CompleNet	suneman	1418536586703163399	replied_to	2021-07-23 11:40:52+00:00	0	0	1	0	FollowML
+amcasari	bagrow	1418536369358401540	mentioned	2021-07-23 11:40:00+00:00	10	1	39	0	TweetDeck
+amcasari	suneman	1418536369358401540	mentioned	2021-07-23 11:40:00+00:00	10	1	39	0	TweetDeck
+danbri	bagrow	1415399650383781892	replied_to	2021-07-14 19:55:48+00:00	0	0	2	0	Twitter Web App
+NonperiodicFlow	jbakcoleman	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	manlius84	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	robinberjon	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	MrsMRS_PhD	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	profmadison	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	EvanSelinger	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	msantolini	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	bagrow	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+NonperiodicFlow	a_baronca	1411097764151369729	replied_to	2021-07-02 23:01:38+00:00	0	0	3	0	Twitter for iPhone
+uvmmathstats	manlius84	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	MrsMRS_PhD	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	BrettFrischmann	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	profmadison	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	EvanSelinger	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	msantolini	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	jbakcoleman	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	bagrow	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+uvmmathstats	a_baronca	1411061484419960838	replied_to	2021-07-02 20:37:28+00:00	0	0	2	0	Twitter Web App
+ronaldomenezes	robinberjon	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	MrsMRS_PhD	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	BrettFrischmann	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	profmadison	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	EvanSelinger	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	msantolini	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	jbakcoleman	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	bagrow	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+ronaldomenezes	a_baronca	1411020359244128261	replied_to	2021-07-02 17:54:03+00:00	0	1	5	0	Twitter for iPad
+winocm	robinberjon	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	MrsMRS_PhD	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	BrettFrischmann	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	profmadison	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	EvanSelinger	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	msantolini	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	jbakcoleman	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+winocm	bagrow	1411019453245054982	replied_to	2021-07-02 17:50:27+00:00	0	1	4	0	Twitter for iPad
+diogofpacheco	LHDnets	1410984470174441481	replied_to	2021-07-02 15:31:27+00:00	0	0	2	0	Twitter Web App
+diogofpacheco	illegaldaydream	1410984470174441481	replied_to	2021-07-02 15:31:27+00:00	0	0	2	0	Twitter Web App
+diogofpacheco	bagrow	1410984470174441481	replied_to	2021-07-02 15:31:27+00:00	0	0	2	0	Twitter Web App
+diogofpacheco	illegaldaydream	1410984470174441481	replied_to	2021-07-02 15:31:27+00:00	0	0	2	0	Twitter Web App
+diogofpacheco	LHDnets	1410984470174441481	replied_to	2021-07-02 15:31:27+00:00	0	0	2	0	Twitter Web App
+compstorylab	illegaldaydream	1410196281268523018	mentioned	2021-06-30 11:19:28+00:00	8	0	15	0	TweetDeck
+compstorylab	LHDnets	1410196281268523018	mentioned	2021-06-30 11:19:28+00:00	8	0	15	0	TweetDeck
+compstorylab	bagrow	1410196281268523018	mentioned	2021-06-30 11:19:28+00:00	8	0	15	0	TweetDeck
+theEnergyMads	illegaldaydream	1410050909380485120	mentioned	2021-06-30 01:41:48+00:00	13	2	36	1	Twitter for Android
+theEnergyMads	bagrow	1410050909380485120	mentioned	2021-06-30 01:41:48+00:00	13	2	36	1	Twitter for Android
+peterdodds	bagrow	1403510573422329858	replied_to	2021-06-12 00:32:51+00:00	0	0	2	0	Twitter Web App
+DavidRosowsky	bagrow	1403495210311688195	replied_to	2021-06-11 23:31:48+00:00	0	1	0	0	Twitter Web App
+GuestPostsBiz	bagrow	1403487767674359810	replied_to	2021-06-11 23:02:14+00:00	0	1	1	0	Twitter Web App
+tubacat	bagrow	1403430342489411585	replied_to	2021-06-11 19:14:02+00:00	0	1	0	0	Twitter Web App
+GroGerrit	bagrow	1400143042217193475	replied_to	2021-06-02 17:31:29+00:00	0	0	2	0	TweetDeck
+iamvaibhavsaini	bagrow	1397593590524792835	replied_to	2021-05-26 16:40:52+00:00	0	0	1	0	Twitter Web App
+_leotrs	bagrow	1397589387777560576	replied_to	2021-05-26 16:24:10+00:00	0	0	1	0	Twitter Web App
+_leotrs	bagrow	1397589387777560576	replied_to	2021-05-26 16:24:10+00:00	0	0	1	0	Twitter Web App
+DanLarremore	bagrow	1397572966561558529	mentioned	2021-05-26 15:18:55+00:00	1	0	5	0	Twitter Web App
+Dr_Matt_P	CompleNet	1397571358888972291	mentioned	2021-05-26 15:12:32+00:00	0	0	1	0	Twitter Web App
+Dr_Matt_P	bagrow	1397571358888972291	mentioned	2021-05-26 15:12:32+00:00	0	0	1	0	Twitter Web App
+greghickey5	lewis_math	1352722853209264140	mentioned	2021-01-22 21:00:35+00:00	0	0	1	0	Buffer
+greghickey5	bagrow	1352722853209264140	mentioned	2021-01-22 21:00:35+00:00	0	0	1	0	Buffer
+greghickey5	ConversationEDU	1352722853209264140	mentioned	2021-01-22 21:00:35+00:00	0	0	1	0	Buffer
+schichmax	bagrow	1350128994683936768	replied_to	2021-01-15 17:13:31+00:00	0	0	0	0	Twitter Web App
+LHDnets	uvmcomplexity	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	Nature	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	amcasari	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	glasnt	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	uvmvermont	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	illegaldaydream	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	_jgyou	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	bagrow	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+LHDnets	NatComputSci	1349852276576428037	replied_to	2021-01-14 22:53:56+00:00	0	0	3	0	Twitter for Android
+amcasari	glasnt	1349773517705809920	mentioned	2021-01-14 17:40:58+00:00	26	0	24	1	Twitter Web App
+amcasari	_jgyou	1349773517705809920	mentioned	2021-01-14 17:40:58+00:00	26	0	24	1	Twitter Web App
+amcasari	illegaldaydream	1349773517705809920	mentioned	2021-01-14 17:40:58+00:00	26	0	24	1	Twitter Web App
+amcasari	bagrow	1349773517705809920	mentioned	2021-01-14 17:40:58+00:00	26	0	24	1	Twitter Web App
+amcasari	LHDnets	1349773517705809920	mentioned	2021-01-14 17:40:58+00:00	26	0	24	1	Twitter Web App
+uvmcomplexity	Nature	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	amcasari	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	glasnt	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	uvmvermont	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	illegaldaydream	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	_jgyou	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	bagrow	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+uvmcomplexity	LHDnets	1349766449334800385	mentioned	2021-01-14 17:12:53+00:00	10	1	26	2	TweetDeck
+juliaferraioli	Nature	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	amcasari	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	glasnt	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	Google	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	illegaldaydream	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	_jgyou	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	bagrow	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	LHDnets	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+juliaferraioli	uvmcomplexity	1349764719616294912	mentioned	2021-01-14 17:06:01+00:00	11	0	13	3	TweetDeck
+DanLarremore	bagrow	1348311034231214081	replied_to	2021-01-10 16:49:35+00:00	0	0	2	0	Twitter Web App
+DanLarremore	masonporter	1348311034231214081	replied_to	2021-01-10 16:49:35+00:00	0	0	2	0	Twitter Web App
+SaminAref	MousaviPooneh	1346727017740439552	replied_to	2021-01-06 07:55:16+00:00	0	0	3	0	Twitter for Android
+SaminAref	bagrow	1346727017740439552	replied_to	2021-01-06 07:55:16+00:00	0	0	3	0	Twitter for Android
+SaminAref	CNWWs	1346727017740439552	replied_to	2021-01-06 07:55:16+00:00	0	0	3	0	Twitter for Android
+SaminAref	bagrow	1346727017740439552	replied_to	2021-01-06 07:55:16+00:00	0	0	3	0	Twitter for Android
+mt_cirunay	bagrow	1346504720530112513	mentioned	2021-01-05 17:11:56+00:00	2	0	6	0	Twitter for iPad
+MousaviPooneh	bagrow	1346500680899579912	mentioned	2021-01-05 16:55:53+00:00	0	1	4	0	Twitter for iPhone
+MousaviPooneh	CNWWs	1346500680899579912	mentioned	2021-01-05 16:55:53+00:00	0	1	4	0	Twitter for iPhone
+ehsan_hoque	Ghoshal_G	1337049515610808320	replied_to	2020-12-10 15:00:20+00:00	2	0	3	0	Twitter Web App
+ehsan_hoque	bagrow	1337049515610808320	replied_to	2020-12-10 15:00:20+00:00	2	0	3	0	Twitter Web App
+ehsan_hoque	UofR	1337049515610808320	replied_to	2020-12-10 15:00:20+00:00	2	0	3	0	Twitter Web App
+joshuagrochow	uvmcems	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	LHDnets	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	bagrow	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	juniperlov	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	uvmcomplexity	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	LHDnets	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	juniperlov	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+joshuagrochow	bagrow	1336713438534496257	replied_to	2020-12-09 16:44:53+00:00	0	0	4	0	Twitter Web App
+uvmcems	LHDnets	1336705317917384710	mentioned	2020-12-09 16:12:37+00:00	8	1	6	0	Twitter Web App
+uvmcems	bagrow	1336705317917384710	mentioned	2020-12-09 16:12:37+00:00	8	1	6	0	Twitter Web App
+uvmcems	juniperlov	1336705317917384710	mentioned	2020-12-09 16:12:37+00:00	8	1	6	0	Twitter Web App
+uvmcems	uvmcomplexity	1336705317917384710	mentioned	2020-12-09 16:12:37+00:00	8	1	6	0	Twitter Web App
+carstenbuchholz	LHDnets	1329469771583262725	mentioned	2020-11-19 17:01:08+00:00	4	1	2	0	Twitter Web App
+carstenbuchholz	bagrow	1329469771583262725	mentioned	2020-11-19 17:01:08+00:00	4	1	2	0	Twitter Web App
+carstenbuchholz	juniperlov	1329469771583262725	mentioned	2020-11-19 17:01:08+00:00	4	1	2	0	Twitter Web App
+carstenbuchholz	uvmcomplexity	1329469771583262725	mentioned	2020-11-19 17:01:08+00:00	4	1	2	0	Twitter Web App
+theEnergyMads	bagrow	1328792681384976384	mentioned	2020-11-17 20:10:37+00:00	0	0	0	0	Paper.li
+theEnergyMads	DAfaehrtRad	1328792681384976384	mentioned	2020-11-17 20:10:37+00:00	0	0	0	0	Paper.li
+theEnergyMads	_andreas42	1328792681384976384	mentioned	2020-11-17 20:10:37+00:00	0	0	0	0	Paper.li
+ComplexGates	kenshirriff	1327322500414509060	replied_to	2020-11-13 18:48:39+00:00	0	0	0	0	Twitter Web App
+ComplexGates	bagrow	1327322500414509060	replied_to	2020-11-13 18:48:39+00:00	0	0	0	0	Twitter Web App
+RobertADorrough	bagrow	1318233151400009729	quoted	2020-10-19 16:50:49+00:00	0	0	2	0	Twitter for iPhone
+Ghoshal_G	uvmcomplexity	1317322999456882689	replied_to	2020-10-17 04:34:12+00:00	0	0	0	0	Twitter Web App
+Ghoshal_G	simondedeo	1317322999456882689	replied_to	2020-10-17 04:34:12+00:00	0	0	0	0	Twitter Web App
+Ghoshal_G	bagrow	1317322999456882689	replied_to	2020-10-17 04:34:12+00:00	0	0	0	0	Twitter Web App
+apharradine	bagrow	1317230791328452609	mentioned	2020-10-16 22:27:48+00:00	26	1	98	0	TweetDeck
+uvmmathstats	ehsan_hoque	1316411858652459008	mentioned	2020-10-14 16:13:39+00:00	3	0	10	1	Twitter Web App
+uvmmathstats	bagrow	1316411858652459008	mentioned	2020-10-14 16:13:39+00:00	3	0	10	1	Twitter Web App
+uvmmathstats	RaiyanAB	1316411858652459008	mentioned	2020-10-14 16:13:39+00:00	3	0	10	1	Twitter Web App
+uvmmathstats	RSocPublishing	1316411858652459008	mentioned	2020-10-14 16:13:39+00:00	3	0	10	1	Twitter Web App
+CosmosMagazine	lewis_math	1316105554578698240	replied_to	2020-10-13 19:56:30+00:00	0	0	0	0	Twitter Web App
+CosmosMagazine	bagrow	1316105554578698240	replied_to	2020-10-13 19:56:30+00:00	0	0	0	0	Twitter Web App
+CosmosMagazine	ConversationEDU	1316105554578698240	replied_to	2020-10-13 19:56:30+00:00	0	0	0	0	Twitter Web App
+ACEMathStats	bagrow	1316007528258564097	mentioned	2020-10-13 13:26:59+00:00	1	0	3	0	TweetDeck
+ACEMathStats	lewis_math	1316007528258564097	mentioned	2020-10-13 13:26:59+00:00	1	0	3	0	TweetDeck
+galen_jw	lewis_math	1315822062372519936	mentioned	2020-10-13 01:10:01+00:00	0	0	4	0	Buffer
+galen_jw	UniofAdelaide	1315822062372519936	mentioned	2020-10-13 01:10:01+00:00	0	0	4	0	Buffer
+galen_jw	bagrow	1315822062372519936	mentioned	2020-10-13 01:10:01+00:00	0	0	4	0	Buffer
+galen_jw	uvmvermont	1315822062372519936	mentioned	2020-10-13 01:10:01+00:00	0	0	4	0	Buffer
+lewis_math	lewis_math	1315794376220569600	mentioned	2020-10-12 23:20:00+00:00	1	0	3	0	TweetDeck
+lewis_math	bagrow	1315794376220569600	mentioned	2020-10-12 23:20:00+00:00	1	0	3	0	TweetDeck
+lewis_math	CosmosMagazine	1315794376220569600	mentioned	2020-10-12 23:20:00+00:00	1	0	3	0	TweetDeck
+PiratePeel	bagrow	1315636334845976576	quoted	2020-10-12 12:52:00+00:00	1	0	4	0	TweetDeck
+PiratePeel	lewis_math	1315636334845976576	quoted	2020-10-12 12:52:00+00:00	1	0	4	0	TweetDeck
+thilogross	lewis_math	1315593581063798786	replied_to	2020-10-12 10:02:06+00:00	0	0	0	0	Twitter for Android
+thilogross	bagrow	1315593581063798786	replied_to	2020-10-12 10:02:06+00:00	0	0	0	0	Twitter for Android
+thilogross	ConversationEDU	1315593581063798786	replied_to	2020-10-12 10:02:06+00:00	0	0	0	0	Twitter for Android
+uvm_ee	lewis_math	1315593305124634627	replied_to	2020-10-12 10:01:01+00:00	0	0	0	0	Twitter for Android
+uvm_ee	bagrow	1315593305124634627	replied_to	2020-10-12 10:01:01+00:00	0	0	0	0	Twitter for Android
+uvm_ee	ConversationEDU	1315593305124634627	replied_to	2020-10-12 10:01:01+00:00	0	0	0	0	Twitter for Android
+tiagopeixoto	bagrow	1315591810438238210	mentioned	2020-10-12 09:55:04+00:00	11	2	28	0	Twitter for iPhone
+tiagopeixoto	ConversationEDU	1315591810438238210	mentioned	2020-10-12 09:55:04+00:00	11	2	28	0	Twitter for iPhone
+suneman	bagrow	1309783537936224259	replied_to	2020-09-26 09:15:04+00:00	0	0	2	0	Twitter for Android
+suneman	DanLarremore	1309783537936224259	replied_to	2020-09-26 09:15:04+00:00	0	0	2	0	Twitter for Android
+suneman	tiagopeixoto	1309783537936224259	replied_to	2020-09-26 09:15:04+00:00	0	0	2	0	Twitter for Android
+estebanmoro	bagrow	1309783468159758336	replied_to	2020-09-26 09:14:48+00:00	0	1	2	0	Twitter for Android
+estebanmoro	DanLarremore	1309783468159758336	replied_to	2020-09-26 09:14:48+00:00	0	1	2	0	Twitter for Android
+estebanmoro	tiagopeixoto	1309783468159758336	replied_to	2020-09-26 09:14:48+00:00	0	1	2	0	Twitter for Android
+DavidHowey	bagrow	1309759524509831169	replied_to	2020-09-26 07:39:39+00:00	0	0	1	0	Twitter Web App
+jeremypmeyers	bagrow	1309759421397041152	replied_to	2020-09-26 07:39:14+00:00	0	1	1	0	Twitter Web App
+brosaplanella	HOssareh	1309659575000403969	mentioned	2020-09-26 01:02:29+00:00	8	0	14	1	Twitter Web App
+brosaplanella	bagrow	1309659575000403969	mentioned	2020-09-26 01:02:29+00:00	8	0	14	1	Twitter Web App
+brosaplanella	theEnergyMads	1309659575000403969	mentioned	2020-09-26 01:02:29+00:00	8	0	14	1	Twitter Web App
+brosaplanella	uvmcems	1309659575000403969	mentioned	2020-09-26 01:02:29+00:00	8	0	14	1	Twitter Web App
+brosaplanella	BenchmarkSpace	1309659575000403969	mentioned	2020-09-26 01:02:29+00:00	8	0	14	1	Twitter Web App
+shanecelis	suneman	1304090634328907777	replied_to	2020-09-10 16:13:30+00:00	0	0	1	0	Twitter for Android
+shanecelis	bagrow	1304090634328907777	replied_to	2020-09-10 16:13:30+00:00	0	0	1	0	Twitter for Android
+pmackey80	tiagopeixoto	1304088546203009024	replied_to	2020-09-10 16:05:12+00:00	0	1	0	0	Twitter Web App
+pmackey80	bagrow	1304088546203009024	replied_to	2020-09-10 16:05:12+00:00	0	1	0	0	Twitter Web App
+all_are	suneman	1304088047710081025	replied_to	2020-09-10 16:03:14+00:00	0	1	1	0	Twitter for Android
+all_are	bagrow	1304088047710081025	replied_to	2020-09-10 16:03:14+00:00	0	1	1	0	Twitter for Android
+manlius84	bagrow	1304087995184807940	replied_to	2020-09-10 16:03:01+00:00	0	0	0	0	Twitter Web App
+juniperlov	bagrow	1304086769881751554	replied_to	2020-09-10 15:58:09+00:00	0	2	1	0	Twitter Web App
+NicholasStrayer	bagrow	1304058325152169984	replied_to	2020-09-10 14:05:07+00:00	0	0	0	0	Twitter Web App
+Scottebemeup	lewis_math	1304056176838144005	replied_to	2020-09-10 13:56:35+00:00	0	0	0	0	Twitter Web App
+Scottebemeup	bagrow	1304056176838144005	replied_to	2020-09-10 13:56:35+00:00	0	0	0	0	Twitter Web App
+Scottebemeup	bagrow	1304056176838144005	replied_to	2020-09-10 13:56:35+00:00	0	0	0	0	Twitter Web App
+ulfaslak	lewis_math	1304055841973243907	replied_to	2020-09-10 13:55:15+00:00	0	1	0	0	Twitter Web App
+ulfaslak	bagrow	1304055841973243907	replied_to	2020-09-10 13:55:15+00:00	0	1	0	0	Twitter Web App
+MUBNiazi	lewis_math	1304055305349795840	replied_to	2020-09-10 13:53:07+00:00	0	1	0	0	Twitter Web App
+MUBNiazi	bagrow	1304055305349795840	replied_to	2020-09-10 13:53:07+00:00	0	1	0	0	Twitter Web App
+MUBNiazi	bagrow	1304055305349795840	replied_to	2020-09-10 13:53:07+00:00	0	1	0	0	Twitter Web App
+yy	estebanmoro	1304052475826114560	replied_to	2020-09-10 13:41:53+00:00	0	1	1	0	Twitter for iPhone
+yy	bagrow	1304052475826114560	replied_to	2020-09-10 13:41:53+00:00	0	1	1	0	Twitter for iPhone
+redsweater	bagrow	1304050718987431938	replied_to	2020-09-10 13:34:54+00:00	0	1	1	0	Twitter Web App
+msantolini	bagrow	1304048139817500673	replied_to	2020-09-10 13:24:39+00:00	0	0	2	0	Twitter for iPhone
+VSB_Analytics	jeremypmeyers	1303703552263675905	replied_to	2020-09-09 14:35:23+00:00	0	0	0	0	Twitter Web App
+VSB_Analytics	brosaplanella	1303703552263675905	replied_to	2020-09-09 14:35:23+00:00	0	0	0	0	Twitter Web App
+VSB_Analytics	bagrow	1303703552263675905	replied_to	2020-09-09 14:35:23+00:00	0	0	0	0	Twitter Web App
+VSB_Analytics	bodleianlibs	1303703552263675905	replied_to	2020-09-09 14:35:23+00:00	0	0	0	0	Twitter Web App
+QuantumEmanuel	DavidHowey	1303702218588196864	replied_to	2020-09-09 14:30:05+00:00	0	1	2	0	Twitter Web App
+QuantumEmanuel	brosaplanella	1303702218588196864	replied_to	2020-09-09 14:30:05+00:00	0	1	2	0	Twitter Web App
+QuantumEmanuel	bagrow	1303702218588196864	replied_to	2020-09-09 14:30:05+00:00	0	1	2	0	Twitter Web App
+QuantumEmanuel	bodleianlibs	1303702218588196864	replied_to	2020-09-09 14:30:05+00:00	0	1	2	0	Twitter Web App
+1_minute_scienc	brosaplanella	1303684047005155328	replied_to	2020-09-09 13:17:52+00:00	0	1	1	0	Twitter Web App
+1_minute_scienc	bagrow	1303684047005155328	replied_to	2020-09-09 13:17:52+00:00	0	1	1	0	Twitter Web App
+1_minute_scienc	bodleianlibs	1303684047005155328	replied_to	2020-09-09 13:17:52+00:00	0	1	1	0	Twitter Web App
+compstorylab	DavidHowey	1303675199670415360	replied_to	2020-09-09 12:42:43+00:00	0	1	1	1	Twitter Web App
+compstorylab	bagrow	1303675199670415360	replied_to	2020-09-09 12:42:43+00:00	0	1	1	1	Twitter Web App
+compstorylab	bodleianlibs	1303675199670415360	replied_to	2020-09-09 12:42:43+00:00	0	1	1	1	Twitter Web App
+peterdodds	bagrow	1303672720044036096	mentioned	2020-09-09 12:32:52+00:00	1	1	10	0	Twitter Web App
+illegaldaydream	bagrow	1303668727335071746	mentioned	2020-09-09 12:17:00+00:00	5	0	12	0	TweetDeck
+svscarpino	bagrow	1303428978707963904	quoted	2020-09-08 20:24:19+00:00	1	0	2	0	Twitter Web App
+_jgyou	bagrow	1300862525911826439	replied_to	2020-09-01 18:26:09+00:00	0	0	0	0	Twitter for iPhone
+UVMCompSci	bagrow	1299470011023593473	replied_to	2020-08-28 22:12:48+00:00	0	0	0	0	Twitter for iPhone
+UVMCompSci	tiagopeixoto	1299470011023593473	replied_to	2020-08-28 22:12:48+00:00	0	0	0	0	Twitter for iPhone
+austinbenson	tiagopeixoto	1299456708641566720	replied_to	2020-08-28 21:19:56+00:00	0	0	2	0	Twitter Web App
+austinbenson	bagrow	1299456708641566720	replied_to	2020-08-28 21:19:56+00:00	0	0	2	0	Twitter Web App
+austinbenson	RadioPoultry	1299456708641566720	replied_to	2020-08-28 21:19:56+00:00	0	0	2	0	Twitter Web App
+Shugars	manlius84	1299446261557280770	replied_to	2020-08-28 20:38:25+00:00	0	0	1	0	Twitter for iPad
+Shugars	tiagopeixoto	1299446261557280770	replied_to	2020-08-28 20:38:25+00:00	0	0	1	0	Twitter for iPad
+Shugars	bagrow	1299446261557280770	replied_to	2020-08-28 20:38:25+00:00	0	0	1	0	Twitter for iPad
+Shugars	devochkamusic	1299446261557280770	replied_to	2020-08-28 20:38:25+00:00	0	0	1	0	Twitter for iPad
+Shugars	devotchkamusic	1299446261557280770	replied_to	2020-08-28 20:38:25+00:00	0	0	1	0	Twitter for iPad
+_NJ_Roberts	manlius84	1299445674677690368	replied_to	2020-08-28 20:36:06+00:00	0	1	2	0	Twitter for iPad
+_NJ_Roberts	tiagopeixoto	1299445674677690368	replied_to	2020-08-28 20:36:06+00:00	0	1	2	0	Twitter for iPad
+_NJ_Roberts	bagrow	1299445674677690368	replied_to	2020-08-28 20:36:06+00:00	0	1	2	0	Twitter for iPad
+_NJ_Roberts	devochkamusic	1299445674677690368	replied_to	2020-08-28 20:36:06+00:00	0	1	2	0	Twitter for iPad
+ethicsoftech	illegaldaydream	1248762488361046020	replied_to	2020-04-10 23:59:12+00:00	0	0	1	0	Twitter Web App
+ethicsoftech	uvmcomplexity	1248762488361046020	replied_to	2020-04-10 23:59:12+00:00	0	0	1	0	Twitter Web App
+ethicsoftech	LHDnets	1248762488361046020	replied_to	2020-04-10 23:59:12+00:00	0	0	1	0	Twitter Web App
+ethicsoftech	bagrow	1248762488361046020	replied_to	2020-04-10 23:59:12+00:00	0	0	1	0	Twitter Web App
+ethicsoftech	juniperlov	1248762488361046020	replied_to	2020-04-10 23:59:12+00:00	0	0	1	0	Twitter Web App
+olivershuey	illegaldaydream	1248761107394768896	replied_to	2020-04-10 23:53:43+00:00	0	0	1	0	Twitter for iPhone
+olivershuey	uvmcomplexity	1248761107394768896	replied_to	2020-04-10 23:53:43+00:00	0	0	1	0	Twitter for iPhone
+olivershuey	LHDnets	1248761107394768896	replied_to	2020-04-10 23:53:43+00:00	0	0	1	0	Twitter for iPhone
+olivershuey	bagrow	1248761107394768896	replied_to	2020-04-10 23:53:43+00:00	0	0	1	0	Twitter for iPhone
+olivershuey	juniperlov	1248761107394768896	replied_to	2020-04-10 23:53:43+00:00	0	0	1	0	Twitter for iPhone
+illegaldaydream	uvmcomplexity	1248755839063732225	mentioned	2020-04-10 23:32:47+00:00	3	5	39	1	Twitter Web App
+illegaldaydream	LHDnets	1248755839063732225	mentioned	2020-04-10 23:32:47+00:00	3	5	39	1	Twitter Web App
+illegaldaydream	bagrow	1248755839063732225	mentioned	2020-04-10 23:32:47+00:00	3	5	39	1	Twitter Web App
+illegaldaydream	juniperlov	1248755839063732225	mentioned	2020-04-10 23:32:47+00:00	3	5	39	1	Twitter Web App
+Scottebemeup	JohnMeluso	1247155276760985600	replied_to	2020-04-06 13:32:43+00:00	0	0	4	0	Twitter Web App
+Scottebemeup	uvmcomplexity	1247155276760985600	replied_to	2020-04-06 13:32:43+00:00	0	0	4	0	Twitter Web App
+Scottebemeup	LHDnets	1247155276760985600	replied_to	2020-04-06 13:32:43+00:00	0	0	4	0	Twitter Web App
+Scottebemeup	bagrow	1247155276760985600	replied_to	2020-04-06 13:32:43+00:00	0	0	4	0	Twitter Web App
+Scottebemeup	juniperlov	1247155276760985600	replied_to	2020-04-06 13:32:43+00:00	0	0	4	0	Twitter Web App
+amcasari	JohnMeluso	1247153480164200448	replied_to	2020-04-06 13:25:35+00:00	0	0	4	0	Twitter for Android
+amcasari	uvmcomplexity	1247153480164200448	replied_to	2020-04-06 13:25:35+00:00	0	0	4	0	Twitter for Android
+amcasari	LHDnets	1247153480164200448	replied_to	2020-04-06 13:25:35+00:00	0	0	4	0	Twitter for Android
+amcasari	bagrow	1247153480164200448	replied_to	2020-04-06 13:25:35+00:00	0	0	4	0	Twitter for Android
+amcasari	juniperlov	1247153480164200448	replied_to	2020-04-06 13:25:35+00:00	0	0	4	0	Twitter for Android
+Shugars	JohnMeluso	1247146470140248066	replied_to	2020-04-06 12:57:43+00:00	0	0	4	0	Twitter Web App
+Shugars	uvmcomplexity	1247146470140248066	replied_to	2020-04-06 12:57:43+00:00	0	0	4	0	Twitter Web App
+Shugars	LHDnets	1247146470140248066	replied_to	2020-04-06 12:57:43+00:00	0	0	4	0	Twitter Web App
+Shugars	bagrow	1247146470140248066	replied_to	2020-04-06 12:57:43+00:00	0	0	4	0	Twitter Web App
+Shugars	juniperlov	1247146470140248066	replied_to	2020-04-06 12:57:43+00:00	0	0	4	0	Twitter Web App
+theEnergyMads	JohnMeluso	1246995186821083137	replied_to	2020-04-06 02:56:35+00:00	0	0	2	0	Twitter for iPhone
+theEnergyMads	uvmcomplexity	1246995186821083137	replied_to	2020-04-06 02:56:35+00:00	0	0	2	0	Twitter for iPhone
+theEnergyMads	LHDnets	1246995186821083137	replied_to	2020-04-06 02:56:35+00:00	0	0	2	0	Twitter for iPhone
+theEnergyMads	bagrow	1246995186821083137	replied_to	2020-04-06 02:56:35+00:00	0	0	2	0	Twitter for iPhone
+theEnergyMads	juniperlov	1246995186821083137	replied_to	2020-04-06 02:56:35+00:00	0	0	2	0	Twitter for iPhone
+theEnergyMads	uvmcems	1246995186821083137	replied_to	2020-04-06 02:56:35+00:00	0	0	2	0	Twitter for iPhone
+peterdodds	JohnMeluso	1246922736854798336	replied_to	2020-04-05 22:08:41+00:00	0	0	3	0	Twitter for iPad
+peterdodds	uvmcomplexity	1246922736854798336	replied_to	2020-04-05 22:08:41+00:00	0	0	3	0	Twitter for iPad
+peterdodds	LHDnets	1246922736854798336	replied_to	2020-04-05 22:08:41+00:00	0	0	3	0	Twitter for iPad
+peterdodds	bagrow	1246922736854798336	replied_to	2020-04-05 22:08:41+00:00	0	0	3	0	Twitter for iPad
+peterdodds	juniperlov	1246922736854798336	replied_to	2020-04-05 22:08:41+00:00	0	0	3	0	Twitter for iPad
+juniperlov	JohnMeluso	1246867679195078656	replied_to	2020-04-05 18:29:55+00:00	0	0	2	0	Twitter for Android
+juniperlov	uvmcomplexity	1246867679195078656	replied_to	2020-04-05 18:29:55+00:00	0	0	2	0	Twitter for Android
+juniperlov	LHDnets	1246867679195078656	replied_to	2020-04-05 18:29:55+00:00	0	0	2	0	Twitter for Android
+juniperlov	bagrow	1246867679195078656	replied_to	2020-04-05 18:29:55+00:00	0	0	2	0	Twitter for Android
+JohnMeluso	uvmcomplexity	1246867518624534529	mentioned	2020-04-05 18:29:16+00:00	3	7	60	3	Twitter Web App
+JohnMeluso	LHDnets	1246867518624534529	mentioned	2020-04-05 18:29:16+00:00	3	7	60	3	Twitter Web App
+JohnMeluso	bagrow	1246867518624534529	mentioned	2020-04-05 18:29:16+00:00	3	7	60	3	Twitter Web App
+JohnMeluso	juniperlov	1246867518624534529	mentioned	2020-04-05 18:29:16+00:00	3	7	60	3	Twitter Web App
+artistJaneAdams	artistJaneAdams	1245532334482509825	replied_to	2020-04-02 02:03:44+00:00	0	0	0	0	Twitter for Android
+artistJaneAdams	HirokiSayama	1245532334482509825	replied_to	2020-04-02 02:03:44+00:00	0	0	0	0	Twitter for Android
+artistJaneAdams	bagrow	1245532334482509825	replied_to	2020-04-02 02:03:44+00:00	0	0	0	0	Twitter for Android
+artistJaneAdams	_jgyou	1245532334482509825	replied_to	2020-04-02 02:03:44+00:00	0	0	0	0	Twitter for Android
+artistJaneAdams	SYNSpapers	1245532334482509825	replied_to	2020-04-02 02:03:44+00:00	0	0	0	0	Twitter for Android
+sjnwoh	juniperlov	1245513838419742721	replied_to	2020-04-02 00:50:14+00:00	0	1	3	0	Twitter Web App
+sjnwoh	HirokiSayama	1245513838419742721	replied_to	2020-04-02 00:50:14+00:00	0	1	3	0	Twitter Web App
+sjnwoh	bagrow	1245513838419742721	replied_to	2020-04-02 00:50:14+00:00	0	1	3	0	Twitter Web App
+sjnwoh	_jgyou	1245513838419742721	replied_to	2020-04-02 00:50:14+00:00	0	1	3	0	Twitter Web App
+sjnwoh	SYNSpapers	1245513838419742721	replied_to	2020-04-02 00:50:14+00:00	0	1	3	0	Twitter Web App
+HirokiSayama	juniperlov	1245498069359169537	replied_to	2020-04-01 23:47:34+00:00	1	0	4	0	Twitter Web App
+HirokiSayama	HirokiSayama	1245498069359169537	replied_to	2020-04-01 23:47:34+00:00	1	0	4	0	Twitter Web App
+HirokiSayama	bagrow	1245498069359169537	replied_to	2020-04-01 23:47:34+00:00	1	0	4	0	Twitter Web App
+HirokiSayama	artistJaneAdams	1245498069359169537	replied_to	2020-04-01 23:47:34+00:00	1	0	4	0	Twitter Web App
+HirokiSayama	_jgyou	1245498069359169537	replied_to	2020-04-01 23:47:34+00:00	1	0	4	0	Twitter Web App
+HirokiSayama	SYNSpapers	1245498069359169537	replied_to	2020-04-01 23:47:34+00:00	1	0	4	0	Twitter Web App
+uvmmathstats	HirokiSayama	1245479768939732992	mentioned	2020-04-01 22:34:51+00:00	1	2	20	0	Twitter for Android
+uvmmathstats	bagrow	1245479768939732992	mentioned	2020-04-01 22:34:51+00:00	1	2	20	0	Twitter for Android
+uvmmathstats	artistJaneAdams	1245479768939732992	mentioned	2020-04-01 22:34:51+00:00	1	2	20	0	Twitter for Android
+uvmmathstats	_jgyou	1245479768939732992	mentioned	2020-04-01 22:34:51+00:00	1	2	20	0	Twitter for Android
+uvmmathstats	SYNSpapers	1245479768939732992	mentioned	2020-04-01 22:34:51+00:00	1	2	20	0	Twitter for Android
+msantolini	juniperlov	1245463143549206533	mentioned	2020-04-01 21:28:47+00:00	2	0	9	0	Twitter Web App
+msantolini	bagrow	1245463143549206533	mentioned	2020-04-01 21:28:47+00:00	2	0	9	0	Twitter Web App
+msantolini	artistJaneAdams	1245463143549206533	mentioned	2020-04-01 21:28:47+00:00	2	0	9	0	Twitter Web App
+msantolini	_jgyou	1245463143549206533	mentioned	2020-04-01 21:28:47+00:00	2	0	9	0	Twitter Web App
+msantolini	jkbren	1245463143549206533	mentioned	2020-04-01 21:28:47+00:00	2	0	9	0	Twitter Web App
+msantolini	official_SYNS	1245463143549206533	mentioned	2020-04-01 21:28:47+00:00	2	0	9	0	Twitter Web App
+lewis_math	bagrow	1245439267326824450	quoted	2020-04-01 19:53:55+00:00	3	0	3	0	Twitter Web App
+uvmcomplexity	bagrow	1245427695325937665	mentioned	2020-04-01 19:07:56+00:00	2	0	4	1	Twitter Web App
+tkdwombat86	bagrow	1242127499867361282	mentioned	2020-03-23 16:34:08+00:00	1	0	15	2	TweetDeck
+trustic_marker	bagrow	1237714870319173637	mentioned	2020-03-11 12:19:55+00:00	0	0	0	0	TweetDeck
+Warcast	bagrow	1232650939275702273	replied_to	2020-02-26 12:57:40+00:00	0	1	2	0	Twitter for iPhone
+Billiamsthorpe	bagrow	1232648076516610048	replied_to	2020-02-26 12:46:17+00:00	0	1	2	0	Twitter for iPhone
+Billiamsthorpe	theEnergyMads	1232648076516610048	replied_to	2020-02-26 12:46:17+00:00	0	1	2	0	Twitter for iPhone
+Aza_Thompson	bagrow	1232647094600552449	replied_to	2020-02-26 12:42:23+00:00	0	1	0	0	Twitter for iPhone
+dgrebqwerty	MathsUOA	1228246925964505093	quoted	2020-02-14 09:17:41+00:00	2	0	11	0	Twitter for iPhone
+dgrebqwerty	bagrow	1228246925964505093	quoted	2020-02-14 09:17:41+00:00	2	0	11	0	Twitter for iPhone
+dgrebqwerty	uvmmathstats	1228246925964505093	quoted	2020-02-14 09:17:41+00:00	2	0	11	0	Twitter for iPhone
+dgrebqwerty	uvmcomplexity	1228246925964505093	quoted	2020-02-14 09:17:41+00:00	2	0	11	0	Twitter for iPhone
+stormbringerart	bagrow	1228013092870803456	mentioned	2020-02-13 17:48:31+00:00	7	0	22	1	TweetDeck
+stormbringerart	TobinSouth	1228013092870803456	mentioned	2020-02-13 17:48:31+00:00	7	0	22	1	TweetDeck
+stormbringerart	lewis_math	1228013092870803456	mentioned	2020-02-13 17:48:31+00:00	7	0	22	1	TweetDeck
+justAfanDavid	Aza_Thompson	1227535291197480960	replied_to	2020-02-12 10:09:54+00:00	0	0	0	0	Twitter for Android
+justAfanDavid	Billiamsthorpe	1227535291197480960	replied_to	2020-02-12 10:09:54+00:00	0	0	0	0	Twitter for Android
+justAfanDavid	Warcast	1227535291197480960	replied_to	2020-02-12 10:09:54+00:00	0	0	0	0	Twitter for Android
+justAfanDavid	bagrow	1227535291197480960	replied_to	2020-02-12 10:09:54+00:00	0	0	0	0	Twitter for Android
+rihickson	bagrow	1227520368174338048	replied_to	2020-02-12 09:10:36+00:00	0	0	0	0	Twitter Web App
+rihickson	RudeMechanic	1227520368174338048	replied_to	2020-02-12 09:10:36+00:00	0	0	0	0	Twitter Web App
+CelestinCoquide	Aza_Thompson	1227437628741607424	replied_to	2020-02-12 03:41:50+00:00	0	0	0	0	Twitter for iPhone
+CelestinCoquide	Billiamsthorpe	1227437628741607424	replied_to	2020-02-12 03:41:50+00:00	0	0	0	0	Twitter for iPhone
+CelestinCoquide	bagrow	1227437628741607424	replied_to	2020-02-12 03:41:50+00:00	0	0	0	0	Twitter for iPhone
+ChrisDanforth	Aza_Thompson	1227368396674592768	replied_to	2020-02-11 23:06:43+00:00	0	0	1	0	Twitter for iPhone
+ChrisDanforth	Warcast	1227368396674592768	replied_to	2020-02-11 23:06:43+00:00	0	0	1	0	Twitter for iPhone
+ChrisDanforth	bagrow	1227368396674592768	replied_to	2020-02-11 23:06:43+00:00	0	0	1	0	Twitter for iPhone
+LHDnets	Billiamsthorpe	1227368219259723776	replied_to	2020-02-11 23:06:01+00:00	0	4	3	0	Twitter for Android
+LHDnets	Warcast	1227368219259723776	replied_to	2020-02-11 23:06:01+00:00	0	4	3	0	Twitter for Android
+LHDnets	bagrow	1227368219259723776	replied_to	2020-02-11 23:06:01+00:00	0	4	3	0	Twitter for Android
+alexawoodward	Aza_Thompson	1227346900589826048	replied_to	2020-02-11 21:41:18+00:00	0	1	2	0	Twitter for iPhone
+alexawoodward	Warcast	1227346900589826048	replied_to	2020-02-11 21:41:18+00:00	0	1	2	0	Twitter for iPhone
+alexawoodward	bagrow	1227346900589826048	replied_to	2020-02-11 21:41:18+00:00	0	1	2	0	Twitter for iPhone
+CNWWs	Warcast	1227333397749608449	replied_to	2020-02-11 20:47:39+00:00	0	1	5	0	Twitter for Android
+CNWWs	bagrow	1227333397749608449	replied_to	2020-02-11 20:47:39+00:00	0	1	5	0	Twitter for Android
+CNWWs	Billiamsthorpe	1227333397749608449	replied_to	2020-02-11 20:47:39+00:00	0	1	5	0	Twitter for Android
+claudiodgl	bagrow	1227325190050324480	replied_to	2020-02-11 20:15:02+00:00	0	1	1	0	Twitter for iPhone
+claudiodgl	Billiamsthorpe	1227325190050324480	replied_to	2020-02-11 20:15:02+00:00	0	1	1	0	Twitter for iPhone
+claudiodgl	Aza_Thompson	1227325190050324480	replied_to	2020-02-11 20:15:02+00:00	0	1	1	0	Twitter for iPhone
+redcompleja	bagrow	1227261444707831819	replied_to	2020-02-11 16:01:44+00:00	0	0	0	0	Twitter for Android
+mszll	bagrow	1227143989624803328	replied_to	2020-02-11 08:15:01+00:00	0	0	0	0	Twitter for iPhone
+mszll	blazoncek	1227143989624803328	replied_to	2020-02-11 08:15:01+00:00	0	0	0	0	Twitter for iPhone
+_stoatpower	bagrow	1227143922897563648	replied_to	2020-02-11 08:14:45+00:00	0	1	0	0	Twitter for iPhone
+_stoatpower	blazoncek	1227143922897563648	replied_to	2020-02-11 08:14:45+00:00	0	1	0	0	Twitter for iPhone
+PhilChodrow	bagrow	1227069571955183616	replied_to	2020-02-11 03:19:18+00:00	0	0	0	0	Twitter for iPad
+PhilChodrow	osxreverser	1227069571955183616	replied_to	2020-02-11 03:19:18+00:00	0	0	0	0	Twitter for iPad
+droneale	lewis_math	1224941627078148098	mentioned	2020-02-05 06:23:36+00:00	1	1	6	0	Twitter for iPad
+droneale	UniofAdelaide	1224941627078148098	mentioned	2020-02-05 06:23:36+00:00	1	1	6	0	Twitter for iPad
+droneale	anziam2020	1224941627078148098	mentioned	2020-02-05 06:23:36+00:00	1	1	6	0	Twitter for iPad
+droneale	ANZIAMnews	1224941627078148098	mentioned	2020-02-05 06:23:36+00:00	1	1	6	0	Twitter for iPad
+droneale	bagrow	1224941627078148098	mentioned	2020-02-05 06:23:36+00:00	1	1	6	0	Twitter for iPad
+ajmoralesguzman	LHDnets	1217002208178458624	replied_to	2020-01-14 08:35:11+00:00	0	0	3	0	Twitter for Android
+ajmoralesguzman	bagrow	1217002208178458624	replied_to	2020-01-14 08:35:11+00:00	0	0	3	0	Twitter for Android
+ajmoralesguzman	GoogleOSS	1217002208178458624	replied_to	2020-01-14 08:35:11+00:00	0	0	3	0	Twitter for Android
+ajmoralesguzman	uvmcomplexity	1217002208178458624	replied_to	2020-01-14 08:35:11+00:00	0	0	3	0	Twitter for Android
+DavidRosowsky	bagrow	1216783613708111873	quoted	2020-01-13 18:06:34+00:00	2	0	14	0	TweetDeck
+DavidRosowsky	LHDnets	1216783613708111873	quoted	2020-01-13 18:06:34+00:00	2	0	14	0	TweetDeck
+DavidRosowsky	amcasari	1216783613708111873	quoted	2020-01-13 18:06:34+00:00	2	0	14	0	TweetDeck
+DavidRosowsky	juliaferraioli	1216783613708111873	quoted	2020-01-13 18:06:34+00:00	2	0	14	0	TweetDeck
+funwithnetworks	bagrow	1216780926186872832	quoted	2020-01-13 17:55:54+00:00	20	1	48	1	Twitter Web App
+funwithnetworks	GoogleOSS	1216780926186872832	quoted	2020-01-13 17:55:54+00:00	20	1	48	1	Twitter Web App
+funwithnetworks	uvmcomplexity	1216780926186872832	quoted	2020-01-13 17:55:54+00:00	20	1	48	1	Twitter Web App
+jlarrosa	amcasari	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+jlarrosa	juliaferraioli	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+jlarrosa	uvmcomplexity	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+jlarrosa	LHDnets	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+jlarrosa	bagrow	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+jlarrosa	peterdodds	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+jlarrosa	juniperlov	1216774215761891330	replied_to	2020-01-13 17:29:14+00:00	0	0	5	0	Twitter Web App
+EGutierrezOK	bagrow	1216772676435529730	replied_to	2020-01-13 17:23:07+00:00	0	1	6	0	Twitter for iPad
+EGutierrezOK	LHDnets	1216772676435529730	replied_to	2020-01-13 17:23:07+00:00	0	1	6	0	Twitter for iPad
+EGutierrezOK	juniperlov	1216772676435529730	replied_to	2020-01-13 17:23:07+00:00	0	1	6	0	Twitter for iPad
+RemyKusters	amcasari	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+RemyKusters	juliaferraioli	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+RemyKusters	uvmcomplexity	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+RemyKusters	LHDnets	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+RemyKusters	bagrow	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+RemyKusters	peterdodds	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+RemyKusters	juniperlov	1216767651025997826	mentioned	2020-01-13 17:03:09+00:00	0	1	15	0	Twitter Web App
+jkbren	bagrow	1213545943582281728	mentioned	2020-01-04 19:41:14+00:00	3	0	20	0	TweetDeck
+uvmbored	andreas_madsen	1208596993611878401	replied_to	2019-12-22 03:55:52+00:00	0	0	1	0	Twitter Web App
+uvmbored	AlexRoseJo	1208596993611878401	replied_to	2019-12-22 03:55:52+00:00	0	0	1	0	Twitter Web App
+uvmbored	uvmcomplexity	1208596993611878401	replied_to	2019-12-22 03:55:52+00:00	0	0	1	0	Twitter Web App
+uvmbored	bagrow	1208596993611878401	replied_to	2019-12-22 03:55:52+00:00	0	0	1	0	Twitter Web App
+uvmvermont	bagrow	1208116283453136903	replied_to	2019-12-20 20:05:42+00:00	0	1	3	0	Twitter for Android
+pmichelu	CNWWs	1207302920464674817	replied_to	2019-12-18 14:13:41+00:00	0	0	1	0	Twitter Web App
+pmichelu	bagrow	1207302920464674817	replied_to	2019-12-18 14:13:41+00:00	0	0	1	0	Twitter Web App
+andrewsu	bagrow	1206638919342792704	quoted	2019-12-16 18:15:11+00:00	8	0	21	0	Twitter for iPad
+HCjnl	bagrow	1206627342161985538	mentioned	2019-12-16 17:29:11+00:00	12	1	35	1	Twitter for Android
+2019NetSci	bagrow	1206622925878648834	mentioned	2019-12-16 17:11:38+00:00	0	0	7	0	Twitter for Android
+tiagopeixoto	ITUkbh	1204766084135636993	mentioned	2019-12-11 14:13:12+00:00	54	0	206	2	Twitter Web App
+tiagopeixoto	data4sci	1204766084135636993	mentioned	2019-12-11 14:13:12+00:00	54	0	206	2	Twitter Web App
+tiagopeixoto	bagrow	1204766084135636993	mentioned	2019-12-11 14:13:12+00:00	54	0	206	2	Twitter Web App
+svscarpino	PhilChodrow	1181909902597468161	replied_to	2019-10-09 12:30:54+00:00	0	0	0	0	Twitter for Android
+svscarpino	bagrow	1181909902597468161	replied_to	2019-10-09 12:30:54+00:00	0	0	0	0	Twitter for Android
+clauwa	bagrow	1181883867453706241	replied_to	2019-10-09 10:47:26+00:00	0	1	2	0	Twitter for iPad
+DoctorJosh	bagrow	1179595367790178304	mentioned	2019-10-03 03:13:46+00:00	1	0	1	0	Twitter for iPhone
+iPif	martikagv	1178768915003924480	replied_to	2019-09-30 20:29:44+00:00	4	0	7	1	Twitter Web App
+iPif	PhilChodrow	1178768915003924480	replied_to	2019-09-30 20:29:44+00:00	4	0	7	1	Twitter Web App
+iPif	HirokiSayama	1178768915003924480	replied_to	2019-09-30 20:29:44+00:00	4	0	7	1	Twitter Web App
+iPif	bagrow	1178768915003924480	replied_to	2019-09-30 20:29:44+00:00	4	0	7	1	Twitter Web App
+iPif	mrfrank5790	1178768915003924480	replied_to	2019-09-30 20:29:44+00:00	4	0	7	1	Twitter Web App
+yy	martikagv	1178675580083916800	mentioned	2019-09-30 14:18:51+00:00	15	1	25	1	Twitter for iPhone
+yy	PhilChodrow	1178675580083916800	mentioned	2019-09-30 14:18:51+00:00	15	1	25	1	Twitter for iPhone
+yy	HirokiSayama	1178675580083916800	mentioned	2019-09-30 14:18:51+00:00	15	1	25	1	Twitter for iPhone
+yy	bagrow	1178675580083916800	mentioned	2019-09-30 14:18:51+00:00	15	1	25	1	Twitter for iPhone
+yy	mrfrank5790	1178675580083916800	mentioned	2019-09-30 14:18:51+00:00	15	1	25	1	Twitter for iPhone
+jessecshore	massmutual	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	uvmcomplexity	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	mmdatascience	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	ChrisDanforth	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	peterdodds	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	bagrow	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	alexawoodward	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	juniperlov	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+jessecshore	uvmcems	1169947103176601602	quoted	2019-09-06 12:15:00+00:00	3	0	10	0	Twitter for iPhone
+paulhinesenergy	DavidRosowsky	1166753795612786689	replied_to	2019-08-28 16:45:56+00:00	0	0	1	0	Twitter for iPad
+paulhinesenergy	DoctorJosh	1166753795612786689	replied_to	2019-08-28 16:45:56+00:00	0	0	1	0	Twitter for iPad
+paulhinesenergy	ChrisDanforth	1166753795612786689	replied_to	2019-08-28 16:45:56+00:00	0	0	1	0	Twitter for iPad
+paulhinesenergy	bagrow	1166753795612786689	replied_to	2019-08-28 16:45:56+00:00	0	0	1	0	Twitter for iPad
+paulhinesenergy	uvmcomplexity	1166753795612786689	replied_to	2019-08-28 16:45:56+00:00	0	0	1	0	Twitter for iPad
+DynamicsSIAM	DavidRosowsky	1166732762105241600	replied_to	2019-08-28 15:22:21+00:00	0	0	3	0	Twitter Web App
+DynamicsSIAM	DoctorJosh	1166732762105241600	replied_to	2019-08-28 15:22:21+00:00	0	0	3	0	Twitter Web App
+DynamicsSIAM	peterdodds	1166732762105241600	replied_to	2019-08-28 15:22:21+00:00	0	0	3	0	Twitter Web App
+DynamicsSIAM	ChrisDanforth	1166732762105241600	replied_to	2019-08-28 15:22:21+00:00	0	0	3	0	Twitter Web App
+DynamicsSIAM	bagrow	1166732762105241600	replied_to	2019-08-28 15:22:21+00:00	0	0	3	0	Twitter Web App
+DynamicsSIAM	uvmcomplexity	1166732762105241600	replied_to	2019-08-28 15:22:21+00:00	0	0	3	0	Twitter Web App
+hyejin_youn	bagrow	1119723677086638081	quoted	2019-04-20 22:05:02+00:00	0	0	3	0	Twitter for iPhone
+kristinlmcclure	bagrow	1119705349504868352	replied_to	2019-04-20 20:52:13+00:00	0	0	1	0	Twitter for Android
+suneman	bagrow	1119563576946118656	replied_to	2019-04-20 11:28:51+00:00	0	0	1	0	Twitter Web App
+martikagv	bagrow	1119469455250034689	replied_to	2019-04-20 05:14:51+00:00	0	0	2	0	Twitter Web Client
+GuidoCaldarelli	bagrow	1119464489559236608	replied_to	2019-04-20 04:55:07+00:00	0	0	1	0	Twitter for iPhone
+davidlazer	bagrow	1119439636630208513	replied_to	2019-04-20 03:16:22+00:00	0	0	2	0	Twitter for Android
+lewis_math	uvmcomplexity	1119357851619610624	replied_to	2019-04-19 21:51:23+00:00	0	0	2	0	Twitter for iPhone
+lewis_math	bagrow	1119357851619610624	replied_to	2019-04-19 21:51:23+00:00	0	0	2	0	Twitter for iPhone
+shanecelis	bagrow	1119344221784281089	replied_to	2019-04-19 20:57:13+00:00	0	0	1	0	Twitter for iPhone
+Shugars	bagrow	1119337569144143873	replied_to	2019-04-19 20:30:47+00:00	0	0	1	0	Twitter Web Client
+estebanmoro	bagrow	1119336790677237766	replied_to	2019-04-19 20:27:41+00:00	0	0	1	0	Twitter for iPhone
+GeorgeDWatt	uvmvermont	1119308349189701632	mentioned	2019-04-19 18:34:40+00:00	2	1	12	0	Twitter Web Client
+GeorgeDWatt	uvmcomplexity	1119308349189701632	mentioned	2019-04-19 18:34:40+00:00	2	1	12	0	Twitter Web Client
+GeorgeDWatt	peterdodds	1119308349189701632	mentioned	2019-04-19 18:34:40+00:00	2	1	12	0	Twitter Web Client
+GeorgeDWatt	ChrisDanforth	1119308349189701632	mentioned	2019-04-19 18:34:40+00:00	2	1	12	0	Twitter Web Client
+GeorgeDWatt	bagrow	1119308349189701632	mentioned	2019-04-19 18:34:40+00:00	2	1	12	0	Twitter Web Client
+GeorgeDWatt	DoctorJosh	1119308349189701632	mentioned	2019-04-19 18:34:40+00:00	2	1	12	0	Twitter Web Client
+Gary_An	uvmcomplexity	1119284044947058688	replied_to	2019-04-19 16:58:06+00:00	0	0	2	0	Twitter Web Client
+Gary_An	bagrow	1119284044947058688	replied_to	2019-04-19 16:58:06+00:00	0	0	2	0	Twitter Web Client
+uvmmathstats	uvmcomplexity	1119283745087991809	replied_to	2019-04-19 16:56:54+00:00	0	0	2	0	Twitter for Android
+uvmmathstats	bagrow	1119283745087991809	replied_to	2019-04-19 16:56:54+00:00	0	0	2	0	Twitter for Android
+alexawoodward	bagrow	1119275221846982658	replied_to	2019-04-19 16:23:02+00:00	1	0	17	0	TweetDeck
+alexawoodward	ChrisDanforth	1119275221846982658	replied_to	2019-04-19 16:23:02+00:00	1	0	17	0	TweetDeck
+alexawoodward	peterdodds	1119275221846982658	replied_to	2019-04-19 16:23:02+00:00	1	0	17	0	TweetDeck
+HirokiSayama	bagrow	1119274872490926080	mentioned	2019-04-19 16:21:39+00:00	1	2	34	3	TweetDeck
+HirokiSayama	ChrisDanforth	1119274872490926080	mentioned	2019-04-19 16:21:39+00:00	1	2	34	3	TweetDeck
+uvmcomplexity	uvmcomplexity	1119274336265932800	replied_to	2019-04-19 16:19:31+00:00	0	0	2	0	Twitter for Android
+uvmcomplexity	bagrow	1119274336265932800	replied_to	2019-04-19 16:19:31+00:00	0	0	2	0	Twitter for Android
+MoritzBuchi	uvmcomplexity	1119235853425967105	replied_to	2019-04-19 13:46:36+00:00	0	0	3	0	Twitter Web Client
+MoritzBuchi	bagrow	1119235853425967105	replied_to	2019-04-19 13:46:36+00:00	0	0	3	0	Twitter Web Client
+PittHealthTech	bagrow	1119232984903712770	mentioned	2019-04-19 13:35:12+00:00	4	6	44	3	TweetDeck
+chrishendel	bagrow	1097816174673440769	mentioned	2019-02-19 11:12:27+00:00	1	0	0	0	Twitter Web Client
+chrishendel	NatureHumBehav	1097816174673440769	mentioned	2019-02-19 11:12:27+00:00	1	0	0	0	Twitter Web Client
+chrishendel	dgarcia_eu	1097816174673440769	mentioned	2019-02-19 11:12:27+00:00	1	0	0	0	Twitter Web Client
+uvmvermont	Nature	1097132325970894848	mentioned	2019-02-17 13:55:04+00:00	0	0	0	0	Hootsuite Inc.
+uvmvermont	bagrow	1097132325970894848	mentioned	2019-02-17 13:55:04+00:00	0	0	0	0	Hootsuite Inc.
+JoshBVT	bagrow	1096554458710913025	replied_to	2019-02-15 23:38:50+00:00	0	0	6	0	TweetDeck
+JoshBVT	estebanmoro	1096554458710913025	replied_to	2019-02-15 23:38:50+00:00	0	0	6	0	TweetDeck
+avdrst	uvmvermont	1090016055538470912	quoted	2019-01-28 22:37:33+00:00	0	0	0	0	Twitter Web Client
+avdrst	bagrow	1090016055538470912	quoted	2019-01-28 22:37:33+00:00	0	0	0	0	Twitter Web Client
+yy	bagrow	1089935262149427201	quoted	2019-01-28 17:16:31+00:00	3	0	6	1	Twitter Web Client
+yy	JedSkim	1089935262149427201	quoted	2019-01-28 17:16:31+00:00	3	0	6	1	Twitter Web Client
+yy	MarketplaceTech	1089935262149427201	quoted	2019-01-28 17:16:31+00:00	3	0	6	1	Twitter Web Client
+CBCAfternoonDr	Marketplace	1089925916329943040	quoted	2019-01-28 16:39:22+00:00	3	0	10	1	Twitter Web Client
+CBCAfternoonDr	bagrow	1089925916329943040	quoted	2019-01-28 16:39:22+00:00	3	0	10	1	Twitter Web Client
+ii_barbieri	bagrow	1089864080544927744	mentioned	2019-01-28 12:33:40+00:00	4	0	3	0	TweetDeck
+daniel_bojar	bagrow	1088890595324633088	mentioned	2019-01-25 20:05:23+00:00	0	0	0	0	Twitter for Android
+daniel_bojar	CNET	1088890595324633088	mentioned	2019-01-25 20:05:23+00:00	0	0	0	0	Twitter for Android
+PaolaCiccarell2	bagrow	1088852280496001030	replied_to	2019-01-25 17:33:08+00:00	0	0	0	0	Twitter for Android
+PaolaCiccarell2	grinbergnir	1088852280496001030	replied_to	2019-01-25 17:33:08+00:00	0	0	0	0	Twitter for Android
+PaolaCiccarell2	_kenny_joseph	1088852280496001030	replied_to	2019-01-25 17:33:08+00:00	0	0	0	0	Twitter for Android
+PaolaCiccarell2	davidlazer	1088852280496001030	replied_to	2019-01-25 17:33:08+00:00	0	0	0	0	Twitter for Android
+DoctorAnanas	bagrow	1088254607506186241	quoted	2019-01-24 01:58:11+00:00	0	0	2	0	Twitter for Android
+this_is_shahid	bagrow	1088197289359884288	replied_to	2019-01-23 22:10:26+00:00	0	0	1	0	Twitter Web Client
+dashunwang	uvmvermont	1088186108079497230	mentioned	2019-01-23 21:26:00+00:00	0	0	3	0	TweetDeck
+dashunwang	bagrow	1088186108079497230	mentioned	2019-01-23 21:26:00+00:00	0	0	3	0	TweetDeck
+MehmetE_Krkmz	bagrow	1088143614927167489	quoted	2019-01-23 18:37:09+00:00	0	0	2	0	Twitter Web Client
+timothyjgraham	NatureHumBehav	1088095232896454658	mentioned	2019-01-23 15:24:54+00:00	0	1	3	0	Twitter Web Client
+timothyjgraham	bagrow	1088095232896454658	mentioned	2019-01-23 15:24:54+00:00	0	1	3	0	Twitter Web Client
+timothyjgraham	lxp42	1088095232896454658	mentioned	2019-01-23 15:24:54+00:00	0	1	3	0	Twitter Web Client
+timothyjgraham	lewis_math	1088095232896454658	mentioned	2019-01-23 15:24:54+00:00	0	1	3	0	Twitter Web Client
+timothyjgraham	TDataScience	1088095232896454658	mentioned	2019-01-23 15:24:54+00:00	0	1	3	0	Twitter Web Client
+tqft9999	bagrow	1087988483241795584	mentioned	2019-01-23 08:20:42+00:00	0	0	1	0	Twitter for Android
+tqft9999	NatureHumBehav	1087988483241795584	mentioned	2019-01-23 08:20:42+00:00	0	0	1	0	Twitter for Android
+SarahDVictoria	bagrow	1087788095209127936	replied_to	2019-01-22 19:04:26+00:00	0	0	0	0	Twitter Web Client
+TobinSouth	EricTopol	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	Twitter	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	facebook	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	NatureHumBehav	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	uvmvermont	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	bagrow	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	UniofAdelaide	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+TobinSouth	lewis_math	1087777432722010113	replied_to	2019-01-22 18:22:04+00:00	0	0	2	0	Twitter Web App
+apharradine	bagrow	1087742626126798849	mentioned	2019-01-22 16:03:46+00:00	1	0	10	0	Twitter Web Client
+apharradine	ScienceMagazine	1087742626126798849	mentioned	2019-01-22 16:03:46+00:00	1	0	10	0	Twitter Web Client
+mrfrank5790	bagrow	1087717616871985153	quoted	2019-01-22 14:24:23+00:00	3	0	8	0	Twitter Web Client
+ChrisDanforth	NatureHumBehav	1087674114465284097	mentioned	2019-01-22 11:31:31+00:00	2	0	2	0	Twitter Web Client
+ChrisDanforth	uvmvermont	1087674114465284097	mentioned	2019-01-22 11:31:31+00:00	2	0	2	0	Twitter Web Client
+ChrisDanforth	bagrow	1087674114465284097	mentioned	2019-01-22 11:31:31+00:00	2	0	2	0	Twitter Web Client
+ChrisDanforth	UniofAdelaide	1087674114465284097	mentioned	2019-01-22 11:31:31+00:00	2	0	2	0	Twitter Web Client
+ChrisDanforth	lewis_math	1087674114465284097	mentioned	2019-01-22 11:31:31+00:00	2	0	2	0	Twitter Web Client
+Vilavaite	theTiser	1087667297508982784	mentioned	2019-01-22 11:04:26+00:00	3	0	8	0	Twitter for iPhone
+Vilavaite	NatureHumBehav	1087667297508982784	mentioned	2019-01-22 11:04:26+00:00	3	0	8	0	Twitter for iPhone
+Vilavaite	bagrow	1087667297508982784	mentioned	2019-01-22 11:04:26+00:00	3	0	8	0	Twitter for iPhone
+Vilavaite	uvmcomplexity	1087667297508982784	mentioned	2019-01-22 11:04:26+00:00	3	0	8	0	Twitter for iPhone
+digitald0ctor	timothyjgraham	1087633691671617537	replied_to	2019-01-22 08:50:54+00:00	0	0	1	0	Twitter for iPhone
+digitald0ctor	bagrow	1087633691671617537	replied_to	2019-01-22 08:50:54+00:00	0	0	1	0	Twitter for iPhone
+digitald0ctor	NatureHumBehav	1087633691671617537	replied_to	2019-01-22 08:50:54+00:00	0	0	1	0	Twitter for iPhone
+digitald0ctor	UniofAdelaide	1087633691671617537	replied_to	2019-01-22 08:50:54+00:00	0	0	1	0	Twitter for iPhone
+digitald0ctor	MathsUOA	1087633691671617537	replied_to	2019-01-22 08:50:54+00:00	0	0	1	0	Twitter for iPhone
+digitald0ctor	ACEMathStats	1087633691671617537	replied_to	2019-01-22 08:50:54+00:00	0	0	1	0	Twitter for iPhone
+SilverJacket	lewis_math	1087486731312480258	replied_to	2019-01-21 23:06:55+00:00	0	1	2	0	Twitter for iPhone
+SilverJacket	bagrow	1087486731312480258	replied_to	2019-01-21 23:06:55+00:00	0	1	2	0	Twitter for iPhone
+SilverJacket	NatureHumBehav	1087486731312480258	replied_to	2019-01-21 23:06:55+00:00	0	1	2	0	Twitter for iPhone
+SilverJacket	UniofAdelaide	1087486731312480258	replied_to	2019-01-21 23:06:55+00:00	0	1	2	0	Twitter for iPhone
+SilverJacket	MathsUOA	1087486731312480258	replied_to	2019-01-21 23:06:55+00:00	0	1	2	0	Twitter for iPhone
+SilverJacket	ACEMathStats	1087486731312480258	replied_to	2019-01-21 23:06:55+00:00	0	1	2	0	Twitter for iPhone
+CEOofSleep	EricTopol	1087486008982089728	replied_to	2019-01-21 23:04:03+00:00	0	0	1	0	Twitter Web Client
+CEOofSleep	bagrow	1087486008982089728	replied_to	2019-01-21 23:04:03+00:00	0	0	1	0	Twitter Web Client
+CEOofSleep	lewis_math	1087486008982089728	replied_to	2019-01-21 23:04:03+00:00	0	0	1	0	Twitter Web Client
+EricTopol	aeneasfalk	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	EricTopol	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	Twitter	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	facebook	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	NatureHumBehav	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	uvmvermont	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	bagrow	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	UniofAdelaide	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+EricTopol	lewis_math	1087466569700126720	replied_to	2019-01-21 21:46:49+00:00	0	0	0	0	Twitter Web Client
+jugander	aeneasfalk	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	EricTopol	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	Twitter	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	facebook	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	NatureHumBehav	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	uvmvermont	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	bagrow	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	UniofAdelaide	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+jugander	lewis_math	1087466006514159616	replied_to	2019-01-21 21:44:34+00:00	0	1	0	0	Twitter Web Client
+CarolinaMttssn	lewis_math	1087463789241352192	replied_to	2019-01-21 21:35:46+00:00	0	0	1	0	Twitter for Android
+CarolinaMttssn	bagrow	1087463789241352192	replied_to	2019-01-21 21:35:46+00:00	0	0	1	0	Twitter for Android
+CarolinaMttssn	NatureHumBehav	1087463789241352192	replied_to	2019-01-21 21:35:46+00:00	0	0	1	0	Twitter for Android
+CarolinaMttssn	UniofAdelaide	1087463789241352192	replied_to	2019-01-21 21:35:46+00:00	0	0	1	0	Twitter for Android
+CarolinaMttssn	MathsUOA	1087463789241352192	replied_to	2019-01-21 21:35:46+00:00	0	0	1	0	Twitter for Android
+CarolinaMttssn	ACEMathStats	1087463789241352192	replied_to	2019-01-21 21:35:46+00:00	0	0	1	0	Twitter for Android
+juniperlov	lewis_math	1087463216031064064	replied_to	2019-01-21 21:33:29+00:00	0	0	2	0	Twitter for iPhone
+juniperlov	bagrow	1087463216031064064	replied_to	2019-01-21 21:33:29+00:00	0	0	2	0	Twitter for iPhone
+juniperlov	NatureHumBehav	1087463216031064064	replied_to	2019-01-21 21:33:29+00:00	0	0	2	0	Twitter for iPhone
+juniperlov	UniofAdelaide	1087463216031064064	replied_to	2019-01-21 21:33:29+00:00	0	0	2	0	Twitter for iPhone
+juniperlov	MathsUOA	1087463216031064064	replied_to	2019-01-21 21:33:29+00:00	0	0	2	0	Twitter for iPhone
+juniperlov	ACEMathStats	1087463216031064064	replied_to	2019-01-21 21:33:29+00:00	0	0	2	0	Twitter for iPhone
+svscarpino	bagrow	1087461202043621376	mentioned	2019-01-21 21:25:29+00:00	20	3	75	6	Twitter Web Client
+svscarpino	NatureHumBehav	1087461202043621376	mentioned	2019-01-21 21:25:29+00:00	20	3	75	6	Twitter Web Client
+svscarpino	UniofAdelaide	1087461202043621376	mentioned	2019-01-21 21:25:29+00:00	20	3	75	6	Twitter Web Client
+svscarpino	MathsUOA	1087461202043621376	mentioned	2019-01-21 21:25:29+00:00	20	3	75	6	Twitter Web Client
+svscarpino	ACEMathStats	1087461202043621376	mentioned	2019-01-21 21:25:29+00:00	20	3	75	6	Twitter Web Client
+IHaveSweaters	bagrow	1087448401430614016	quoted	2019-01-21 20:34:37+00:00	0	0	3	0	Twitter for Android
+NicholasStrayer	SilverJacket	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	uvmmathstats	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	NewsfromScience	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	NatureHumBehav	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	bagrow	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	uvmvermont	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	dgarcia_eu	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	jo_hinds	1087439299757465604	replied_to	2019-01-21 19:58:27+00:00	0	0	0	0	Twitter Web Client
+ngsmcphrsn	bagrow	1087425306821042176	mentioned	2019-01-21 19:02:51+00:00	14	0	34	0	TweetDeck
+ngsmcphrsn	lewis_math	1087425306821042176	mentioned	2019-01-21 19:02:51+00:00	14	0	34	0	TweetDeck
+kareem_carr	MichelAccad	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	EricTopol	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	Twitter	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	facebook	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	NatureHumBehav	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	uvmvermont	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	bagrow	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	UniofAdelaide	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+kareem_carr	lewis_math	1087416626146885639	replied_to	2019-01-21 18:28:21+00:00	0	0	0	0	Twitter for Android
+peterdodds	EricTopol	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	Twitter	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	facebook	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	NatureHumBehav	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	uvmvermont	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	bagrow	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	UniofAdelaide	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	lewis_math	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+peterdodds	rnkamyar	1087390786835103745	replied_to	2019-01-21 16:45:40+00:00	0	0	0	0	Twitter for iPhone
+barabasi	NewsfromScience	1087388386250379265	mentioned	2019-01-21 16:36:08+00:00	12	1	21	2	Twitter Web Client
+barabasi	NatureHumBehav	1087388386250379265	mentioned	2019-01-21 16:36:08+00:00	12	1	21	2	Twitter Web Client
+barabasi	bagrow	1087388386250379265	mentioned	2019-01-21 16:36:08+00:00	12	1	21	2	Twitter Web Client
+barabasi	uvmvermont	1087388386250379265	mentioned	2019-01-21 16:36:08+00:00	12	1	21	2	Twitter Web Client
+barabasi	dgarcia_eu	1087388386250379265	mentioned	2019-01-21 16:36:08+00:00	12	1	21	2	Twitter Web Client
+barabasi	jo_hinds	1087388386250379265	mentioned	2019-01-21 16:36:08+00:00	12	1	21	2	Twitter Web Client
+selene_colburn	EricTopol	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	Twitter	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	facebook	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	NatureHumBehav	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	uvmvermont	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	bagrow	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	UniofAdelaide	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+selene_colburn	lewis_math	1087386848429670400	replied_to	2019-01-21 16:30:01+00:00	0	0	1	0	Twitter for iPhone
+DoctorJosh	Twitter	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+DoctorJosh	facebook	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+DoctorJosh	NatureHumBehav	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+DoctorJosh	uvmvermont	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+DoctorJosh	bagrow	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+DoctorJosh	UniofAdelaide	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+DoctorJosh	lewis_math	1087383195564179459	mentioned	2019-01-21 16:15:31+00:00	99	6	128	10	Twitter Web Client
+theEnergyMads	bagrow	1084908792481906688	replied_to	2019-01-14 20:23:07+00:00	1	1	6	0	Twitter Web Client
+theEnergyMads	ChrisDanforth	1084908792481906688	replied_to	2019-01-14 20:23:07+00:00	1	1	6	0	Twitter Web Client
+theEnergyMads	lewis_math	1084908792481906688	replied_to	2019-01-14 20:23:07+00:00	1	1	6	0	Twitter Web Client
+YokaiCustoms	mmdatascience	1080814786642878464	quoted	2019-01-03 13:15:00+00:00	9	0	20	0	TweetDeck
+YokaiCustoms	peterdodds	1080814786642878464	quoted	2019-01-03 13:15:00+00:00	9	0	20	0	TweetDeck
+YokaiCustoms	bagrow	1080814786642878464	quoted	2019-01-03 13:15:00+00:00	9	0	20	0	TweetDeck
+YokaiCustoms	artistJaneAdams	1080814786642878464	quoted	2019-01-03 13:15:00+00:00	9	0	20	0	TweetDeck
+YokaiCustoms	todddeluca	1080814786642878464	quoted	2019-01-03 13:15:00+00:00	9	0	20	0	TweetDeck
+YokaiCustoms	uvmvermont	1080814786642878464	quoted	2019-01-03 13:15:00+00:00	9	0	20	0	TweetDeck
+LHDnets	HirokiSayama	1038032352893657089	replied_to	2018-09-07 11:52:53+00:00	0	0	1	0	Twitter for Android
+LHDnets	bagrow	1038032352893657089	replied_to	2018-09-07 11:52:53+00:00	0	0	1	0	Twitter for Android
+HirokiSayama	lewis_math	1038004547397009408	replied_to	2018-09-07 10:02:23+00:00	0	0	0	0	Twitter Web Client
+HirokiSayama	bagrow	1038004547397009408	replied_to	2018-09-07 10:02:23+00:00	0	0	0	0	Twitter Web Client
+lewis_math	HirokiSayama	1037922445850697728	replied_to	2018-09-07 04:36:09+00:00	0	1	0	0	Twitter for iPhone
+lewis_math	bagrow	1037922445850697728	replied_to	2018-09-07 04:36:09+00:00	0	1	0	0	Twitter for iPhone
+lewis_math	bagrow	1037922445850697728	replied_to	2018-09-07 04:36:09+00:00	0	1	0	0	Twitter for iPhone
+DoctorJosh	bagrow	1037849473358221312	replied_to	2018-09-06 23:46:11+00:00	0	3	3	0	Twitter Web Client
+shanecelis	uvmvermont	1034832175735222274	mentioned	2018-08-29 15:56:31+00:00	2	0	28	0	Twitter Web Client
+shanecelis	bagrow	1034832175735222274	mentioned	2018-08-29 15:56:31+00:00	2	0	28	0	Twitter Web Client
+msantolini	peterdodds	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	bagrow	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	northof61	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	foucaultwelles	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	svscarpino	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	all_are	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	sentinelle_nord	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	uvmcomplexity	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+msantolini	NUnetsi	1026498605354504192	replied_to	2018-08-06 16:01:53+00:00	1	0	6	0	Twitter Web Client
+johnmsmart	bagrow	1024518199545614337	replied_to	2018-08-01 04:52:28+00:00	0	1	0	0	TweetDeck
+MencheLab	bagrow	1021734869175611392	replied_to	2018-07-24 12:32:30+00:00	0	0	1	0	Twitter for iPhone
+MencheLab	MencheLab	1021734869175611392	replied_to	2018-07-24 12:32:30+00:00	0	0	1	0	Twitter for iPhone
+animate_tweets	bagrow	1021531404109336584	mentioned	2018-07-23 23:04:00+00:00	1	0	1	0	TweetDeck
+uvmcomplexity	bagrow	1021523956367536130	mentioned	2018-07-23 22:34:24+00:00	20	0	24	1	Twitter for iPhone
+theEnergyMads	bagrow	1021478626775191553	replied_to	2018-07-23 19:34:17+00:00	0	1	0	0	Twitter for iPhone
+luyibov	uvmcomplexity	1020311477297635328	replied_to	2018-07-20 14:16:27+00:00	0	0	0	0	Twitter Web Client
+luyibov	bagrow	1020311477297635328	replied_to	2018-07-20 14:16:27+00:00	0	0	0	0	Twitter Web Client
+luyibov	lewis_math	1020311477297635328	replied_to	2018-07-20 14:16:27+00:00	0	0	0	0	Twitter Web Client
+UniofAdelaide	bagrow	1019941522123370496	mentioned	2018-07-19 13:46:23+00:00	3	1	8	1	TweetDeck
+UniofAdelaide	lewis_math	1019941522123370496	mentioned	2018-07-19 13:46:23+00:00	3	1	8	1	TweetDeck
+suneman	ladamic	1018946741180162048	replied_to	2018-07-16 19:53:28+00:00	0	0	0	0	Twitter Web Client
+suneman	bagrow	1018946741180162048	replied_to	2018-07-16 19:53:28+00:00	0	0	0	0	Twitter Web Client
+DavidRosowsky	bagrow	1017705989909438464	replied_to	2018-07-13 09:43:10+00:00	0	0	0	0	Twitter for Android
+DavidRosowsky	YahooNews	1017705989909438464	replied_to	2018-07-13 09:43:10+00:00	0	0	0	0	Twitter for Android
+gaddafirusli	lewis_math	1017574355180642305	replied_to	2018-07-13 01:00:06+00:00	0	0	1	0	Sprout Social
+gaddafirusli	bagrow	1017574355180642305	replied_to	2018-07-13 01:00:06+00:00	0	0	1	0	Sprout Social
+mrfrank5790	bagrow	1017190881873428480	mentioned	2018-07-11 23:36:19+00:00	7	2	17	1	TweetDeck
+mrfrank5790	ACEMathStats	1017190881873428480	mentioned	2018-07-11 23:36:19+00:00	7	2	17	1	TweetDeck
+mrfrank5790	MathsUOA	1017190881873428480	mentioned	2018-07-11 23:36:19+00:00	7	2	17	1	TweetDeck
+mrfrank5790	UniofAdelaide	1017190881873428480	mentioned	2018-07-11 23:36:19+00:00	7	2	17	1	TweetDeck
+mrfrank5790	D2DCRC	1017190881873428480	mentioned	2018-07-11 23:36:19+00:00	7	2	17	1	TweetDeck
+mrfrank5790	uvmcomplexity	1017190881873428480	mentioned	2018-07-11 23:36:19+00:00	7	2	17	1	TweetDeck
+TheOtherCam	bagrow	1014993644976132099	replied_to	2018-07-05 22:05:17+00:00	0	0	2	0	Twitter for iPhone
+TheOtherCam	uvmmathstats	1014993644976132099	replied_to	2018-07-05 22:05:17+00:00	0	0	2	0	Twitter for iPhone
+TheOtherCam	uvmprovost	1014993644976132099	replied_to	2018-07-05 22:05:17+00:00	0	0	2	0	Twitter for iPhone
+TheOtherCam	peterdodds	1014993644976132099	replied_to	2018-07-05 22:05:17+00:00	0	0	2	0	Twitter for iPhone
+TheOtherCam	ChrisDanforth	1014993644976132099	replied_to	2018-07-05 22:05:17+00:00	0	0	2	0	Twitter for iPhone
+TheOtherCam	uvmcomplexity	1014993644976132099	replied_to	2018-07-05 22:05:17+00:00	0	0	2	0	Twitter for iPhone
+CChelmis	MartonKarsai	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	iniguezg	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	kimmokaski	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	janos_kertesz	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	zollofab	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	Walter4C	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	PikmaiHui	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	lilianweng	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	alirezasahami	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	jabawack	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	bgoncalves	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	bagrow	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	seanjtaylor	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	deaneckles	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	lylengyan	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	estebanmoro	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+CChelmis	alex_pentland	1014883643775508480	replied_to	2018-07-05 14:48:10+00:00	3	1	8	0	Twitter Web Client
+StefaniCrabtree	peterdodds	1014871663186411520	quoted	2018-07-05 14:00:34+00:00	2	1	5	0	Twitter Web Client
+StefaniCrabtree	ChrisDanforth	1014871663186411520	quoted	2018-07-05 14:00:34+00:00	2	1	5	0	Twitter Web Client
+StefaniCrabtree	bagrow	1014871663186411520	quoted	2018-07-05 14:00:34+00:00	2	1	5	0	Twitter Web Client
+StefaniCrabtree	uvmcomplexity	1014871663186411520	quoted	2018-07-05 14:00:34+00:00	2	1	5	0	Twitter Web Client
+StefaniCrabtree	uvmmathstats	1014871663186411520	quoted	2018-07-05 14:00:34+00:00	2	1	5	0	Twitter Web Client
+narnolddd	bagrow	1012481745218727937	replied_to	2018-06-28 23:43:53+00:00	0	1	1	0	Twitter Web App
+all_are	bagrow	1012414096010964993	replied_to	2018-06-28 19:15:04+00:00	0	0	0	0	Twitter for iPhone
+_jgyou	bagrow	1011234515241533445	replied_to	2018-06-25 13:07:50+00:00	0	0	1	0	Twitter for iPhone
+juniperlov	bagrow	1010760582255919104	replied_to	2018-06-24 05:44:36+00:00	0	0	0	0	Tweetbot for Mac
+juniperlov	marcoarment	1010760582255919104	replied_to	2018-06-24 05:44:36+00:00	0	0	0	0	Tweetbot for Mac
+svscarpino	bagrow	1009265176099590146	replied_to	2018-06-20 02:42:23+00:00	0	0	1	0	Twitter for Android
+svscarpino	SlideShare	1009265176099590146	replied_to	2018-06-20 02:42:23+00:00	0	0	1	0	Twitter for Android
+1Password	all_are	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	svscarpino	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	uvmcomplexity	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	peterdodds	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	LHDnets	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	bagrow	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	juniperlov	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+1Password	ryanjgallag	1009059543786180609	replied_to	2018-06-19 13:05:17+00:00	0	0	3	0	Twitter Web Client
+peterdodds	bagrow	1009059474961772545	replied_to	2018-06-19 13:05:00+00:00	0	0	1	0	Twitter Web Client
+peterdodds	SlideShare	1009059474961772545	replied_to	2018-06-19 13:05:00+00:00	0	0	1	0	Twitter Web Client
+charodelgenio	StefaniCrabtree	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	svscarpino	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	uvmcomplexity	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	peterdodds	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	LHDnets	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	bagrow	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	juniperlov	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+charodelgenio	ryanjgallag	1009058821283680258	replied_to	2018-06-19 13:02:25+00:00	0	1	2	0	TweetDeck
+Ghoshal_G	svscarpino	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	uvmcomplexity	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	peterdodds	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	LHDnets	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	bagrow	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	juniperlov	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	ryanjgallag	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+Ghoshal_G	all_are	1009052911991771137	replied_to	2018-06-19 12:38:56+00:00	0	1	1	0	Twitter for iPhone
+siengchong	bagrow	1009052495212175360	replied_to	2018-06-19 12:37:16+00:00	0	0	4	0	Twitter for Android
+siengchong	peterdodds	1009052495212175360	replied_to	2018-06-19 12:37:16+00:00	0	0	4	0	Twitter for Android
+siengchong	SlideShare	1009052495212175360	replied_to	2018-06-19 12:37:16+00:00	0	0	4	0	Twitter for Android
+NicholasStrayer	juniperlov	1007576668435812359	replied_to	2018-06-15 10:52:52+00:00	0	0	0	0	Twitter Web Client
+NicholasStrayer	bagrow	1007576668435812359	replied_to	2018-06-15 10:52:52+00:00	0	0	0	0	Twitter Web Client
+NonperiodicFlow	juniperlov	1007575743658971136	replied_to	2018-06-15 10:49:11+00:00	0	0	2	0	Twitter for Android
+NonperiodicFlow	bagrow	1007575743658971136	replied_to	2018-06-15 10:49:11+00:00	0	0	2	0	Twitter for Android
+NonperiodicFlow	uvmcomplexity	1007575743658971136	replied_to	2018-06-15 10:49:11+00:00	0	0	2	0	Twitter for Android
+vedransekara	bagrow	1007575017574555649	mentioned	2018-06-15 10:46:18+00:00	13	1	28	0	Twitter for Android
+vedransekara	netsci2018	1007575017574555649	mentioned	2018-06-15 10:46:18+00:00	13	1	28	0	Twitter for Android
+paulhinesenergy	bagrow	1007571898799140865	mentioned	2018-06-15 10:33:55+00:00	1	2	18	0	Twitter for Android
+carstenbuchholz	uvmcomplexity	1006974069936357376	mentioned	2018-06-13 18:58:21+00:00	27	2	54	3	Twitter for Android
+carstenbuchholz	peterdodds	1006974069936357376	mentioned	2018-06-13 18:58:21+00:00	27	2	54	3	Twitter for Android
+carstenbuchholz	LHDnets	1006974069936357376	mentioned	2018-06-13 18:58:21+00:00	27	2	54	3	Twitter for Android
+carstenbuchholz	bagrow	1006974069936357376	mentioned	2018-06-13 18:58:21+00:00	27	2	54	3	Twitter for Android
+carstenbuchholz	juniperlov	1006974069936357376	mentioned	2018-06-13 18:58:21+00:00	27	2	54	3	Twitter for Android
+carstenbuchholz	ryanjgallag	1006974069936357376	mentioned	2018-06-13 18:58:21+00:00	27	2	54	3	Twitter for Android
+Scottebemeup	bagrow	1004468845145481216	mentioned	2018-06-06 21:03:29+00:00	20	0	42	1	TweetDeck
+Scottebemeup	netsci2018	1004468845145481216	mentioned	2018-06-06 21:03:29+00:00	20	0	42	1	TweetDeck
+alexvespi	bagrow	1001784812196130816	quoted	2018-05-30 11:18:06+00:00	0	0	4	0	TweetDeck
+alexvespi	ChrisDanforth	1001784812196130816	quoted	2018-05-30 11:18:06+00:00	0	0	4	0	TweetDeck
+ulfaslak	bagrow	999343401043709957	replied_to	2018-05-23 17:36:48+00:00	0	0	0	0	Buffer
+ChrisDanforth	bagrow	999343304268492802	replied_to	2018-05-23 17:36:25+00:00	0	1	0	0	Buffer
+JacobBiamonte	shanecelis	995459478307966977	replied_to	2018-05-13 00:23:29+00:00	0	0	2	0	Twitter for iPhone
+JacobBiamonte	DoctorJosh	995459478307966977	replied_to	2018-05-13 00:23:29+00:00	0	0	2	0	Twitter for iPhone
+JacobBiamonte	FausoneBologna	995459478307966977	replied_to	2018-05-13 00:23:29+00:00	0	0	2	0	Twitter for iPhone
+JacobBiamonte	bagrow	995459478307966977	replied_to	2018-05-13 00:23:29+00:00	0	0	2	0	Twitter for iPhone
+JacobBiamonte	psmaldino	995459478307966977	replied_to	2018-05-13 00:23:29+00:00	0	0	2	0	Twitter for iPhone
+DynamicsSIAM	DoctorJosh	995445528648237057	mentioned	2018-05-12 23:28:03+00:00	0	1	3	0	Twitter for iPhone
+DynamicsSIAM	peterdodds	995445528648237057	mentioned	2018-05-12 23:28:03+00:00	0	1	3	0	Twitter for iPhone
+DynamicsSIAM	FausoneBologna	995445528648237057	mentioned	2018-05-12 23:28:03+00:00	0	1	3	0	Twitter for iPhone
+DynamicsSIAM	bagrow	995445528648237057	mentioned	2018-05-12 23:28:03+00:00	0	1	3	0	Twitter for iPhone
+DynamicsSIAM	psmaldino	995445528648237057	mentioned	2018-05-12 23:28:03+00:00	0	1	3	0	Twitter for iPhone
+dbemerydt	bagrow	993890069797892096	replied_to	2018-05-08 16:27:12+00:00	0	0	1	0	Twitter Web Client
+Quuux	Ghoshal_G	993578884066103296	replied_to	2018-05-07 19:50:40+00:00	0	0	2	0	Twitter Web Client
+Quuux	bagrow	993578884066103296	replied_to	2018-05-07 19:50:40+00:00	0	0	2	0	Twitter Web Client
+Ben_Smith	bagrow	993576740604841984	replied_to	2018-05-07 19:42:09+00:00	0	1	3	0	Twitter Web Client
+Ben_Smith	HirokiSayama	993576740604841984	replied_to	2018-05-07 19:42:09+00:00	0	1	3	0	Twitter Web Client
+alexawoodward	bagrow	992706313137336320	mentioned	2018-05-05 10:03:23+00:00	0	0	0	0	The Tweeted Times
+alexawoodward	uvmmathstats	992706313137336320	mentioned	2018-05-05 10:03:23+00:00	0	0	0	0	The Tweeted Times
+alexawoodward	compstorylab	992706313137336320	mentioned	2018-05-05 10:03:23+00:00	0	0	0	0	The Tweeted Times
+SlowWaterMvmnt	bagrow	991766773518295040	replied_to	2018-05-02 19:49:59+00:00	0	0	2	0	Twitter Web Client
+SlowWaterMvmnt	NonperiodicFlow	991766773518295040	replied_to	2018-05-02 19:49:59+00:00	0	0	2	0	Twitter Web Client
+Roman_Is_A_Jug	bagrow	991743253052579841	replied_to	2018-05-02 18:16:31+00:00	0	0	0	0	TweetDeck
+TheLOTDreport	bagrow	991489990948339712	replied_to	2018-05-02 01:30:09+00:00	0	0	1	0	Twitter for iPhone
+tahoppe05404	suneman	991352127497953280	replied_to	2018-05-01 16:22:20+00:00	0	1	3	0	Twitter for Android
+tahoppe05404	estebanmoro	991352127497953280	replied_to	2018-05-01 16:22:20+00:00	0	1	3	0	Twitter for Android
+tahoppe05404	robysinatra	991352127497953280	replied_to	2018-05-01 16:22:20+00:00	0	1	3	0	Twitter for Android
+tahoppe05404	mszll	991352127497953280	replied_to	2018-05-01 16:22:20+00:00	0	1	3	0	Twitter for Android
+tahoppe05404	bagrow	991352127497953280	replied_to	2018-05-01 16:22:20+00:00	0	1	3	0	Twitter for Android
+tahoppe05404	sapiezynski	991352127497953280	replied_to	2018-05-01 16:22:20+00:00	0	1	3	0	Twitter for Android
+HughO_Neill	bagrow	990671012525236224	replied_to	2018-04-29 19:15:49+00:00	0	1	0	0	Twitter for Android
+HughO_Neill	theEnergyMads	990671012525236224	replied_to	2018-04-29 19:15:49+00:00	0	1	0	0	Twitter for Android
+guillaumeQD	bagrow	990086446584299520	quoted	2018-04-28 04:32:58+00:00	0	1	0	0	Twitter for iPhone
+iPullRank	bagrow	988509974539194368	mentioned	2018-04-23 20:08:38+00:00	0	0	0	0	Paper.li
+PiratePeel	bagrow	986208189061398529	replied_to	2018-04-17 11:42:09+00:00	0	0	0	0	Twitter Web Client
+amcasari	bagrow	985130612536340482	mentioned	2018-04-14 12:20:15+00:00	21	0	65	1	Twitter for iPad
+shahidkamal	bagrow	985066672905183234	replied_to	2018-04-14 08:06:11+00:00	0	0	0	0	Twitter for iPhone
+GSWarrington	bagrow	984983452721098752	replied_to	2018-04-14 02:35:29+00:00	0	0	0	0	Twitter for iPhone
+EdwardWBerridge	bagrow	984882246866931712	mentioned	2018-04-13 19:53:20+00:00	8	0	16	1	Twitter Web Client
+EdwardWBerridge	BinghamtonCoCo	984882246866931712	mentioned	2018-04-13 19:53:20+00:00	8	0	16	1	Twitter Web Client
+Gary_An	bagrow	984766148775432193	mentioned	2018-04-13 12:12:00+00:00	20	0	38	0	TweetDeck
+dccc_phd	bagrow	984523706042023936	mentioned	2018-04-12 20:08:37+00:00	0	0	0	0	Paper.li
+dccc_phd	fishrung	984523706042023936	mentioned	2018-04-12 20:08:37+00:00	0	0	0	0	Paper.li
+ciro	bagrow	984461603776204801	replied_to	2018-04-12 16:01:51+00:00	0	0	1	0	Twitter for iPhone
+pholme	HirokiSayama	957603360932184065	replied_to	2018-01-28 13:16:47+00:00	0	1	0	0	Twitter Web Client
+pholme	suneman	957603360932184065	replied_to	2018-01-28 13:16:47+00:00	0	1	0	0	Twitter Web Client
+pholme	DynamicsSIAM	957603360932184065	replied_to	2018-01-28 13:16:47+00:00	0	1	0	0	Twitter Web Client
+pholme	bagrow	957603360932184065	replied_to	2018-01-28 13:16:47+00:00	0	1	0	0	Twitter Web Client
+HirokiSayama	pholme	957601160604585984	replied_to	2018-01-28 13:08:02+00:00	0	1	0	0	Twitter Web Client
+HirokiSayama	suneman	957601160604585984	replied_to	2018-01-28 13:08:02+00:00	0	1	0	0	Twitter Web Client
+HirokiSayama	DynamicsSIAM	957601160604585984	replied_to	2018-01-28 13:08:02+00:00	0	1	0	0	Twitter Web Client
+HirokiSayama	bagrow	957601160604585984	replied_to	2018-01-28 13:08:02+00:00	0	1	0	0	Twitter Web Client
+theEnergyMads	HirokiSayama	957592684285194241	replied_to	2018-01-28 12:34:21+00:00	0	1	1	0	Twitter Web Client
+theEnergyMads	suneman	957592684285194241	replied_to	2018-01-28 12:34:21+00:00	0	1	1	0	Twitter Web Client
+theEnergyMads	DynamicsSIAM	957592684285194241	replied_to	2018-01-28 12:34:21+00:00	0	1	1	0	Twitter Web Client
+theEnergyMads	bagrow	957592684285194241	replied_to	2018-01-28 12:34:21+00:00	0	1	1	0	Twitter Web Client
+yaneerbaryam	bagrow	956661892902281216	replied_to	2018-01-25 22:55:43+00:00	0	1	2	0	Twitter Web Client
+dccc_phd	bagrow	956590724543401984	replied_to	2018-01-25 18:12:55+00:00	0	0	2	0	Twitter for iPhone
+PiratePeel	bagrow	956587139944321024	replied_to	2018-01-25 17:58:41+00:00	0	0	1	0	Twitter Web Client
+_upgradefm	bagrow	956586952752496641	replied_to	2018-01-25 17:57:56+00:00	0	1	1	0	Twitter Web Client
+jasnyder610	bagrow	955486021159759872	replied_to	2018-01-22 17:03:14+00:00	0	0	1	0	Twitterrific for Mac
+jasnyder610	jsnell	955486021159759872	replied_to	2018-01-22 17:03:14+00:00	0	0	1	0	Twitterrific for Mac
+jasnyder610	imyke	955486021159759872	replied_to	2018-01-22 17:03:14+00:00	0	0	1	0	Twitterrific for Mac
+DoctorJosh	zackbloom	954797349569576960	replied_to	2018-01-20 19:26:42+00:00	0	0	1	0	Twitter for Android
+DoctorJosh	bagrow	954797349569576960	replied_to	2018-01-20 19:26:42+00:00	0	0	1	0	Twitter for Android
+UniSimplexity	bagrow	953663603294527493	replied_to	2018-01-17 16:21:35+00:00	0	0	2	0	Twitter Web Client
+rohitnawani3	bagrow	949090096308998144	replied_to	2018-01-05 01:28:06+00:00	0	1	1	0	Twitter Web Client
+rohitnawani3	blackpixel	949090096308998144	replied_to	2018-01-05 01:28:06+00:00	0	1	1	0	Twitter Web Client
+suzaleva	MarkWagy	948602166226440193	mentioned	2018-01-03 17:09:15+00:00	2	0	11	2	Twitter Web Client
+suzaleva	bagrow	948602166226440193	mentioned	2018-01-03 17:09:15+00:00	2	0	11	2	Twitter Web Client
+msantolini	DoctorJosh	948506890341728256	replied_to	2018-01-03 10:50:39+00:00	0	0	1	0	Twitter for Android
+msantolini	MarkWagy	948506890341728256	replied_to	2018-01-03 10:50:39+00:00	0	0	1	0	Twitter for Android
+msantolini	bagrow	948506890341728256	replied_to	2018-01-03 10:50:39+00:00	0	0	1	0	Twitter for Android
+msantolini	alex_pentland	948506890341728256	replied_to	2018-01-03 10:50:39+00:00	0	0	1	0	Twitter for Android
+dashunwang	MarkWagy	948318723978522624	mentioned	2018-01-02 22:22:57+00:00	12	1	46	1	Twitter Web Client
+dashunwang	bagrow	948318723978522624	mentioned	2018-01-02 22:22:57+00:00	12	1	46	1	Twitter Web Client
+GeorgeDWatt	bagrow	942613733028909056	mentioned	2017-12-18 04:33:21+00:00	0	0	3	0	Twitter Web Client
+uvmmathstats	bagrow	941581900908519424	replied_to	2017-12-15 08:13:13+00:00	0	0	1	0	Twitter for iPad
+uvmmathstats	barabasi	941581900908519424	replied_to	2017-12-15 08:13:13+00:00	0	0	1	0	Twitter for iPad
+lewis_math	bagrow	941568485632638976	replied_to	2017-12-15 07:19:55+00:00	0	0	1	0	Twitter for iPhone
+lewis_math	barabasi	941568485632638976	replied_to	2017-12-15 07:19:55+00:00	0	0	1	0	Twitter for iPhone
+foodpairing	bagrow	941469447629533184	quoted	2017-12-15 00:46:22+00:00	0	0	1	0	Twitter for iPhone
+NicholasStrayer	bagrow	941331579133030401	quoted	2017-12-14 15:38:32+00:00	0	0	2	0	TweetDeck
+uvmcomplexity	bagrow	941314847911882752	mentioned	2017-12-14 14:32:03+00:00	4	0	28	3	Twitter for iPhone
+uvmcomplexity	uvmcems	941314847911882752	mentioned	2017-12-14 14:32:03+00:00	4	0	28	3	Twitter for iPhone
+EduardoGAltmann	bagrow	938987530166210560	quoted	2017-12-08 04:24:07+00:00	0	1	0	0	Twitter for iPhone
+junpenglao	Zachats	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+junpenglao	yy	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+junpenglao	sebastianahnert	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+junpenglao	bagrow	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+junpenglao	barabasi	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+junpenglao	DanBarber	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+junpenglao	sciam	934539843136208896	quoted	2017-11-25 21:50:36+00:00	0	0	2	0	Twitter Web Client
+ChrisDanforth	bagrow	926992021033594880	replied_to	2017-11-05 01:58:15+00:00	0	0	0	0	Twitter for iPhone
+astronomeara	bagrow	926155778603520000	replied_to	2017-11-02 18:35:19+00:00	0	1	0	0	Twitter Web Client
+DPClougherty	bagrow	926087075098750976	mentioned	2017-11-02 14:02:19+00:00	18	0	26	1	TweetDeck
+DPClougherty	lewis_math	926087075098750976	mentioned	2017-11-02 14:02:19+00:00	18	0	26	1	TweetDeck
+paulhinesenergy	lewis_math	926036464915189760	quoted	2017-11-02 10:41:12+00:00	1	0	8	0	Twitter for Android
+paulhinesenergy	bagrow	926036464915189760	quoted	2017-11-02 10:41:12+00:00	1	0	8	0	Twitter for Android
+shanecelis	bagrow	919712508717551616	mentioned	2017-10-15 23:52:04+00:00	3	0	11	0	TweetDeck
+shanecelis	DataInstituteSF	919712508717551616	mentioned	2017-10-15 23:52:04+00:00	3	0	11	0	TweetDeck
+suneman	NicholasStrayer	918207739687571457	replied_to	2017-10-11 20:12:39+00:00	0	0	0	0	Twitter Web Client
+suneman	bagrow	918207739687571457	replied_to	2017-10-11 20:12:39+00:00	0	0	0	0	Twitter Web Client
+shahidkamal	bagrow	917791876329168896	replied_to	2017-10-10 16:40:09+00:00	0	1	1	0	Twitter Web Client
+ii_barbieri	bagrow	917766614908588032	mentioned	2017-10-10 14:59:46+00:00	0	1	2	0	Twitter Web Client
+estebanmoro	bagrow	917419829589626880	quoted	2017-10-09 16:01:46+00:00	0	0	6	0	TweetDeck
+gotoxyjen	DPClougherty	913543964355125250	replied_to	2017-09-28 23:20:28+00:00	0	0	3	0	Twitter for iPhone
+gotoxyjen	bagrow	913543964355125250	replied_to	2017-09-28 23:20:28+00:00	0	0	3	0	Twitter for iPhone
+philippemiron	bagrow	913541603423289344	replied_to	2017-09-28 23:11:05+00:00	0	1	4	0	Twitter for iPhone
+chrisfinazzo	bagrow	912746165942317057	replied_to	2017-09-26 18:30:18+00:00	0	0	3	0	Twitter Web Client
+chrisfinazzo	DoctorJosh	912746165942317057	replied_to	2017-09-26 18:30:18+00:00	0	0	3	0	Twitter Web Client
+chrisfinazzo	TerryUm_ML	912746165942317057	replied_to	2017-09-26 18:30:18+00:00	0	0	3	0	Twitter Web Client
+Hao_and_Y	bagrow	908757845230972933	replied_to	2017-09-15 18:22:08+00:00	0	0	3	0	TweetDeck
+Hao_and_Y	shanecelis	908757845230972933	replied_to	2017-09-15 18:22:08+00:00	0	0	3	0	TweetDeck
+Hao_and_Y	ENERGYSTAR	908757845230972933	replied_to	2017-09-15 18:22:08+00:00	0	0	3	0	TweetDeck
+ultimape	bagrow	908735118310887425	mentioned	2017-09-15 16:51:50+00:00	0	0	0	1	Twitter for Mac
+__a__chimera__	MarkWagy	907324957654470656	mentioned	2017-09-11 19:28:21+00:00	6	0	10	2	Twitter Web Client
+__a__chimera__	bagrow	907324957654470656	mentioned	2017-09-11 19:28:21+00:00	6	0	10	2	Twitter Web Client
+TheSIAMNews	MarkWagy	907243005593219074	mentioned	2017-09-11 14:02:42+00:00	7	0	12	0	TweetDeck
+TheSIAMNews	DoctorJosh	907243005593219074	mentioned	2017-09-11 14:02:42+00:00	7	0	12	0	TweetDeck
+TheSIAMNews	bagrow	907243005593219074	mentioned	2017-09-11 14:02:42+00:00	7	0	12	0	TweetDeck
+TheFabo_	bagrow	905678411494027264	replied_to	2017-09-07 06:25:34+00:00	0	0	0	0	Twitter Web Client
+lordgrilo	bagrow	905546707164733440	replied_to	2017-09-06 21:42:13+00:00	0	0	1	0	Twitter for iPhone
+anieves65	bagrow	905545002356416512	replied_to	2017-09-06 21:35:27+00:00	0	1	0	0	Twitter for iPhone
+NonperiodicFlow	bagrow	905433607568850944	mentioned	2017-09-06 14:12:48+00:00	4	0	6	0	TweetDeck
+sharonhalonen52	bagrow	904712103168233472	replied_to	2017-09-04 14:25:48+00:00	0	0	1	0	Tweetbot for iΟS
+ReadHPR	fonnesbeck	902549043171164160	replied_to	2017-08-29 15:10:35+00:00	1	0	2	0	Twitter Web Client
+ReadHPR	bagrow	902549043171164160	replied_to	2017-08-29 15:10:35+00:00	1	0	2	0	Twitter Web Client
+ReadHPR	uvmvermont	902549043171164160	replied_to	2017-08-29 15:10:35+00:00	1	0	2	0	Twitter Web Client
+ReadHPR	ChrisDanforth	902549043171164160	replied_to	2017-08-29 15:10:35+00:00	1	0	2	0	Twitter Web Client
+martikagv	uvmmathstats	902546534872571905	replied_to	2017-08-29 15:00:37+00:00	1	0	2	0	Twitter Web Client
+martikagv	bagrow	902546534872571905	replied_to	2017-08-29 15:00:37+00:00	1	0	2	0	Twitter Web Client
+martikagv	UVM_RSENR	902546534872571905	replied_to	2017-08-29 15:00:37+00:00	1	0	2	0	Twitter Web Client
+DavidRosowsky	bagrow	902530239716315136	quoted	2017-08-29 13:55:52+00:00	2	1	5	0	TweetDeck
+drwave	fonnesbeck	902529658369036293	replied_to	2017-08-29 13:53:33+00:00	3	1	2	1	Twitter Web Client
+drwave	bagrow	902529658369036293	replied_to	2017-08-29 13:53:33+00:00	3	1	2	1	Twitter Web Client
+drwave	uvmvermont	902529658369036293	replied_to	2017-08-29 13:53:33+00:00	3	1	2	1	Twitter Web Client
+TheKillerKev	fonnesbeck	902528975607562246	mentioned	2017-08-29 13:50:50+00:00	1	1	7	0	Twitter Web Client
+TheKillerKev	bagrow	902528975607562246	mentioned	2017-08-29 13:50:50+00:00	1	1	7	0	Twitter Web Client
+Latienie	bagrow	895040817382932480	replied_to	2017-08-08 21:55:34+00:00	0	0	2	0	Twitter for iPhone
+HirokiSayama	bagrow	824804007902326784	replied_to	2017-01-27 02:19:34+00:00	0	1	0	0	Twitter Web Client
+jugander	bagrow	824750743022247937	replied_to	2017-01-26 22:47:54+00:00	0	0	1	0	Twitter Web Client
+lewis_math	bagrow	824739610035056641	replied_to	2017-01-26 22:03:40+00:00	0	0	2	0	Twitter for iPhone
+anieves65	bagrow	822128500001898496	mentioned	2017-01-19 17:08:03+00:00	0	0	0	0	Paper.li
+anieves65	orionbooks	822128500001898496	mentioned	2017-01-19 17:08:03+00:00	0	0	0	0	Paper.li
+anieves65	QuantumPhysics9	822128500001898496	mentioned	2017-01-19 17:08:03+00:00	0	0	0	0	Paper.li
+drdrang	bagrow	820149820862107649	replied_to	2017-01-14 06:05:29+00:00	0	2	0	0	Tweetbot for Mac
+theEnergyMads	bagrow	809731996800913409	replied_to	2016-12-16 12:08:46+00:00	0	1	0	0	Twitter for iPhone
+shanecelis	bagrow	809622943525466112	replied_to	2016-12-16 04:55:26+00:00	0	1	1	0	Twitter Web Client
+JohnBoik	bagrow	809613501509627905	replied_to	2016-12-16 04:17:55+00:00	0	1	1	0	TweetDeck
+jeetsukumaran	bagrow	809174375572373505	mentioned	2016-12-14 23:12:59+00:00	0	0	0	0	Twitter Web Client
+yoavram	bagrow	806596092381057032	replied_to	2016-12-07 20:27:48+00:00	0	0	0	0	Twitter Web Client
+chreliot	bagrow	806357299191316480	replied_to	2016-12-07 04:38:56+00:00	0	0	0	0	Twitter Web App
+chreliot	tpoi	806357299191316480	replied_to	2016-12-07 04:38:56+00:00	0	0	0	0	Twitter Web App
+peterdodds	bagrow	806259422527967233	replied_to	2016-12-06 22:10:00+00:00	0	0	1	0	Tweetbot for Mac
+carstenbuchholz	bagrow	804522935629160448	replied_to	2016-12-02 03:09:49+00:00	0	0	1	0	Twitter for iPhone
+carstenbuchholz	Kickstarter	804522935629160448	replied_to	2016-12-02 03:09:49+00:00	0	0	1	0	Twitter for iPhone
+cosnet_bifi	Nightwolf42	804418008705802240	mentioned	2016-12-01 20:12:53+00:00	0	0	0	0	Paper.li
+cosnet_bifi	porcupinex	804418008705802240	mentioned	2016-12-01 20:12:53+00:00	0	0	0	0	Paper.li
+cosnet_bifi	bagrow	804418008705802240	mentioned	2016-12-01 20:12:53+00:00	0	0	0	0	Paper.li
+davidlazer	bagrow	801101589305954304	replied_to	2016-11-22 16:34:37+00:00	0	0	0	0	Twitter Web Client
+davidlazer	netsci15	801101589305954304	replied_to	2016-11-22 16:34:37+00:00	0	0	0	0	Twitter Web Client
+davidlazer	FranciscoICMC	801101589305954304	replied_to	2016-11-22 16:34:37+00:00	0	0	0	0	Twitter Web Client
+davidlazer	GuiFdeArruda	801101589305954304	replied_to	2016-11-22 16:34:37+00:00	0	0	0	0	Twitter Web Client
+uvmmathstats	bagrow	797471643153088512	replied_to	2016-11-12 16:10:30+00:00	0	0	1	0	Twitter Web Client
+uvmcomplexity	bagrow	794509563122876417	quoted	2016-11-04 12:00:15+00:00	0	0	2	0	TweetDeck
+uvmcomplexity	tomcm39	794509563122876417	quoted	2016-11-04 12:00:15+00:00	0	0	2	0	TweetDeck
+RasuShrestha	tomcm39	794507864354287616	mentioned	2016-11-04 11:53:30+00:00	11	0	14	1	TweetDeck
+RasuShrestha	bagrow	794507864354287616	mentioned	2016-11-04 11:53:30+00:00	11	0	14	1	TweetDeck
+legrator	bagrow	794345316623544321	replied_to	2016-11-04 01:07:36+00:00	0	0	0	0	Twitter for Android
+legrator	deekima	794345316623544321	replied_to	2016-11-04 01:07:36+00:00	0	0	0	0	Twitter for Android
+JoshBVT	chriseppstein	794024665090027520	replied_to	2016-11-03 03:53:27+00:00	0	0	1	0	TweetDeck
+JoshBVT	bagrow	794024665090027520	replied_to	2016-11-03 03:53:27+00:00	0	0	1	0	TweetDeck
+chris_mahan	bagrow	793705843137122305	quoted	2016-11-02 06:46:34+00:00	0	0	0	0	Twitter Web App
+nellgwyn21	ChrisDanforth	792019669716701186	mentioned	2016-10-28 15:06:18+00:00	0	0	2	0	Twitter Web Client
+nellgwyn21	peterdodds	792019669716701186	mentioned	2016-10-28 15:06:18+00:00	0	0	2	0	Twitter Web Client
+nellgwyn21	bagrow	792019669716701186	mentioned	2016-10-28 15:06:18+00:00	0	0	2	0	Twitter Web Client
+stirlospace	bagrow	791727756576980992	mentioned	2016-10-27 19:46:21+00:00	0	0	1	0	TweetDeck
+amitchell01	bagrow	791165246257897472	replied_to	2016-10-26 06:31:08+00:00	0	0	0	0	Twitter for iPad
+amitchell01	ceejbot	791165246257897472	replied_to	2016-10-26 06:31:08+00:00	0	0	0	0	Twitter for iPad
+dnorbot	bagrow	790538633845538816	replied_to	2016-10-24 13:01:12+00:00	0	0	0	0	Twitter Web Client
+dnorbot	abesto	790538633845538816	replied_to	2016-10-24 13:01:12+00:00	0	0	0	0	Twitter Web Client
+lieselm	bagrow	790423980750417920	replied_to	2016-10-24 05:25:37+00:00	0	0	1	0	Twitter for iPhone
+lieselm	servertastic	790423980750417920	replied_to	2016-10-24 05:25:37+00:00	0	0	1	0	Twitter for iPhone
+jarwidmark	flamsmark	789983742894800896	replied_to	2016-10-23 00:16:16+00:00	0	0	0	0	Twitter for iPhone
+jarwidmark	bagrow	789983742894800896	replied_to	2016-10-23 00:16:16+00:00	0	0	0	0	Twitter for iPhone
+McParty	RelUnrelated	789917996089303041	replied_to	2016-10-22 19:55:00+00:00	0	0	1	0	Twitter for Android
+McParty	bagrow	789917996089303041	replied_to	2016-10-22 19:55:00+00:00	0	0	1	0	Twitter for Android
+jwgoerlich	bagrow	789883881084321793	mentioned	2016-10-22 17:39:27+00:00	1	0	5	1	Tweetbot for iΟS
+earnshaw	MDTpro	789115801425051648	replied_to	2016-10-20 14:47:22+00:00	0	0	0	0	Twitter for iPhone
+earnshaw	bagrow	789115801425051648	replied_to	2016-10-20 14:47:22+00:00	0	0	0	0	Twitter for iPhone
+LaarniRagaza	jwgoerlich	789114553573470208	replied_to	2016-10-20 14:42:25+00:00	0	0	0	0	Twitter for iPhone
+LaarniRagaza	bagrow	789114553573470208	replied_to	2016-10-20 14:42:25+00:00	0	0	0	0	Twitter for iPhone
+RichardNGreen	McParty	789109507423145984	replied_to	2016-10-20 14:22:22+00:00	0	1	0	0	Twitter for iPhone
+RichardNGreen	bagrow	789109507423145984	replied_to	2016-10-20 14:22:22+00:00	0	1	0	0	Twitter for iPhone
+phidip	bagrow	789105690925162496	replied_to	2016-10-20 14:07:12+00:00	0	0	0	0	Twitter Web Client
+gleninmpls	wmaxeddy	789104989620887552	replied_to	2016-10-20 14:04:25+00:00	0	0	0	0	Twitter for iPhone
+gleninmpls	bagrow	789104989620887552	replied_to	2016-10-20 14:04:25+00:00	0	0	0	0	Twitter for iPhone
+miarkus	bagrow	789104501936431108	replied_to	2016-10-20 14:02:28+00:00	0	0	1	0	Tweetbot for iΟS
+miarkus	kluns4rd	789104501936431108	replied_to	2016-10-20 14:02:28+00:00	0	0	1	0	Tweetbot for iΟS
+lotta_anna	bagrow	789103674152906752	replied_to	2016-10-20 13:59:11+00:00	0	0	0	0	Tweetbot for iΟS
+lotta_anna	jwgoerlich	789103674152906752	replied_to	2016-10-20 13:59:11+00:00	0	0	0	0	Tweetbot for iΟS
+technicalflow	bagrow	789103548780974080	replied_to	2016-10-20 13:58:41+00:00	0	1	0	0	Twitter Web Client
+technicalflow	jwgoerlich	789103548780974080	replied_to	2016-10-20 13:58:41+00:00	0	1	0	0	Twitter Web Client
+genome210	bagrow	789103159469707264	replied_to	2016-10-20 13:57:08+00:00	0	0	0	0	Twitter for iPhone
+Skelextorr	bagrow	788860740539125760	replied_to	2016-10-19 21:53:51+00:00	0	0	0	0	Twitter for Windows
+sfzombie13	bagrow	788832051831173121	replied_to	2016-10-19 19:59:51+00:00	0	0	2	1	Twitter for Android
+kali0x2a	bagrow	788819889767215104	replied_to	2016-10-19 19:11:31+00:00	0	0	0	0	Twitter for iPhone
+kali0x2a	niebezpiecznik	788819889767215104	replied_to	2016-10-19 19:11:31+00:00	0	0	0	0	Twitter for iPhone
+Cr0wmatic	bagrow	788781249879941120	replied_to	2016-10-19 16:37:59+00:00	0	0	0	0	Twitter for iPhone
+simplyappy	ReciprocityUS	788778160347353088	replied_to	2016-10-19 16:25:42+00:00	0	0	0	0	Twitter for iPhone
+simplyappy	bagrow	788778160347353088	replied_to	2016-10-19 16:25:42+00:00	0	0	0	0	Twitter for iPhone
+asjmcguire	bagrow	788757712872103937	replied_to	2016-10-19 15:04:27+00:00	0	0	0	0	Twitter Web Client
+asjmcguire	InfoSystir	788757712872103937	replied_to	2016-10-19 15:04:27+00:00	0	0	0	0	Twitter Web Client
+dirk_diggler73	bagrow	788734943509684226	replied_to	2016-10-19 13:33:59+00:00	0	0	0	0	Twitter Web Client
+randal_phelps	bagrow	788711175764774913	replied_to	2016-10-19 11:59:32+00:00	0	0	1	0	Twitter Web Client
+randal_phelps	DoctorJosh	788711175764774913	replied_to	2016-10-19 11:59:32+00:00	0	0	1	0	Twitter Web Client
+yungmay0	bagrow	788696796608495616	replied_to	2016-10-19 11:02:24+00:00	0	0	0	0	Fenix for Android
+yungmay0	DetroitBORG	788696796608495616	replied_to	2016-10-19 11:02:24+00:00	0	0	0	0	Fenix for Android
+jaycaron87	ChiefVoljin	788550700309422080	replied_to	2016-10-19 01:21:52+00:00	0	0	1	0	Twitter for Android
+jaycaron87	bagrow	788550700309422080	replied_to	2016-10-19 01:21:52+00:00	0	0	1	0	Twitter for Android
+DoctorJosh	bagrow	788510556911243264	replied_to	2016-10-18 22:42:21+00:00	0	0	0	0	Twitter Web Client
+DynamoTightstar	bagrow	788504852418564096	replied_to	2016-10-18 22:19:41+00:00	0	0	0	0	Twitter for Android
+StartupDream	bagrow	788494753302142976	replied_to	2016-10-18 21:39:33+00:00	0	0	0	0	Twitter Web Client
+CyrilCR	bagrow	788491723752091648	replied_to	2016-10-18 21:27:31+00:00	0	0	0	0	TweetDeck
+CyrilCR	Bluewall	788491723752091648	replied_to	2016-10-18 21:27:31+00:00	0	0	0	0	TweetDeck
+mjbroekman	bagrow	788482251390611456	replied_to	2016-10-18 20:49:52+00:00	0	0	0	0	Twitter Web Client
+hashhar	DoctorJosh	788481045825978368	replied_to	2016-10-18 20:45:05+00:00	1	1	0	0	Twitter Web Client
+hashhar	bagrow	788481045825978368	replied_to	2016-10-18 20:45:05+00:00	1	1	0	0	Twitter Web Client
+AlanMoGraph	bagrow	788477494152269825	mentioned	2016-10-18 20:30:58+00:00	3	1	7	0	Twitter for Android
+zorinlynx	bagrow	788473984245456896	replied_to	2016-10-18 20:17:01+00:00	0	0	0	0	Twitter for iPhone
+zorinlynx	DetroitBORG	788473984245456896	replied_to	2016-10-18 20:17:01+00:00	0	0	0	0	Twitter for iPhone
+5November_V	lockheimer	788473166712668160	replied_to	2016-10-18 20:13:46+00:00	0	0	0	0	Twitter for iPhone
+5November_V	bagrow	788473166712668160	replied_to	2016-10-18 20:13:46+00:00	0	0	0	0	Twitter for iPhone
+JulienOHAYON	bagrow	788375482165329920	mentioned	2016-10-18 13:45:36+00:00	0	0	0	0	Hootsuite
+theuni	bagrow	788088461454614533	replied_to	2016-10-17 18:45:05+00:00	0	0	0	0	Twitter Web Client
+theuni	unfoldmybrain	788088461454614533	replied_to	2016-10-17 18:45:05+00:00	0	0	0	0	Twitter Web Client
+aeris22	bagrow	787529919106605056	replied_to	2016-10-16 05:45:38+00:00	0	0	0	0	Twitter Web Client
+aeris22	codinghorror	787529919106605056	replied_to	2016-10-16 05:45:38+00:00	0	0	0	0	Twitter Web Client
+lloeki	nlagunaq	786953739269709825	replied_to	2016-10-14 15:36:06+00:00	0	0	0	0	Twitter for iPhone
+lloeki	AgeticBolivia	786953739269709825	replied_to	2016-10-14 15:36:06+00:00	0	0	0	0	Twitter for iPhone
+lloeki	severo_bo	786953739269709825	replied_to	2016-10-14 15:36:06+00:00	0	0	0	0	Twitter for iPhone
+lloeki	bagrow	786953739269709825	replied_to	2016-10-14 15:36:06+00:00	0	0	0	0	Twitter for iPhone
+gg6174	bagrow	786915534247981056	replied_to	2016-10-14 13:04:18+00:00	0	0	1	0	Tweetbot for iΟS
+gg6174	nixcraft	786915534247981056	replied_to	2016-10-14 13:04:18+00:00	0	0	1	0	Tweetbot for iΟS
+sallyvixen	sajadcooper	786906683327021057	replied_to	2016-10-14 12:29:07+00:00	0	0	1	0	Twitter for iPhone
+sallyvixen	bagrow	786906683327021057	replied_to	2016-10-14 12:29:07+00:00	0	0	1	0	Twitter for iPhone
+djeo	gonzague	786882682449952768	replied_to	2016-10-14 10:53:45+00:00	0	0	0	0	Twitter for iPhone
+djeo	bagrow	786882682449952768	replied_to	2016-10-14 10:53:45+00:00	0	0	0	0	Twitter for iPhone
+evalderrama1980	svijee	786878983837188096	replied_to	2016-10-14 10:39:03+00:00	0	0	2	0	Twitter for Android
+evalderrama1980	m_holtermann	786878983837188096	replied_to	2016-10-14 10:39:03+00:00	0	0	2	0	Twitter for Android
+evalderrama1980	bagrow	786878983837188096	replied_to	2016-10-14 10:39:03+00:00	0	0	2	0	Twitter for Android
+MarisAIsknis	bagrow	786858968215851009	replied_to	2016-10-14 09:19:31+00:00	0	0	0	0	TweetDeck
+MarisAIsknis	nitot	786858968215851009	replied_to	2016-10-14 09:19:31+00:00	0	0	0	0	TweetDeck
+trengarajan	bagrow	786815423773675520	replied_to	2016-10-14 06:26:30+00:00	0	0	0	0	Twitter for iPhone
+agentofromance	bagrow	786811576447741952	replied_to	2016-10-14 06:11:12+00:00	0	0	0	0	Twitter for Android
+agentofromance	genma	786811576447741952	replied_to	2016-10-14 06:11:12+00:00	0	0	0	0	Twitter for Android
+dodutils	bagrow	786613916151328772	replied_to	2016-10-13 17:05:46+00:00	0	0	0	0	Twitter for Android
+eiran	bagrow	786331664473468928	mentioned	2016-10-12 22:24:12+00:00	7	0	13	2	TweetDeck
+1E9tech	evalderrama1980	786216805798772737	replied_to	2016-10-12 14:47:48+00:00	0	0	1	0	Twitter Web Client
+1E9tech	dubtea	786216805798772737	replied_to	2016-10-12 14:47:48+00:00	0	0	1	0	Twitter Web Client
+1E9tech	ManiMimi	786216805798772737	replied_to	2016-10-12 14:47:48+00:00	0	0	1	0	Twitter Web Client
+1E9tech	bagrow	786216805798772737	replied_to	2016-10-12 14:47:48+00:00	0	0	1	0	Twitter Web Client
+termie1	dubtea	786216514672218115	replied_to	2016-10-12 14:46:38+00:00	0	1	0	0	Twitter for iPhone
+termie1	djeo	786216514672218115	replied_to	2016-10-12 14:46:38+00:00	0	1	0	0	Twitter for iPhone
+termie1	ManiMimi	786216514672218115	replied_to	2016-10-12 14:46:38+00:00	0	1	0	0	Twitter for iPhone
+termie1	bagrow	786216514672218115	replied_to	2016-10-12 14:46:38+00:00	0	1	0	0	Twitter for iPhone
+HallBjorne	bagrow	786155963829149696	replied_to	2016-10-12 10:46:02+00:00	0	0	0	0	Tweetbot for iΟS
+HallBjorne	normundsbergs	786155963829149696	replied_to	2016-10-12 10:46:02+00:00	0	0	0	0	Tweetbot for iΟS
+glitchcrab	bagrow	786070438136905728	replied_to	2016-10-12 05:06:11+00:00	0	0	0	0	Twitter Web Client
+glitchcrab	SuB8u	786070438136905728	replied_to	2016-10-12 05:06:11+00:00	0	0	0	0	Twitter Web Client
+alfredportengen	bagrow	786002923129966593	quoted	2016-10-12 00:37:54+00:00	0	0	0	0	Twitter Web Client
+alfredportengen	AntoineAugusti	786002923129966593	quoted	2016-10-12 00:37:54+00:00	0	0	0	0	Twitter Web Client
+alfredportengen	gretchenrubin	786002923129966593	quoted	2016-10-12 00:37:54+00:00	0	0	0	0	Twitter Web Client
+kaithomsen	bagrow	785913459686928384	replied_to	2016-10-11 18:42:25+00:00	0	1	0	0	TweetDeck
+kaithomsen	lerouxrv	785913459686928384	replied_to	2016-10-11 18:42:25+00:00	0	1	0	0	TweetDeck
+LesDeuxNonos	bagrow	785897832574177280	replied_to	2016-10-11 17:40:19+00:00	0	0	0	0	Twitter Web Client
+tdub_42	bagrow	785806722417864704	replied_to	2016-10-11 11:38:16+00:00	0	0	0	0	Twitter Web Client
+Datamaskarl	bagrow	785795272446062592	replied_to	2016-10-11 10:52:46+00:00	0	0	0	0	Twitter Web Client
+Datamaskarl	KatarinaJenko	785795272446062592	replied_to	2016-10-11 10:52:46+00:00	0	0	0	0	Twitter Web Client
+Luvz2Fly	bagrow	785739864847200256	replied_to	2016-10-11 07:12:36+00:00	0	0	0	0	Twitter Web Client
+dominicojames	TomSionCati	785723638314102784	replied_to	2016-10-11 06:08:08+00:00	0	0	1	0	Tweetbot for iΟS
+dominicojames	bagrow	785723638314102784	replied_to	2016-10-11 06:08:08+00:00	0	0	1	0	Tweetbot for iΟS
+TDotMonkey	bagrow	785703606385274881	mentioned	2016-10-11 04:48:32+00:00	0	0	0	0	The Real Falcon Pro
+AyrshireBog	BryanFite	785649933772730368	replied_to	2016-10-11 01:15:15+00:00	0	0	0	0	Tweetbot for Mac
+AyrshireBog	bagrow	785649933772730368	replied_to	2016-10-11 01:15:15+00:00	0	0	0	0	Tweetbot for Mac
+kjaymiller	Jurlud	785647327734276096	replied_to	2016-10-11 01:04:54+00:00	0	0	0	0	Twitter for iPhone
+kjaymiller	bagrow	785647327734276096	replied_to	2016-10-11 01:04:54+00:00	0	0	0	0	Twitter for iPhone
+SamTheGeek	bagrow	785622724458708992	replied_to	2016-10-10 23:27:08+00:00	0	0	0	0	Tweet It! for Windows
+SamTheGeek	Daniel_Rubino	785622724458708992	replied_to	2016-10-10 23:27:08+00:00	0	0	0	0	Tweet It! for Windows
+Sanakism	bagrow	785622638274109440	replied_to	2016-10-10 23:26:47+00:00	0	0	0	0	Fenix for Android
+Sanakism	Daniel_Rubino	785622638274109440	replied_to	2016-10-10 23:26:47+00:00	0	0	0	0	Fenix for Android
+alonzo_mosely	bagrow	785620578640297984	replied_to	2016-10-10 23:18:36+00:00	0	0	0	0	Talon (Plus)
+anode505	bagrow	785619653598978048	replied_to	2016-10-10 23:14:56+00:00	0	0	0	0	Twitter for Android
+anode505	Daniel_Rubino	785619653598978048	replied_to	2016-10-10 23:14:56+00:00	0	0	0	0	Twitter for Android
+4mp3d	bagrow	785613863106387968	replied_to	2016-10-10 22:51:55+00:00	0	0	0	0	Twitter Web Client
+4mp3d	Brainman365	785613863106387968	replied_to	2016-10-10 22:51:55+00:00	0	0	0	0	Twitter Web Client
+tomglimps	bagrow	785613603076440065	replied_to	2016-10-10 22:50:53+00:00	0	0	0	0	Twitter for iPad
+tomglimps	Brainman365	785613603076440065	replied_to	2016-10-10 22:50:53+00:00	0	0	0	0	Twitter for iPad
+WikiAhoi	bagrow	785612323712933888	replied_to	2016-10-10 22:45:48+00:00	0	0	0	0	Tweetbot for iΟS
+WikiAhoi	zcichy	785612323712933888	replied_to	2016-10-10 22:45:48+00:00	0	0	0	0	Tweetbot for iΟS
+crstig	bagrow	785610132373798912	replied_to	2016-10-10 22:37:06+00:00	0	0	1	0	Tweetbot for Mac
+crstig	zcichy	785610132373798912	replied_to	2016-10-10 22:37:06+00:00	0	0	1	0	Tweetbot for Mac
+wez	crstig	785420884173524992	replied_to	2016-10-10 10:05:05+00:00	0	1	0	0	Twitter for Mac
+wez	bagrow	785420884173524992	replied_to	2016-10-10 10:05:05+00:00	0	1	0	0	Twitter for Mac
+balbinus	Jurlud	785386286240698368	replied_to	2016-10-10 07:47:37+00:00	0	0	0	0	Tweetbot for iΟS
+balbinus	bagrow	785386286240698368	replied_to	2016-10-10 07:47:37+00:00	0	0	0	0	Tweetbot for iΟS
+Jurlud	balbinus	785385991972544512	replied_to	2016-10-10 07:46:26+00:00	0	1	0	0	Tweetbot for Mac
+Jurlud	bagrow	785385991972544512	replied_to	2016-10-10 07:46:26+00:00	0	1	0	0	Tweetbot for Mac
+RickCogley	Jurlud	785384971682902016	replied_to	2016-10-10 07:42:23+00:00	0	1	0	0	Tweetbot for iΟS
+RickCogley	bagrow	785384971682902016	replied_to	2016-10-10 07:42:23+00:00	0	1	0	0	Tweetbot for iΟS
+chromosundrift	bagrow	785356913785483264	replied_to	2016-10-10 05:50:54+00:00	0	0	1	0	Twitter Web Client
+chromosundrift	mrhappymac	785356913785483264	replied_to	2016-10-10 05:50:54+00:00	0	0	1	0	Twitter Web Client
+FeelitWorking	bagrow	785269213694832640	replied_to	2016-10-10 00:02:24+00:00	0	1	0	0	Twitter for Mac
+FeelitWorking	OhMeadhbh	785269213694832640	replied_to	2016-10-10 00:02:24+00:00	0	1	0	0	Twitter for Mac
+thatmashguy	bagrow	785229432650858496	replied_to	2016-10-09 21:24:20+00:00	0	0	0	0	Twitter for Android
+thatmashguy	pdp7	785229432650858496	replied_to	2016-10-09 21:24:20+00:00	0	0	0	0	Twitter for Android
+ljusetitunneln	WolePhoenix	785172692848771072	replied_to	2016-10-09 17:38:52+00:00	0	0	0	0	Twitter for Android
+ljusetitunneln	bagrow	785172692848771072	replied_to	2016-10-09 17:38:52+00:00	0	0	0	0	Twitter for Android
+Bessudnoff	bagrow	785048391252312064	replied_to	2016-10-09 09:24:56+00:00	0	0	1	0	Twitter Web Client
+SaltyBurfi	bagrow	785009557449871360	replied_to	2016-10-09 06:50:37+00:00	0	0	0	0	Twitter for Android
+Runituppokerdad	ChrisDanforth	784955083662454784	replied_to	2016-10-09 03:14:10+00:00	0	0	0	0	Twitter Web Client
+Runituppokerdad	bagrow	784955083662454784	replied_to	2016-10-09 03:14:10+00:00	0	0	0	0	Twitter Web Client
+ccgnoix	bagrow	784890151986163712	replied_to	2016-10-08 22:56:09+00:00	0	0	0	0	Twitter for Android
+ccgnoix	jarwidmark	784890151986163712	replied_to	2016-10-08 22:56:09+00:00	0	0	0	0	Twitter for Android
+EZtheOG	bagrow	784849283786772480	replied_to	2016-10-08 20:13:45+00:00	0	0	0	0	Twitter for iPhone
+EZtheOG	mosmith59	784849283786772480	replied_to	2016-10-08 20:13:45+00:00	0	0	0	0	Twitter for iPhone
+nikkolombax	bagrow	784791837710098432	replied_to	2016-10-08 16:25:29+00:00	0	0	0	0	Twitter for iPhone
+NicholasStrayer	Furgy_louver	784784630608195586	replied_to	2016-10-08 15:56:51+00:00	0	1	0	0	Twitter for Android
+NicholasStrayer	bagrow	784784630608195586	replied_to	2016-10-08 15:56:51+00:00	0	1	0	0	Twitter for Android
+ricmedr	bagrow	784783321033080833	replied_to	2016-10-08 15:51:38+00:00	0	0	1	0	Twitter for iPhone
+lgrst4	Furgy_louver	784780336945389568	replied_to	2016-10-08 15:39:47+00:00	0	1	0	0	Twitter for Android
+lgrst4	bagrow	784780336945389568	replied_to	2016-10-08 15:39:47+00:00	0	1	0	0	Twitter for Android
+Oscar_Ochy	Furgy_louver	784777898909663232	replied_to	2016-10-08 15:30:06+00:00	0	1	0	0	Twitter for Android
+Oscar_Ochy	bagrow	784777898909663232	replied_to	2016-10-08 15:30:06+00:00	0	1	0	0	Twitter for Android
+datiltony	bagrow	784753596835430400	replied_to	2016-10-08 13:53:32+00:00	0	0	0	0	Twitter Web Client
+ESnet	carolinecharlie	784752553967747073	replied_to	2016-10-08 13:49:23+00:00	0	0	0	0	Twitter for iPhone
+ESnet	bagrow	784752553967747073	replied_to	2016-10-08 13:49:23+00:00	0	0	0	0	Twitter for iPhone
+refschool	bagrow	784750453204615168	mentioned	2016-10-08 13:41:02+00:00	0	0	0	0	Facebook
+wahlborn	ESnet	784738606355247104	replied_to	2016-10-08 12:53:58+00:00	0	0	0	0	Twitter Web Client
+wahlborn	bagrow	784738606355247104	replied_to	2016-10-08 12:53:58+00:00	0	0	0	0	Twitter Web Client
+MCDrookz	bagrow	784737679699275776	mentioned	2016-10-08 12:50:17+00:00	2	1	1	1	Hootsuite
+AHTOH_uait	bagrow	784714068456312832	replied_to	2016-10-08 11:16:27+00:00	0	0	0	0	Twitter Web Client
+CapMaks	bagrow	784710951929020416	replied_to	2016-10-08 11:04:04+00:00	0	0	1	0	Twitter for iPad
+CapMaks	confuzd_	784710951929020416	replied_to	2016-10-08 11:04:04+00:00	0	0	1	0	Twitter for iPad
+CapMaks	HelgeBruhn	784710951929020416	replied_to	2016-10-08 11:04:04+00:00	0	0	1	0	Twitter for iPad
+CapMaks	LukasFlockert	784710951929020416	replied_to	2016-10-08 11:04:04+00:00	0	0	1	0	Twitter for iPad
+PublishingPro	bagrow	784707568044171266	replied_to	2016-10-08 10:50:38+00:00	0	0	0	0	Twitter for iPhone
+RuudElderhorst	bagrow	784701294611234816	replied_to	2016-10-08 10:25:42+00:00	0	0	0	0	Twitter for Android
+eyurlagin	bagrow	784701235752538113	replied_to	2016-10-08 10:25:28+00:00	0	0	0	0	Twitter for iPhone
+amamyet	GeurtWassink	784692724586930180	replied_to	2016-10-08 09:51:39+00:00	0	0	0	0	Twitter for iPhone
+amamyet	bagrow	784692724586930180	replied_to	2016-10-08 09:51:39+00:00	0	0	0	0	Twitter for iPhone
+fcassia	bagrow	784686800950419456	mentioned	2016-10-08 09:28:06+00:00	0	0	3	0	Tweetbot for iΟS
+tweetacle	bagrow	784680634962747392	replied_to	2016-10-08 09:03:36+00:00	0	0	0	0	Twitter for iPhone
+cliffb_infosec	bagrow	784674233355993088	replied_to	2016-10-08 08:38:10+00:00	0	0	0	0	Twitter Web Client
+cliffb_infosec	cgershen	784674233355993088	replied_to	2016-10-08 08:38:10+00:00	0	0	0	0	Twitter Web Client
+Jaace	bagrow	784644601751695360	replied_to	2016-10-08 06:40:25+00:00	0	0	0	0	Twitter Web Client
+NoisyButters	bagrow	784643610834862080	replied_to	2016-10-08 06:36:29+00:00	0	0	0	0	Twitter Web Client
+MEHOKIE	bagrow	784636002644230145	replied_to	2016-10-08 06:06:15+00:00	0	0	0	0	Twitter for iPhone
+MEHOKIE	monkeydom	784636002644230145	replied_to	2016-10-08 06:06:15+00:00	0	0	0	0	Twitter for iPhone
+Antiproton_com	bagrow	784628748494770176	replied_to	2016-10-08 05:37:25+00:00	0	0	0	0	Plume for Android
+CraigHaydock	bagrow	784620497451515906	replied_to	2016-10-08 05:04:38+00:00	0	0	0	0	Twitter Web Client
+Java_and_Under	bagrow	784617392844472320	replied_to	2016-10-08 04:52:18+00:00	0	0	2	0	Twitter for iPhone
+Java_and_Under	theelliottlucas	784617392844472320	replied_to	2016-10-08 04:52:18+00:00	0	0	2	0	Twitter for iPhone
+Passeriform	bagrow	784607371045863424	replied_to	2016-10-08 04:12:29+00:00	0	0	0	0	Twitter for Android
+HoltzTrudy	bagrow	784602854799597568	replied_to	2016-10-08 03:54:32+00:00	0	0	1	0	Twitter Web Client
+HoltzTrudy	Robotbeat	784602854799597568	replied_to	2016-10-08 03:54:32+00:00	0	0	1	0	Twitter Web Client
+RazaGilani2	bagrow	784590195979067401	replied_to	2016-10-08 03:04:14+00:00	0	0	0	0	Twitter for Android
+efeldhusen	bagrow	784586322853896194	replied_to	2016-10-08 02:48:50+00:00	0	0	0	0	Twitter Web Client
+Atomas72	HoltzTrudy	784583708007333890	replied_to	2016-10-08 02:38:27+00:00	0	0	1	0	TweetDeck
+Atomas72	civilwarbore	784583708007333890	replied_to	2016-10-08 02:38:27+00:00	0	0	1	0	TweetDeck
+Atomas72	bagrow	784583708007333890	replied_to	2016-10-08 02:38:27+00:00	0	0	1	0	TweetDeck
+onlyryobase	civilwarbore	784583566084694016	replied_to	2016-10-08 02:37:53+00:00	0	1	0	0	Twitter for Android
+onlyryobase	Passeriform	784583566084694016	replied_to	2016-10-08 02:37:53+00:00	0	1	0	0	Twitter for Android
+onlyryobase	bagrow	784583566084694016	replied_to	2016-10-08 02:37:53+00:00	0	1	0	0	Twitter for Android
+kortir	bagrow	784581852606660608	mentioned	2016-10-08 02:31:05+00:00	0	0	0	0	Twitter for Android
+belizejackie	bagrow	784579754032758790	replied_to	2016-10-08 02:22:44+00:00	0	0	0	0	Twitter for iPhone
+Jinxthelynx	bagrow	784574560280666112	replied_to	2016-10-08 02:02:06+00:00	0	0	0	0	Twitter for iPhone
+Jinxthelynx	wispycanada	784574560280666112	replied_to	2016-10-08 02:02:06+00:00	0	0	0	0	Twitter for iPhone
+allonlister	bagrow	784568129980657665	replied_to	2016-10-08 01:36:33+00:00	0	0	0	0	Talon (Plus)
+Klackamatsch	bagrow	784563980371161088	replied_to	2016-10-08 01:20:04+00:00	0	0	0	0	Twitter for Android
+MechWarriorNY	bagrow	784560486394265603	replied_to	2016-10-08 01:06:11+00:00	0	0	0	0	Twitter for iPhone
+MechWarriorNY	LinusTech	784560486394265603	replied_to	2016-10-08 01:06:11+00:00	0	0	0	0	Twitter for iPhone
+Salavora	bagrow	784545725510197250	replied_to	2016-10-08 00:07:31+00:00	0	0	0	0	Twitter Web Client
+Salavora	RCTheFox	784545725510197250	replied_to	2016-10-08 00:07:31+00:00	0	0	0	0	Twitter Web Client
+atwine3	bagrow	784534449589456896	replied_to	2016-10-07 23:22:43+00:00	0	0	1	0	Twitter Web Client
+atwine3	matwall	784534449589456896	replied_to	2016-10-07 23:22:43+00:00	0	0	1	0	Twitter Web Client
+cefiar	bagrow	784520308036435976	replied_to	2016-10-07 22:26:31+00:00	0	0	0	0	Twitter for Android
+hoyty	bagrow	784518742244032521	replied_to	2016-10-07 22:20:18+00:00	0	0	0	0	Twitter Web Client
+rwaldron	bagrow	784513273530052608	replied_to	2016-10-07 21:58:34+00:00	0	0	0	0	TweetDeck
+Tipsycaek	bagrow	784510143975288832	replied_to	2016-10-07 21:46:08+00:00	0	1	0	0	Twitter for Android
+Tipsycaek	bmuluu	784510143975288832	replied_to	2016-10-07 21:46:08+00:00	0	1	0	0	Twitter for Android
+grimyetcheerful	dannyfast	784505813612105728	replied_to	2016-10-07 21:28:56+00:00	0	0	0	0	tweecha for android
+grimyetcheerful	bagrow	784505813612105728	replied_to	2016-10-07 21:28:56+00:00	0	0	0	0	tweecha for android
+grimyetcheerful	nrw505	784505813612105728	replied_to	2016-10-07 21:28:56+00:00	0	0	0	0	tweecha for android
+richardclegg	dannyfast	784505186874036224	replied_to	2016-10-07 21:26:26+00:00	0	0	0	0	tweecha for android
+richardclegg	bagrow	784505186874036224	replied_to	2016-10-07 21:26:26+00:00	0	0	0	0	tweecha for android
+richardclegg	nrw505	784505186874036224	replied_to	2016-10-07 21:26:26+00:00	0	0	0	0	tweecha for android
