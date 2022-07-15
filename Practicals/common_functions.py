@@ -9,21 +9,33 @@ def random_conf(degree_seq, fun, correct):
     Compare with configuration model (correct self-edges if desired)
     """
     G_r = nx.configuration_model(degree_seq)
+    len_full = len(G_r.edges())
     G_r = nx.Graph(G_r)
-    G_r.remove_edges_from(nx.selfloop_edges(G_r))
 
     if correct:
-        #Fix a bit the degree
-        new_degree_seq = [v for k,v in G_r.degree()]
-        change_degree = np.nonzero(np.array(degree_seq)- np.array(new_degree_seq))[0]
-        for i in range(10):
-            if len(change_degree) < 2:
-                break
-            np.random.shuffle(change_degree)
-            G_r.add_edge(change_degree[0], random.choice(change_degree[1:]))
+        # Avoid multiedges (low probability)
+        while len_full != len(G_r.edges()):
+            G_r = nx.configuration_model(degree_seq)
+            len_full = len(G_r.edges())
             G_r = nx.Graph(G_r)
-            new_degree_seq = [v for k,v in G_r.degree()]
-            change_degree = np.nonzero(np.array(degree_seq)- np.array(new_degree_seq))[0]
+        # Self-edges
+        self_edges = list(nx.selfloop_edges(G_r))
+
+        # Start over
+        if len(self_edges) == 0:
+            pass #great
+        elif len(self_edges) % 2 == 1:
+            return random_conf(degree_seq, fun, correct)
+        else:
+            in_n,out_n = zip(*self_edges)
+            G_r.remove_edges_from(self_edges)
+            G_r.add_edges_from(zip(in_n,out_n[::-1]))
+            G_r = nx.Graph(G_r)
+
+            if (len(list(nx.selfloop_edges(G_r))) > 0) | len_full != len(G_r.edges()):
+                return random_conf(degree_seq, fun, correct)
+        
+        
     
     try:
         return fun(G_r)#nx.draw(G_r)
