@@ -2,7 +2,8 @@ import random
 import numpy as np
 import networkx as nx
 import scipy.sparse as ss
-
+import pylab as plt
+import seaborn as sns
 
 def random_conf(degree_seq, fun, correct):
     """
@@ -88,7 +89,96 @@ def conf_int(G, fun, iterations = 100, correct=True):
     print(f"ER graph {values_g[0]:1.3f} - {values_g[1]:1.3f}")
     print(f"BA graph {values_pl[0]:1.3f} - {values_pl[1]:1.3f}")
     
+# Use the following function to plot the CDF of the degree distributions
+def plot_cdf(values, scale = "log", ax = None, cum = True, compl = False, marker = 'o-', xlabel = "Degree (d)", ylabel = "p(Degree < d)"):
+    """
+    Calculates and plot CDF
+    """
+    
+    from collections import Counter
 
+    # count the number of instance per each degree, sort it
+    C = Counter(values)
+    deg, cnt = zip(*sorted(C.items()))
+    
+    # calcualte the cumulative distribution, normalize to be a probability instead of a count
+    if cum:
+        cs = np.cumsum(cnt)/np.sum(cnt)
+    else:
+        cs = cnt/np.sum(cnt)
+    
+    if compl:
+        cs = 1 - cs
+        
+    if ax is None:
+        ax = plt.subplot()
+    # plot
+    ax.plot(deg, cs, marker)
+    ax.set_ylabel(ylabel)
+    ax.set_xlabel(xlabel)
+    plt.tight_layout()
+    sns.despine(left=True, bottom=True)
+    plt.xscale(scale)
+    plt.yscale(scale)
+    
+    
+def plot_network_distribution(G, values, mult = 1000, dist=True):
+    """
+    Plots network (color and node size depends on values) and distributions
+    """
+    import matplotlib as mpl
+    
+    norm = mpl.colors.Normalize(vmin=min(values), vmax=max(values), clip=True)
+    mapper = mpl.cm.ScalarMappable(norm=norm, cmap=mpl.cm.coolwarm)
+
+
+    f, (a0, a1, a2) = plt.subplots(1, 3, gridspec_kw={'width_ratios': [2, 1, 1]}, figsize=(12,4))
+    mapper._A = []
+    cb = plt.colorbar(mapper, ax = a0, location="bottom", shrink=0.8, pad = 0.02, label = "Value")
+    cb.outline.set_visible(False)
+    
+    node_size = mult*np.array(list(values))
+    if min(node_size) < 0:
+        node_size -= min(node_size)
+        node_size += 1
+        
+    nx.draw(G, pos = nx.spring_layout(G, seed = 1), with_labels = True, node_size = node_size, edge_color = "gray", 
+           node_color = [mapper.to_rgba(i) for i in values], ax = a0,)
+
+    if dist:
+
+        sns.histplot(values, ax = a1)
+    
+    
+        plot_cdf(values, ax = a2, compl = False, xlabel = "Cent c", ylabel = "p(Cent > c)")
+    
+def plot_network(G, a0 = None, values = None, cmap = None, pos = None):
+    import matplotlib as mpl
+    if cmap is None:
+        cmap=mpl.cm.coolwar
+    if values is None:
+        values = nx.degree_centrality(G).values()
+    
+    norm = mpl.colors.Normalize(vmin=min(values), vmax=max(values), clip=True)
+    mapper = mpl.cm.ScalarMappable(norm=norm, cmap=cmap)
+    mapper._A = []
+    cb = plt.colorbar(mapper, ax = a0, location="bottom", shrink=0.8, pad = 0.02, label = "Value")
+    cb.outline.set_visible(False)
+
+    # NEtwork
+    if nx.is_bipartite(G):
+        top = [_ for _ in G.nodes() if _[0] != "S"]
+        pos = nx.bipartite_layout(G, top)
+        node_color = ["#e6af2e" if node in top else "#e0e2db" for node in G]
+    else:
+        if pos is None:
+            pos = nx.spring_layout(G, seed = 1)
+        node_color = [mapper.to_rgba(i) for i in values]
+
+    nx.draw(G, pos = pos, with_labels = True, node_size=1000*np.array(list(values)), edge_color = "darkgray", 
+           node_color = node_color, ax = a0)
+    
+    
 def calculateRWRrange(W, i, alphas, n, maxIter=1000):
     """
     Calculate the personalised TotalRank and personalised PageRank vectors. From Peel et al (2018)
