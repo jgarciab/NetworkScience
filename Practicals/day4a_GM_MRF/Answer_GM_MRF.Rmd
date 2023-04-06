@@ -1,5 +1,5 @@
 --- 
-title: "Answer - Practical - Graphical Models_MRF"
+title: "Answers - Practical - Graphical Models_MRF"
 author: "Mahdi Shafiee Kamalabad"
 date: "`r format(Sys.Date(), '%B %d %Y')`"
 output: 
