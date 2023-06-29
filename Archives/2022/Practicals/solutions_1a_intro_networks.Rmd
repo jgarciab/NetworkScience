@@ -16,7 +16,7 @@ library(tidyverse)
 
 ```{r}
 # Read data and select the right columns
-df <- read.csv("/Users/garci061/pCloud Drive/Academic/teaching/2022_network_science/summer_school/NetworkScience/Data/ic2s2_netsci_3.tsv", sep = "\t") %>% 
+df <- read.csv("../Data/ic2s2_netsci_3.tsv", sep = "\t") %>% 
       select(source, target)
 head(df)
 
