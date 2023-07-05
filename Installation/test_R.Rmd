@@ -8,6 +8,8 @@ output: html_notebook
 install.packages("igraph")
 install.packages("tidyverse")
 install.packages("renv")
+install.packages("visNetwork")
+install.packages("htmlwidgets")
 ```
 
 
