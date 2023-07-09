@@ -18,7 +18,7 @@ The course has a hands-on focus, with lectures accompanied by programming practi
 * Javier Garcia-Bernardo
 * Leto Peel
 * Mahdi Shafiee Kamalabad
-* Jiamin Ou
+* Elena Candellone
 * Vincent Buskens 
 
 
