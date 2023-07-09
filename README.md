@@ -4,6 +4,8 @@ Clone the repository or check the course website: https://net-science.github.io/
 
 Run code on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/NetworkScience/HEAD) (for now only available for the tutorials on Python)
 
+[!Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/NetworkScience) (you will need to install the libraries manually.
+
 # Description
 
 How can networks help us understand and predict social systems? How to find important individuals and communities? How to predict unobserved connections between genes? How to learn the dependencies between interrelated entities? How can we stop disease spreading in networks? In this course, we provide participants with the conceptual and practical skills necessary to use network science tools to answer social, economic and biological questions.
