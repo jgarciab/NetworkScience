@@ -2,8 +2,8 @@
 Clone the repository or check the course website: https://net-science.github.io/
 
 
-Run code without downloading it:
-- On binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/NetworkScience/HEAD) (for now only available for the tutorials on Python)
+Run code without downloading it (for now only available for the tutorials on Python):
+- On binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/NetworkScience/HEAD) 
 - On Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/NetworkScience) (you will need to install the libraries manually.
 
 # Description
