@@ -14,4 +14,3 @@ dependencies:
   - python-igraph
   - pycairo
   - cairocffi
-prefix: /Users/garci061/miniforge3/envs/networks
