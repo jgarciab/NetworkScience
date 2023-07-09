@@ -1,5 +1,6 @@
 # Network Science Summer School
 Clone the repository or check the course website: https://net-science.github.io/
+Open on [Binder](https://mybinder.org/v2/gh/jgarciab/NetworkScience/HEAD) (for now only available for the tutorials on Python)
 
 # Description
 
