@@ -17,6 +17,19 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## 0. Preparation
+R can be obtained via the https://www.r-project.org/ webpage. To download R, you need to select your preferred CRAN (Comprehensive R Archive Network) mirror (https://cran.r-project.org/mirrors.html). On the Mirrors webpage, you will find listings of countries that have identical versions of R and should select a location geographically close to your computer’s location. R can be downloaded for Linux, Windows, and Mac OS. The pages are regularly updated and you need to check with releases are supported for your platform.
+R as a base package can perform many statistical analyses but most importantly,
+R’s functionality can be expanded by downloading specific packages.
+After installing R (https://www.r-project.org/), it is quite useful to also install R Studio (https://www.rstudio.com/), which provides a convenient interface to R. 
+Once both are installed, opening up R Studio will give a window that is split into 4 panes:
+
+ - Console/Terminal: this pane is the main graphical interface for the user and this is where the commands are typed in.
+ - Editor: this pane shows the active datasets that you are working on.
+ - Environment/History/Connections: this pane shows the R datasets and allows you to import data from text (e.g. csv. file), Excel, SPSS, SAS and Stata. The History tab allows you see the list of your previous commands. 
+ - Files/plots/packages/help: this pane and its tabs can open files, view the most current plot (also previous plots), install and load packages, or use the general R help function. Under the Tools drop down tap at the top of the R Studio screen, you can select which packages to install for the analyses required. 
+Alternatively the packages can be installed using the Packages tab or they can be directly installed using a typed command (`install.packages()`). 
+R is a command line driven programme and you can enter commands at the prompt (`>` by default) and each command is executed one at a time.   
 ```{r, message=FALSE}
 ## Install the following package
 # install.packages ("relevent")
