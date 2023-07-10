@@ -48,7 +48,7 @@ First, we need to load `UUsummerschool.rdata` and see what are inside of it.
 # setwd()
 
 # Load data using load():
-load("./data/UUsummerschool.rdata") 
+load("./data/UUsummerschool.Rdata") 
 # This R-data contains 11 objects:
 ls()
 ```
