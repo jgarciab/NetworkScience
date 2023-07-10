@@ -134,3 +134,7 @@ dmypy.json
 
 # Keys
 *.key
+.Rproj.user
+.Rhistory
+.Rprofile
+renv/
