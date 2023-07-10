@@ -67,8 +67,6 @@ def random_pl(n, m,fun):
         return fun(G_r)#nx.draw(G_r)
     except:
         return np.nan
-    
-from numba import njit
 
 
 def conf_int(G, fun, iterations = 100, correct=True):
