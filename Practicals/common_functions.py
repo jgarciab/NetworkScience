@@ -150,7 +150,7 @@ def plot_network_distribution(G, values, mult = 1000, dist=True):
         sns.histplot(values, ax = a1)
     
     
-        plot_cdf(values, ax = a2, compl = False, xlabel = "Cent c", ylabel = "p(Cent > c)")
+        plot_cdf(values, ax = a2, compl = True, xlabel = "Cent c", ylabel = "p(Cent > c)")
     
 def plot_network(G, a0 = None, values = None, cmap = None, pos = None, with_labels = True, scatter_factor = 1000):
     import matplotlib as mpl
