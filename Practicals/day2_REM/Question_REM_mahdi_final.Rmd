@@ -16,25 +16,14 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-## 0. Preparation
-R can be obtained via the https://www.r-project.org/ webpage. To download R, you need to select your preferred CRAN (Comprehensive R Archive Network) mirror (https://cran.r-project.org/mirrors.html). On the Mirrors webpage, you will find listings of countries that have identical versions of R and should select a location geographically close to your computer’s location. R can be downloaded for Linux, Windows, and Mac OS. The pages are regularly updated and you need to check with releases are supported for your platform.
-R as a base package can perform many statistical analyses but most importantly,
-R’s functionality can be expanded by downloading specific packages.
-After installing R (https://www.r-project.org/), it is quite useful to also install R Studio (https://www.rstudio.com/), which provides a convenient interface to R. 
-Once both are installed, opening up R Studio will give a window that is split into 4 panes:
 
- - Console/Terminal: this pane is the main graphical interface for the user and this is where the commands are typed in.
- - Editor: this pane shows the active datasets that you are working on.
- - Environment/History/Connections: this pane shows the R datasets and allows you to import data from text (e.g. csv. file), Excel, SPSS, SAS and Stata. The History tab allows you see the list of your previous commands. 
- - Files/plots/packages/help: this pane and its tabs can open files, view the most current plot (also previous plots), install and load packages, or use the general R help function. Under the Tools drop down tap at the top of the R Studio screen, you can select which packages to install for the analyses required. 
-Alternatively the packages can be installed using the Packages tab or they can be directly installed using a typed command (`install.packages()`). 
-R is a command line driven programme and you can enter commands at the prompt (`>` by default) and each command is executed one at a time.   
 ```{r, message=FALSE}
 ## Install the following package
 #install.packages ("relevent")
 renv::restore()
 library (relevent)
 library(sna)
+library(ggplot2)
 ```
 Welcome to the practical for the social network analysis. In this practical we will get hands-on experience with the materials in the lectures about applying Relational Event Models (REMs) on real relational event history (REH) data: Apollo 13 voice loop data, Twitter data, Class data and World Trade Center (WTC) by doing  a bit of programming in R. These  data sets are stored in `UUsummerschool.rdata`. Later in this practical we explain these  data sets briefly.
 
@@ -47,7 +36,7 @@ First, we need to load `UUsummerschool.rdata` and see what are inside of it.
 # setwd()
 
 # Load data using load():
-load("./data/UUsummerschool.rdata") 
+load("./data/UUsummerschool.Rdata") 
 # This R-data contains 11 objects:
 ls()
 ```
@@ -112,6 +101,11 @@ The classroom dataset includes timed interactions between students and instructo
 
 ## 6. WTC data & visualization
 This data contains information about the 9/11 terrorist attacks at the WTC in New York City in 2001. That should be notified that the radio communication was essential in coordinating activities during the crisis. Butts et al.(2007) coded radio communication events between officers responding to 9/11 from transcripts of communications recorded during the event. It is important to note that the WTC radio data was coded from transcripts that lacked detailed timing information; we do not therefore know precisely when these calls were made. But we know the order of events. Since the case of ordinal timing is somewhat simpler than that of exact timing, we consider the WTC data first in this practical. We will illustrate ordinal time REMs using the 481 communication events from 37 named communicants in this data set.  
+
+In this plot, you can see the number of radio communications from each officer. How was the most active?
+```{r}
+ggplot(WTCPoliceCalls, aes(source))+geom_bar() 
+```
 
 The eventlist is stored in an object called `WTCPoliceCalls`.   
 **Question 1: Check the data using `head` and `tail`function. How many events does the data contain? How many actors? Without testing anything, can you see any trend? If so, which statistics can capture that trend?**  

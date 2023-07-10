@@ -48,7 +48,7 @@ First, we need to load `UUsummerschool.rdata` and see what are inside of it.
 # setwd()
 
 # Load data using load():
-load("./data/UUsummerschool.rdata") 
+load("./data/UUsummerschool.Rdata") 
 # This R-data contains 11 objects:
 ls()
 ```
@@ -112,6 +112,11 @@ The classroom dataset includes timed interactions between students and instructo
 
 ## 6. WTC data & visualization
 This data contains information about the 9/11 terrorist attacks at the WTC in New York City in 2001. That should be notified that the radio communication was essential in coordinating activities during the crisis. Butts et al.(2007) coded radio communication events between officers responding to 9/11 from transcripts of communications recorded during the event. It is important to note that the WTC radio data was coded from transcripts that lacked detailed timing information; we do not therefore know precisely when these calls were made. But we know the order of events. Since the case of ordinal timing is somewhat simpler than that of exact timing, we consider the WTC data first in this practical. We will illustrate ordinal time REMs using the 481 communication events from 37 named communicants in this data set.  
+
+In this plot, you can see the number of radio communications from each officer. How was the most active?
+```{r}
+ggplot(WTCPoliceCalls, aes(source))+geom_bar() 
+```
 
 The eventlist is stored in an object called `WTCPoliceCalls`.   
 **Question 1: Check the data using `head` and `tail`function. How many events does the data contain? How many actors? Without testing anything, can you see any trend? If so, which statistics can capture that trend? **  
