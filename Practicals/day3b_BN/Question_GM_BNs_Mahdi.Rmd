@@ -1,0 +1,637 @@
+--- 
+title: "Practical - Bayesian Networks"
+author: "Mahdi Shafiee Kamalabad"
+date: "`r format(Sys.Date(), '%B %d %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: paper
+---
+
+\fontsize{11}{14}
+\selectfont
+\linespread{2}
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome back to the practical. Today we will focus on the following topics:
+
+- Based on the expert opinion, how to create a DAG when the variables are discrete / continuous (graphical representation) and assign parameters (regression coefficients) to the created DAG (probabilistic representation).
+- Given the data, how to estimate the parameters when they are unknown (note that the DAG is known based on the expert opinion).
+- How to infer the network structure (dependencies between variables) form the data when the DAG is unknown.
+
+## 0. Preparation
+
+R can be obtained via the https://www.r-project.org/ webpage. To download R, you need to select your preferred CRAN (Comprehensive R Archive Network) mirror (https://cran.r-project.org/mirrors.html). On the Mirrors webpage, you will find listings of countries that have identical versions of R and should select a location geographically close to your computer’s location. R can be downloaded for Linux, Windows, and Mac OS. The pages are regularly updated and you need to check with releases are supported for your platform.
+R as a base package can perform many statistical analyses but most importantly,
+R’s functionality can be expanded by downloading specific packages.
+After installing R (https://www.r-project.org/), it is quite useful to also install R Studio (https://www.rstudio.com/), which provides a convenient interface to R. 
+Once both are installed, opening up R Studio will give a window that is split into 4 panes:
+
+ - Console/Terminal: this pane is the main graphical interface for the user and this is where the commands are typed in.
+ - Editor: this pane shows the active datasets that you are working on.
+ - Environment/History/Connections: this pane shows the R datasets and allows you to import data from text (e.g. csv. file), Excel, SPSS, SAS and Stata. The History tab allows you see the list of your previous commands. 
+ - Files/plots/packages/help: this pane and its tabs can open files, view the most current plot (also previous plots), install and load packages, or use the general R help function. Under the Tools drop down tap at the top of the R Studio screen, you can select which packages to install for the analyses required. 
+Alternatively the packages can be installed using the Packages tab or they can be directly installed using a typed command (`install.packages()`). 
+R is a command line driven programme and you can enter commands at the prompt (`>` by default) and each command is executed one at a time.   
+
+
+You will need to install the following packages for working on this practical.
+```{r setup, message=FALSE, warning=FALSE}
+# Installing the BiocManager package when necessary
+if (!requireNamespace("BiocManager", quietly = TRUE)){
+  install.packages("BiocManager")
+}
+BiocManager::install("Rgraphviz")
+BiocManager::install("gRain")
+
+# Package names
+packages <- c('lattice', 'gridExtra', 'blnlearn')
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages], repos = "http://cran.us.r-project.org")
+}
+
+## Installing the following packages
+library(gRain) 
+library(Rgraphviz)
+library(lattice)
+library(gridExtra)
+## To create BNs and inferring DAGs and estimating parameters, 
+## we will use mainly the bnlearn package (short for "Bayesian network learning").
+## install bnlearn with install.packages("bnlearn")
+library(bnlearn)
+```
+
+## 1. Creating a DAG based on expert opinion (first way) 
+
+In this section, we will see how discrete BN works. To this end, first, we assume that an expert has an opinion about the the dependencies between variables. That is, the structure of the network (network topology) is known. 
+
+We would like to investigate the usage patterns of different means of transport with a focus on cars and trains based on a survey. This is done to assess the customer satisfaction across different social groups to evaluate public policies or urban planning. To do so, we will examine the following six discrete variables for each individual:
+
+ - **Age** (`A`): Recorded as young ('young') for individuals below 30 years old, adult ('adult') for individuals between 30 and 60 years old, and old ('old') for people older than 60.
+ - **Sex** (`S`): Recorded as male ('M') or female ('F').
+ - **Education** (`E`): The highest level of education or training completed by an individual, recorded either as up to high school ('high') or university degree ('uni').
+ - **Occupation** (`O`): whether the individual is an employee ('emp') or a self- employed ('self') worker.
+ - **Residence** (`R`): The size of the city the individual lives in, recorded as either small ('small') or big ('big').
+ - **Travel** (`T`): The means of transport favored by the individual, recorded either as car ('car'), train ('train') or other ('other').
+
+Now, let's get started. First, we are very interested in creating a DAG based on the expert knowledge.
+This DAG should show the dependencies between the aforementioned variables. We will do this here step by step.
+<br>  
+
+**Question 1: First step, create a DAG with one node for each variable in the survey and no arcs.**   
+Use `empty.graph()` function. You can define the nodes through a vector via "`nodes`" argument.
+`dag <- empty.graph(nodes = c("...", "..." , "..."))`
+```{r}
+# Write your code here
+
+```
+
+As mentioned above, one of the sources for getting information about the nodes is the expert's opinion, and another source is the prior knowledge, for instance, from the literature. The expert's opinions are as follows:  
+
+There is an edge from = "A", to = "E"; that is, "E" depends on "A"  
+There is an edge from = "S", to = "E"; that is, "E" depends on "S"  
+There is an edge from = "E", to = "O"; that is, "O" depends on "E"  
+There is an edge from = "E", to = "R"; that is, "R" depends on "E"  
+There is an edge from = "O", to = "T"; that is, "T" depends on "O"  
+There is an edge from = "R", to = "T"; that is, "T" depends on "R"  
+
+<br>
+**Question 2: Now, based on expert's opinions, start adding the arcs that encode the direct dependencies between the variables in the survey.**  
+You can check the slides for the whole graph as well as the direction of arcs.  
+To this end, one option is to use: `set.arc(name of DAG that you created above, from= name of parent, to = name of child)`. 
+You should use this function for each edge separately. It should be noted that `from` is the parent and `to` is the child node.
+
+```{r}
+# Write your code here
+
+## The dag object encodes the desired direct dependencies.
+
+```
+
+<br>
+Note that in the output, e.g. `[E|A:S]`, means that A $\rightarrow$ E and S $\rightarrow$ E. That is, in this case, E has two parents ('A' and 'S' are co-parents of E) and`[A]` means that there is no arc pointing towards A. This representation stems from a product of conditional probabilities. To see the whole dependencies, use the `modelstring` function: `modelstring(name of the dag)`
+```{r}
+# Check the output yourself!
+
+# modelstring(name of your dag)
+```
+
+<br>
+Look at the  the documentation included in the package for a comprehensive overview of all functions in `bnlearn`.  
+Two basic functions are `nodes(name of the dag)` and `arcs(name of the dag)`.  
+**Question 3: Use these two function to see which nodes and edges you have.**
+```{r}
+# Write your code here
+
+```
+
+<br>
+The latter function also provides a way to add arcs to a DAG via a matrix.  
+This is faster than setting them one at a time. See below:
+```{r}
+## We can create a matrix with the same structure as that returned by arcs 
+## and set the whole arc set at once.
+dag2 <- empty.graph(nodes = c("A", "S", "E", "O", "R", "T"))
+arc.set <- matrix(c("A", "E",
+                    "S", "E",
+                    "E", "O",
+                    "E", "R",
+                    "O", "T",
+                    "R", "T"),
+                  byrow = TRUE, ncol = 2,
+                  dimnames = list(NULL, c("from", "to")))
+arcs(dag2) <- arc.set
+
+```
+
+<br>
+Compare `dag2` to the previous graph that you created with `all.equal()`.  
+`all.equal(x, y)` is a utility to compare R objects x and y testing the 'near equality'. If they are different, the comparison is still made to some extent, and a report of the differences is returned. Look at the documentation for more explanation.
+
+**Question 4: What is the difference? Which approach do you prefer?** 
+```{r}
+# Write your code here
+
+```
+
+<br>
+Note that both approaches for creating a DAG guarantee that the DAG will be acyclic.  
+**Question 5: Use `try()` to check the acyclicity constraint when we add another edge from = "T", to = "E".**  
+Hint: `try(set.arc(name of dag, from = name of parent, to = name of child))`
+```{r}
+# Write your code here
+
+```
+
+<br>
+**Question 6: Can you try to add another edge and check the acyclicity constraint?**
+```{r}
+# Try it out your own! 
+
+```
+
+
+
+
+## 2. Learning the DAG Structure (Discrete BN): Tests and Scores
+
+Previously, we assumed the DAG structure is known, which rarely is the case. In real life situation often the DAG structures are unknown and should be inferred from the data. In this section, we will estimate the DAG structure using ***tests*** and ***scores***. 
+
+**Question 7: First, import the data `survey` into R using `read.table()`. The data is already as a .txt file. Check the first/last 10 rows and the last ten rows using `head()` and `tail()`.**  
+Hint: `read.table("datafile", header = TRUE, colClasses = "factor")`
+```{r}
+## Load data
+
+## Check the data
+
+```
+
+### 2-1. Conditional Independence Tests
+
+Generally CITs test whether some specific edges should be in the DAG using statistical tests. The `ci.test()` from `bnlearn` is the main function used for this aim and it implements both $G^2$ and $X^2$. The log-likelihood ratio $G^2$, is used when `test = "mi"`.    
+(G–test, also known as the likelihood ratio test, is used when you want to see  assess the goodness of fit of two competing statistical models based on the ratio of their likelihoods).  
+For example, we can test whether there is an edge from T to E:
+```{r, eval=FALSE}
+ci.test("T", "E", c("O", "R"), test = "mi", data = survey)
+```
+
+
+In `bnlearn`, we can compute the classic frequentist and maximum likelihood estimates.
+This can be done with the `bn.fit` function. `bn.fit` estimates the parameters from the data.
+
+
+**Question 8: Given the piece of code above, can you guess what `c("O", "R")` is exactly? Look at the slides for answering this.**  
+
+
+<br>
+
+Pearson's $X^2$ test is used when `test = "x2"`.  
+(Pearson's chi-squared test is a statistical test applied to sets of categorical data to evaluate how likely it is that any observed difference between the sets arose by chance).  
+**Question 9: Replace the `test = "mi"` by `test = "x2"`, and see whether the result changes.**
+```{r}
+# Write your code here
+
+```
+Note that `c("O", "R")` are parents of `T`.  
+<br>
+**Question 10: What do the p-values show?**  
+
+<br>
+
+
+### 2-2. Network Scores
+Unlike conditional independence tests, network scores focus on the DAG as a whole.  
+They are goodness-of-fit statistics measuring how well the DAG mirrors the dependence structure of the data.  
+
+Bayesian Information criterion (BIC) is used when `type = "bic"`. Bayesian Dirichlet equivalent uniform (BDeu) (posterior probability of the DAG) is used when `type = "bde"`, associated with a uniform prior over both the space of the DAGs and of the parameters.
+For example:
+```{r, eval=FALSE}
+score(dag, data = survey, type = "bic")
+```
+
+**Question 11: Use `type = "bde"` and `iss=10`, and see whether the score changes.**   
+*Note:* The argument `iss`, is the imaginary sample size (equivalent sample size), which is optional. `iss` determines how much weight is assigned to the prior distribution compared to the data when computing the posterior probabilities, as in Bayesian setting we aim to compute posterior probabilities based on prior knowledge and the data. The weight is specified as the size of an imaginary sample supporting the prior distribution. We do not discuss the mathematical details of this topic here. Just keep in mind that the larger the iss, the stronger the prior. The value of iss is typically chosen to be small (usually between 1 and 15) to allow the prior distribution to be easily dominated by the data.  
+
+```{r}
+# Write your code here
+
+```
+
+<br>
+Scores can also be used to compare completely different networks, unlike conditional independence tests.  
+```{r, eval=FALSE}
+## New dag by adding the arc E --> T
+dag4 <- set.arc(dag, from = "E", to = "T")
+score(dag4, data = survey, type = "bic")
+```
+<br>
+We can even generate a DAG at random with `random.graph` and compare it to the previous DAGs through its score.  
+**Question 12: Use `random.graph()` to generate a DAG and compute its score with score function using BIC and BDeu.**  
+Hint: random.graph(nodes = c("...",  "...",  "...", "..."))
+```{r}
+# Write your code here
+
+```
+
+<br>
+As expected, the randomly generated DAG is worse than the previous DAGs (e.g., `dag`, `dag4`).  
+Learning the DAG from `survey` yields a much better network.  
+There are several algorithms that tackle this problem by searching for the DAG that maximizes a given network score. Look at the slides for more explanation. A simple one is *hill-climbing*: starting from a DAG with no arcs, it adds, removes and reverses one arc at a time and picks the change that increases the network score the most.  
+  
+**Question 13: Implement the hill-climbing using `hc` function.**  
+Hint: Use `hc()`. It takes the data (`survey`) as the only argument (it defaults to the BIC score). Check the help file (`?hc`).
+
+```{r}
+# Write your code here
+
+```
+
+**Question 14: Now compute the scores using `score()`.**
+```{r}
+# Write your code here
+
+```
+
+**Question 15: Implement hill-climbing now with BDeu instead of BIC score and compare the results.**  
+Hint: specify `score = "bde"`.
+```{r}
+# Write your code here
+
+```
+
+<br>
+
+### Additional functions
+Check some other functions below:
+```{r, eval=FALSE}
+## d-separation checks
+dsep(dag, x = "S", y = "R")
+dsep(dag, x = "O", y = "R")
+
+## path checks
+path.exists(dag, from = "S", to = "R")
+
+## If we condition on E, that path is blocked, and S and R become independent.
+dsep(dag, x = "S", y = "R", z = "E")
+```
+
+<br>
+
+## 3. Plotting BNs (first way)
+The ability of plotting a BN effectively is a key tool in BN inference.  
+`bnlearn` uses the functionality implemented in the `Rgraphviz` package to plot graph structures through the `graphviz.plot` function.
+
+```{r, out.width="60%", fig.align='center'}
+## specify the DAG
+dag <- empty.graph(nodes = c("A", "S", "E", "O", "R", "T"))
+dag <- set.arc(dag, from = "A", to = "E")
+dag <- set.arc(dag, from = "S", to = "E")
+dag <- set.arc(dag, from = "E", to = "O")
+dag <- set.arc(dag, from = "E", to = "R")
+dag <- set.arc(dag, from = "O", to = "T")
+dag <- set.arc(dag, from = "R", to = "T")
+
+## plot the dag using graphviz.plot()
+graphviz.plot(dag)
+```
+
+This layout is called `dot`. Other layouts can be specified with the `layout` argument.  
+
+Highlighting particular nodes and arcs (path) in a DAG can be achieved either with the `highlight` argument of `graphviz.plot` or using `Rgraphviz` directly. The former is easier to use, while the latter is more versatile. 
+
+```{r, out.width="60%", fig.align='center'}
+## using highlight argument in graphviz.plot()
+hlight <- list(nodes = nodes(dag), arcs = arcs(dag), col = "grey",
+               textCol = "grey")
+
+graphviz.plot(dag, highlight = hlight, render = T)
+```
+
+```{r}
+## save the return value (to pp) to make further changes to the plot
+pp <- graphviz.plot(dag, highlight = hlight, render = FALSE)
+```
+
+The `pp` object is an object of class graph, and it can be manipulated with the functions provided by the `graph` and `Rgraphviz` packages. The look of the arcs can be customized by using the `edgeRenderInfo` function.    
+Once having made modifications, we can plot the DAG again with the `renderGraph` function.
+```{r, out.width="60%", fig.align='center'}
+edgeRenderInfo(pp) <- list(col = c("S~E" = "black", "E~R" = "black"),
+                           lwd = c("S~E" = 3, "E~R" = 3))
+renderGraph(pp)
+```
+
+We can highlight nodes with `nodeRenderInfo`.
+```{r, out.width="60%", fig.align='center'}
+nodeRenderInfo(pp) <-
+  list(col = c("S" = "black", "E" = "black", "R" = "black"),
+       textCol = c("S" = "black", "E" = "black", "R" = "black"),
+       fill = c("E" = "grey"))
+renderGraph(pp)
+```
+
+**Question 16: Can you highlight a v-structure with different color?**
+```{r}
+# Write your code here.
+
+```
+
+
+
+## 4. Creating a DAG (second way)
+
+In this section, we will see how continuous BN works. To this end, first, we assume that an expert has an opinion about the the dependencies between variables. That is, the structure of the network (network topology) is known. 
+
+#### Introductory example: Crop Analysis   
+We are going to use the same crop data that we saw in graphical model practical.  
+
+Suppose that we are interested in the analysis of a particular plant, which we will model in a very simplistic way by considering:  
+
+ - the potential of the plant and of the environment;
+ - the production of vegetative mass;
+ - and the harvested grain mass, which is called the crop.
+ 
+ We will analyze the following six *continuous* variables:  
+ 
+ - `G`: the initial status of the plant: its genetic potential
+ - `E`: the environmental potential of the location and the season it is grown in.
+ - `V`: a single vegetative variable summarizing all the information available on constituted reserves. `V` is directly influenced by the values of `G` and `E`. The greater they are, the greater is the possibility of a large vegetative mass `V`.
+ - `N`: the number of seeds
+ - `W`: the mean weight 
+ - `C`: the crop, depends directly on N and W. 
+
+As a result, the behavior of a plant can be described by experts or the prior knowledge as follows:  
+`{G, E}` $\rightarrow$ `V`, `V` $\rightarrow$  `N`, `V` $\rightarrow$  `W`, `{N, W}` $\rightarrow$  `C`
+
+<br>
+
+#### Graphical Representation
+We need to create an R object describing the aforementioned relationships between variables. Unlike the previous practical, we use another function.  
+
+**Question 17: Use `model2network` function to define the DAG structure above.**  
+Hint: `model2network("[node][node|parents of node] ...")`.  
+Note that the order of the nodes and their corresponding parents is not important.
+```{r}
+# Write your code here
+
+```
+
+Then, we can investigate the independencies. First,  we investigate how we can detect the marginal independencies. That is whether two variables are independent marginally.
+
+$$P(A,B) = P(A) \cdot P(B)$$
+
+**Question 18: Use `dsep` function to find marginal independencies: between E and G, between E and N, between G and W, between E and C, between N and W and between C and E.**  
+Hint: `dsep(object contains the dag structure, "node1", "node2")`. Check the help file of `dsep` (can use "?dsep"). Note that "node1", "node2" are those two nodes for which we would like the marginal independencies.
+
+```{r}
+# Write your code here
+
+```
+
+The next step would be investigating the conditional independencies.
+
+$$P(A,B|C)=P(A|C) \cdot P(B|C)$$
+
+**Question 19: Again, use `dsep` function to find the conditional independencies: between C and E conditional on V, between E and N conditional on V, and between G and W conditional on V.**  
+Hint: `dsep(object contains the dag structure, "node1", "node2" | "node that is conditioned on")`.  
+See the slides for more information.
+```{r}
+# Write your code here
+
+```
+
+
+
+<br>
+
+## 5. Learning DAG structure (continious BNs): Tests and Scores
+### 5-1. Using conditional independence tests
+
+As it was mentioned before, conditional independence tests can be used when we want to test whether some specific edges should be in the DAG. To put it in another way, we use this approach when we are interested in investigating/testing the existence of some edges, which indicate the dependencies between them.
+
+Consider the hypothesis: `C` is independent from `W` given `N`.  
+In order to investigate the hypothesis, first we need to compute the correlation matrix for `C`, `W`, and `N`.
+
+
+**Question 20: Use `read.table()` to load the `cropdata1` and check the data using `dim()` and `head()`.**  
+Hint: Note that `header = TRUE` when you import the data.
+
+```{r}
+## load the crop data
+
+## get the dimension
+
+## check the data how it looks
+
+```
+
+
+**Question 21: Use `cor()` to compute the correlation matrix.**  
+```{r}
+# Write your code here
+
+```
+
+Then, we compute the partial correlation matrix using `corpcor` package.  
+**Question 22: Use `cor2pcor` function from the `corpcor` package to compute the partial correlation matrix.**   
+Hint: `cor2pcor(correlation matrix)`.
+```{r}
+# Load the package
+library(corpcor)
+
+# Write your code here
+
+```
+
+You can then find the partial correlation between "C" and "W" from the partial correlation matrix.  
+**Question 23: First, assign the row & column name the same as the correlation matrix so that you can easily search for the partial correlation between "C" and "W".**  
+Hint: Use `dimnames(partial corr. matrix) <- dimnames(corr. matrix)`.  
+```{r}
+# Write your code here
+
+```
+
+
+We can also find the partial correlation using `ci.test` from `bn.learn`.  
+**Question 24: Find the partial correlation using `ci.test`.**  
+Hint: `test = "cor"`.  
+```{r}
+# Write your code here
+
+```
+
+Given the result above, we can say that `C` has a significant positive correlation with `W` given `N`, and reject the null hypothesis of independence based on the extremely small p-value.  
+<br>
+The `cropdata1` data set is not very large, and therefore it is not likely to contain enough information to learn the true structure of the DAG. In order to learn a better DAG, we can use a bigger sample. Suppose that a sample containing $2 \times 10^4$ observations is available in a data frame called `cropdata2`.  
+
+**Question 25: Load `cropdata2` using `read.table()` and check the data structure using `dim()`. Then, use `iamb()` to infer the network structure. What does test = "cor" show?**    
+Hint: `header = TRUE` when loading data. `iamb(data, test = "cor")` when inferring the network structure.
+```{r}
+## load the crop data
+
+## get the dimension
+
+## infer the network structure
+
+```
+
+
+### 5-2. Using network scores
+Network scores for GBNs work in a similar way to the scores for the discrete BNs.
+Both scores can be computed by calling the `score` function from `bnlearn`.  
+Bayesian Information criterion (BIC) is used when  `type = "bic-g"`.    
+Bayesian Gaussian equivalent score (BGe) is used when `type = "bge"`.  
+  
+  
+**Question 26: Use `score()` to obtain the network scores based on BIC and BGe. And compare the results.**  
+```{r}
+# Write your code here
+
+```
+
+**Question 27: As we did in the previous question for discrete BNs, can you infer the network from `cropdata2`?**  
+Hint: Note the score that you use as input.
+```{r}
+# Write your code here
+
+```
+
+**Question 28: Can you infer the network from `cropdata1`?** 
+```{r}
+# Write your code here
+
+```
+
+**Question 29: Is there any difference between the inferred networks in Question 27 and Question 28.**    
+Hint: check node() arc().  
+
+**Question 30: Compare the inferred DAG from Question 28 with the inferred DAG from the introductory example DAG (expert's opinion).**  
+
+<br>
+
+## 6. Plotting the Bayesian Networks (second way)
+In this section, we will focus on `igraph` (since we learned how to use `bnlearn` and `Rgraphviz` previously).
+
+The arguments provided to the `graph.formula` function identify the nodes at the tail and at the head of each arc in the graph.  
+For instance, `E-+V` indicates that there is an arc going from node E to node V.
+The "-" sign means that `E` is at the tail of the arc, while the "+" means that `V` is at the head of the arc. Therefore, `E-+V` and `V+-E` identify the same arc.
+```{r, message=FALSE}
+# Load the igraph package
+library(igraph)
+igraph.options(print.full = TRUE)
+
+dag0.igraph <- graph.formula(G-+V, E-+V, V-+N, V-+W, N-+C, W-+C)
+dag0.igraph
+```
+
+It is convenient to convert a `bn` or `bn.fit` object into an `igraph` graph object.  
+**Question 31: Use `igraph.from.graphNEL()` and `as.graphNEL()` to convert `bn` object to `igraph` object.**  
+Hint: `igraph.from.graphNEL(as.graphNEL(your bn object))`.  
+```{r}
+# Write your code here
+
+```
+
+There are a number of functions available with `igraph`. Explore using the help file of `igraph`("?igraph").  
+  
+For example, function `V()` and `E()` display the vertices and edges of a graph, which are synonymous with the nodes and arcs when working with DAGs.
+```{r}
+# Check the output yourself!
+
+# V(your igraph object)
+# E(your igraph object)
+```
+
+
+We can now plot our DAG in different ways just applying some of the layout algorithms available in igraph.  
+Here are some examples:  
+```{r, include=FALSE}
+# define the DAG object
+dag.bnlearn <- model2network("[G][E][V|G:E][N|V][W|V][C|N:W]")
+
+# define the igraph object
+dag.igraph <- igraph.from.graphNEL(as.graphNEL(dag.bnlearn))
+```
+
+```{r}
+## adjust the plotting layout
+par(mfrow = c(2, 2), mar = rep(0.5,4), cex.main = 1)
+
+## 1: default plot
+plot(dag.igraph, main = "1: default")
+
+## 2: Specifying the labels
+dag2 <- dag.igraph
+V(dag2)$label <- V(dag2)$name
+plot(dag2, main = "2: with labels")
+
+## 3: Specifying the positions
+ly <- matrix(c(2, 3, 1, 1, 2, 3,
+                 1, 4, 4, 2, 3, 2), 6)
+plot(dag2, layout = ly, main = "3: positioning")
+
+## 4: Adjusting node and edge style
+colo <- c("black", "darkgrey", "darkgrey", rep(NA, 3))
+lcolo <- c(rep("white", 3), rep(NA, 3))
+par(mar = rep(0, 4), lwd = 1)
+plot(dag2, layout = ly, frame = TRUE,
+       main = "\n4: final",
+       vertex.color = colo, vertex.label.color = lcolo,
+       vertex.label.cex = 1.5, vertex.size = 30,
+       edge.arrow.size = 0.8, edge.color = "black")
+```
+
+<br>
+<br>
+
+**Question 32: Can you plot using your own igraph object? Try to play around with the various formatting options available in the igraph package.**  
+```{r}
+# Write your code here
+
+```
+
+<br>
+
+## Project 1:
+
+**<Project 1> Import the yeast gene expression data from the previous lab and infer the corresponding network using hc(). What is its score? Compare this directed graph with the undirected graph inferred from the previous lab. **  
+
+```{r}
+# Write your code here
+
+```
+
+## Project 2:
+
+**<Project 2> Import the flow cytometry dataset (Sachs et al., 2003) from previous lab and infer the corresponding network using hc(). What is its score? Compare this directed graph with the undirected graph inferred from previous lab. **  
+
+```{r}
+# Write your code here
+
+```
