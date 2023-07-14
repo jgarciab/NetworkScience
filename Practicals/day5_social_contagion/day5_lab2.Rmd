@@ -2,9 +2,12 @@
 title: "Simple and Complex Contagion in Networks"
 author: "Elena Candellone, prof. Vincent Buskens (adapted from Dr. Jiamin Ou)"
 output:
-  pdf_document: default
+   
   html_document:
     df_print: paged
+  pdf_document:
+     latex_engine: xelatex
+always_allow_html: true
 ---
 
 In today's exercise, we will simulate social dynamics in the networks. In the morning lecture and practical, we will study the dynamics of simple contagion in social networks. Specifically, we will build an independent cascade (IC) model and study the role of weak ties in simple contagion. In the afternoon lecture and practical, we will focus on complex contagion and the threshold model. We will explore how to find the best 'seeds' in a social network.
@@ -109,7 +112,7 @@ calculate_value <- function(node, each_neighbors,Pprob){
 # - node_seed: node index to start the contagion from
 # - network
 # - Pprob: prob of contagion
-IC<-function(node_seed,network,Pprob){
+IC<-function(node_seed,network,Pprob, days){
   
   #prepare input for the 'calculate_value' function
   adj_matrix <- igraph::as_adjacency_matrix(network, type = 'both')
@@ -127,7 +130,7 @@ IC<-function(node_seed,network,Pprob){
   new_infected[[day]]<-node_seed #The ID of the person infected in Day 1 (Patient Zero)
 
   #simulate the spread of virus over 28 days##
-  for (day in c(2:28)){  
+  for (day in c(2:days)){  
     ContagiousID<-which(node_status == 1) 
     infectedID<-unlist(lapply(ContagiousID,calculate_value,each_neighbors,Pprob))
     newinfectedID<- setdiff(infectedID, which(node_status == 1))
@@ -137,7 +140,6 @@ IC<-function(node_seed,network,Pprob){
     day_infected[day] <- length(newinfectedID)
     new_infected[[day]]<-newinfectedID
     
-    day=day+1
   }
   return(day_infected)  #return the number of newly infected people by day 
   #return(list(day_infected,new_infected)) #if you want to see the ID of infected people in each day, use this command
@@ -147,7 +149,10 @@ IC<-function(node_seed,network,Pprob){
 ### 2.2 Apply the IC model to Network1
 
 ```{r}
-result1<- replicate(100, IC(5,Network1,0.35), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+
+days <- 28 # choose number of days
+
+result1<- replicate(100, IC(5,Network1,0.35, days), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
 
 result1<-do.call(rbind, result1)
 
@@ -166,15 +171,15 @@ Based upon Network 1, **delete 3 WEAK ties** that you have identified to generat
 #Change the numbers to the ties that you want to delete,
 #e.g., if you want to delete the tie between 22 and 46, change "1|2" to "22|46"
 Network2<-Network1 %>%
-  delete_edges("1|2") %>%   #!!!Change to your own numbers
-  delete_edges("3|4") %>%   #!!!Change to your own numbers
-  delete_edges("5|6")       #!!!Change to your own numbers
+  delete_edges("22|46") %>%   #!!!Change to your own numbers
+  delete_edges("32|36") %>%   #!!!Change to your own numbers
+  delete_edges("15|42")       #!!!Change to your own numbers
 ```
 
 ### 3.2 Apply the IC model to Network 2
 
 ```{r}
-result2<- replicate(100, IC(5,Network2,0.35), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+result2<- replicate(100, IC(5,Network2,0.35, days), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
 
 result2<-do.call(rbind, result2)
 result2_forplot<-colMeans(result2)  # the number of newly infected people by day
@@ -192,16 +197,16 @@ Based upon Network 1, **delete 3 STRONG ties** that you have identified to gener
 #Change the numbers to the ties that you want to delete,
 #e.g., if you want to delete the tie between 22 and 46, change "1|2" to "22|46"
 Network3<-Network1 %>%
-  delete_edges("1|2") %>%   #!!!Change to your own numbers
-  delete_edges("3|4") %>%   #!!!Change to your own numbers
-  delete_edges("5|6")       #!!!Change to your own numbers
+  delete_edges("51|54") %>%   #!!!Change to your own numbers
+  delete_edges("38|43") %>%   #!!!Change to your own numbers
+  delete_edges("16|5")       #!!!Change to your own numbers
 
 ```
 
 ### 4.2 Apply the IC model to Network 3
 
 ```{r}
-result3<- replicate(100, IC(5,Network3,0.35), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+result3<- replicate(100, IC(5,Network3,0.35, days), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
 
 result3<-do.call(rbind, result3)
 result3_forplot<-colMeans(result3)  # the number of newly infected people by day 
@@ -214,10 +219,10 @@ result3_forplot
 **Generate a plot** (Plot_p0) to compare the daily infected percentages of Network 1, Network 2 and Network 3. What do you observe? Considering the fact that the amount of edges we deleted in Networks 2 and 3 account for around 2% of the total edges in Network 1, what is the implication of your observation?
 
 ```{r}
-SumResult<-data.frame(matrix(nrow=28*3,ncol=3))
+SumResult<-data.frame(matrix(nrow=days*3,ncol=3))
 names(SumResult)=c("Day","Network","Infected")
-SumResult[,1]=rep(c(1:28),3)
-SumResult[,2]=c(rep("Original network",28),rep("Remove weak ties",28),rep("Remove strong ties",28))
+SumResult[,1]=rep(c(1:days),3)
+SumResult[,2]=c(rep("Original network",days),rep("Remove weak ties",days),rep("Remove strong ties",days))
 SumResult[,3]=c(result1_forplot,result2_forplot,result3_forplot)
 
 library(ggplot2)
@@ -246,14 +251,14 @@ Try to explain your observation in Question 5 in more detail, as a network scien
 ```{r}
 cat('transitivity original Network:', transitivity(Network1,type="global"), '\n' )#global clustering coefficient
 cat('transitivity removing weak ties:', transitivity(Network2,type="global"), '\n' )
-cat('transitivity removing strong ties:', transitivity(Network2,type="global"), '\n' )
+cat('transitivity removing strong ties:', transitivity(Network3,type="global"), '\n' )
 
-cat('diameter original Network:', diameter(Network1) , '\n' )#global clustering coefficient
+cat('diameter original Network:', diameter(Network1) , '\n' )#diameter
 cat('diameter removing weak ties:', diameter(Network2) , '\n' )
 cat('diameter removing strong ties:', diameter(Network3) , '\n' )
 
 
-cat('average path length original Network:',mean_distance(Network1) , '\n' )#global clustering coefficient
+cat('average path length original Network:',mean_distance(Network1) , '\n' )#average path length
 cat('average path length removing weak ties:', mean_distance(Network2) , '\n' )
 cat('average path length removing strong ties:', mean_distance(Network3) , '\n' )
 
@@ -272,22 +277,22 @@ In the above exercises, we assume the probability p in the IC model is 0.35, i.e
 ```{r}
 p1=0.7 #Or replace it to other high value 
 
-result1_p1<- replicate(100, IC(5,Network1,p1), simplify=FALSE)  
+result1_p1<- replicate(100, IC(5,Network1,p1,days), simplify=FALSE)  
 result1_p1<-do.call(rbind, result1_p1)
 result1_p1_forplot<-colMeans(result1_p1)
 
-result2_p1<- replicate(100, IC(5,Network2,p1), simplify=FALSE)  
+result2_p1<- replicate(100, IC(5,Network2,p1,days), simplify=FALSE)  
 result2_p1<-do.call(rbind, result2_p1)
 result2_p1_forplot<-colMeans(result2_p1)
 
-result3_p1<- replicate(100, IC(5,Network3,p1), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+result3_p1<- replicate(100, IC(5,Network3,p1,days), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
 result3_p1<-do.call(rbind, result3_p1)
 result3_p1_forplot<-colMeans(result3_p1)
 
-SumResult_p1<-data.frame(matrix(nrow=28*3,ncol=3))
+SumResult_p1<-data.frame(matrix(nrow=days*3,ncol=3))
 names(SumResult_p1)=c("Day","Network","Infected")
-SumResult_p1[,1]=rep(c(1:28),3)
-SumResult_p1[,2]=c(rep("Original network",28),rep("Remove weak ties",28),rep("Remove strong ties",28))
+SumResult_p1[,1]=rep(c(1:days),3)
+SumResult_p1[,2]=c(rep("Original network",days),rep("Remove weak ties",days),rep("Remove strong ties",days))
 SumResult_p1[,3]=c(result1_p1_forplot,result2_p1_forplot,result3_p1_forplot)
 
 Plot_p1<-ggplot(SumResult_p1, aes(x=Day, y=Infected, fill=Network)) +
@@ -303,22 +308,22 @@ Plot_p1
 ```{r}
 p2=0.1 #Or replace it to other low value 
 
-result1_p2<- replicate(100, IC(5,Network1,p2), simplify=FALSE)  
+result1_p2<- replicate(100, IC(5,Network1,p2, days), simplify=FALSE)  
 result1_p2<-do.call(rbind, result1_p2)
 result1_p2_forplot<-colMeans(result1_p2)
 
-result2_p2<- replicate(100, IC(5,Network2,p2), simplify=FALSE)  
+result2_p2<- replicate(100, IC(5,Network2,p2,days), simplify=FALSE)  
 result2_p2<-do.call(rbind, result2_p2)
 result2_p2_forplot<-colMeans(result2_p2)
 
-result3_p2<- replicate(100, IC(5,Network3,p2), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+result3_p2<- replicate(100, IC(5,Network3,p2,days), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
 result3_p2<-do.call(rbind, result3_p2)
 result3_p2_forplot<-colMeans(result3_p2)
 
-SumResult_p2<-data.frame(matrix(nrow=28*3,ncol=3))
+SumResult_p2<-data.frame(matrix(nrow=days*3,ncol=3))
 names(SumResult_p2)=c("Day","Network","Infected")
-SumResult_p2[,1]=rep(c(1:28),3)
-SumResult_p2[,2]=c(rep("Original network",28),rep("Remove weak ties",28),rep("Remove strong ties",28))
+SumResult_p2[,1]=rep(c(1:days),3)
+SumResult_p2[,2]=c(rep("Original network",days),rep("Remove weak ties",days),rep("Remove strong ties",days))
 SumResult_p2[,3]=c(result1_p2_forplot,result2_p2_forplot,result3_p2_forplot)
 
 Plot_p2<-ggplot(SumResult_p2, aes(x=Day, y=Infected, fill=Network)) +
