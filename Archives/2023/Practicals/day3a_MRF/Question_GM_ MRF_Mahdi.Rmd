@@ -1,0 +1,236 @@
+--- 
+title: "Practical - Graphical Models_MRF"
+author: "Mahdi Shafiee Kamalabad"
+date: "`r format(Sys.Date(), '%B %d %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: paper
+---
+
+\fontsize{11}{14}
+\selectfont
+\linespread{2}
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 0. Preparation
+R can be obtained via the https://www.r-project.org/ webpage. To download R, you need to select your preferred CRAN (Comprehensive R Archive Network) mirror (https://cran.r-project.org/mirrors.html). On the Mirrors webpage, you will find listings of countries that have identical versions of R and should select a location geographically close to your computer’s location. R can be downloaded for Linux, Windows, and Mac OS. The pages are regularly updated and you need to check with releases are supported for your platform.
+R as a base package can perform many statistical analyses but most importantly,
+R’s functionality can be expanded by downloading specific packages.
+After installing R (https://www.r-project.org/), it is quite useful to also install R Studio (https://www.rstudio.com/), which provides a convenient interface to R. 
+Once both are installed, opening up R Studio will give a window that is split into 4 panes:
+
+ - Console/Terminal: this pane is the main graphical interface for the user and this is where the commands are typed in.
+ - Editor: this pane shows the active datasets that you are working on.
+ - Environment/History/Connections: this pane shows the R datasets and allows you to import data from text (e.g. csv. file), Excel, SPSS, SAS and Stata. The History tab allows you see the list of your previous commands. 
+ - Files/plots/packages/help: this pane and its tabs can open files, view the most current plot (also previous plots), install and load packages, or use the general R help function. Under the Tools drop down tap at the top of the R Studio screen, you can select which packages to install for the analyses required. 
+Alternatively the packages can be installed using the Packages tab or they can be directly installed using a typed command (`install.packages()`). 
+R is a command line driven programme and you can enter commands at the prompt (`>` by default) and each command is executed one at a time.   
+
+For the current practical, you will need to install a few packages as follows: 'glasso', 'colorRamps', 'igraph', 'RColorBrewer', 'ggplot2', and 'bootnet'. This can be done by uncommenting the following comments:
+```{r, message=FALSE}
+
+# Package names
+packages <- c('glasso', 'colorRamps', 'igraph', 'RColorBrewer',"ggplot2","bootnet")
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+# Packages loading
+invisible(lapply(packages, library, character.only = TRUE))
+
+```
+
+
+## Part1.  glasso package for network reconstruction and igraph package for building network graphs
+ In the first part, we’ll use the 'glasso' package, which implements the Graphical Lasso algorithm, and the 'igraph' package, which contains tools for building network graphs.  
+First, we need to tell R to import the data, in this case a txt file.  
+Here, we will use the  data (`cropdata2.txt`).  
+
+### Introductory example: Crop Analysis   
+
+Suppose that we are interested in the analysis of a particular plant, which we will model in a very simplistic way by considering:  
+
+ - the potential of the plant and of the environment;
+ - the production of vegetative mass;
+ - and the harvested grain mass, which is called the crop.
+ 
+ We will analyze the following six *continuous* variables:  
+ 
+ - `G`: the initial status of the plant (its genetic potential)
+ - `E`: the environmental potential of the location and the season it is grown in.
+ - `V`: a single vegetative variable summarising all the information available on constituted reserves. `V` is directly influenced by the values of `G` and `E`. The greater they are, the greater is the possibility of a large vegetative mass `V`.
+ - `N`: the number of seeds
+ - `W`: the mean weight 
+ - `C`: the crop, depends directly on `N` and `W`. 
+
+As a result, the behaviour of a plant can be described by experts or the prior knowledge as follows:  
+`{G, E}` $\rightarrow$ `V`, `V` $\rightarrow$  `N`, `V` $\rightarrow$  `W`, `{N, W}` $\rightarrow$  `C`
+
+**Question 1: Do the following steps.**  
+**Step 1) import the data (the txt file).**  
+Hint: Use `read.table(yourdata, header=T)`.  
+```{r}
+# Import the data.
+
+```
+
+**Step 2) Create the covariance matrix and assign it to a variable named "S".**  
+Hint: Use `cov()`.  
+```{r}
+# Write your code here.
+
+```
+
+The values along the diagonal of the matrix are simply the variances of each product.  
+The other values in the matrix represent the covariances between the various products.  
+
+
+
+**Question 2: Apply Graphical lasso using `glasso()` to estimate precision matrix.**  
+To apply the Graphical Lasso, we choose a value for rho, which is the regularization parameter that controls the degree of sparsity in the resulting inverse covariance matrix. Higher values lead to greater sparsity. As it was mentioned in the lecture sparse networks are easier to interpret.
+In our application, there is no "correct" value of rho, but it can be tuned for your use case. For instance, if you want to isolate the strongest relationships in your data you would choose a higher value rho. If you are interested in preserving more tenuous connections, you would choose a lower value of rho. Finding a sensible value requires experimentation.  
+Hint: Use `glasso(your covariance matrix, rho = your specified value)`.
+
+```{r}
+rho <- 20 # play around with this variable and see how the resulting graph changes.
+
+# Write your code here.
+```
+
+
+**Question 3: Check the symmetry of the inverse covariance matrix.**  
+It is also not a bad idea to check for symmetry in the resulting inverse covariance matrix. Asymmetry can arise due to numerical computation and rounding errors, which can cause problems later depending on what you want to do with the matrix.  
+Hint: `wi` is the inverse covariance matrix. Use `isSymmetric(your inverse covariance matrix)`.  
+```{r}
+# Write your code here.
+
+```
+
+**Question 4: Next, we calculate the partial correlation matrix and set the terms on the diagonal to zero.**   
+This prevents variables having connections with themselves in the network graph we will be shortly constructing.  
+Hint: partial correlation: $\rho_{xy.z}= -\frac {p_{ij}} {\sqrt{p_{ii}p_{jj}}}$, where $p_{ij}$ is the $(i,j)^{th}$ element of the inverted correlation matrix. 
+```{r}
+# Write your code here.
+
+```
+
+**Question 5: There is another way to compute the partial correlation matrix. Compute the partial correlation matrix using `cov2cor()`.**  
+Note that we set the terms on the diagonal to zero as explained before.  
+Hint: partial correlation matrix = `-1*cov2cor(Estimated inverse covariance matrix)` 
+
+```{r}
+# Write your code here.
+
+```
+
+**Question 6: Do both ways produce the same correlation matrix?**  
+Hint: use `all.equal()` to check the equality of the two matrices you have obtained above.
+```{r}
+# Write your code here.
+```
+
+
+Now if you run `View(partial correlation matrix)` in R Studio, you’ll see a sparse partial correlation matrix. In fact, the non-zero elements represent a connection between two variables with the strength of the connection determined by the magnitude of the partial correlation.  
+The partial correlation matrix can be used to build a network graph, where variables are represented as nodes and non-zero elements are represented as edges between two nodes.  
+
+```{r}
+# Uncomment to check the sparse partial correlation matrix below.
+# View(parr.corr)
+```
+  
+Now the second step is to display the inferred network. We will use `igraph` for this purpose. The igraph package has some fantastic tools for building, manipulating and displaying graphs. We will only use a fraction of the package’s features here, but if you’re interested in learning more about it, check out its documentation (e.g., https://igraph.org/r/doc/)
+
+  
+**Question 7: Construct the network graph. First, use `graph_from_adjacency_matrix()` to make adjacency matrix. Then, use `plot.igraph()` to plot it.**  
+Hint: Note that the `mode` should be `undirected` and the `weighted` should be `True`. "`graph_from_adjacency_matrix(your partial correlation matrix, mode="undirected", weighted=TRUE)`"
+```{r}
+# Write your code here.
+
+```
+
+
+**Question 8: You can also use `plot()` to see the graph. In this case, choose a different layout.**  
+Hint: For instance, you can choose `layout = layout.lgl(your graph object)` or `layout = layout.grid(your graph object)`.
+```{r}
+# Write your code here.
+
+```
+
+
+**Question 9: Now without considering the penalized likelihood, compute the partial correlation matrix and estimate the network based on that. What is the difference between this network and the previous network?**  
+Hint:  
+- step 1. Use `cov()` to get the covariance matrix.  
+- step 2. Use `solve()` to compute the inverse matrix.  
+- step 3. Use `cov2cor()` to compute the partial covariance matrix. Then, use the `plot()` function as explained above.  
+
+```{r}
+# Write your code here.
+
+```
+
+<br>
+
+**Question 10: Compare the corresponding graph in the lecture slides with the sparse graph that you inferred already.** 
+
+<br>
+
+## Part2. bootnet package for network inference and ggplot2 package for building network graphs
+For the second part of the practical we use 'ggplot2' and 'bootnet' packages.  
+
+**Question 11: First install and load these two packages.**  
+```{r}
+# Write your code here.
+
+```
+
+The next step is to tell R to estimate the network model using the `EBICglasso` (Foygeland Drton, 2010) to produce an interpretable network. This function uses the glasso package (Friedman, Hastie and Tibshirani, 2011) as well in order to compute a sparse Gaussian graphical model with the graphical lasso (Friedman, Hastie & Tibshirani, 2008). The tuning parameter is chosen using the *Extended Bayesian Information Criterion (EBIC)*.
+See the documentation for more information. 
+
+For the problem of recovering the graphical structure, information criteria provide useful optimization objectives for algorithms searching through sets of graphs or for selection of tuning parameters of other methods (such as the graphical lasso, which is basically a likelihood penalization technique).  
+In many applications, particularly in the analysis of gene expression data, inference of the graph is of significant interest. Information criteria provide an important tool for this problem. They provide the objective to be minimized in (heuristic) searches over the space of graphs and they are sometimes used to select tuning parameters in other methods such as the graphical lasso.  
+An extended Bayesian information criterion can be used for Gaussian graphical models in a scenario where both the number of variables *p* and the sample size *n* grow. It allows for growth in the number of non-zero parameters in the true model that is necessary to cover connected graphs (Foygel R., and  Drton M. (2010)). 
+
+$$BIC_{\gamma}(E) = −2ln(\theta(E)) + |E| log(n) + 4.{\gamma} |E|_{\gamma} log(p),$$
+
+where $E$ is the edge set of a candidate graph and $ln(\theta(E))$ denotes the maximized log-likelihood function of the associated model.  
+If $\gamma = 0$, then the classical BIC is recovered, which leads to the (asymptotically) consistent model selection in the setting of fixed number of variables *p* and growing sample size *n*. Positive $\gamma$ leads to the stronger penalization of large graphs.  
+  
+The ordinary Bayes information criterion is too liberal for model selection when the model space is large. The new criteria take into account both the number of unknown parameters and the complexity of the model space. Their consistency is established, in particular allowing the number of covariates to increase to infinity with the sample size, Chen J. and Chen Z. 2008). 
+
+**Question 12: Estimate the network model using the `EBICglasso()` and compare it with the sparse network resulted from the previous part.**  
+Hint: Use `estimateNetwork(your data,default = "EBICglasso")`. After that, plot the graph using `plot()` function. Note that the red color shows negative correlation and the blue color shows positive correlation. The  size of the edge shows how strong the relationship is.
+```{r,message=FALSE, warning=FALSE}
+# Write your code here.
+
+```
+
+
+<br>
+
+## Project 1: Yeast data: Gene expression data  
+
+By means of synthetic biology, Cantone et al. (2009) designed a network in *S.cerevisiae* (yeast). With Real-Time Polymerase Chain Reaction (RT-PCR), Cantone et al.(2009) measured in vivo gene expression data: first under galactose- and then under glucose-metabolism. For both carbon sources, the network structure is identical, but the strengths of the regulatory processes change with the carbon source.
+
+**<Project 1> Considering the yeast data, estimate the network model twice: first using `glasso`, and second  using `EBICglasso`. What is the difference? Is that a fully connected network or a very sparse network?** 
+
+```{r}
+# Write your code here. (use glasso)
+
+```
+
+## Project 2: Protein data 
+
+**<Project 2> First import the data (`sachs.data.txt`) into your Rstudio. `sachs.data.txt` file contains a flow cytometry dataset with p = 11 proteins measured on N = 7466 cells (Sachs et al., 2003). Then, estimate the network model: first using `glasso` (rho= 10,20,30) and second using `EBICglasso`. What is the difference? Play around with the tuning parameter (rho) using `glasso` and see how the network changes.**
+
+```{r}
+# Write your code here.
+
+```

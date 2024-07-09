@@ -13,5 +13,5 @@ In case you encounter problems, please contact [Javier Garcia-Bernardo](mailto:j
 
 
 
-
-
+TODO:
+For next year, ask participants to install the environment beforehand
