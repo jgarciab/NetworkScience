@@ -1,0 +1,611 @@
+---
+title: "Simple and Complex Contagion in Networks"
+author: "Elena Candellone, prof. Vincent Buskens (adapted from Dr. Jiamin Ou)"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+In today's exercise, we will simulate social dynamics in the networks. In the morning lecture and practical, we will study the dynamics of simple contagion in social networks. Specifically, we will build an independent cascade (IC) model and study the role of weak ties in simple contagion. In the afternoon lecture and practical, we will focus on complex contagion and the threshold model. We will explore how to find the best 'seeds' in a social network.
+
+The network we use today is based upon the Twitter network data. A small-world like network is developed based upon the community structure from the Twitter network data. Please download the "day5_socialdynamics_Networkdata.csv" for the network data.
+
+First, let's import the necessary packages.
+
+```{r}
+library(igraph)
+library(visNetwork)
+library(htmlwidgets)
+```
+
+Use the network data to build the original network (a.k.a. Network1).
+
+```{r}
+netdata<-read.csv("day5_socialdynamics_Networkdata.csv", header = TRUE)
+Network1<-graph_from_data_frame(netdata, directed = FALSE)
+```
+
+# Morning lab session
+
+## Question 1
+
+Visualize Network 1 (by calling *VisNetwork1_layout* in R). **Can you find out 3 weak ties and 3 strong ties in this network?** Record the node IDs constituting these 6 edges. And explain the criteria that you have used to identify weak ties and strong ties.
+
+```{r}
+#nodes and edges
+nodes <- data.frame(id=V(Network1)$name)
+edges <- data.frame(from = netdata[,1],
+                    to = netdata[,2])
+
+set.seed(100)
+VisNetwork1_layout<-visNetwork(nodes, edges, main = "Original network",
+                               submain="Can zoom in/out to check the IDs and ties") %>%
+  visIgraphLayout(layout = "layout_nicely",smooth =  FALSE) %>%
+  visNodes(shape="circle",label = TRUE) %>% 
+  visOptions(highlightNearest = list(enabled = T, hover = T), nodesIdSelection = T)
+
+VisNetwork1_layout
+```
+
+```{r}
+# Record the node IDs constituting these 6 edges. And explain the criteria that you have used to identify weak ties and strong ties. Answer:
+```
+
+Check out the network and find the weak ties and strong ties. You can zoom in and zoom out to check the links; by clicking a node, its id will be shown in the small window on left hand side; and its nearby nodes will be highlighted. Recall the definitions of weak ties and strong ties in the lecture.
+
+## Question 2
+
+Next, we will test the strength of weak ties in simple contagion. First, build a simple **independent cascade (IC) model** with the following characteristics:
+
+-   Each node in the network has two statuses: infected (value=1) or healthy (value =0);
+
+-   At Day 0, all the nodes in the network are healthy;
+
+-   At Day 1, an infected node (N0, node ID=5) is introduced to the network;
+
+-   At the following days, all the nodes connecting to an infected node will have a chance of 35% (p=0.35) being infected.
+
+-   Once infected, the node will remain contagious and infected until the end of simulation.
+
+**After you build the model, apply it to the Network 1, and record the number of newly infected people by day (i.e., newly confirmed cases by day) for further analysis.**
+
+### 2.1 Functions to build the IC model
+
+**Note 1**: You can develop your own code according to the model description in Q2;
+
+**Note 2**: If you decide to use the code below, try to understand.
+
+```{r}
+stopifnot(require(data.table))
+stopifnot(require(Matrix))
+```
+
+```{r}
+calculate_value <- function(node, each_neighbors,Pprob){
+  return(each_neighbors[[node]][ which(runif(length(each_neighbors[[node]]), 0, 1)<=Pprob)])
+  #'runif' is a function to generate random number in R
+}
+#This function:
+#1) search the neighbors of contagious node; 
+#2) those who are connected to a contagious node, generates a random number and compare to the 
+#probability of p, if random number<p, this node will be infected and return the value of 1
+```
+
+```{r}
+
+# Independent cascade model
+# input:
+# - node_seed: node index to start the contagion from
+# - network
+# - Pprob: prob of contagion
+IC<-function(node_seed,network,Pprob){
+  
+  #prepare input for the 'calculate_value' function
+  adj_matrix <- igraph::as_adjacency_matrix(network, type = 'both')
+  each_neighbors <- which(adj_matrix > 0, arr.ind = TRUE)
+  each_neighbors <- split(each_neighbors[, 2], each_neighbors[, 1]) #get the neighbor list of each node
+  
+  nNode<-vcount(network)
+  node_status <- rep.int(0, nNode) #start from a healthy population
+  day_infected<-vector()  #Total number of infected population
+  new_infected <- list()  # Record the ID of person getting infected at each time step
+  
+  day<-1
+  node_status[as.numeric(node_seed)] <- 1 # infected(value=1) health(value=0)
+  day_infected[day] <- sum(node_status ) 
+  new_infected[[day]]<-node_seed #The ID of the person infected in Day 1 (Patient Zero)
+
+  #simulate the spread of virus over 28 days##
+  for (day in c(2:28)){  
+    ContagiousID<-which(node_status == 1) 
+    infectedID<-unlist(lapply(ContagiousID,calculate_value,each_neighbors,Pprob))
+    newinfectedID<- setdiff(infectedID, which(node_status == 1))
+    
+   #Update the node status and other variables
+    node_status[newinfectedID] <- 1
+    day_infected[day] <- length(newinfectedID)
+    new_infected[[day]]<-newinfectedID
+    
+    day=day+1
+  }
+  return(day_infected)  #return the number of newly infected people by day 
+  #return(list(day_infected,new_infected)) #if you want to see the ID of infected people in each day, use this command
+}
+```
+
+### 2.2 Apply the IC model to Network1
+
+```{r}
+result1<- replicate(100, IC(5,Network1,0.35), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+
+result1<-do.call(rbind, result1)
+
+result1_forplot<-colMeans(result1)
+
+result1_forplot   # the number of newly infected people by day
+```
+
+## Question 3
+
+Based upon Network 1, **delete 3 WEAK ties** that you have identified to generate a new network (Network 2). **Apply the IC model to the Network 2**, and record the number of newly infected people by day for further analysis.
+
+### 3.1 Reconstruct the network by deleting 3 weak ties
+
+```{r}
+#Change the numbers to the ties that you want to delete,
+#e.g., if you want to delete the tie between 22 and 46, change "1|2" to "22|46"
+Network2<-Network1 %>%
+  delete_edges("33|28")   #!!!Change to your own numbers
+
+```
+
+### 3.2 Apply the IC model to Network 2
+
+```{r}
+result2<- replicate(100, IC(5,Network2,0.35), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+
+result2<-do.call(rbind, result2)
+result2_forplot<-colMeans(result2)  # the number of newly infected people by day
+
+result2_forplot
+```
+
+## Question 4
+
+Based upon Network 1, **delete 3 STRONG ties** that you have identified to generate a new network (Network 3). **Apply the IC model to the Network 3**, and record the number of newly infected people by day for further analysis.
+
+### 4.1 Reconstruct the network by deleting 3 strong ties
+
+```{r}
+#Change the numbers to the ties that you want to delete,
+#e.g., if you want to delete the tie between 22 and 46, change "1|2" to "22|46"
+Network3<-Network1 %>%
+  delete_edges("1|2") %>%   #!!!Change to your own numbers
+  delete_edges("3|4") %>%   #!!!Change to your own numbers
+  delete_edges("5|6")       #!!!Change to your own numbers
+
+```
+
+### 4.2 Apply the IC model to Network 3
+
+```{r}
+result3<- replicate(100, IC(5,Network3,0.35), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+
+result3<-do.call(rbind, result3)
+result3_forplot<-colMeans(result3)  # the number of newly infected people by day 
+
+result3_forplot
+```
+
+## Question 5
+
+**Generate a plot** (Plot_p0) to compare the daily infected percentages of Network 1, Network 2 and Network 3. What do you observe? Considering the fact that the amount of edges we deleted in Networks 2 and 3 account for around 2% of the total edges in Network 1, what is the implication of your observation?
+
+```{r}
+SumResult<-data.frame(matrix(nrow=28*3,ncol=3))
+names(SumResult)=c("Day","Network","Infected")
+SumResult[,1]=rep(c(1:28),3)
+SumResult[,2]=c(rep("Original network",28),rep("Remove weak ties",28),rep("Remove strong ties",28))
+SumResult[,3]=c(result1_forplot,result2_forplot,result3_forplot)
+
+library(ggplot2)
+Plot_p0<-ggplot(SumResult, aes(x=Day, y=Infected, fill=Network)) +
+  geom_line(aes(color=Network))+geom_point(aes(color=Network))+
+  labs(title = paste( "Daily infection curve when p =", 0.35 ))+
+  theme_minimal()+
+  ylab("Newly confirmed cases each day")
+Plot_p0
+```
+
+```{r}
+# What do you observe? Considering the fact that the number of edges we deleted in Network 2 and 3 account for around 2% of the total edges in Network 1, what is the implication of your observation? Answer:
+```
+
+## Question 6
+
+Try to explain your observation in Question 5 in more detail, as a network scientist, by looking at the change in network structure. To do so, we suggest you to check the following network attributes of Network 1, Network 2 and Network 3:
+
+1.  Clustering coefficient
+
+2.  Diameter
+
+3.  Average path length (average of the shortest paths between all pairs of nodes).
+
+```{r}
+cat('transitivity original Network:', transitivity(Network1,type="global"), '\n' )#global clustering coefficient
+cat('transitivity removing weak ties:', transitivity(Network2,type="global"), '\n' )
+cat('transitivity removing strong ties:', transitivity(Network3,type="global"), '\n' )
+
+cat('diameter original Network:', diameter(Network1) , '\n' )#global clustering coefficient
+cat('diameter removing weak ties:', diameter(Network2) , '\n' )
+cat('diameter removing strong ties:', diameter(Network3) , '\n' )
+
+
+cat('average path length original Network:',mean_distance(Network1) , '\n' )#global clustering coefficient
+cat('average path length removing weak ties:', mean_distance(Network2) , '\n' )
+cat('average path length removing strong ties:', mean_distance(Network3) , '\n' )
+
+```
+
+```{r}
+# Interpretation:
+```
+
+## Question 7
+
+In the above exercises, we assume the probability p in the IC model is 0.35, i.e., there is a 35% chance for a healthy person to get infected after contact with an infected person. **Do you think your observation in Question 5 holds regardless of the contagiousness of the virus?** To find out, play around the probability p in the IC model. Change the value of p to high and low ends, run the IC model again on Network 1, Network 2 and Network 3, and see if you will observe different things.
+
+### 7.1 Higher p
+
+```{r}
+p1=0.7 #Or replace it to other high value 
+
+result1_p1<- replicate(100, IC(5,Network1,p1), simplify=FALSE)  
+result1_p1<-do.call(rbind, result1_p1)
+result1_p1_forplot<-colMeans(result1_p1)
+
+result2_p1<- replicate(100, IC(5,Network2,p1), simplify=FALSE)  
+result2_p1<-do.call(rbind, result2_p1)
+result2_p1_forplot<-colMeans(result2_p1)
+
+result3_p1<- replicate(100, IC(5,Network3,p1), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+result3_p1<-do.call(rbind, result3_p1)
+result3_p1_forplot<-colMeans(result3_p1)
+
+SumResult_p1<-data.frame(matrix(nrow=28*3,ncol=3))
+names(SumResult_p1)=c("Day","Network","Infected")
+SumResult_p1[,1]=rep(c(1:28),3)
+SumResult_p1[,2]=c(rep("Original network",28),rep("Remove weak ties",28),rep("Remove strong ties",28))
+SumResult_p1[,3]=c(result1_p1_forplot,result2_p1_forplot,result3_p1_forplot)
+
+Plot_p1<-ggplot(SumResult_p1, aes(x=Day, y=Infected, fill=Network)) +
+  geom_line(aes(color=Network))+geom_point(aes(color=Network))+
+  labs(title = paste( "Daily infection curve when p =", p1 ))+
+  theme_minimal()+
+  ylab("Newly confirmed cases each day")
+Plot_p1
+```
+
+### 7.2 Lower p
+
+```{r}
+p2=0.1 #Or replace it to other low value 
+
+result1_p2<- replicate(100, IC(5,Network1,p2), simplify=FALSE)  
+result1_p2<-do.call(rbind, result1_p2)
+result1_p2_forplot<-colMeans(result1_p2)
+
+result2_p2<- replicate(100, IC(5,Network2,p2), simplify=FALSE)  
+result2_p2<-do.call(rbind, result2_p2)
+result2_p2_forplot<-colMeans(result2_p2)
+
+result3_p2<- replicate(100, IC(5,Network3,p2), simplify=FALSE)  #run 100 times since each IC model run has it own randomness 
+result3_p2<-do.call(rbind, result3_p2)
+result3_p2_forplot<-colMeans(result3_p2)
+
+SumResult_p2<-data.frame(matrix(nrow=28*3,ncol=3))
+names(SumResult_p2)=c("Day","Network","Infected")
+SumResult_p2[,1]=rep(c(1:28),3)
+SumResult_p2[,2]=c(rep("Original network",28),rep("Remove weak ties",28),rep("Remove strong ties",28))
+SumResult_p2[,3]=c(result1_p2_forplot,result2_p2_forplot,result3_p2_forplot)
+
+Plot_p2<-ggplot(SumResult_p2, aes(x=Day, y=Infected, fill=Network)) +
+  geom_line(aes(color=Network))+geom_point(aes(color=Network))+
+  labs(title = paste( "Daily infection curve when p =", p2 ))+
+  theme_minimal()+
+  ylab("Newly confirmed cases each day")
+Plot_p2
+```
+
+```{r}
+# Do you think your observation in Question 5 holds regardless of the contagiousness of the virus? Answer:
+```
+
+# Afternoon lab session
+
+In the lecture, we considered restricting your beef consumption to once a week or lower. Here, let's **build a threshold model** to simulate the spread of the "once-a-week-beef" campaign in Network 1. Below is the model description:
+
+-   Each node in the network has two statuses: adopt the behavior (value=1) or refuse to adopt (value=0);
+
+-   At Day 0, no one in the network adopts the behavior;
+
+-   At Day 1, a group of enthusiastic people (Node ID={1, 2, 5, 11}) in the network decide to take action and adopt their own behavior (change the status value to 1);
+
+-   The following days, for nodes who have not adopted, they will check the status of their neighbors to decide whether to adopt or not:
+
+    -   For example, for node i, it has a predefined threshold of $Ɵ_i$. And node i has $N_i$ number of neighbors in the whole network.
+
+    -   Among all the neighbors of Node i, if more than $Ni\cdot Ɵi$ of them have adopted, node i will also adopt and change the status value to 1.
+
+-   Once adopted, the status of this node will remain as 1 till the end.
+
+## Question 8
+
+Codes for the threshold model are provided here. Apply the threshold model to Network 1. By activating 4 nodes (id=1, 2, 5, 11), **how many people in the network can be activated**? Plot the network to show how the contagion spreads.
+
+### 8.1 Functions to build the threshold model
+
+```{r}
+calculate_adoptedNei <- function(node, node_status, each_neighbors){
+  return(mean(node_status[each_neighbors[[node]]] == 1)) 
+  ### to calculate the percentage of adopted neighbors
+}
+```
+
+```{r}
+# Threshold model
+# Inputs:
+# - node_seed: node(s) to start the contagion from
+# - network
+# threshold: list of theta_i
+
+ThModel<-function(node_seed,network,threshold){ 
+  #prepare input for the 'calculate_value' function#
+  adj_matrix <- igraph::as_adjacency_matrix(network, type = 'both')
+  each_neighbors <- which(adj_matrix > 0, arr.ind = TRUE)
+  each_neighbors <- split(each_neighbors[, 2], each_neighbors[, 1]) #get the neighbor list of each node
+  
+  nNode<-vcount(network)
+  node_status <- rep.int(0, nNode) 
+  neighbour_status<-rep.int(0, nNode)  ##percentage of adopted neighbors
+  new_infected <- list()
+  day_total_infected <- rep(0,28) ### Total number of active people by end of each day
+  
+  
+  ### Day 1 ####
+  day <- 1
+  node_status[as.numeric((node_seed))] <- 1 
+  new_infected[[day]] <-node_seed
+  day_total_infected[day]=sum(node_status == 1)
+  
+  ####
+  
+  for (day in c(2:28)){
+    NotAdopted <- which(node_status == 0)
+    Adopted <- which(node_status == 1)
+    
+    neighbour_status[NotAdopted] <- unlist(lapply(NotAdopted, calculate_adoptedNei,
+                                            node_status, each_neighbors))
+    
+    new_infected[[day]] <- setdiff(which(neighbour_status > threshold), Adopted)
+    node_status[new_infected[[day]]] <- 1  #update the status to 1 for those newly adopted
+    day_total_infected[day] <- sum(node_status)
+    
+    day <- day + 1
+  }
+  #return(day_total_infected)
+  return(list(day_total_infected,new_infected))
+}
+```
+
+### 8.2 Read threshold data
+
+```{r}
+#since we don't have the 'real' threshold for the population, we will assign threshold by random number from 0 to 1
+set.seed(10)  #don't change the seed number
+threshold<-runif(64,min=0,max=1) 
+```
+
+### 8.3 Apply the threshold model to Network 1
+
+```{r}
+seeds<-c(1,2,5,11) #the people who first join the campaign
+ThM_Network1<-ThModel(seeds,Network1,threshold)
+ThM_Network1[[1]]  #total number of active people by day
+```
+
+```{r}
+# By activating 4 nodes (id=1, 2, 5, 11), how many people in the network can be activated? Answer:
+```
+
+### 8.3 Plot the network
+
+```{r}
+ThM_result1=rep("Inactive",64) 
+ThM_result1[unlist(ThM_Network1[[2]])]<-"Active"
+ThM_result1[seeds]<-"Seeds"
+```
+
+```{r}
+nodes <- data.frame(id=V(Network1)$name,group=ThM_result1)
+set.seed(100)
+ThM_status1<-visNetwork(nodes, edges, main = "Outcome by seeding Node 1, 2, 5, 11",
+                        submain="Seeds in red, Active nodes in orange, Inactive nodes in grey") %>%
+  visIgraphLayout(layout = "layout_nicely",smooth =  FALSE) %>%
+  visGroups(groupname = "Seeds", color ="#D62728FF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Active", color = "#FF7F0EFF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Inactive", color = "#8A9197FF", shape = "circle",label = TRUE)%>% 
+  visOptions(highlightNearest = list(enabled = T, hover = T), nodesIdSelection = T)
+
+
+ThM_status1 #Inactive nodes in grey, seed nodes in red, active nodes in orange
+```
+
+## Question 9
+
+Apply the threshold model by activating **only one node** (id = 5). Recall the diffusion of viruses we simulated in the morning: a network-wide contagion has been observed with only one node (id=5) being activated at Day 0, for various values of p. Use the theory of "width of bridge" in complex contagion, **explain why a network-wide contagion is not happening here**.
+
+### 9.1 Apply the threshold model to Network 1
+
+```{r}
+seeds<-c(5) #the people who first join the campaign
+ThM_Network2<-ThModel(seeds,Network1,threshold)
+ThM_Network2[[1]]  #total number of active people by day
+```
+
+```{r}
+# By activating 1 node (id=5), how many people in the network can be activated? Answer:
+```
+
+### 9.2 Plot the network
+
+```{r}
+ThM_result2=rep("Inactive",64) 
+ThM_result2[unlist(ThM_Network2[[2]])]<-"Active"
+ThM_result2[seeds]<-"Seeds"
+```
+
+```{r}
+nodes <- data.frame(id=V(Network1)$name,group=ThM_result2)
+set.seed(100)
+ThM_status2<-visNetwork(nodes, edges, main = "Outcome by seeding Node 5",
+                        submain="Seeds in red, Active nodes in orange, Inactive nodes in grey") %>%
+  visIgraphLayout(layout = "layout_nicely",smooth =  FALSE) %>%
+  visGroups(groupname = "Seeds", color ="#D62728FF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Active", color = "#FF7F0EFF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Inactive", color = "#8A9197FF", shape = "circle",label = TRUE)%>% 
+  visOptions(highlightNearest = list(enabled = T, hover = T), nodesIdSelection = T)
+
+
+ThM_status2 #Inactive nodes in grey, seed nodes in red, active nodes in orange
+```
+
+```{r}
+# Use the theory of "width of bridge" in complex contagion, **explain why a network-wide contagion is not happening here**. Answer:
+```
+
+## Question 10
+
+Imagine now the project team of the "once-a-week-beef" campaign plans to increase the membership by spending part of the budget to hire four "ambassadors". The team leader suggests that the ambassadors should be the four people having most friends in this network. Recall the **Influence Maximization problem** we discussed in the lecture and its solutions: can you relate this idea to one of the solutions we mentioned? Guided by this idea, **which nodes should be selected as ambassadors**? What is the expected outcome suggested by the threshold model? (Note: All nodes are Inactive before the ambassadors are hired, i.e., node 1, 2, 5 and 11 are not the seeds anymore)
+
+```{r}
+degree(Network1) #degree by nodes
+nSeed=4 #can hire 4 ambassadors
+```
+
+### 10.1 Find out 4 high-degree seeds
+
+```{r}
+seedHD <- order(degree(Network1), decreasing=TRUE)[1:4]
+```
+
+```{r}
+ThM_NetworkHD<-ThModel(seedHD,Network1,threshold)  #seedHD is the high-degree nodes that you want to seed
+ThM_NetworkHD[[1]]  #total number of active people by day
+```
+
+### 10.2 Visualize the seed status and discuss why network-wide congation is not happening
+
+```{r}
+ThM_resultHD=rep("Inactive",64) 
+ThM_resultHD[unlist(ThM_NetworkHD[[2]])]<-"Active"
+ThM_resultHD[seedHD]<-"Seeds"
+```
+
+```{r}
+
+nodes <- data.frame(id=V(Network1)$name,group=ThM_resultHD)
+set.seed(100)
+ThM_statusHD<-visNetwork(nodes, edges, main = "Outcome of high-degree seeding",
+                         submain="Seeds in red, Active nodes in orange, Inactive nodes in grey") %>%
+  visIgraphLayout(layout = "layout_nicely",smooth =  FALSE) %>%
+  visGroups(groupname = "Seeds", color ="#D62728FF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Active", color = "#FF7F0EFF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Inactive", color = "#8A9197FF", shape = "circle",label = TRUE)%>% 
+  visOptions(highlightNearest = list(enabled = T, hover = T), nodesIdSelection = T)
+
+ThM_statusHD  #Outcome of high-degree seeding
+```
+
+```{r}
+# Which nodes should be selected as ambassadors? What is the expected outcome suggested by the threshold model? Answer:
+```
+
+## Question 11
+
+The project team now seeks advice from your group on the "best" ambassadors they should choose. If the cost to hire any people in this network as the ambassador is the same, whom will you suggest?
+
+1.  To answer this question, run the greedy algorithm and see if the solution is different from the seeds suggested by the team leader.
+
+2.  What are the node attributes of the seeds provided by the greedy algorithm? Are they high-degree or high-betweenness nodes?
+
+3.  If you have time, try to explore other heuristics and see if any one of them can provide better outcomes than the greedy algorithm.
+
+```{r}
+# Greedy algorithm 
+# Inputs:
+# - network
+# - thresholds
+# - k: number of seeds 
+greedy_ThM<-function(network,threshold,k){
+  
+  nNode<-vcount(network)
+  SeedCan<-c(1:nNode)  # nodes that can still be used as seeds
+  Seedset<-c()  # nodes that will be used as seeds
+  
+  for (s in 1:k){
+    best_seed<--1  # initial setting of each round
+    best_spread <- -Inf
+    
+    N<-length(SeedCan)
+    for (i in 1:N){
+      current_seed<-SeedCan[i]
+      current_seedset<-c(Seedset,current_seed)
+      current_spread<-ThModel(current_seedset,network,threshold)[[1]]
+      if (sum(current_spread)>sum(best_spread)){
+        best_seed<-current_seed
+        best_spread<-current_spread
+      }
+    }
+    Seedset<-c(Seedset,best_seed)
+    SeedCan<-setdiff(SeedCan,Seedset) #exclude the seed nodes in next round seed selection
+  }
+  return(Seedset)
+}
+```
+
+### 11.1 the four ambassadors suggested by the greedy algorithm
+
+```{r}
+greedy_ThM4<-greedy_ThM(Network1,threshold,4) 
+#return the seeds suggested by greedy algorithm
+```
+
+### 11.2 seeding outcome of the greedy algorithm
+
+```{r}
+ThModel(greedy_ThM4,Network1,threshold)[[1]] 
+#Diffusion outcome of the seeds suggested by greedy algorithm
+```
+
+```{r}
+
+######visualize the seeding outcome######stop#
+ThM_resultGreedy=rep("Inactive",64) 
+ThM_resultGreedy[unlist(ThModel(greedy_ThM4,Network1,threshold)[[2]])]<-"Active"
+ThM_resultGreedy[greedy_ThM4]<-"Seeds"
+
+nodes <- data.frame(id=V(Network1)$name,group=ThM_resultGreedy)
+set.seed(100)
+ThM_statusGreedy<-visNetwork(nodes, edges, main = "Seeding outcome of greedy algorithm",
+                             submain="Seeds in red, Active nodes in orange, Inactive nodes in grey") %>%
+  visIgraphLayout(layout = "layout_nicely",smooth =  FALSE) %>%
+  visGroups(groupname = "Seeds", color ="#D62728FF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Active", color = "#FF7F0EFF", shape = "circle",label = TRUE) %>%
+  visGroups(groupname = "Inactive", color = "#8A9197FF", shape = "circle",label = TRUE)%>% 
+  visOptions(highlightNearest = list(enabled = T, hover = T), nodesIdSelection = T)
+
+ThM_statusGreedy
+
+```
