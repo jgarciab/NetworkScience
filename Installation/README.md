@@ -15,3 +15,20 @@ In case you encounter problems, please contact [Javier Garcia-Bernardo](mailto:j
 
 TODO:
 For next year, ask participants to install the environment beforehand
+
+### Fixes
+Spip: For installing the R package `tidyverse` I needed to install these apt packages:
+```
+sudo apt-get update && sudo apt-get install -y \
+  libfreetype6-dev \
+  libpng-dev \
+  libtiff5-dev \
+  libjpeg-dev \
+  libfontconfig1-dev \
+  libxml2-dev \
+  libcurl4-openssl-dev \
+  libssl-dev \
+  libharfbuzz-dev \
+  libfribidi-dev \
+  pkg-config
+```
