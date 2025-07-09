@@ -1,0 +1,43 @@
+---
+title: "Introduction to igraph"
+output: html_notebook
+---
+
+```{r}
+install.packages("igraph")
+install.packages("tidyverse")
+```
+
+
+```{r}
+library(igraph)
+library(tidyverse)
+```
+
+```{r}
+# Read data and select the right columns
+df <- read.csv("../../Data/ic2s2_netsci_3.tsv", sep = "\t") %>% 
+      select(source, target)
+head(df)
+
+# Convert to igraph
+g <- graph.data.frame(d = df, directed = FALSE)
+```
+
+```{r}
+# Plot graph
+plot(g, layout = layout_with_fr(g), vertex.size = 3, vertex.label = NA)
+```
+
+```{r}
+# Calculate measures
+diameter(g)
+assortativity.degree(g)
+edge_density(g)
+transitivity(g, type = "average")
+transitivity(g)
+
+```
+
+You can find a tutorial on how to deal with graphs in R in a tidy way here: https://rawcdn.githack.com/christine-hvw/sna_intro-datameetup/985435a1ad276ff926b8a2b258b6bc70cacd848b/sna_intro.html
+

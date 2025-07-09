@@ -1,0 +1,49 @@
+---
+title: "Introduction to igraph"
+output: html_notebook
+---
+
+```{r}
+# Install packages
+install.packages("igraph")
+install.packages("tidyverse")
+install.packages("renv")
+install.packages("visNetwork")
+install.packages("htmlwidgets")
+```
+
+
+```{r}
+library(igraph)
+library(tidyverse)
+```
+
+```{r}
+# Start from a random network
+df <- tibble(
+  Person1 = c("Alice", "Alice", "Alice", "Bob", "Bob", "Charlie", "Charlie", "Charlie", "David", "David", "Eve", "Eve", "Frank", "Grace", "Jack", "Jack", "Jack", "Jack", "Jack"),
+  Person2 = c("Bob", "Charlie", "Frank", "Charlie", "David", "David", "Eve", "Grace", "Grace", "Henry", "Frank", "Grace", "Henry", "Ivy", "Alice", "Bob", "David", "Eve", "Henry")
+)
+
+
+# Convert to igraph
+g <- graph.data.frame(d = df, directed = FALSE)
+```
+
+
+```{r}
+# Plot graph
+plot(g)#, layout = layout_with_fr(g), vertex.size = 20)
+```
+
+```{r}
+# Calculate measures
+diameter(g)
+assortativity.degree(g)
+edge_density(g)
+transitivity(g, type = "average", isolates="zero")
+transitivity(g)
+
+```
+
+
