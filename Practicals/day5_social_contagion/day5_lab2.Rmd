@@ -156,8 +156,9 @@ Based upon Network 1, **delete 3 WEAK ties** that you have identified to generat
 #Change the numbers to the ties that you want to delete,
 #e.g., if you want to delete the tie between 22 and 46, change "1|2" to "22|46"
 Network2<-Network1 %>%
-  delete_edges("33|28")   #!!!Change to your own numbers
-
+  delete_edges("1|2") %>%   #!!!Change to your own numbers
+  delete_edges("3|4") %>%   #!!!Change to your own numbers
+  delete_edges("5|6")       #!!!Change to your own numbers
 ```
 
 ### 3.2 Apply the IC model to Network 2
@@ -235,7 +236,7 @@ Try to explain your observation in Question 5 in more detail, as a network scien
 ```{r}
 cat('transitivity original Network:', transitivity(Network1,type="global"), '\n' )#global clustering coefficient
 cat('transitivity removing weak ties:', transitivity(Network2,type="global"), '\n' )
-cat('transitivity removing strong ties:', transitivity(Network3,type="global"), '\n' )
+cat('transitivity removing strong ties:', transitivity(Network2,type="global"), '\n' )
 
 cat('diameter original Network:', diameter(Network1) , '\n' )#global clustering coefficient
 cat('diameter removing weak ties:', diameter(Network2) , '\n' )
