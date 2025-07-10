@@ -1504,7 +1504,7 @@ border-radius: 0px;
 
 <h1 class="title toc-ignore">Practical - Graphical Models_MRF</h1>
 <h4 class="author">Mahdi Shafiee Kamalabad</h4>
-<h4 class="date">July 17 2024</h4>
+<h4 class="date">July 09 2025</h4>
 
 </div>
 
@@ -1515,9 +1515,9 @@ border-radius: 0px;
 need to select your preferred CRAN (Comprehensive R Archive Network)
 mirror (<a href="https://cran.r-project.org/mirrors.html" class="uri">https://cran.r-project.org/mirrors.html</a>). On the Mirrors
 webpage, you will find listings of countries that have identical
-versions of R. You should select a location geographically close to your
+versions of R and should select a location geographically close to your
 computer’s location. R can be downloaded for Linux, Windows, and Mac OS.
-The pages are regularly updated and you need to check which releases are
+The pages are regularly updated and you need to check with releases are
 supported for your platform. R as a base package can perform many
 statistical analyses but most importantly, R’s functionality can be
 expanded by downloading specific packages. After installing R (<a href="https://www.r-project.org/" class="uri">https://www.r-project.org/</a>), it is quite useful to also
@@ -1525,35 +1525,38 @@ install R Studio (<a href="https://www.rstudio.com/" class="uri">https://www.rst
 interface to R. Once both are installed, opening up R Studio will give a
 window that is split into 4 panes:</p>
 <ul>
-<li>Console/Terminal (bottom left): this pane is the main graphical
-interface for the user and this is where the commands are typed in.</li>
-<li>Editor (top left): this pane shows the active datasets that you are
-working on.</li>
-<li>Environment/History/Connections (top right): this pane shows the R
-datasets and allows you to import data from text, Excel, SPSS, SAS and
-Stata (e.g. csv. file). The History tab allows you to see the list of
-your previous commands.</li>
-<li>Files/plots/packages/help (bottom right): this pane and its tabs can
-open files, view the most current plot (also previous plots), install
-and load packages, or use the general R help function. Under the Tools
-drop down tab at the top of the R Studio screen, you can select which
-packages to install for the analyses required. Alternatively the
-packages can be installed using the Packages tab or they can be directly
-installed using a typed command (<code>install.packages()</code>). R is
-a command line driven programme and you can enter commands at the prompt
+<li>Console/Terminal: this pane is the main graphical interface for the
+user and this is where the commands are typed in.</li>
+<li>Editor: this pane shows the active datasets that you are working
+on.</li>
+<li>Environment/History/Connections: this pane shows the R datasets and
+allows you to import data from text (e.g. csv. file), Excel, SPSS, SAS
+and Stata. The History tab allows you see the list of your previous
+commands.</li>
+<li>Files/plots/packages/help: this pane and its tabs can open files,
+view the most current plot (also previous plots), install and load
+packages, or use the general R help function. Under the Tools drop down
+tap at the top of the R Studio screen, you can select which packages to
+install for the analyses required. Alternatively the packages can be
+installed using the Packages tab or they can be directly installed using
+a typed command (<code>install.packages()</code>). R is a command line
+driven programme and you can enter commands at the prompt
 (<code>&gt;</code> by default) and each command is executed one at a
 time.</li>
 </ul>
 <p>For the current practical, you will need to install a few packages as
-follows: ‘glasso’, ‘colorRamps’, ‘igraph’, ‘RColorBrewer’. This can be
-done by uncommenting the following comments:</p>
-<pre class="r"><code># required.packages &lt;- c(&#39;glasso&#39;, &#39;colorRamps&#39;, &#39;igraph&#39;, &#39;RColorBrewer&#39;)
+follows: ‘glasso’, ‘colorRamps’, ‘igraph’, ‘RColorBrewer’, ‘ggplot2’,
+and ‘bootnet’. This can be done by uncommenting the following
+comments:</p>
+<pre class="r"><code># required.packages &lt;- c(&#39;glasso&#39;, &#39;colorRamps&#39;, &#39;igraph&#39;, &#39;RColorBrewer&#39;,&quot;ggplot2&quot;,&quot;bootnet&quot;)
 # install.packages(required.packages)
 
 library(glasso)
 library(colorRamps)
 library(igraph)
-library(RColorBrewer)</code></pre>
+library(RColorBrewer)
+library(ggplot2)
+library(bootnet)</code></pre>
 <p><br></p>
 </div>
 <div id="part1.-glasso-package-for-network-reconstruction-and-igraph-package-for-building-network-graphs" class="section level2">
@@ -1577,7 +1580,7 @@ which we will model in a very simplistic way by considering:</p>
 <p>We will analyze the following six <em>continuous</em> variables:</p>
 <ul>
 <li><code>G</code>: the initial status of the plant (its genetic
-potential).</li>
+potential)</li>
 <li><code>E</code>: the environmental potential of the location and the
 season it is grown in.</li>
 <li><code>V</code>: a single vegetative variable summarising all the
@@ -1585,20 +1588,18 @@ information available on constituted reserves. <code>V</code> is
 directly influenced by the values of <code>G</code> and <code>E</code>.
 The greater they are, the greater is the possibility of a large
 vegetative mass <code>V</code>.</li>
-<li><code>N</code>: the number of seeds.</li>
-<li><code>W</code>: the seeds’ mean weight.</li>
+<li><code>N</code>: the number of seeds</li>
+<li><code>W</code>: the mean weight</li>
 <li><code>C</code>: the crop, depends directly on <code>N</code> and
 <code>W</code>.</li>
 </ul>
-<p>As a result, the behavior of a plant can be described by experts or
+<p>As a result, the behaviour of a plant can be described by experts or
 the prior knowledge as follows:<br />
 <code>{G, E}</code> <span class="math inline">\(\rightarrow\)</span>
 <code>V</code>, <code>V</code> <span class="math inline">\(\rightarrow\)</span> <code>N</code>,
 <code>V</code> <span class="math inline">\(\rightarrow\)</span>
 <code>W</code>, <code>{N, W}</code> <span class="math inline">\(\rightarrow\)</span> <code>C</code></p>
-<p>In this practical we will not consider the directions of the edges.
-This will be done with Bayesian Networks.</p>
-<p><strong>Question 1: Complete the following steps.</strong><br />
+<p><strong>Question 1: Do the following steps.</strong><br />
 <strong>Step 1) import the data (the txt file).</strong><br />
 Hint: Use <code>read.table(yourdata, header=T)</code>.</p>
 <pre class="r"><code># Import the data.</code></pre>
@@ -1611,21 +1612,21 @@ of each product.<br />
 The other values in the matrix represent the covariances between the
 various products.</p>
 <p><strong>Question 2: Apply Graphical lasso using <code>glasso()</code>
-to estimate precision matrix (inverse covariance matrix).</strong><br />
+to estimate precision matrix.</strong><br />
 To apply the Graphical Lasso, we choose a value for rho, which is the
 regularization parameter that controls the degree of sparsity in the
-resulting inverse covariance matrix (in the lecture slides the
-regularization parameter is referred to as lambda). Higher values lead
-to greater sparsity. As it was mentioned in the lecture sparse networks
-are easier to interpret. In our application, there is no “correct” value
-of rho, but it can be tuned for your use case. For instance, if you want
-to isolate the strongest relationships in your data you would choose a
-higher rho value. If you are interested in preserving more tenuous
-connections, you would choose a lower rho value. Finding a sensible
-value requires experimentation.<br />
-Hint: Use
+resulting inverse covariance matrix. Higher values lead to greater
+sparsity. As it was mentioned in the lecture sparse networks are easier
+to interpret. In our application, there is no “correct” value of rho,
+but it can be tuned for your use case. For instance, if you want to
+isolate the strongest relationships in your data you would choose a
+higher value rho. If you are interested in preserving more tenuous
+connections, you would choose a lower value of rho. Finding a sensible
+value requires experimentation. Note that in the output, w is the
+estimated (regularized) covariance matrix and wi is the estimated
+inverse covariance (“precision”) matrix. Hint: Use
 <code>glasso(your covariance matrix, rho = your specified value)</code>.</p>
-<pre class="r"><code>rho &lt;- 20 # after you&#39;ve plotted the network (Q7), come back to this question and play around with this variable and see how the resulting graph changes.
+<pre class="r"><code>rho &lt;- 20 # play around with this variable and see how the resulting graph changes.
 
 # Write your code here.</code></pre>
 <p><strong>Question 3: Check the symmetry of the inverse covariance
@@ -1634,32 +1635,16 @@ It is also not a bad idea to check for symmetry in the resulting inverse
 covariance matrix. Asymmetry can arise due to numerical computation and
 rounding errors, which can cause problems later depending on what you
 want to do with the matrix.<br />
-Hint: <code>wi</code> is the inverse covariance matrix, you can extract
-it using <code>$</code> operator. Use
-<code>isSymmetric(your precision matrix$wi)</code>.</p>
+Hint: <code>wi</code> is the inverse covariance matrix. Use
+<code>isSymmetric(your inverse covariance matrix)</code>.</p>
 <pre class="r"><code># Write your code here.</code></pre>
-<p>If your inverse covariance matrix is not symmetric make it symmetric
-by ensuring the values bellow the diagonal are equal to the values above
-the diagonal. Hint:
-<code>your matrix[lower.tri(your matrix)] = t(your matrix)[lower.tri(your matrix)]</code>.</p>
-<pre class="r"><code># If your inverse matrix is not symmetric, write your code here.</code></pre>
 <p><strong>Question 4: Next, we calculate the partial correlation matrix
 and set the terms on the diagonal to zero.</strong><br />
 This prevents variables having connections with themselves in the
 network graph we will be shortly constructing.<br />
 Hint: partial correlation: <span class="math inline">\(\rho_{xy.z}=
 -\frac {p_{ij}} {\sqrt{p_{ii}p_{jj}}}\)</span>, where <span class="math inline">\(p_{ij}\)</span> is the <span class="math inline">\((i,j)^{th}\)</span> element of the inverted
-correlation matrix. First, create an empty matrix with the same number
-of rows and columns as in your inverse covariance matrix. You can use
-<code>matrix(nrow=nrow(your cov. matrix), ncol=ncol(your cov. matrix))</code>.
-Then, use a for-loop to iterate over every row and column:
-<code>for(j in 1:nrow(your empty matrix))</code>,
-<code>for(i in 1:ncol(your empty matrix))</code> to assign a value to
-each matrix cell:
-<code>your empty matrix[i,j] &lt;- partial correlation equation</code>.
-Lastly, you’ll need to assign the same column and row names as in your
-inverse covariance matrix. For this, you can use <code>colnames()</code>
-, and <code>rownames()</code>.</p>
+correlation matrix.</p>
 <pre class="r"><code># Write your code here.</code></pre>
 <p><strong>Question 5: There is another way to compute the partial
 correlation matrix. Compute the partial correlation matrix using
@@ -1703,10 +1688,10 @@ Hint: For instance, you can choose
 <code>layout = layout.lgl(your graph object)</code> or
 <code>layout = layout.grid(your graph object)</code>.</p>
 <pre class="r"><code># Write your code here.</code></pre>
-<p><strong>Question 9: Now without considering the penalized likelihood
-(glasso), compute the partial correlation matrix and estimate the
-network based on that. What is the difference between this network and
-the previous network?</strong><br />
+<p><strong>Question 9: Now without considering the penalized likelihood,
+compute the partial correlation matrix and estimate the network based on
+that. What is the difference between this network and the previous
+network?</strong><br />
 Hint:<br />
 - step 1. Use <code>cov()</code> to get the covariance matrix.<br />
 - step 2. Use <code>solve()</code> to compute the inverse matrix.<br />
@@ -1714,9 +1699,6 @@ Hint:<br />
 matrix. Then, use the <code>plot()</code> function as explained
 above.</p>
 <pre class="r"><code># Write your code here.</code></pre>
-<p>Yes, you are right. The second graph is a fully connected graph and
-really difficult to interpret. So, this is the right time that we should
-think of the sparsity. Isn’t it?</p>
 <p><br></p>
 <p><strong>Question 10: Compare the corresponding graph in the lecture
 slides with the sparse graph that you inferred already.</strong></p>
@@ -1770,16 +1752,16 @@ of large graphs.</p>
 selection when the model space is large. The new criteria take into
 account both the number of unknown parameters and the complexity of the
 model space. Their consistency is established, in particular allowing
-the number of covariates to increase to infinity with the sample size
-(Chen J. and Chen Z. 2008).</p>
+the number of covariates to increase to infinity with the sample size,
+Chen J. and Chen Z. 2008).</p>
 <p><strong>Question 12: Estimate the network model using the
 <code>EBICglasso()</code> and compare it with the sparse network
 resulted from the previous part.</strong><br />
 Hint: Use
-<code>estimateNetwork(your data, default = &quot;EBICglasso&quot;)</code>. After
+<code>estimateNetwork(your data,default = &quot;EBICglasso&quot;)</code>. After
 that, plot the graph using <code>plot()</code> function. Note that the
 red color shows negative correlation and the blue color shows positive
-correlation. The thickness of the edge shows how strong the relationship
+correlation. The size of the edge shows how strong the relationship
 is.</p>
 <pre class="r"><code># Write your code here.</code></pre>
 <p><br></p>
@@ -1805,8 +1787,8 @@ connected network or a very sparse network?</strong></p>
 (<code>sachs.data.txt</code>) into your Rstudio.
 <code>sachs.data.txt</code> file contains a flow cytometry dataset with
 p = 11 proteins measured on N = 7466 cells (Sachs et al., 2003). Then,
-estimate the network model: first using <code>glasso</code> (rho= 10,
-20, 30) and second using <code>EBICglasso</code>. What is the
+estimate the network model: first using <code>glasso</code> (rho=
+10,20,30) and second using <code>EBICglasso</code>. What is the
 difference? Play around with the tuning parameter (rho) using
 <code>glasso</code> and see how the network changes.</strong></p>
 <pre class="r"><code># Write your code here.</code></pre>
